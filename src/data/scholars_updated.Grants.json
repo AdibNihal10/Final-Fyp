@@ -1,0 +1,901 @@
+[{
+  "_id": {
+    "$oid": "6778521165397f8fb94ec375"
+  },
+  "link": "https://utmscholar.utm.my/Scholar/ScholarInfoDetails/ZzJo",
+  "researchGroup": "Research Group Pervasive Computing (PCRG)",
+  "grantsCount": 15,
+  "grants": [
+    {
+      "sponsor": "RUG OF UTM",
+      "type": "UTM Encouragement Research",
+      "year": "2024",
+      "_id": {
+        "$oid": "67785211d69b7cd18ee9e7f4"
+      }
+    },
+    {
+      "sponsor": "RUG OF UTM",
+      "type": "UTM Encouragement Research",
+      "year": "2024",
+      "_id": {
+        "$oid": "67785211d69b7cd18ee9e7f5"
+      }
+    },
+    {
+      "sponsor": "RUG OF UTM",
+      "type": "UTM Fundamental Research",
+      "year": "2023",
+      "_id": {
+        "$oid": "67785211d69b7cd18ee9e7f6"
+      }
+    },
+    {
+      "sponsor": "MINISTRY OF EDUCATION",
+      "type": "Fundamental Research Grant Scheme",
+      "year": "2019",
+      "_id": {
+        "$oid": "67785211d69b7cd18ee9e7f7"
+      }
+    },
+    {
+      "sponsor": "RUG OF UTM",
+      "type": "High Impact Research Grant",
+      "year": "2018",
+      "_id": {
+        "$oid": "67785211d69b7cd18ee9e7f8"
+      }
+    },
+    {
+      "sponsor": "RUG OF UTM",
+      "type": "Tier 1",
+      "year": "2018",
+      "_id": {
+        "$oid": "67785211d69b7cd18ee9e7f9"
+      }
+    },
+    {
+      "sponsor": "RUG OF UTM",
+      "type": "Tier 1",
+      "year": "2016",
+      "_id": {
+        "$oid": "67785211d69b7cd18ee9e7fa"
+      }
+    },
+    {
+      "sponsor": "RUG OF UTM",
+      "type": "Tier 1",
+      "year": "2016",
+      "_id": {
+        "$oid": "67785211d69b7cd18ee9e7fb"
+      }
+    },
+    {
+      "sponsor": "MINISTRY OF EDUCATION",
+      "type": "Fundamental Research Grant Scheme",
+      "year": "2016",
+      "_id": {
+        "$oid": "67785211d69b7cd18ee9e7fc"
+      }
+    },
+    {
+      "sponsor": "RUG OF UTM",
+      "type": "Tier 1",
+      "year": "2016",
+      "_id": {
+        "$oid": "67785211d69b7cd18ee9e7fd"
+      }
+    },
+    {
+      "sponsor": "RUG OF UTM",
+      "type": "Tier 1",
+      "year": "2016",
+      "_id": {
+        "$oid": "67785211d69b7cd18ee9e7fe"
+      }
+    },
+    {
+      "sponsor": "RUG OF UTM",
+      "type": "Professional Development Research University",
+      "year": "2015",
+      "_id": {
+        "$oid": "67785211d69b7cd18ee9e7ff"
+      }
+    },
+    {
+      "sponsor": "MINISTRY OF ENERGY, SCIENCE, TECHNOLOGY, ENVIRONEMNT AND CLIMATE CHANGE (MESTECC)",
+      "type": "Sciencefund",
+      "year": "2015",
+      "_id": {
+        "$oid": "67785211d69b7cd18ee9e800"
+      }
+    },
+    {
+      "sponsor": "MINISTRY OF EDUCATION",
+      "type": "Fundamental Research Grant Scheme",
+      "year": "2014",
+      "_id": {
+        "$oid": "67785211d69b7cd18ee9e801"
+      }
+    },
+    {
+      "sponsor": "MINISTRY OF EDUCATION",
+      "type": "Prototype Development Research Grant Scheme",
+      "year": "2014",
+      "_id": {
+        "$oid": "67785211d69b7cd18ee9e802"
+      }
+    }
+  ],
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6778522865397f8fb94ec382"
+  },
+  "link": "https://utmscholar.utm.my/Scholar/ScholarInfoDetails/p80v",
+  "researchGroup": "Research Group Pervasive Computing (PCRG)",
+  "grantsCount": 15,
+  "grants": [
+    {
+      "sponsor": "RUG OF UTM",
+      "type": "UTM Encouragement Research",
+      "year": "2024",
+      "_id": {
+        "$oid": "67785228d69b7cd18ee9e804"
+      }
+    },
+    {
+      "sponsor": "MANFORCE RESOURCES (M) SDN BHD",
+      "type": "Contract Research DTD",
+      "year": "2020",
+      "_id": {
+        "$oid": "67785228d69b7cd18ee9e805"
+      }
+    },
+    {
+      "sponsor": "RUG OF UTM",
+      "type": "Industry-International Incentive Grant",
+      "year": "2020",
+      "_id": {
+        "$oid": "67785228d69b7cd18ee9e806"
+      }
+    },
+    {
+      "sponsor": "MOTOBINA SDN. BHD.",
+      "type": "Contract Research DTD",
+      "year": "2020",
+      "_id": {
+        "$oid": "67785228d69b7cd18ee9e807"
+      }
+    },
+    {
+      "sponsor": "MINISTRY OF EDUCATION",
+      "type": "Fundamental Research Grant Scheme",
+      "year": "2019",
+      "_id": {
+        "$oid": "67785228d69b7cd18ee9e808"
+      }
+    },
+    {
+      "sponsor": "RUG OF UTM",
+      "type": "Industry-International Incentive Grant",
+      "year": "2018",
+      "_id": {
+        "$oid": "67785228d69b7cd18ee9e809"
+      }
+    },
+    {
+      "sponsor": "RUG OF UTM",
+      "type": "Collaborative Research Grant",
+      "year": "2018",
+      "_id": {
+        "$oid": "67785228d69b7cd18ee9e80a"
+      }
+    },
+    {
+      "sponsor": "RUG OF UTM",
+      "type": "Collaborative Research Grant",
+      "year": "2018",
+      "_id": {
+        "$oid": "67785228d69b7cd18ee9e80b"
+      }
+    },
+    {
+      "sponsor": "RUG OF UTM",
+      "type": "Collaborative Research Grant",
+      "year": "2018",
+      "_id": {
+        "$oid": "67785228d69b7cd18ee9e80c"
+      }
+    },
+    {
+      "sponsor": "RUG OF UTM",
+      "type": "Collaborative Research Grant",
+      "year": "2018",
+      "_id": {
+        "$oid": "67785228d69b7cd18ee9e80d"
+      }
+    },
+    {
+      "sponsor": "RUG OF UTM",
+      "type": "Collaborative Research Grant",
+      "year": "2018",
+      "_id": {
+        "$oid": "67785228d69b7cd18ee9e80e"
+      }
+    },
+    {
+      "sponsor": "RUG OF UTM",
+      "type": "Tier 1",
+      "year": "2018",
+      "_id": {
+        "$oid": "67785228d69b7cd18ee9e80f"
+      }
+    },
+    {
+      "sponsor": "MALAYSIA MARINE AND HEAVY ENGINEERING SDN. BHD.",
+      "type": "Contract Research DTD",
+      "year": "2018",
+      "_id": {
+        "$oid": "67785228d69b7cd18ee9e810"
+      }
+    },
+    {
+      "sponsor": "RUG OF UTM",
+      "type": "Tier 1",
+      "year": "2016",
+      "_id": {
+        "$oid": "67785228d69b7cd18ee9e811"
+      }
+    },
+    {
+      "sponsor": "RUG OF UTM",
+      "type": "Tier 2",
+      "year": "2016",
+      "_id": {
+        "$oid": "67785228d69b7cd18ee9e812"
+      }
+    }
+  ],
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6778527d65397f8fb94ec3a4"
+  },
+  "link": "https://utmscholar.utm.my/Scholar/ScholarInfoDetails/zBN9",
+  "researchGroup": "Research Group Pervasive Computing (PCRG)",
+  "grantsCount": 13,
+  "grants": [
+    {
+      "sponsor": "RUG OF UTM",
+      "type": "UTM Encouragement Research",
+      "year": "2024",
+      "_id": {
+        "$oid": "6778527dd69b7cd18ee9e814"
+      }
+    },
+    {
+      "sponsor": "MALAYSIA DIGITAL ECONOMY CORPORATION SDN. BHD. (MDEC)",
+      "type": "Contract",
+      "year": "2020",
+      "_id": {
+        "$oid": "6778527dd69b7cd18ee9e815"
+      }
+    },
+    {
+      "sponsor": "RUG OF UTM",
+      "type": "Matching Grant",
+      "year": "2020",
+      "_id": {
+        "$oid": "6778527dd69b7cd18ee9e816"
+      }
+    },
+    {
+      "sponsor": "RUG OF UTM",
+      "type": "UTM Encouragement Research",
+      "year": "2020",
+      "_id": {
+        "$oid": "6778527dd69b7cd18ee9e817"
+      }
+    },
+    {
+      "sponsor": "RUG OF UTM",
+      "type": "UTM Encouragement Research",
+      "year": "2019",
+      "_id": {
+        "$oid": "6778527dd69b7cd18ee9e818"
+      }
+    },
+    {
+      "sponsor": "RUG OF UTM",
+      "type": "Tier 2",
+      "year": "2016",
+      "_id": {
+        "$oid": "6778527dd69b7cd18ee9e819"
+      }
+    },
+    {
+      "sponsor": "MINISTRY OF EDUCATION",
+      "type": "Fundamental Research Grant Scheme",
+      "year": "2016",
+      "_id": {
+        "$oid": "6778527dd69b7cd18ee9e81a"
+      }
+    },
+    {
+      "sponsor": "DANA PEMBANGUNAN PENGAJARAN CTL",
+      "type": "Dana Pembangunan Pengajaran",
+      "year": "2016",
+      "_id": {
+        "$oid": "6778527dd69b7cd18ee9e81b"
+      }
+    },
+    {
+      "sponsor": "MINISTRY OF EDUCATION",
+      "type": "Fundamental Research Grant Scheme",
+      "year": "2015",
+      "_id": {
+        "$oid": "6778527dd69b7cd18ee9e81c"
+      }
+    },
+    {
+      "sponsor": "RUG OF UTM",
+      "type": "Tier 2",
+      "year": "2011",
+      "_id": {
+        "$oid": "6778527dd69b7cd18ee9e81d"
+      }
+    },
+    {
+      "sponsor": "N/A",
+      "type": "Sciencefund",
+      "year": "2000",
+      "_id": {
+        "$oid": "6778527dd69b7cd18ee9e81e"
+      }
+    },
+    {
+      "sponsor": "N/A",
+      "type": "Sciencefund",
+      "year": "2000",
+      "_id": {
+        "$oid": "6778527dd69b7cd18ee9e81f"
+      }
+    },
+    {
+      "sponsor": "MINISTRY OF EDUCATION",
+      "type": "Short Term",
+      "year": "1998",
+      "_id": {
+        "$oid": "6778527dd69b7cd18ee9e820"
+      }
+    }
+  ],
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6778529565397f8fb94ec3b5"
+  },
+  "link": "https://utmscholar.utm.my/Scholar/ScholarInfoDetails/2BJX",
+  "researchGroup": "Research Group Software Engineering Research Group (SERG)",
+  "grantsCount": 15,
+  "grants": [
+    {
+      "sponsor": "RUG OF UTM",
+      "type": "UTM Fundamental Research",
+      "year": "2024",
+      "_id": {
+        "$oid": "67785295d69b7cd18ee9e822"
+      }
+    },
+    {
+      "sponsor": "MINISTRY OF EDUCATION",
+      "type": "Fundamental Research Grant Scheme",
+      "year": "2024",
+      "_id": {
+        "$oid": "67785295d69b7cd18ee9e823"
+      }
+    },
+    {
+      "sponsor": "MINISTRY OF EDUCATION",
+      "type": "Fundamental Research Grant Scheme",
+      "year": "2023",
+      "_id": {
+        "$oid": "67785295d69b7cd18ee9e824"
+      }
+    },
+    {
+      "sponsor": "RUG OF UTM",
+      "type": "UTM Encouragement Research",
+      "year": "2022",
+      "_id": {
+        "$oid": "67785295d69b7cd18ee9e825"
+      }
+    },
+    {
+      "sponsor": "MINISTRY OF EDUCATION",
+      "type": "Fundamental Research Grant Scheme",
+      "year": "2021",
+      "_id": {
+        "$oid": "67785295d69b7cd18ee9e826"
+      }
+    },
+    {
+      "sponsor": "GATES IT SOLUTION SDN. BHD.",
+      "type": "Contract Research DTD",
+      "year": "2021",
+      "_id": {
+        "$oid": "67785295d69b7cd18ee9e827"
+      }
+    },
+    {
+      "sponsor": "GATES IT SOLUTION SDN. BHD.",
+      "type": "Contract Research DTD",
+      "year": "2021",
+      "_id": {
+        "$oid": "67785295d69b7cd18ee9e828"
+      }
+    },
+    {
+      "sponsor": "GATES IT SOLUTION SDN. BHD.",
+      "type": "Contract Research DTD",
+      "year": "2020",
+      "_id": {
+        "$oid": "67785295d69b7cd18ee9e829"
+      }
+    },
+    {
+      "sponsor": "GATES IT SOLUTION SDN. BHD.",
+      "type": "Contract Research DTD",
+      "year": "2020",
+      "_id": {
+        "$oid": "67785295d69b7cd18ee9e82a"
+      }
+    },
+    {
+      "sponsor": "RUG OF UTM",
+      "type": "UTM High Impact Research",
+      "year": "2020",
+      "_id": {
+        "$oid": "67785295d69b7cd18ee9e82b"
+      }
+    },
+    {
+      "sponsor": "GATES IT SOLUTION SDN. BHD.",
+      "type": "Contract Research DTD",
+      "year": "2019",
+      "_id": {
+        "$oid": "67785295d69b7cd18ee9e82c"
+      }
+    },
+    {
+      "sponsor": "MINISTRY OF EDUCATION",
+      "type": "Fundamental Research Grant Scheme",
+      "year": "2019",
+      "_id": {
+        "$oid": "67785295d69b7cd18ee9e82d"
+      }
+    },
+    {
+      "sponsor": "MINISTRY OF EDUCATION",
+      "type": "Fundamental Research Grant Scheme",
+      "year": "2019",
+      "_id": {
+        "$oid": "67785295d69b7cd18ee9e82e"
+      }
+    },
+    {
+      "sponsor": "RUG OF UTM",
+      "type": "UTM Transdiciplinary Research Grant",
+      "year": "2018",
+      "_id": {
+        "$oid": "67785295d69b7cd18ee9e82f"
+      }
+    },
+    {
+      "sponsor": "RUG OF UTM",
+      "type": "Tier 1",
+      "year": "2018",
+      "_id": {
+        "$oid": "67785295d69b7cd18ee9e830"
+      }
+    }
+  ],
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "677852ac65397f8fb94ec3c1"
+  },
+  "link": "https://utmscholar.utm.my/Scholar/ScholarInfoDetails/2bKZ",
+  "researchGroup": "Research Group Software Engineering Research Group (SERG)",
+  "grantsCount": 15,
+  "grants": [
+    {
+      "sponsor": "GATES IT SOLUTION SDN. BHD.",
+      "type": "Contract Research DTD",
+      "year": "2021",
+      "_id": {
+        "$oid": "677852acd69b7cd18ee9e832"
+      }
+    },
+    {
+      "sponsor": "GATES IT SOLUTION SDN. BHD.",
+      "type": "Contract Research DTD",
+      "year": "2021",
+      "_id": {
+        "$oid": "677852acd69b7cd18ee9e833"
+      }
+    },
+    {
+      "sponsor": "MINISTRY OF EDUCATION",
+      "type": "Fundamental Research Grant Scheme",
+      "year": "2020",
+      "_id": {
+        "$oid": "677852acd69b7cd18ee9e834"
+      }
+    },
+    {
+      "sponsor": "GATES IT SOLUTION SDN. BHD.",
+      "type": "Contract Research DTD",
+      "year": "2020",
+      "_id": {
+        "$oid": "677852acd69b7cd18ee9e835"
+      }
+    },
+    {
+      "sponsor": "GATES IT SOLUTION SDN. BHD.",
+      "type": "Contract Research DTD",
+      "year": "2020",
+      "_id": {
+        "$oid": "677852acd69b7cd18ee9e836"
+      }
+    },
+    {
+      "sponsor": "RUG OF UTM",
+      "type": "UTM High Impact Research",
+      "year": "2020",
+      "_id": {
+        "$oid": "677852acd69b7cd18ee9e837"
+      }
+    },
+    {
+      "sponsor": "RUG OF UTM",
+      "type": "UTM High Impact Research",
+      "year": "2020",
+      "_id": {
+        "$oid": "677852acd69b7cd18ee9e838"
+      }
+    },
+    {
+      "sponsor": "MAJILIS AMANAH RAKYAT (MARA)",
+      "type": "Non Goverment Agency",
+      "year": "2019",
+      "_id": {
+        "$oid": "677852acd69b7cd18ee9e839"
+      }
+    },
+    {
+      "sponsor": "RUG OF UTM",
+      "type": "UTM Encouragement Research",
+      "year": "2019",
+      "_id": {
+        "$oid": "677852acd69b7cd18ee9e83a"
+      }
+    },
+    {
+      "sponsor": "RUG OF UTM",
+      "type": "Industry-International Incentive Grant",
+      "year": "2019",
+      "_id": {
+        "$oid": "677852acd69b7cd18ee9e83b"
+      }
+    },
+    {
+      "sponsor": "MINISTRY OF EDUCATION",
+      "type": "Fundamental Research Grant Scheme",
+      "year": "2019",
+      "_id": {
+        "$oid": "677852acd69b7cd18ee9e83c"
+      }
+    },
+    {
+      "sponsor": "MINISTRY OF EDUCATION",
+      "type": "Fundamental Research Grant Scheme",
+      "year": "2019",
+      "_id": {
+        "$oid": "677852acd69b7cd18ee9e83d"
+      }
+    },
+    {
+      "sponsor": "MINISTRY OF EDUCATION",
+      "type": "Fundamental Research Grant Scheme",
+      "year": "2019",
+      "_id": {
+        "$oid": "677852acd69b7cd18ee9e83e"
+      }
+    },
+    {
+      "sponsor": "RUG OF UTM",
+      "type": "UTM Transdiciplinary Research Grant",
+      "year": "2018",
+      "_id": {
+        "$oid": "677852acd69b7cd18ee9e83f"
+      }
+    },
+    {
+      "sponsor": "EFFRON SDN. BHD.",
+      "type": "Contract",
+      "year": "2018",
+      "_id": {
+        "$oid": "677852acd69b7cd18ee9e840"
+      }
+    }
+  ],
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "677852c365397f8fb94ec3cb"
+  },
+  "link": "https://utmscholar.utm.my/Scholar/ScholarInfoDetails/4lzE",
+  "researchGroup": "Research Group Virtual, Visualization and Vision (UTM ViCubeLab)",
+  "grantsCount": 15,
+  "grants": [
+    {
+      "sponsor": "RUG OF UTM",
+      "type": "Potential Academic Staff",
+      "year": "2024",
+      "_id": {
+        "$oid": "677852c3d69b7cd18ee9e842"
+      }
+    },
+    {
+      "sponsor": "INNOVATION AND COMMERCIALISATION CENTRE (ICC)",
+      "type": "Prototype Development Fund",
+      "year": "2020",
+      "_id": {
+        "$oid": "677852c3d69b7cd18ee9e843"
+      }
+    },
+    {
+      "sponsor": "MINISTRY OF EDUCATION",
+      "type": "Fundamental Research Grant Scheme",
+      "year": "2020",
+      "_id": {
+        "$oid": "677852c3d69b7cd18ee9e844"
+      }
+    },
+    {
+      "sponsor": "RUG OF UTM",
+      "type": "UTM Encouragement Research",
+      "year": "2020",
+      "_id": {
+        "$oid": "677852c3d69b7cd18ee9e845"
+      }
+    },
+    {
+      "sponsor": "RUG OF UTM",
+      "type": "UTM Prototype Research",
+      "year": "2020",
+      "_id": {
+        "$oid": "677852c3d69b7cd18ee9e846"
+      }
+    },
+    {
+      "sponsor": "MINISTRY OF EDUCATION",
+      "type": "Fundamental Research Grant Scheme",
+      "year": "2019",
+      "_id": {
+        "$oid": "677852c3d69b7cd18ee9e847"
+      }
+    },
+    {
+      "sponsor": "RUG OF UTM",
+      "type": "Tier 1",
+      "year": "2018",
+      "_id": {
+        "$oid": "677852c3d69b7cd18ee9e848"
+      }
+    },
+    {
+      "sponsor": "RUG OF UTM",
+      "type": "Tier 2",
+      "year": "2018",
+      "_id": {
+        "$oid": "677852c3d69b7cd18ee9e849"
+      }
+    },
+    {
+      "sponsor": "RUG OF UTM",
+      "type": "Tier 1",
+      "year": "2015",
+      "_id": {
+        "$oid": "677852c3d69b7cd18ee9e84a"
+      }
+    },
+    {
+      "sponsor": "MINISTRY OF ENERGY, SCIENCE, TECHNOLOGY, ENVIRONEMNT AND CLIMATE CHANGE (MESTECC)",
+      "type": "Sciencefund",
+      "year": "2013",
+      "_id": {
+        "$oid": "677852c3d69b7cd18ee9e84b"
+      }
+    },
+    {
+      "sponsor": "MINISTRY OF EDUCATION",
+      "type": "Exploratory Research Grant Scheme",
+      "year": "2013",
+      "_id": {
+        "$oid": "677852c3d69b7cd18ee9e84c"
+      }
+    },
+    {
+      "sponsor": "MINISTRY OF EDUCATION",
+      "type": "Fundamental Research Grant Scheme",
+      "year": "2013",
+      "_id": {
+        "$oid": "677852c3d69b7cd18ee9e84d"
+      }
+    },
+    {
+      "sponsor": "RUG OF UTM",
+      "type": "Flagship",
+      "year": "2013",
+      "_id": {
+        "$oid": "677852c3d69b7cd18ee9e84e"
+      }
+    },
+    {
+      "sponsor": "RUG OF UTM",
+      "type": "Flagship",
+      "year": "2013",
+      "_id": {
+        "$oid": "677852c3d69b7cd18ee9e84f"
+      }
+    },
+    {
+      "sponsor": "RUG OF UTM",
+      "type": "Tier 1",
+      "year": "2012",
+      "_id": {
+        "$oid": "677852c3d69b7cd18ee9e850"
+      }
+    }
+  ],
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6778530365397f8fb94ec3e7"
+  },
+  "link": "https://utmscholar.utm.my/Scholar/ScholarInfoDetails/yyra",
+  "researchGroup": "Research Group Virtual, Visualization and Vision (UTM ViCubeLab)",
+  "grantsCount": 15,
+  "grants": [
+    {
+      "sponsor": "BILLION PRIMA SDN. BHD",
+      "type": "Contract Research DTD",
+      "year": "2024",
+      "_id": {
+        "$oid": "67785303d69b7cd18ee9e852"
+      }
+    },
+    {
+      "sponsor": "RUG OF UTM",
+      "type": "UTM Fundamental Research",
+      "year": "2024",
+      "_id": {
+        "$oid": "67785303d69b7cd18ee9e853"
+      }
+    },
+    {
+      "sponsor": "MINISTRY OF EDUCATION",
+      "type": "Fundamental Research Grant Scheme",
+      "year": "2023",
+      "_id": {
+        "$oid": "67785303d69b7cd18ee9e854"
+      }
+    },
+    {
+      "sponsor": "UNIVERSITI TEKNIKAL MALAYSIA MELAKA",
+      "type": "Networking Grant",
+      "year": "2022",
+      "_id": {
+        "$oid": "67785303d69b7cd18ee9e855"
+      }
+    },
+    {
+      "sponsor": "RUG OF UTM",
+      "type": "UTM Encouragement Research",
+      "year": "2022",
+      "_id": {
+        "$oid": "67785303d69b7cd18ee9e856"
+      }
+    },
+    {
+      "sponsor": "RUG OF UTM",
+      "type": "Industry-International Incentive Grant",
+      "year": "2021",
+      "_id": {
+        "$oid": "67785303d69b7cd18ee9e857"
+      }
+    },
+    {
+      "sponsor": "DREAMEDGE SDN. BHD.",
+      "type": "Contract Research DTD",
+      "year": "2020",
+      "_id": {
+        "$oid": "67785303d69b7cd18ee9e858"
+      }
+    },
+    {
+      "sponsor": "RUG OF UTM",
+      "type": "UTM Prototype Research",
+      "year": "2020",
+      "_id": {
+        "$oid": "67785303d69b7cd18ee9e859"
+      }
+    },
+    {
+      "sponsor": "RUG OF UTM",
+      "type": "UTM Prototype Research",
+      "year": "2020",
+      "_id": {
+        "$oid": "67785303d69b7cd18ee9e85a"
+      }
+    },
+    {
+      "sponsor": "RUG OF UTM",
+      "type": "UTM Encouragement Research",
+      "year": "2019",
+      "_id": {
+        "$oid": "67785303d69b7cd18ee9e85b"
+      }
+    },
+    {
+      "sponsor": "GATES IT SOLUTION SDN. BHD.",
+      "type": "Contract Research DTD",
+      "year": "2018",
+      "_id": {
+        "$oid": "67785303d69b7cd18ee9e85c"
+      }
+    },
+    {
+      "sponsor": "RUG OF UTM",
+      "type": "Tier 2",
+      "year": "2018",
+      "_id": {
+        "$oid": "67785303d69b7cd18ee9e85d"
+      }
+    },
+    {
+      "sponsor": "MINISTRY OF EDUCATION",
+      "type": "Centre for Community and Industry Network",
+      "year": "2016",
+      "_id": {
+        "$oid": "67785303d69b7cd18ee9e85e"
+      }
+    },
+    {
+      "sponsor": "MINISTRY OF EDUCATION",
+      "type": "Fundamental Research Grant Scheme",
+      "year": "2016",
+      "_id": {
+        "$oid": "67785303d69b7cd18ee9e85f"
+      }
+    },
+    {
+      "sponsor": "RUG OF UTM",
+      "type": "Tier 1",
+      "year": "2016",
+      "_id": {
+        "$oid": "67785303d69b7cd18ee9e860"
+      }
+    }
+  ],
+  "__v": 0
+}]

@@ -1,0 +1,2239 @@
+<!doctype html>
+<html lang="en">
+
+<head>
+    <meta charset="utf-8"/>
+    <title>UTM Scholar : PROFESOR DR. GHAZALI BIN SULONG                       </title>
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta content="UTM Scholar Official Portal" name="description"/>
+    <meta name="google-site-verification" content="5ysLm8G0uPkHXlp2400O5bjCL-DV5tIMVqEQtlsm0NM"/>
+    <meta content="Office of Deputy Vice Cansellor Research &amp; Innovations, Universiti Teknologi Malaysia, Johore, Malaysia" name="author"/>
+    <link rel="shortcut icon" href="/assets/images/favicon.ico">
+    <link href="/assets/css/bootstrap.min.css" id="bootstrap-style" rel="stylesheet" type="text/css" />
+    <link href="/assets/css/icons.min.css" rel="stylesheet" type="text/css" />
+    <link href="/assets/css/app.min.css" id="app-style" rel="stylesheet" type="text/css" />
+    <link href="/assets/libs/datatables.net-bs4/css/dataTables.bootstrap4.min.css" rel="stylesheet" type="text/css" />
+    <link href="/assets/libs/datatables.net-buttons-bs4/css/buttons.bootstrap4.min.css" rel="stylesheet" type="text/css" />
+    <link href="/assets/libs/datatables.net-responsive-bs4/css/responsive.bootstrap4.min.css" rel="stylesheet" type="text/css" />
+    <style>
+            .img-thumbnail {
+                border-radius: 33px;
+                width: 61px;
+                height: 61px
+            }
+            
+            .fab:before {
+                position: relative;
+                top: 13px
+            }
+            
+            .smd {
+                width: 200px;
+                font-size: small;
+                text-align: center
+            }
+            
+            .modal-footer {
+                display: block
+            }
+            
+            .ur {
+                border: none;
+                background-color: #e6e2e2;
+                border-bottom-left-radius: 4px;
+                border-top-left-radius: 4px
+            }
+            
+            .cpy {
+                border: none;
+                background-color: #e6e2e2;
+                border-bottom-right-radius: 4px;
+                border-top-right-radius: 4px;
+                box-shadow: none !important
+            }
+            
+            .ur.focus,
+            .ur:focus {
+                outline: 0;
+                box-shadow: none !important
+            }
+            
+            .message {
+                font-size: 11px;
+                color: #ee5535
+            }
+        </style>
+</head>
+<body data-sidebar="dark">
+    <div id="layout-wrapper">
+        <header id="page-topbar">
+    <div class="navbar-header">
+        <div class="d-flex">
+          
+            <div class="navbar-brand-box">
+                <a class="logo logo-dark" href="/">
+                    <span class="logo-sm">
+                        <img src="/assets/images/logo-sm.png" alt="" height="38">
+                    </span>
+                    <span class="logo-lg">
+                        <img src="/assets/images/logo-utm.png" alt="" height="35">
+                    </span>
+                </a>
+
+                <a class="logo logo-light" href="/">
+                    <span class="logo-sm">
+                        <img src="/assets/images/logo-sm.png" alt="" height="38">
+                    </span>
+                    <span class="logo-lg">
+                        <img src="/assets/images/logo-utm.png" alt="" height="35">
+                    </span>
+                </a>
+            </div>
+
+            <button type="button" class="btn btn-sm px-3 font-size-24 header-item waves-effect vertical-menu-btn">
+                <i class="mdi mdi-menu"></i>
+            </button>
+            <div class="d-none d-sm-block">
+                <div class="page-title-box">
+                    <h4>PROFESOR DR. GHAZALI BIN SULONG                      </h4>
+                    <ol class="breadcrumb m-0">
+                        <li class="breadcrumb-item">
+                            PROFESOR
+                        </li>
+                        
+                       <!--
+                                                 <li class="breadcrumb-item" id="more_sect" hidden>
+                                            <a id="more" style="color:blue" onclick="test()" hidden><b>&nbsp;&nbsp;...&nbsp;read more</b></a>
+                                                 </li>
+                                                 <li class="breadcrumb-item" id="less_sect" hidden>
+                                                     <a id="less" style="color:blue" onclick="test()" hidden><b>&nbsp;&nbsp;Read less</b></a>
+                                                 </li>
+                                                 <li class="breadcrumb-item" id="brief" hidden>
+                                            <a id="less_1" style="color:blue" onclick="test()"><b>&nbsp;read less</b></a>
+                                                 </li>
+                       --> 
+                    </ol>
+                </div>
+            </div>
+            
+        </div>
+        <div class="d-flex">
+            <div class="dropdown d-none d-lg-inline-block">
+                            <a href="/Login/Login" class="btn btn-sm btn-primary">Login</a>
+                <button type="button" class="btn header-item noti-icon waves-effect" data-toggle="fullscreen">
+                    <i class="mdi mdi-fullscreen font-size-24"></i>
+                </button>
+            </div>
+            <div class="dropdown d-inline-block">
+                <button type="button" class="btn header-item waves-effect" id="page-header-user-dropdown"
+                        data-bs-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
+                    <i class="mdi mdi-24px mdi-cog"></i>
+                </button>
+                <div class="dropdown-menu dropdown-menu-end">
+                    <!-- item-->
+                    <a class="dropdown-item" href="/"><i class="ti-dashboard font-size-17 text-muted align-middle me-1"></i> Home</a>
+                    <a class="dropdown-item" href="/scholars"><i class="ti-bar-chart font-size-17 text-muted align-middle me-1"></i> Scholar List</a>
+                    <a class="dropdown-item" href="/research-unit"><i class="ti-pie-chart font-size-17 text-muted align-middle me-1"></i> Research Unit</a>
+                </div>
+            </div>
+        </div>
+    </div>
+</header>
+        <div class="vertical-menu">
+            <div data-simplebar class="h-100">
+                <div id="sidebar-menu">
+                    <ul class="metismenu list-unstyled" id="side-menu">
+                        <li>
+                            <a href="javascript:void(0);" class="waves-effect">
+                                <img src="/view-gambar?id=p17v"
+                                     style="border-radius: 2%; margin-left: 50px;" height="200" width="150">
+                            </a>
+                        </li>
+                        <li>
+                            <a href="mailto:ghazali@utm.my" class="waves-effect">
+                                <i class="mdi mdi-email-outline"></i><span> Email<br/>ghazali@utm.my</span>
+                            </a>
+                        </li>
+
+                        <li>
+                            <a href="/faculties/28" class="waves-effect">
+                                <i class="mdi mdi-home"></i><span> Faculty<br/>FACULTY OF COMPUTING</span>
+                            </a>
+                        </li>
+                        <li>
+                            <a href="/schools/" class="waves-effect">
+                                <i class="mdi mdi-book-open-page-variant"></i><span> School<br/></span>
+                            </a>
+                        </li>
+                        <li>
+                            <a href="/niche-area/J090500" class="waves-effect">
+                                <i class="mdi mdi-book-arrow-down-outline"></i><span> Research Alliances<br/>SMART DIGITAL COMMUNITY</span>
+                            </a>
+                        </li>
+                        <li>
+
+                                <a href="javascript:void(0);" class="waves-effect">
+                                    <i class="mdi mdi-trophy-variant-outline "></i><span> Research Group<br/>-</span>
+                                </a>
+
+                        </li>
+                        <li>
+                                <a href="javascript:void(0);" class="waves-effect">
+                                    <i class="mdi mdi-radar"></i><span> HI COE/COE/Research Center<br/>-</span>
+                                </a>
+
+                        </li>
+                        <li>
+                            <a href="https://www.scopus.com/authid/detail.uri?authorId=6505595829" target="_blank" class="waves-effect">
+                                <i class="fas fa-university"></i><span> Scopus Profile<br/></span>
+                            </a>
+                        </li>
+                        <li>
+                            <a href="#" class="waves-effect" data-bs-toggle="modal" data-bs-target="#shareModalBox" >
+                                <i class="fas fa-share-alt"></i><span>Share</span>
+                            </a>
+                        </li>
+
+                        <li>
+                            <a href="javascript:void(0);" class="waves-effect">
+                                <i class="mdi mdi-book"></i>
+                                <span>
+                                    Keywords/Interest<br/>
+                                    <p class="text-muted font-small-2" id="keyword"></p>
+                                </span>
+                            </a>
+                        </li>
+                    </ul>
+                </div>
+                <!-- Sidebar -->
+            </div>
+        </div>
+        <div class="main-content">
+            <div class="page-content">
+                <div class="container-fluid">
+                    
+<div class="row">
+    <div class="col-xl-2 col-sm-6 h-50">
+        <div class="card mini-stat bg-primary">
+            <div class="card-body mini-stat-img">
+                <div class="mini-stat-icon">
+                    <i class="mdi mdi-cube-outline float-end"></i>
+                </div>
+                <div class="text-white">
+                    <h6 class="text-uppercase mb-3 font-size-12 text-white">GRANT(PI & MEMBERS)</h6>
+                    <h2 class="mb-4 text-white">31</h2>
+
+                </div>
+            </div>
+        </div>
+    </div>
+    <div class="col-xl-2 col-sm-6 h-50">
+        <div class="card mini-stat bg-warning">
+            <div class="card-body mini-stat-img">
+                <div class="mini-stat-icon">
+                    <i class="mdi mdi-buffer float-end"></i>
+                </div>
+                <div class="text-white">
+                    <h6 class="text-uppercase mb-3 font-size-12 text-white">PUBLICATIONS</h6>
+                    <h2 class="mb-4 text-white">54</h2>
+                </div>
+            </div>
+        </div>
+    </div>
+    <div class="col-xl-2 col-sm-6 h-50">
+        <div class="card mini-stat bg-info">
+            <div class="card-body mini-stat-img">
+                <div class="mini-stat-icon">
+                    <i class="mdi mdi-tag-text-outline float-end"></i>
+                </div>
+                <div class="text-white">
+                    <h6 class="text-uppercase mb-3 font-size-12 text-white">INDEXED PUBLICATION</h6>
+                    <h2 class="mb-4 text-white">43</h2>
+                </div>
+            </div>
+        </div>
+    </div>
+    <div class="col-xl-2 col-sm-6 h-50">
+        <div class="card mini-stat bg-danger">
+            <div class="card-body mini-stat-img">
+                <div class="mini-stat-icon">
+                    <i class="mdi mdi-chart-pie float-end"></i>
+                </div>
+                <div class="text-white">
+                    <h6 class="text-uppercase mb-3 font-size-12 text-white">TOTAL STUDENTS</h6>
+                    <h2 class="mb-4 text-white"><span id="TotalSupervisionCount"></span></h2>
+                </div>
+            </div>
+        </div>
+    </div>
+    <div class="col-xl-2 col-sm-6 h-50">
+        <div class="card mini-stat bg-success">
+            <div class="card-body mini-stat-img">
+                <div class="mini-stat-icon">
+                    <i class="mdi mdi-chart-bar float-end"></i>
+                </div>
+                <div class="text-white">
+                    <h6 class="text-uppercase mb-3 font-size-12 text-white">H-INDEXED (SCOPUS)</h6>
+                    <h2 class="mb-4 text-white"><span id="hIndexID"></span></h2>
+                </div>
+            </div>
+        </div>
+    </div>
+    <div class="col-xl-2 col-sm-6 h-50">
+        <div class="card mini-stat bg-info">
+            <div class="card-body mini-stat-img">
+                <div class="mini-stat-icon">
+                    <i class="mdi mdi-briefcase-check float-end"></i>
+                </div>
+                <div class="text-white">
+                    <h6 class="text-uppercase mb-3 font-size-12 text-white">CITATIONS (SCOPUS)</h6>
+                    <h2 class="mb-4 text-white"><span id="CountPublicIndexID"></span></h2>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+
+<div class="row">
+    <div class="col-xl-4">
+        <div class="card">
+            <div class="card-body">
+                <h4 class="card-title mb-3">Grant (PI)</h4>
+                <div class="row">
+                    <div class="col-md-12 col-12">
+                        <div id="grant_chart_personal" class="morris-charts morris-chart-height"></div>
+                    </div>
+                </div>
+                    <div class="row">
+                        <div class="col-md-12 col-12">
+                            <div class="inbox-wid">
+                                <div class="inbox-item">
+                                    <div class="float-start">NATIONAL GRANTS</div>
+                                    <div class="float-end">4</div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="row">
+                        <div class="col-md-12 col-12">
+                            <div class="inbox-wid">
+                                <div class="inbox-item">
+                                    <div class="float-start">UNIVERSITY FUND</div>
+                                    <div class="float-end">9</div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                <div class="row">
+                    <div class="col-md-12 col-12">
+                        <div class="inbox-wid">
+                            <div class="inbox-item">
+                                <div class="float-start"><strong>TOTAL</strong></div>
+                                <div class="float-end"><span id="TotalGrantCount"></span></div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+    <div class="col-xl-4">
+        <div class="card">
+            <div class="card-body">
+                <h4 class="card-title mb-3">Publications</h4>
+                <div class="row">
+                    <div class="col-md-12 col-12">
+                        <div id="publication_chart_personal" class="morris-charts morris-chart-height"></div>
+                    </div>
+                </div>
+                    <div class="row">
+                        <div class="col-md-12 col-12">
+                            <div class="inbox-wid">
+                                <div class="inbox-item">
+                                    <div class="float-start">INDEXED PUBLICATION</div>
+                                    <div class="float-end">43</div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="row">
+                        <div class="col-md-12 col-12">
+                            <div class="inbox-wid">
+                                <div class="inbox-item">
+                                    <div class="float-start">NON-INDEXED PUBLICATION</div>
+                                    <div class="float-end">8</div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="row">
+                        <div class="col-md-12 col-12">
+                            <div class="inbox-wid">
+                                <div class="inbox-item">
+                                    <div class="float-start">OTHERS PUBLICATION</div>
+                                    <div class="float-end">3</div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                <div class="row">
+                    <div class="col-md-12 col-12">
+                        <div class="inbox-wid">
+                            <div class="inbox-item">
+                                <div class="float-start"><strong>TOTAL</strong></div>
+                                <div class="float-end"><span id="TotalPublicationCount"></span></div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+    <div class="col-xl-4">
+        <div class="card">
+            <div class="card-body">
+                <h4 class="card-title mb-4">Supervisions</h4>
+                <div class="row">
+                    <div class="col-md-12 col-12">
+                        <div id="supervision_chart_personal" class="morris-charts morris-chart-height"></div>
+                    </div>
+                </div>
+                    <div class="row">
+                        <div class="col-md-12">
+                            <div class="inbox-wid">
+                                <div class="inbox-item">
+                                    <div class="float-start">MASTER</div>
+                                    <div class="float-end">21</div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="row">
+                        <div class="col-md-12">
+                            <div class="inbox-wid">
+                                <div class="inbox-item">
+                                    <div class="float-start">PHD</div>
+                                    <div class="float-end">41</div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                <div class="row">
+                    <div class="inbox-wid">
+                        <div class="inbox-item">
+                            <div class="float-start"><strong>TOTAL</strong></div>
+                            <div class="float-end"><span id="TotalSupervisionCount_chart"></span></div>
+                        </div>
+                    </div>
+                </div>
+
+            </div>
+        </div>
+    </div>
+</div>
+
+<div class="row">
+    <div class="card">
+        <div class="card-body">
+            <!-- Nav tabs -->
+            <ul class="nav nav-tabs nav-tabs-custom" role="tablist">
+                <li class="nav-item">
+                    <a class="nav-link active" data-bs-toggle="tab" href="#grant_tab" role="tab" aria-selected="true">
+                        <span class="d-block d-sm-none"><i class="fas fa-dollar-sign"></i></span>
+                        <span class="d-none d-sm-block">Grants</span>
+                    </a>
+                </li>
+                <li class="nav-item">
+                    <a class="nav-link" data-bs-toggle="tab" href="#publication_tab" role="tab" aria-selected="false">
+                        <span class="d-block d-sm-none"><i class="fa fa-book-open"></i></span>
+                        <span class="d-none d-sm-block">Publications</span>
+                    </a>
+                </li>
+                <li class="nav-item">
+                    <a class="nav-link" data-bs-toggle="tab" href="#ip_tab" role="tab" aria-selected="false">
+                        <span class="d-block d-sm-none"><i class="far fa-envelope"></i></span>
+                        <span class="d-none d-sm-block">Intellectual Property</span>
+                    </a>
+                </li>
+                <li class="nav-item">
+                    <a class="nav-link" data-bs-toggle="tab" href="#supervision_tab" role="tab" aria-selected="false">
+                        <span class="d-block d-sm-none"><i class="fas fa-user-graduate"></i></span>
+                        <span class="d-none d-sm-block">Supervisions</span>
+                    </a>
+                </li>
+            </ul>
+
+            <!-- Tab panes -->
+            <div class="tab-content">
+                <div class="tab-pane p-3 active" id="grant_tab" role="tabpanel">
+                    <p class="mb-0">
+                    <p>Legend : <span class="badge rounded-pill  bg-info">SPONSOR</span> <span class="badge rounded-pill  bg-success">TYPE OF GRANT</span></p>
+                    <div class="table-responsive">
+                        <table id="grantListTablePersonalDatatable" class="table mb-0 dt-responsive nowrap" style="border-collapse: collapse; border-spacing: 0; width: 100%;">
+                            <thead>
+                                <tr>
+                                    <th>Grant Name</th>
+                                    <th>Year</th>
+                                </tr>
+                            </thead>
+                            <tbody>
+                                    <tr>
+                                        <td>MULTIMODAL INTERACTION FOR MOBILE MAP CITY BROWSER BASED ON MULTICULTURAL USER PREFERENCES<br /><span class="badge rounded-pill  bg-info">RUG OF UTM</span> <span class="badge rounded-pill  bg-success">Tier 1                                                                                                                                                                                                                                                         </span></td>
+                                        <td>2014</td>
+                                    </tr>
+                                    <tr>
+                                        <td>THE DEVELOPMENT OF DIGITAL MEDIA PROTECTION SYSTEM IN MOBILE DEVICE<br /><span class="badge rounded-pill  bg-info">RUG OF UTM</span> <span class="badge rounded-pill  bg-success">Flagship-COE </span></td>
+                                        <td>2014</td>
+                                    </tr>
+                                    <tr>
+                                        <td>AN IMPLEMENTATION OF EDUTAINMENT TO PROMOTE GENERIC SKILLS AMONG UNDERGRADUATE<br /><span class="badge rounded-pill  bg-info">DANA PEMBANGUNAN PENGAJARAN CTL</span> <span class="badge rounded-pill  bg-success">UTM R&amp;D Fund                                                                                                                                                                                                                                                   </span></td>
+                                        <td>2014</td>
+                                    </tr>
+                                    <tr>
+                                        <td>Off-Line Writer Recognition Technique for Multi Script Text Documents based on Extended Codebook Approach<br /><span class="badge rounded-pill  bg-info">RUG OF UTM</span> <span class="badge rounded-pill  bg-success">Professional Development Research University</span></td>
+                                        <td>2014</td>
+                                    </tr>
+                                    <tr>
+                                        <td>Novel Face Representation Approach For Recognition of Surgically Altered Face Images under Varying Illumination Conditions<br /><span class="badge rounded-pill  bg-info">MINISTRY OF EDUCATION</span> <span class="badge rounded-pill  bg-success">Fundamental Research Grant Scheme </span></td>
+                                        <td>2013</td>
+                                    </tr>
+                                    <tr>
+                                        <td>A Fractal Image Compression Algorithm Based on Evolutionary Approaches<br /><span class="badge rounded-pill  bg-info">POST DOCTORAL FELLOWSHIP</span> <span class="badge rounded-pill  bg-success">Professional Development Research University</span></td>
+                                        <td>2013</td>
+                                    </tr>
+                                    <tr>
+                                        <td>WRITER RECOGNITION TECHNIQUES FOR HANDWRITTEN TEXT DOCUMENT<br /><span class="badge rounded-pill  bg-info">MINISTRY OF ENERGY, SCIENCE, TECHNOLOGY, ENVIRONEMNT AND CLIMATE CHANGE (MESTECC)</span> <span class="badge rounded-pill  bg-success">Sciencefund </span></td>
+                                        <td>2013</td>
+                                    </tr>
+                                    <tr>
+                                        <td>A DUAL-PURPOSE DIGITAL WATERMARKING TECHNIQUE FOR   OWNER IDENTIFICATION AND CONTENT AUTHENTICATION OF DIGITAL MEDICAL IMAGES<br /><span class="badge rounded-pill  bg-info">RUG OF UTM</span> <span class="badge rounded-pill  bg-success">Tier 1                                                                                                                                                                                                                                                         </span></td>
+                                        <td>2012</td>
+                                    </tr>
+                                    <tr>
+                                        <td>SILHOUETTE DETECTION ALGORITHM IN SHADOW GENERATION FOR VIRTUAL ENVIRONMENT<br /><span class="badge rounded-pill  bg-info">RUG OF UTM</span> <span class="badge rounded-pill  bg-success">Tier 1                                                                                                                                                                                                                                                         </span></td>
+                                        <td>2012</td>
+                                    </tr>
+                                    <tr>
+                                        <td>RUBBER TREE CLONE RECOGNITION BASED ON LEAF<br /><span class="badge rounded-pill  bg-info">RUG OF UTM</span> <span class="badge rounded-pill  bg-success">Tier 1                                                                                                                                                                                                                                                         </span></td>
+                                        <td>2012</td>
+                                    </tr>
+                                    <tr>
+                                        <td>THE DEVELOPMENT OF THREE-DIMENSIONAL  BONE RECONSTRUCTION METHOD FROM MRI  DATA FOR MEDICAL APPLICATION<br /><span class="badge rounded-pill  bg-info">MINISTRY OF ENERGY, SCIENCE, TECHNOLOGY, ENVIRONEMNT AND CLIMATE CHANGE (MESTECC)</span> <span class="badge rounded-pill  bg-success">Sciencefund </span></td>
+                                        <td>2012</td>
+                                    </tr>
+                                    <tr>
+                                        <td>A Novel Digital Owner Identification Approach in Semi-Blind Digital  Image Watermarking<br /><span class="badge rounded-pill  bg-info">RUG OF UTM</span> <span class="badge rounded-pill  bg-success">Tier 2                                                                                                                                                                                                                                                         </span></td>
+                                        <td>2011</td>
+                                    </tr>
+                                    <tr>
+                                        <td>On-line Handwritten Jawi/Persian/Arabic Recognition System<br /><span class="badge rounded-pill  bg-info">RUG OF UTM</span> <span class="badge rounded-pill  bg-success">Tier 2                                                                                                                                                                                                                                                         </span></td>
+                                        <td>2011</td>
+                                    </tr>
+                                    <tr>
+                                        <td>Development  of  Rendering Accurately in Certain Area Of Digital Terrain On Mobile Device<br /><span class="badge rounded-pill  bg-info">RUG OF UTM</span> <span class="badge rounded-pill  bg-success">Tier 2                                                                                                                                                                                                                                                         </span></td>
+                                        <td>2011</td>
+                                    </tr>
+                                    <tr>
+                                        <td>AN EXPERIMENTATION TOWARDS FINDING INDEPENDENT SPEECH SEGMENTATION CUE BASED ON HYBRID TIME AND FREQUENCY DOMAIN SIGNAL PROPERTIES<br /><span class="badge rounded-pill  bg-info">RUG OF UTM</span> <span class="badge rounded-pill  bg-success">Tier 2                                                                                                                                                                                                                                                         </span></td>
+                                        <td>2011</td>
+                                    </tr>
+                                    <tr>
+                                        <td>The Development Of A New Technique For Automated fingerprint Enhancement And Restoration<br /><span class="badge rounded-pill  bg-info">MINISTRY OF ENERGY, SCIENCE, TECHNOLOGY, ENVIRONEMNT AND CLIMATE CHANGE (MESTECC)</span> <span class="badge rounded-pill  bg-success">Sciencefund </span></td>
+                                        <td>2008</td>
+                                    </tr>
+                                    <tr>
+                                        <td>The Development Of An Intelligent GIS System-A 3D Image Extraction And Construction From A Non-Digital 2D Aerial Photograph Using Digital Photogrammetry Technique<br /><span class="badge rounded-pill  bg-info">MINISTRY OF ENERGY, SCIENCE, TECHNOLOGY, ENVIRONEMNT AND CLIMATE CHANGE (MESTECC)</span> <span class="badge rounded-pill  bg-success">Sciencefund </span></td>
+                                        <td>1999</td>
+                                    </tr>
+                                    <tr>
+                                        <td>The Development of Local Solar Irradiance for Outdoor Computer Graphics Rendering<br /><span class="badge rounded-pill  bg-info">MINISTRY OF ENERGY, SCIENCE, TECHNOLOGY, ENVIRONEMNT AND CLIMATE CHANGE (MESTECC)</span> <span class="badge rounded-pill  bg-success">Sciencefund </span></td>
+                                        <td>1998</td>
+                                    </tr>
+                                    <tr>
+                                        <td>Integrated Human Resource Management Feasibility Study<br /><span class="badge rounded-pill  bg-info"></span> <span class="badge rounded-pill  bg-success">Short Term                                                                                                                                                                                                                                                     </span></td>
+                                        <td>1998</td>
+                                    </tr>
+                                    <tr>
+                                        <td>Development an Intelligent Agent for Speech Recognition and Translation<br /><span class="badge rounded-pill  bg-info">MINISTRY OF ENERGY, SCIENCE, TECHNOLOGY, ENVIRONEMNT AND CLIMATE CHANGE (MESTECC)</span> <span class="badge rounded-pill  bg-success">Sciencefund </span></td>
+                                        <td>1998</td>
+                                    </tr>
+                                    <tr>
+                                        <td>The Design and Development of a System for Controlling Automotive Functions using Speech Recognition<br /><span class="badge rounded-pill  bg-info">MINISTRY OF ENERGY, SCIENCE, TECHNOLOGY, ENVIRONEMNT AND CLIMATE CHANGE (MESTECC)</span> <span class="badge rounded-pill  bg-success">Sciencefund </span></td>
+                                        <td>1998</td>
+                                    </tr>
+                                    <tr>
+                                        <td>Design and Development an Automotaic Fingerprint Verification System<br /><span class="badge rounded-pill  bg-info">MINISTRY OF ENERGY, SCIENCE, TECHNOLOGY, ENVIRONEMNT AND CLIMATE CHANGE (MESTECC)</span> <span class="badge rounded-pill  bg-success">Sciencefund </span></td>
+                                        <td>1998</td>
+                                    </tr>
+                                    <tr>
+                                        <td>Development of Face Identification System using Artificial Intelligent Techniques Based on Hybird Feature Selection<br /><span class="badge rounded-pill  bg-info">MINISTRY OF ENERGY, SCIENCE, TECHNOLOGY, ENVIRONEMNT AND CLIMATE CHANGE (MESTECC)</span> <span class="badge rounded-pill  bg-success">Sciencefund </span></td>
+                                        <td>1998</td>
+                                    </tr>
+                                    <tr>
+                                        <td>Eco-Climate Mapping in Malaysian Environment : Effects of Human Activities and EI Nino<br /><span class="badge rounded-pill  bg-info">MINISTRY OF ENERGY, SCIENCE, TECHNOLOGY, ENVIRONEMNT AND CLIMATE CHANGE (MESTECC)</span> <span class="badge rounded-pill  bg-success">Sciencefund </span></td>
+                                        <td>1998</td>
+                                    </tr>
+                                    <tr>
+                                        <td>The Development of Intelligent Hybird Algorithmn and Intelligent Agent for Staff Scheduling<br /><span class="badge rounded-pill  bg-info">MINISTRY OF ENERGY, SCIENCE, TECHNOLOGY, ENVIRONEMNT AND CLIMATE CHANGE (MESTECC)</span> <span class="badge rounded-pill  bg-success">Sciencefund </span></td>
+                                        <td>1995</td>
+                                    </tr>
+                                    <tr>
+                                        <td>Radiology Information System<br /><span class="badge rounded-pill  bg-info"></span> <span class="badge rounded-pill  bg-success">Short Term                                                                                                                                                                                                                                                     </span></td>
+                                        <td>1994</td>
+                                    </tr>
+                                    <tr>
+                                        <td>Teleradiology<br /><span class="badge rounded-pill  bg-info"></span> <span class="badge rounded-pill  bg-success">Short Term                                                                                                                                                                                                                                                     </span></td>
+                                        <td>1992</td>
+                                    </tr>
+                                    <tr>
+                                        <td>A Computerized Isolated Handprinted Character Recognition System<br /><span class="badge rounded-pill  bg-info"></span> <span class="badge rounded-pill  bg-success">Short Term                                                                                                                                                                                                                                                     </span></td>
+                                        <td>1989</td>
+                                    </tr>
+                                    <tr>
+                                        <td>A Computerized Handwritten Text Recognition System<br /><span class="badge rounded-pill  bg-info"></span> <span class="badge rounded-pill  bg-success">Short Term                                                                                                                                                                                                                                                     </span></td>
+                                        <td>1988</td>
+                                    </tr>
+                                    <tr>
+                                        <td>Computerization of Manpower Planning System on Medical Doctor &amp; Specialist in Malaysia<br /><span class="badge rounded-pill  bg-info"></span> <span class="badge rounded-pill  bg-success">Short Term                                                                                                                                                                                                                                                     </span></td>
+                                        <td>1986</td>
+                                    </tr>
+
+                            </tbody>
+                        </table>
+                    </div>
+                    </p>
+                </div>
+                <div class="tab-pane p-3" id="publication_tab" role="tabpanel">
+                    <p class="mb-0">
+                    <p class="text-muted">
+                        Legend : <span class="badge rounded-pill  bg-info">PUBLICATION CATEGORY </span>
+                        <span class="badge rounded-pill  bg-success">TYPE OF AUTHORS</span>
+                    </p>
+                    <div class="table-responsive">
+                        <table id="publicationListTablePersonalDatatable" class="table mb-0 dt-responsive nowrap" style="border-collapse: collapse; border-spacing: 0; width: 100%;">
+                            <thead>
+                                <tr>
+                                    <th>Publication Name</th>
+                                    <th>Year</th>
+                                </tr>
+                            </thead>
+                            <tbody>
+                                    <tr>
+                                        <td>
+
+                                            <a href="/scholar-publication/p17v/120848">High Imperceptibility Medical Image Watermarking Scheme Based On Slantlet Transform By Using Dynamic Visibility Threshold</a>
+
+                                            <br />
+                                                INTERNATIONAL CONFERENCE ON INTERACTIVE DIGITAL MEDIA, 6TH  ICIDM 2020<br />
+                                            <span class="badge rounded-pill  bg-info">Publication In Scopus</span> <span class="badge rounded-pill  bg-success">CO-AUTHOR</span>
+                                        </td>
+                                        <td>2021</td>
+                                    </tr>
+                                    <tr>
+                                        <td>
+
+                                            <a href="/scholar-publication/p17v/106032">Splicing Image Forgery Identification Based On Artificial Neural Network Approach And Texture Features</a>
+
+                                            <br />
+                                                CLUSTER COMPUTING-THE JOURNAL OF NETWORKS SOFTWARE TOOLS AND APPLICATIONS<br />
+                                            <span class="badge rounded-pill  bg-info">Publication In Web Of Science</span> <span class="badge rounded-pill  bg-success">CO-AUTHOR</span>
+                                        </td>
+                                        <td>2019</td>
+                                    </tr>
+                                    <tr>
+                                        <td>
+
+                                            <a href="/scholar-publication/p17v/110106">A Review Study Of Methods Utilized For Identifying And Segmenting The Brain Tumor From Mr Imageries </a>
+
+                                            <br />
+                                                JOURNAL OF THEORETICAL AND APPLIED INFORMATION TECHNOLOGY<br />
+                                            <span class="badge rounded-pill  bg-info">Publication In Scopus</span> <span class="badge rounded-pill  bg-success">CO-AUTHOR</span>
+                                        </td>
+                                        <td>2019</td>
+                                    </tr>
+                                    <tr>
+                                        <td>
+
+                                            <a href="/scholar-publication/p17v/76386">Reconstruction The Missing Pixels For Landsat Etm&#x2B;Slc-Off Images Using Multiple Linear Regression Model</a>
+
+                                            <br />
+                                                ARO-THE SCIENTIFIC JOURNAL OF KOYA UNIVERSITY<br />
+                                            <span class="badge rounded-pill  bg-info">Journal Article Non Citation-Indexed</span> <span class="badge rounded-pill  bg-success">CO-AUTHOR</span>
+                                        </td>
+                                        <td>2016</td>
+                                    </tr>
+                                    <tr>
+                                        <td>
+
+                                            <a href="/scholar-publication/p17v/67605">Off-Line Text-Independent Writer Recognition For Chinese Handwriting: A Review</a>
+
+                                            <br />
+                                                JURNAL TEKNOLOGI<br />
+                                            <span class="badge rounded-pill  bg-info">Publication In Scopus</span> <span class="badge rounded-pill  bg-success">CO-AUTHOR</span>
+                                        </td>
+                                        <td>2015</td>
+                                    </tr>
+                                    <tr>
+                                        <td>
+
+                                            <a href="/scholar-publication/p17v/66191">Deblurring Computed Tomography Medical Images Using&#xD;&#xA;A Novel Amended Landweber Algorithm</a>
+
+                                            <br />
+                                                INTERDISCIPLINARY SCIENCES-COMPUTATIONAL LIFE SCIENCES <br />
+                                            <span class="badge rounded-pill  bg-info">Publication In Web Of Science</span> <span class="badge rounded-pill  bg-success">UTM FIRST AUTHOR</span>
+                                        </td>
+                                        <td>2015</td>
+                                    </tr>
+                                    <tr>
+                                        <td>
+
+                                            <a href="/scholar-publication/p17v/64724">Review Of Watermarking Techniques For Medical Images</a>
+
+                                            <br />
+                                                INTERNATIONAL JOURNAL OF APPLIED ENGINEERING RESEARCH<br />
+                                            <span class="badge rounded-pill  bg-info">Publication In Scopus</span> <span class="badge rounded-pill  bg-success">CO-AUTHOR</span>
+                                        </td>
+                                        <td>2015</td>
+                                    </tr>
+                                    <tr>
+                                        <td>
+
+                                            <a href="/scholar-publication/p17v/64721">High Capacity Watermarking Technique For Medical Images Using Fibonacci Decomposition</a>
+
+                                            <br />
+                                                INTERNATIONAL JOURNAL OF APPLIED ENGINEERING RESEARCH<br />
+                                            <span class="badge rounded-pill  bg-info">Publication In Scopus</span> <span class="badge rounded-pill  bg-success">CO-AUTHOR</span>
+                                        </td>
+                                        <td>2015</td>
+                                    </tr>
+                                    <tr>
+                                        <td>
+
+                                            <a href="/scholar-publication/p17v/72584">Realistic Lip Syncing For Virtual Character Using Common Viseme Set</a>
+
+                                            <br />
+                                                COMPUTER AND INFORMATION SCIENCE<br />
+                                            <span class="badge rounded-pill  bg-info">Journal Article Non Citation-Indexed</span> <span class="badge rounded-pill  bg-success">UTM FIRST AUTHOR</span>
+                                        </td>
+                                        <td>2015</td>
+                                    </tr>
+                                    <tr>
+                                        <td>
+
+                                            <a href="/scholar-publication/p17v/69604">Classification Of Novel Selected Region Of Interest For Color Image Encryption</a>
+
+                                            <br />
+                                                RESEARCH JOURNAL OF APPLIED SCIENCES, ENGINEERING AND TECHNOLOGY<br />
+                                            <span class="badge rounded-pill  bg-info">Publication In Scopus</span> <span class="badge rounded-pill  bg-success">UTM FIRST AUTHOR</span>
+                                        </td>
+                                        <td>2015</td>
+                                    </tr>
+                                    <tr>
+                                        <td>
+
+                                            <a href="/scholar-publication/p17v/69602">Detection Of Video Forgery: A Review Of Literature</a>
+
+                                            <br />
+                                                JOURNAL OF THEORETICAL AND APPLIED INFORMATION TECHNOLOGY<br />
+                                            <span class="badge rounded-pill  bg-info">Publication In Scopus</span> <span class="badge rounded-pill  bg-success">UTM FIRST AUTHOR</span>
+                                        </td>
+                                        <td>2015</td>
+                                    </tr>
+                                    <tr>
+                                        <td>
+
+                                            <a href="/scholar-publication/p17v/67581">Classify The Plant Species Based On Lobes, Sinuses And Margin</a>
+
+                                            <br />
+                                                JURNAL TEKNOLOGI<br />
+                                            <span class="badge rounded-pill  bg-info">Publication In Scopus</span> <span class="badge rounded-pill  bg-success">CO-AUTHOR</span>
+                                        </td>
+                                        <td>2015</td>
+                                    </tr>
+                                    <tr>
+                                        <td>
+
+                                            <a href="/scholar-publication/p17v/66190">A New Algorithm For Improving The Low Contrast Of Computed&#xD;&#xA;Tomography Images Using Tuned Brightness Controlled&#xD;&#xA;Single-Scale Retinex</a>
+
+                                            <br />
+                                                SCANNING<br />
+                                            <span class="badge rounded-pill  bg-info">Publication In Web Of Science</span> <span class="badge rounded-pill  bg-success">UTM FIRST AUTHOR</span>
+                                        </td>
+                                        <td>2015</td>
+                                    </tr>
+                                    <tr>
+                                        <td>
+
+                                            <a href="/scholar-publication/p17v/66188">An Innovative Technique For Contrast Enhancement Of Computed Tomography Images Using Normalized Gamma-Corrected Contrast-Limited Adaptive Histogram Equalization</a>
+
+                                            <br />
+                                                EURASIP JOURNAL ON ADVANCES IN SIGNAL PROCESSING<br />
+                                            <span class="badge rounded-pill  bg-info">Publication In Web Of Science</span> <span class="badge rounded-pill  bg-success">UTM FIRST AUTHOR</span>
+                                        </td>
+                                        <td>2015</td>
+                                    </tr>
+                                    <tr>
+                                        <td>
+
+                                            <a href="/scholar-publication/p17v/66185">A Novel Zohair Filter For Deblurring Computed&#xD;&#xA;Tomography Medical Images</a>
+
+                                            <br />
+                                                INTERNATIONAL JOURNAL OF IMAGING SYSTEMS AND TECHNOLOGY<br />
+                                            <span class="badge rounded-pill  bg-info">Publication In Web Of Science</span> <span class="badge rounded-pill  bg-success">UTM FIRST AUTHOR</span>
+                                        </td>
+                                        <td>2015</td>
+                                    </tr>
+                                    <tr>
+                                        <td>
+
+                                            <a href="/scholar-publication/p17v/66720">A Novel Approach For Detection Of Copy Move&#xD;&#xA;Forgery Using Completed Robust Local Binary&#xD;&#xA;Pattern</a>
+
+                                            <br />
+                                                JOURNAL OF INFORMATION HIDING AND MULTIMEDIA SIGNAL PROCESSING<br />
+                                            <span class="badge rounded-pill  bg-info">Publication In Scopus</span> <span class="badge rounded-pill  bg-success">UTM FIRST AUTHOR</span>
+                                        </td>
+                                        <td>2015</td>
+                                    </tr>
+                                    <tr>
+                                        <td>
+
+                                            <a href="/scholar-publication/p17v/66187">Chaotic Map-Embedded Blowfish Algorithm For Security Enhancement Of Colour Image Encryption</a>
+
+                                            <br />
+                                                NONLINEAR DYNAMICS <br />
+                                            <span class="badge rounded-pill  bg-info">Publication In Web Of Science</span> <span class="badge rounded-pill  bg-success">UTM FIRST AUTHOR</span>
+                                        </td>
+                                        <td>2015</td>
+                                    </tr>
+                                    <tr>
+                                        <td>
+
+                                            <a href="/scholar-publication/p17v/68348">A Review On The Bioinformatics Tools For Neuroimaging</a>
+
+                                            <br />
+                                                MALAYSIAN JOURNAL OF MEDICAL SCIENCES<br />
+                                            <span class="badge rounded-pill  bg-info">Publication In Scopus</span> <span class="badge rounded-pill  bg-success">CO-AUTHOR</span>
+                                        </td>
+                                        <td>2015</td>
+                                    </tr>
+                                    <tr>
+                                        <td>
+
+                                            <a href="/scholar-publication/p17v/66186">Alpha Shape Theory For 3d Visualization And Volumetric Measurement Of Brain Tumor Progression Using Magnetic Resonance Images</a>
+
+                                            <br />
+                                                MAGNETIC RESONANCE IMAGING <br />
+                                            <span class="badge rounded-pill  bg-info">Publication In Web Of Science</span> <span class="badge rounded-pill  bg-success">UTM FIRST AUTHOR</span>
+                                        </td>
+                                        <td>2015</td>
+                                    </tr>
+                                    <tr>
+                                        <td>
+
+                                            <a href="/scholar-publication/p17v/9068">Exploring The Challenges Of Mp3 Audio Steganography </a>
+
+                                            <br />
+                                                2013 International Conference on Advanced Computer Science Applications and Technologies<br />
+                                            <span class="badge rounded-pill  bg-info">Publication In Scopus</span> <span class="badge rounded-pill  bg-success">CO-AUTHOR</span>
+                                        </td>
+                                        <td>2014</td>
+                                    </tr>
+                                    <tr>
+                                        <td>
+
+                                            <a href="/scholar-publication/p17v/10206">A Survey Of Copy-Move Detection Techniques</a>
+
+                                            <br />
+                                                JOURNAL OF THEORETICAL AND APPLIED INFORMATION TECHNOLOGY<br />
+                                            <span class="badge rounded-pill  bg-info">Publication In Scopus</span> <span class="badge rounded-pill  bg-success">UTM FIRST AUTHOR</span>
+                                        </td>
+                                        <td>2014</td>
+                                    </tr>
+                                    <tr>
+                                        <td>
+
+                                            <a href="/scholar-publication/p17v/9322">Arabic Writer Identification: A Review Of Literature</a>
+
+                                            <br />
+                                                JOURNAL OF THEORETICAL AND APPLIED INFORMATION TECHNOLOGY<br />
+                                            <span class="badge rounded-pill  bg-info">Publication In Scopus</span> <span class="badge rounded-pill  bg-success">UTM FIRST AUTHOR</span>
+                                        </td>
+                                        <td>2014</td>
+                                    </tr>
+                                    <tr>
+                                        <td>
+
+                                            <a href="/scholar-publication/p17v/9060">Leaf Recognition Based On Leaf Tip And Leaf Base Using Centroid Contour Gradient</a>
+
+                                            <br />
+                                                ADVANCED SCIENCE LETTERS<br />
+                                            <span class="badge rounded-pill  bg-info">Publication In Scopus</span> <span class="badge rounded-pill  bg-success">UTM FIRST AUTHOR</span>
+                                        </td>
+                                        <td>2014</td>
+                                    </tr>
+                                    <tr>
+                                        <td>
+
+                                            <a href="/scholar-publication/p17v/9087">Human Activities Recognition Via Features&#xD;&#xA;Extraction From Skeleton </a>
+
+                                            <br />
+                                                Journal of Theoretical and Applied Information Technology<br />
+                                            <span class="badge rounded-pill  bg-info">Publication In Scopus</span> <span class="badge rounded-pill  bg-success">UTM FIRST AUTHOR</span>
+                                        </td>
+                                        <td>2014</td>
+                                    </tr>
+                                    <tr>
+                                        <td>
+
+                                            <a href="/scholar-publication/p17v/13754">A Natural Conversational Virtual Human With Multimodal Dialog System</a>
+
+                                            <br />
+                                                JURNAL TEKNOLOGI<br />
+                                            <span class="badge rounded-pill  bg-info">Publication In Scopus</span> <span class="badge rounded-pill  bg-success">UTM FIRST AUTHOR</span>
+                                        </td>
+                                        <td>2014</td>
+                                    </tr>
+                                    <tr>
+                                        <td>
+
+                                            <a href="/scholar-publication/p17v/9075">Data Hiding Based On Improved Exploiting Modification Direction Method And Huffman Coding</a>
+
+                                            <br />
+                                                JOURNAL OF INTELLIGENT SYSTEMS<br />
+                                            <span class="badge rounded-pill  bg-info">Publication In Scopus</span> <span class="badge rounded-pill  bg-success">UTM FIRST AUTHOR</span>
+                                        </td>
+                                        <td>2014</td>
+                                    </tr>
+                                    <tr>
+                                        <td>
+
+                                            <a href="/scholar-publication/p17v/9082">Offline Handwritten Signature Verification&#xD;&#xA;Using Back Propagation Artificial Neural&#xD;&#xA;Network Matching Technique </a>
+
+                                            <br />
+                                                Journal of Theoretical and Applied Information Technology<br />
+                                            <span class="badge rounded-pill  bg-info">Publication In Scopus</span> <span class="badge rounded-pill  bg-success">UTM FIRST AUTHOR</span>
+                                        </td>
+                                        <td>2014</td>
+                                    </tr>
+                                    <tr>
+                                        <td>
+
+                                            <a href="/scholar-publication/p17v/66176">A Review Of Fingerprint Image Pre-Processing</a>
+
+                                            <br />
+                                                JURNAL TEKNOLOGI (SCIENCES AND ENGINEERING)<br />
+                                            <span class="badge rounded-pill  bg-info">Publication In Scopus</span> <span class="badge rounded-pill  bg-success">UTM FIRST AUTHOR</span>
+                                        </td>
+                                        <td>2014</td>
+                                    </tr>
+                                    <tr>
+                                        <td>
+
+                                            <a href="/scholar-publication/p17v/66177">A Review Of Snake Models In Medical Mr Image Segmentation</a>
+
+                                            <br />
+                                                JURNAL TEKNOLOGI (SCIENCES AND ENGINEERING)<br />
+                                            <span class="badge rounded-pill  bg-info">Publication In Scopus</span> <span class="badge rounded-pill  bg-success">UTM FIRST AUTHOR</span>
+                                        </td>
+                                        <td>2014</td>
+                                    </tr>
+                                    <tr>
+                                        <td>
+
+                                            <a href="/scholar-publication/p17v/66119">Orientation Angle-Based 2d Ear Recognition System</a>
+
+                                            <br />
+                                                JURNAL TEKNOLOGI (SCIENCES AND ENGINEERING)<br />
+                                            <span class="badge rounded-pill  bg-info">Publication In Scopus</span> <span class="badge rounded-pill  bg-success">UTM FIRST AUTHOR</span>
+                                        </td>
+                                        <td>2014</td>
+                                    </tr>
+                                    <tr>
+                                        <td>
+
+                                            <a href="/scholar-publication/p17v/10112">Multi Facial Blurring Using Improved Henon Map</a>
+
+                                            <br />
+                                                TELKOMNIKA ( TELECOMMUNICATION, COMPUTING, ELECTRONICS AND CONTROL<br />
+                                            <span class="badge rounded-pill  bg-info">Publication In Scopus</span> <span class="badge rounded-pill  bg-success">UTM FIRST AUTHOR</span>
+                                        </td>
+                                        <td>2014</td>
+                                    </tr>
+                                    <tr>
+                                        <td>
+
+                                            <a href="/scholar-publication/p17v/5122">Orientation Angle-Based 2d Ear Recognition System</a>
+
+                                            <br />
+                                                JURNAL TEKNOLOGI<br />
+                                            <span class="badge rounded-pill  bg-info">Publication In Scopus</span> <span class="badge rounded-pill  bg-success">UTM FIRST AUTHOR</span>
+                                        </td>
+                                        <td>2014</td>
+                                    </tr>
+                                    <tr>
+                                        <td>
+
+                                            <a href="/scholar-publication/p17v/5120">Survey On Gap Filling Algorithms In Landsat7 Etm&#x2B; Images</a>
+
+                                            <br />
+                                                JOURNAL OF THEORETICAL AND APPLIED INFORMATION TECHNOLOGY<br />
+                                            <span class="badge rounded-pill  bg-info">Publication In Scopus</span> <span class="badge rounded-pill  bg-success">UTM FIRST AUTHOR</span>
+                                        </td>
+                                        <td>2014</td>
+                                    </tr>
+                                    <tr>
+                                        <td>
+
+                                            <a href="/scholar-publication/p17v/5133">A Review Of Fingerprint Image Pre-Processing</a>
+
+                                            <br />
+                                                JURNAL TEKNOLOGI<br />
+                                            <span class="badge rounded-pill  bg-info">Publication In Scopus</span> <span class="badge rounded-pill  bg-success">UTM FIRST AUTHOR</span>
+                                        </td>
+                                        <td>2014</td>
+                                    </tr>
+                                    <tr>
+                                        <td>
+
+                                            <a href="/scholar-publication/p17v/5125">A Review Of Snake Models In Medical Mr Image Segmentation</a>
+
+                                            <br />
+                                                JURNAL TEKNOLOGI<br />
+                                            <span class="badge rounded-pill  bg-info">Publication In Scopus</span> <span class="badge rounded-pill  bg-success">UTM FIRST AUTHOR</span>
+                                        </td>
+                                        <td>2014</td>
+                                    </tr>
+                                    <tr>
+                                        <td>
+
+                                            <a href="/scholar-publication/p17v/5109">A Sketch Based Image Retrieval: A Review Of Literature</a>
+
+                                            <br />
+                                                JOURNAL OF THEORETICAL AND APPLIED INFORMATION TECHNOLOGY<br />
+                                            <span class="badge rounded-pill  bg-info">Publication In Scopus</span> <span class="badge rounded-pill  bg-success">UTM FIRST AUTHOR</span>
+                                        </td>
+                                        <td>2014</td>
+                                    </tr>
+                                    <tr>
+                                        <td>
+
+                                            <a href="/scholar-publication/p17v/5107">Tumor Brain Detection Through Mr Images: A Review Of Literature</a>
+
+                                            <br />
+                                                JOURNAL OF THEORETICAL AND APPLIED INFORMATION TECHNOLOGY<br />
+                                            <span class="badge rounded-pill  bg-info">Publication In Scopus</span> <span class="badge rounded-pill  bg-success">UTM FIRST AUTHOR</span>
+                                        </td>
+                                        <td>2014</td>
+                                    </tr>
+                                    <tr>
+                                        <td>
+
+                                            <a href="/scholar-publication/p17v/3918">Emotional Facial Expression, Eye Behaviors, Lips Synchronization: Current And Future Direction</a>
+
+                                            <br />
+                                                LIFE SCIENCE JOURNAL<br />
+                                            <span class="badge rounded-pill  bg-info">Publication In Scopus</span> <span class="badge rounded-pill  bg-success">UTM FIRST AUTHOR</span>
+                                        </td>
+                                        <td>2014</td>
+                                    </tr>
+                                    <tr>
+                                        <td>
+
+                                            <a href="/scholar-publication/p17v/3919">An Innovative Vehicle Detection Approach Based On Background Substraction And Morphological Binary Aperations Methods</a>
+
+                                            <br />
+                                                LIFE SCIENCE JOURNAL<br />
+                                            <span class="badge rounded-pill  bg-info">Publication In Scopus</span> <span class="badge rounded-pill  bg-success">UTM FIRST AUTHOR</span>
+                                        </td>
+                                        <td>2014</td>
+                                    </tr>
+                                    <tr>
+                                        <td>
+
+                                            <a href="/scholar-publication/p17v/3908">A New Watermarking Technique For Mammogram Images Copy Right Protection</a>
+
+                                            <br />
+                                                LIFE SCIENCE JOURNAL<br />
+                                            <span class="badge rounded-pill  bg-info">Publication In Scopus</span> <span class="badge rounded-pill  bg-success">UTM FIRST AUTHOR</span>
+                                        </td>
+                                        <td>2014</td>
+                                    </tr>
+                                    <tr>
+                                        <td>
+
+                                            <a href="/scholar-publication/p17v/9034">Attenuating Noise From Computed Tomography Medical Images Using A Coefficients-Driven Total Variation Denoising Algorithm</a>
+
+                                            <br />
+                                                International Journal of Imaging Systems and Technology<br />
+                                            <span class="badge rounded-pill  bg-info">Publication In Web Of Science</span> <span class="badge rounded-pill  bg-success">UTM FIRST AUTHOR</span>
+                                        </td>
+                                        <td>2014</td>
+                                    </tr>
+                                    <tr>
+                                        <td>
+
+                                            <a href="/scholar-publication/p17v/5101">Intelligent Fuzzy Approach For Fast Fractal Image Compression</a>
+
+                                            <br />
+                                                EURASIP JOURNAL ON ADVANCES IN SIGNAL PROCESSING<br />
+                                            <span class="badge rounded-pill  bg-info">Publication In Web Of Science</span> <span class="badge rounded-pill  bg-success">UTM FIRST AUTHOR</span>
+                                        </td>
+                                        <td>2014</td>
+                                    </tr>
+                                    <tr>
+                                        <td>
+
+                                            <a href="/scholar-publication/p17v/5098">Face Recognition Via Edge-Based Gabor Feature Representation For Plastic Surgery-Altered Images</a>
+
+                                            <br />
+                                                EURASIP JOURNAL ON ADVANCES IN SIGNAL PROCESSING<br />
+                                            <span class="badge rounded-pill  bg-info">Publication In Web Of Science</span> <span class="badge rounded-pill  bg-success">UTM FIRST AUTHOR</span>
+                                        </td>
+                                        <td>2014</td>
+                                    </tr>
+                                    <tr>
+                                        <td>
+
+                                            <a href="/scholar-publication/p17v/9097">Offline Handwritten Signature Identification Using Adaptive Window Positioning Techniques</a>
+
+                                            <br />
+                                                SIGNAL AND IMAGE PROCESSING: AN INTERNATIONAL JOURNAL<br />
+                                            <span class="badge rounded-pill  bg-info">Journal Article Non Citation-Indexed</span> <span class="badge rounded-pill  bg-success">UTM FIRST AUTHOR</span>
+                                        </td>
+                                        <td>2014</td>
+                                    </tr>
+                                    <tr>
+                                        <td>
+
+                                            <a href="/scholar-publication/p17v/5163">Vehicle Detection And Tracking Techniques: A Concise Review</a>
+
+                                            <br />
+                                                SIGNAL &amp; IMAGE PROCESSING: AN INTERNATIONAL JOURNAL (SIPIJ)<br />
+                                            <span class="badge rounded-pill  bg-info">Journal Article Non Citation-Indexed</span> <span class="badge rounded-pill  bg-success">UTM FIRST AUTHOR</span>
+                                        </td>
+                                        <td>2014</td>
+                                    </tr>
+                                    <tr>
+                                        <td>
+
+                                            <a href="/scholar-publication/p17v/5183">Improving The Mri Tumor Segmentation Process Using Appropriate Image Processing Techniques</a>
+
+                                            <br />
+                                                INTERNATIONAL JOURNAL OF IMAGE, GRAPHICS AND SIGNAL PROCESSING<br />
+                                            <span class="badge rounded-pill  bg-info">Journal Article Non Citation-Indexed</span> <span class="badge rounded-pill  bg-success">UTM FIRST AUTHOR</span>
+                                        </td>
+                                        <td>2014</td>
+                                    </tr>
+                                    <tr>
+                                        <td>
+
+                                            <a href="/scholar-publication/p17v/5197">A New Colour Image Steganography Using Lsb Approach With Halftoning Determination Embedding Position</a>
+
+                                            <br />
+                                                INTERNATIONAL JOURNAL OF ENGINEERING RESEARCH<br />
+                                            <span class="badge rounded-pill  bg-info">Journal Article Non Citation-Indexed</span> <span class="badge rounded-pill  bg-success">UTM FIRST AUTHOR</span>
+                                        </td>
+                                        <td>2014</td>
+                                    </tr>
+                                    <tr>
+                                        <td>
+
+                                            <a href="/scholar-publication/p17v/3907">Fingerprint Classification Techniques: A Review</a>
+
+                                            <br />
+                                                INTERNATIONAL JOURNAL OF COMPUTER SCIENCE ISSUES<br />
+                                            <span class="badge rounded-pill  bg-info">Journal Article Non Citation-Indexed</span> <span class="badge rounded-pill  bg-success">UTM FIRST AUTHOR</span>
+                                        </td>
+                                        <td>2014</td>
+                                    </tr>
+                                    <tr>
+                                        <td>
+
+                                            <a href="/scholar-publication/p17v/9268">Review On Passive Approaches For Detecting Image Tampering</a>
+
+                                            <br />
+                                                IRICT 2014 1ST INTERNATIONAL CONFERENCE OF RECENT TRENDS IN INFORMATION AND COMMUNICATION TECHNOLOGIES<br />
+                                            <span class="badge rounded-pill  bg-info">Proceedings</span> <span class="badge rounded-pill  bg-success">UTM FIRST AUTHOR</span>
+                                        </td>
+                                        <td>2014</td>
+                                    </tr>
+                                    <tr>
+                                        <td>
+
+                                            <a href="/scholar-publication/p17v/9266">Review On Tools For Image Detection Forgery</a>
+
+                                            <br />
+                                                IRICT 2014 1ST INTERNATIONAL CONFERENCE OF RECENT TRENDS IN INFORMATION AND COMMUNICATION TECHNOLOGIES<br />
+                                            <span class="badge rounded-pill  bg-info">Proceedings</span> <span class="badge rounded-pill  bg-success">UTM FIRST AUTHOR</span>
+                                        </td>
+                                        <td>2014</td>
+                                    </tr>
+                                    <tr>
+                                        <td>
+
+                                            <a href="/scholar-publication/p17v/12550">Improving Codebook-Based Writer Recognition</a>
+
+                                            <br />
+                                                INTERNATIONAL JOURNAL OF PATTERN RECOGNITION AND ARTIFICIAL INTELLIGENCE<br />
+                                            <span class="badge rounded-pill  bg-info">Publication In Web Of Science</span> <span class="badge rounded-pill  bg-success">UTM FIRST AUTHOR</span>
+                                        </td>
+                                        <td>2013</td>
+                                    </tr>
+                                    <tr>
+                                        <td>
+
+                                            <a href="/scholar-publication/p17v/268">A New Method For Audio Steganography Using Message Integrity</a>
+
+                                            <br />
+                                                JOURNAL OF CONVERGENCE INFORMATION TECHNOLOGY<br />
+                                            <span class="badge rounded-pill  bg-info">Journal Article Non Citation-Indexed</span> <span class="badge rounded-pill  bg-success">CO-AUTHOR</span>
+                                        </td>
+                                        <td>2013</td>
+                                    </tr>
+                                    <tr>
+                                        <td>
+
+                                            <a href="/scholar-publication/p17v/11838">Illumination Normalization For Edge-Based Face Recognition Using The Fusion Of Rgb Normalization And Gamma Correction</a>
+
+                                            <br />
+                                                2013 IEEE INTERNATIONAL CONFERENCE ON SIGNAL AND IMAGE PROCESSING APPLICATIONS (ICSIPA)<br />
+                                            <span class="badge rounded-pill  bg-info">Publication In Scopus</span> <span class="badge rounded-pill  bg-success">UTM FIRST AUTHOR</span>
+                                        </td>
+                                        <td>2013</td>
+                                    </tr>
+                                    <tr>
+                                        <td>
+
+                                            <a href="/scholar-publication/p17v/36680">Fingerprint Image Recinstruction And Enhancement</a>
+
+                                            <br />
+                                                Advances in Image Processing and Pattern Recognition: Algorithms &amp; Practice<br />
+                                            <span class="badge rounded-pill  bg-info">Book Chapter</span> <span class="badge rounded-pill  bg-success">INDIVIDUAL AUTHOR</span>
+                                        </td>
+                                        <td>2007</td>
+                                    </tr>
+                            </tbody>
+                        </table>
+                    </div>
+                    </p>
+                </div>
+                <div class="tab-pane p-3" id="ip_tab" role="tabpanel">
+                    <p class="mb-0">
+                    <p class="text-muted">
+                        Legend :
+                        <span class="badge rounded-pill  bg-info">IP CATEGORY </span>
+                        <span class="badge rounded-pill  bg-warning">IP LEVEL </span>
+
+                    </p>
+                    <div class="table-responsive">
+                        <table id="IPListTablePersonalDatatable" class="table mb-0 dt-responsive nowrap" style="border-collapse: collapse; border-spacing: 0; width: 100%;">
+                            <thead>
+                                <tr>
+                                    <th>Intellectual Property Name</th>
+                                    <th>Grant Register No.</th>
+                                    <th>IP Level</th>
+                                    <th>IP Category</th>
+                                </tr>
+                            </thead>
+                            <tbody>
+                                    <tr>
+                                        <td><a href="/intelectual-property/p17v/Rz2d"> ONLINE IMAGE RETRIEVAL BASED ON SKETCH BOARD MINING</a></td>
+                                        <td></td>
+                                        <td><span class="badge rounded-pill  bg-warning">NATIONAL</span></td>
+                                        <td><span class="badge rounded-pill  bg-info">PATENT</span></td>
+                                    </tr>
+                                    <tr>
+                                        <td><a href="/intelectual-property/p17v/dAYG"> METHOD AND SYSTEM FOR MAGNETIC RESONANCE (MR) IMAGE BRAIN TUMOR SEGMENTATION, THREE DIMENSIONAL VISUALIZATION AND VOLUMETRIC MEASUREMENT</a></td>
+                                        <td>MY-193490-A</td>
+                                        <td><span class="badge rounded-pill  bg-warning">NATIONAL</span></td>
+                                        <td><span class="badge rounded-pill  bg-info">PATENT</span></td>
+                                    </tr>
+                                    <tr>
+                                        <td><a href="/intelectual-property/p17v/ABl1"> A TWO-TIER SCHEME FOR OFFLINE TEXT-INDEPENDENT WRITER IDENTIFICATION USING RETRIEVAL MECHANISM</a></td>
+                                        <td>LY2017005902</td>
+                                        <td><span class="badge rounded-pill  bg-warning">NATIONAL</span></td>
+                                        <td><span class="badge rounded-pill  bg-info">COPYRIGHT</span></td>
+                                    </tr>
+                                    <tr>
+                                        <td><a href="/intelectual-property/p17v/lWyo"> WEB IMAGE RETRIEVAL USING SEMANTIC DICTIONARY LSA</a></td>
+                                        <td>LY2016003324</td>
+                                        <td><span class="badge rounded-pill  bg-warning">NATIONAL</span></td>
+                                        <td><span class="badge rounded-pill  bg-info">COPYRIGHT</span></td>
+                                    </tr>
+                                    <tr>
+                                        <td><a href="/intelectual-property/p17v/zzZy"> TWO STEPS FOR RECOVERING THE LARGE GAPS IN LANDSAT 7 SLC-OFF IMAGERY USING WEIGHTED MULTIPLE LINEAR REGRESSION WMLR</a></td>
+                                        <td>LY2016003385</td>
+                                        <td><span class="badge rounded-pill  bg-warning">NATIONAL</span></td>
+                                        <td><span class="badge rounded-pill  bg-info">COPYRIGHT</span></td>
+                                    </tr>
+                                    <tr>
+                                        <td><a href="/intelectual-property/p17v/dAR8"> IMAGE RETRIEVAL BASED ON CONCEPTUAL MINING</a></td>
+                                        <td>LY2016003338</td>
+                                        <td><span class="badge rounded-pill  bg-warning">NATIONAL</span></td>
+                                        <td><span class="badge rounded-pill  bg-info">COPYRIGHT</span></td>
+                                    </tr>
+                                    <tr>
+                                        <td><a href="/intelectual-property/p17v/w8b1"> COPYRIGHT PROTECTION SYSTEM FOR : CHAOTIC MAP EMBEDDED BLOWFISH ALGORITHM FOR SECURITY ENHANCEMENT OF COLOUR IMAGE ENCRYPTION</a></td>
+                                        <td>-                             </td>
+                                        <td><span class="badge rounded-pill  bg-warning">NATIONAL</span></td>
+                                        <td><span class="badge rounded-pill  bg-info">COPYRIGHT</span></td>
+                                    </tr>
+                                    <tr>
+                                        <td><a href="/intelectual-property/p17v/94ov"> COPYRIGHT PROTECTION SYSTEM FOR : CLASSIFICATION OF NOVEL SELECTED REGION OF INTEREST FOR COLOR IMAGE ENCRYPTION</a></td>
+                                        <td>-                             </td>
+                                        <td><span class="badge rounded-pill  bg-warning">NATIONAL</span></td>
+                                        <td><span class="badge rounded-pill  bg-info">COPYRIGHT</span></td>
+                                    </tr>
+                                    <tr>
+                                        <td><a href="/intelectual-property/p17v/ZQ4w"> COPYRIGHT PROTECTION SYSTEM FOR: A NEW METHOD FOR LINE SEGMENTATION IN ARABIC HANDWRITTEN DOCUMENTS</a></td>
+                                        <td>-                             </td>
+                                        <td><span class="badge rounded-pill  bg-warning">NATIONAL</span></td>
+                                        <td><span class="badge rounded-pill  bg-info">COPYRIGHT</span></td>
+                                    </tr>
+                                    <tr>
+                                        <td><a href="/intelectual-property/p17v/q3rj"> COPYRIGHT PROTECTION SYSTEM FOR: AUTOMATIC SEGMENTATION OF BRAIN TUMOR FROM MR IMAGES USING SLANTLET TRANSFORM</a></td>
+                                        <td>-                             </td>
+                                        <td><span class="badge rounded-pill  bg-warning">NATIONAL</span></td>
+                                        <td><span class="badge rounded-pill  bg-info">COPYRIGHT</span></td>
+                                    </tr>
+                                    <tr>
+                                        <td><a href="/intelectual-property/p17v/B4RK"> COPYRIGHT PROTECTION SYSTEM FOR: A NEW METHOD FOR DETECTING CEREBRAL TISSUES ABNORMALITY IN MAGNETIC RESONANCE IMAGES  </a></td>
+                                        <td>-                             </td>
+                                        <td><span class="badge rounded-pill  bg-warning">NATIONAL</span></td>
+                                        <td><span class="badge rounded-pill  bg-info">COPYRIGHT</span></td>
+                                    </tr>
+                                    <tr>
+                                        <td><a href="/intelectual-property/p17v/lgGG"> WRITER RECOGNITION SYSTEM BASED ON EXTENDED CODEBOOKS OF WRITING DOCUMENTS FOR FORENSIC PURPOSES</a></td>
+                                        <td></td>
+                                        <td><span class="badge rounded-pill  bg-warning">NATIONAL</span></td>
+                                        <td><span class="badge rounded-pill  bg-info">COPYRIGHT</span></td>
+                                    </tr>
+                                    <tr>
+                                        <td><a href="/intelectual-property/p17v/WNzy"> COPYRIGHT PROTECTION SYSTEM FOR DIGITAL DOCUMENT USING A NEW RGB COLOUR IMAGE WATERMARKING TECHNIQUE BASED ON LSB INSERTION AND DISCRETE STANLET TRANSFORM</a></td>
+                                        <td></td>
+                                        <td><span class="badge rounded-pill  bg-warning">NATIONAL</span></td>
+                                        <td><span class="badge rounded-pill  bg-info">COPYRIGHT</span></td>
+                                    </tr>
+                                    <tr>
+                                        <td><a href="/intelectual-property/p17v/oRNj"> AN EFFECTIVE REAL-TIME INVISBLE DIGITAL ASSET WATERMARKING TECHNIQUE FOR COPYRIGHT PROTECTION</a></td>
+                                        <td></td>
+                                        <td><span class="badge rounded-pill  bg-warning">NATIONAL</span></td>
+                                        <td><span class="badge rounded-pill  bg-info">COPYRIGHT</span></td>
+                                    </tr>
+                            </tbody>
+                        </table>
+                    </div>
+                    </p>
+                </div>
+                <div class="tab-pane p-3" id="supervision_tab" role="tabpanel">
+                    <p class="mb-0">
+                    <p class="text-muted">
+                        Legend :
+                        <span class="badge rounded-pill  bg-info">SESSION </span>
+                        <span class="badge rounded-pill  bg-success">LEVEL OF STUDY</span>
+                        <span class="badge rounded-pill  bg-warning">STATUS </span>
+                        <span class="badge rounded-pill  bg-danger">SUPERVISION LEVEL </span>
+                    </p>
+                    <div class="table-responsive">
+                        <table id="supervisionListTablePersonalDatatable" class="table table-bordered dt-responsive nowrap" style="border-collapse: collapse; border-spacing: 0; width: 100%;">
+                            <thead>
+                                <tr>
+                                    <th>Supervision List</th>
+                                </tr>
+                            </thead>
+                            <tbody>
+                                    <tr>
+                                        <td>
+                                            <strong>NASARUDIN BIN DAUD</strong><br />
+                                                PATTERN RECOGNITION AND COMPUTER VISION<br />
+                                            <span class="badge rounded-pill  bg-success">PHD</span>
+                                            <span class="badge rounded-pill  bg-warning">FAIL AND DISMISSAL</span>
+                                            <span class="badge rounded-pill  bg-danger">SUPERVISOR</span>
+                                        </td>
+                                    </tr>
+                                    <tr>
+                                        <td>
+                                            <strong>TANZILA SABA</strong><br />
+                                                OFFLINE CURSIVE TOUCHED SCRIPT NON-LINEAR SEGMENTATION<br />
+                                            <span class="badge rounded-pill  bg-success">PHD</span>
+                                            <span class="badge rounded-pill  bg-warning">GRADUATED</span>
+                                            <span class="badge rounded-pill  bg-danger">SUPERVISOR</span>
+                                                <span class="badge rounded-pill bg-info">2011</span>
+                                        </td>
+                                    </tr>
+                                    <tr>
+                                        <td>
+                                            <strong>MIR SHAHRIAR EMAMI</strong><br />
+                                                A NEW ROBUST IMAGE WATERMARKING APPROACH USING TWO-LEVEL INTERMEDIATE SIGNIFICANT BITS COUPLED WITH HISTOGRAM INTERSECTION TECHNIQUE<br />
+                                            <span class="badge rounded-pill  bg-success">PHD</span>
+                                            <span class="badge rounded-pill  bg-warning">GRADUATED</span>
+                                            <span class="badge rounded-pill  bg-danger">SUPERVISOR</span>
+                                                <span class="badge rounded-pill bg-info">2012</span>
+                                        </td>
+                                    </tr>
+                                    <tr>
+                                        <td>
+                                            <strong>SAPARUDIN</strong><br />
+                                                AN AUTOMATIC FINGERPRINT CLASSIFICATION TECHNIQUE BASED ON SINGULAR POINTS AND STRUCTURE SHAPE OF ORIENTATION FIELDS<br />
+                                            <span class="badge rounded-pill  bg-success">PHD</span>
+                                            <span class="badge rounded-pill  bg-warning">GRADUATED</span>
+                                            <span class="badge rounded-pill  bg-danger">SUPERVISOR</span>
+                                                <span class="badge rounded-pill bg-info">2012</span>
+                                        </td>
+                                    </tr>
+                                    <tr>
+                                        <td>
+                                            <strong>ALI NODEHI</strong><br />
+                                                A FRACTAL IMAGE COMPRESSION ALGORITHM BASED ON IMPROVED IMPERIALIST COMPETITIVE ALGORITHM<br />
+                                            <span class="badge rounded-pill  bg-success">PHD</span>
+                                            <span class="badge rounded-pill  bg-warning">GRADUATED</span>
+                                            <span class="badge rounded-pill  bg-danger">SUPERVISOR</span>
+                                                <span class="badge rounded-pill bg-info">2013</span>
+                                        </td>
+                                    </tr>
+                                    <tr>
+                                        <td>
+                                            <strong>SHEIKH MUHAMMAD JEHANZEB</strong><br />
+                                                OFF-LINE WRITER RECOGNITION FOR ENGLISH HANDWRITTEN TEXT DOCUMENTS BASED ON EXTENDED CODEBOOK APPROACH<br />
+                                            <span class="badge rounded-pill  bg-success">PHD</span>
+                                            <span class="badge rounded-pill  bg-warning">GRADUATED</span>
+                                            <span class="badge rounded-pill  bg-danger">SUPERVISOR</span>
+                                                <span class="badge rounded-pill bg-info">2013</span>
+                                        </td>
+                                    </tr>
+                                    <tr>
+                                        <td>
+                                            <strong>MOHAMMED SALEM MOHAMMED ATOUM</strong><br />
+                                                MP3 AUDIO STEGANOGRAPHY TECHNIQUE USING EXTENDED LEAST SIGNIFICANT BIT<br />
+                                            <span class="badge rounded-pill  bg-success">PHD</span>
+                                            <span class="badge rounded-pill  bg-warning">GRADUATED</span>
+                                            <span class="badge rounded-pill  bg-danger">CO-SUPERVISOR</span>
+                                                <span class="badge rounded-pill bg-info">2014</span>
+                                        </td>
+                                    </tr>
+                                    <tr>
+                                        <td>
+                                            <strong>ZHILA RANJBARI</strong><br />
+                                                <br />
+                                            <span class="badge rounded-pill  bg-success">PHD</span>
+                                            <span class="badge rounded-pill  bg-warning">IELTS</span>
+                                            <span class="badge rounded-pill  bg-danger">SUPERVISOR</span>
+                                        </td>
+                                    </tr>
+                                    <tr>
+                                        <td>
+                                            <strong>HARITH RAAD HASAN</strong><br />
+                                                BLIND COLOUR IMAGE WATERMARKING TECHNIQUES IN HYBRID DOMAIN USING LEAST SIGNIFICANT BIT AND SLANTLET TRANSFORM<br />
+                                            <span class="badge rounded-pill  bg-success">PHD</span>
+                                            <span class="badge rounded-pill  bg-warning">GRADUATED</span>
+                                            <span class="badge rounded-pill  bg-danger">SUPERVISOR</span>
+                                                <span class="badge rounded-pill bg-info">2014</span>
+                                        </td>
+                                    </tr>
+                                    <tr>
+                                        <td>
+                                            <strong>ZOHAIR QAYS IBRAHIM AL-AMEEN</strong><br />
+                                                NEW ENHANCEMENT AND RESTORATION METHODS FOR THE AMELIORATION OF COMPUTED TOMOGRAPHY MEDICAL IMAGES<br />
+                                            <span class="badge rounded-pill  bg-success">PHD</span>
+                                            <span class="badge rounded-pill  bg-warning">GRADUATED</span>
+                                            <span class="badge rounded-pill  bg-danger">SUPERVISOR</span>
+                                                <span class="badge rounded-pill bg-info">2014</span>
+                                        </td>
+                                    </tr>
+                                    <tr>
+                                        <td>
+                                            <strong>CHOLLETTE CHIAZOR OLISAH</strong><br />
+                                                NEW FACE RECOGNITION DESCRIPTOR BASED ON EDGE INFORMATION OF SURGICALLY-ALTERED FACES IN UNCONTROLLED ENVIRONMENT<br />
+                                            <span class="badge rounded-pill  bg-success">PHD</span>
+                                            <span class="badge rounded-pill  bg-warning">GRADUATED</span>
+                                            <span class="badge rounded-pill  bg-danger">SUPERVISOR</span>
+                                                <span class="badge rounded-pill bg-info">2014</span>
+                                        </td>
+                                    </tr>
+                                    <tr>
+                                        <td>
+                                            <strong>ALAA  AHMED ABBOOD</strong><br />
+                                                AUTOMATIC FINGERPRINT CLASSIFICATION SCHEME USING TEMPLATE MATCHING WITH NEW SET OF SINGULAR POINT-BASED FEATURES<br />
+                                            <span class="badge rounded-pill  bg-success">PHD</span>
+                                            <span class="badge rounded-pill  bg-warning">GRADUATED</span>
+                                            <span class="badge rounded-pill  bg-danger">SUPERVISOR</span>
+                                                <span class="badge rounded-pill bg-info">2014</span>
+                                        </td>
+                                    </tr>
+                                    <tr>
+                                        <td>
+                                            <strong>MUHAMMAD TALHA NASEEM UPPAL</strong><br />
+                                                CLASSIFICATION OF MAMMOGRAMS BASED ON FUSION OF DISCRETE COSINE TRANSFORM, DISCRETE WAVELET TRANSFORM AND SHAPE FEATURES<br />
+                                            <span class="badge rounded-pill  bg-success">PHD</span>
+                                            <span class="badge rounded-pill  bg-warning">GRADUATED</span>
+                                            <span class="badge rounded-pill  bg-danger">SUPERVISOR</span>
+                                                <span class="badge rounded-pill bg-info">2015</span>
+                                        </td>
+                                    </tr>
+                                    <tr>
+                                        <td>
+                                            <strong>HARJA SANTANA PURBA</strong><br />
+                                                STEGANOGRAFI BERKAPASITI TINGGI MENGGUNAKAN PENGGANTIAN BIT TERKURANG BERERTI DAN PENGESANAN PINGGIR HIBRID<br />
+                                            <span class="badge rounded-pill  bg-success">PHD</span>
+                                            <span class="badge rounded-pill  bg-warning">GRADUATED</span>
+                                            <span class="badge rounded-pill  bg-danger">SUPERVISOR</span>
+                                                <span class="badge rounded-pill bg-info">2015</span>
+                                        </td>
+                                    </tr>
+                                    <tr>
+                                        <td>
+                                            <strong>MOHAMMED SABBIH HAMOUD</strong><br />
+                                                SLANTLET TRANSFORM-BASED SEGMENTATION AND ?-SHAPE THEORY-BASED 3D VISUALIZATION AND VOLUME CALCULATION METHODS FOR MRI BRAIN TUMOUR<br />
+                                            <span class="badge rounded-pill  bg-success">PHD</span>
+                                            <span class="badge rounded-pill  bg-warning">GRADUATED</span>
+                                            <span class="badge rounded-pill  bg-danger">SUPERVISOR</span>
+                                                <span class="badge rounded-pill bg-info">2015</span>
+                                        </td>
+                                    </tr>
+                                    <tr>
+                                        <td>
+                                            <strong>ITIMAD RAHEEM ALI</strong><br />
+                                                LIP SYNCING METHOD FOR REALISTIC EXPRESSIVE THREE-DIMENSIONAL FACE MODEL<br />
+                                            <span class="badge rounded-pill  bg-success">PHD</span>
+                                            <span class="badge rounded-pill  bg-warning">GRADUATED</span>
+                                            <span class="badge rounded-pill  bg-danger">SUPERVISOR</span>
+                                                <span class="badge rounded-pill bg-info">2015</span>
+                                        </td>
+                                    </tr>
+                                    <tr>
+                                        <td>
+                                            <strong>SALAM ABDULNABI THAJEEL</strong><br />
+                                                COPY-MOVE IMAGE FORGERY DETECTION SCHEME BASED ON NEW TEXTURE DESCRIPTOR UTILISING GRAPHICAL PROCESSING UNIT<br />
+                                            <span class="badge rounded-pill  bg-success">PHD</span>
+                                            <span class="badge rounded-pill  bg-warning">GRADUATED</span>
+                                            <span class="badge rounded-pill  bg-danger">SUPERVISOR</span>
+                                                <span class="badge rounded-pill bg-info">2015</span>
+                                        </td>
+                                    </tr>
+                                    <tr>
+                                        <td>
+                                            <strong>FATEMAH S S KH S Y S HASHEM</strong><br />
+                                                SLANTLET TRANSFORM-BASED IMAGE SPLICING FORGERY DETECTION METHOD WITH TAMPERED REGION LOCALISATION<br />
+                                            <span class="badge rounded-pill  bg-success">PHD</span>
+                                            <span class="badge rounded-pill  bg-warning">GRADUATED</span>
+                                            <span class="badge rounded-pill  bg-danger">SUPERVISOR</span>
+                                                <span class="badge rounded-pill bg-info">2015</span>
+                                        </td>
+                                    </tr>
+                                    <tr>
+                                        <td>
+                                            <strong>AHMED ABDULLAH AHMED</strong><br />
+                                                OFF-LINE WRITER RECOGNITION FOR ARABIC HANDWRITTEN TEXT DOCUMENT BASED ON BEGINNING AND ENDING STROKE FEATURES<br />
+                                            <span class="badge rounded-pill  bg-success">PHD</span>
+                                            <span class="badge rounded-pill  bg-warning">GRADUATED</span>
+                                            <span class="badge rounded-pill  bg-danger">SUPERVISOR</span>
+                                                <span class="badge rounded-pill bg-info">2015</span>
+                                        </td>
+                                    </tr>
+                                    <tr>
+                                        <td>
+                                            <strong>UGBAGA NKOLE IFEANYI</strong><br />
+                                                IMPROVED EAR IDENTIFICATION SCHEME USING GABOR FEATURES<br />
+                                            <span class="badge rounded-pill  bg-success">PHD</span>
+                                            <span class="badge rounded-pill  bg-warning">GRADUATED</span>
+                                            <span class="badge rounded-pill  bg-danger">SUPERVISOR</span>
+                                                <span class="badge rounded-pill bg-info">2015</span>
+                                        </td>
+                                    </tr>
+                                    <tr>
+                                        <td>
+                                            <strong>RAAD AHMED HADI</strong><br />
+                                                MOVING VEHICLES DETECTION AND TRACKING APPROACH VIA MODIFIED BACKGROUND SUBTRACTION AND INNOVATIVE ADAPTIVE SEARCH WINDOW<br />
+                                            <span class="badge rounded-pill  bg-success">PHD</span>
+                                            <span class="badge rounded-pill  bg-warning">GRADUATED</span>
+                                            <span class="badge rounded-pill  bg-danger">SUPERVISOR</span>
+                                                <span class="badge rounded-pill bg-info">2015</span>
+                                        </td>
+                                    </tr>
+                                    <tr>
+                                        <td>
+                                            <strong>LAHIEB MOHAMMED JAWAD</strong><br />
+                                                SELECTIVE COLOUR IMAGE ENCRYPTION BASED ON TEXTURE FEATURES USING ENHANCED BLOWFISH ALGORITHM<br />
+                                            <span class="badge rounded-pill  bg-success">PHD</span>
+                                            <span class="badge rounded-pill  bg-warning">GRADUATED</span>
+                                            <span class="badge rounded-pill  bg-danger">SUPERVISOR</span>
+                                                <span class="badge rounded-pill bg-info">2016</span>
+                                        </td>
+                                    </tr>
+                                    <tr>
+                                        <td>
+                                            <strong>ABEER E A M ALOMAIRI</strong><br />
+                                                A COARSE-TO-FINE-MATCHING METHOD FOR IMAGE RETRIEVAL USING TEXTURE FEATURES AND SLANTLET TRANSFORM<br />
+                                            <span class="badge rounded-pill  bg-success">PHD</span>
+                                            <span class="badge rounded-pill  bg-warning">GRADUATED</span>
+                                            <span class="badge rounded-pill  bg-danger">SUPERVISOR</span>
+                                                <span class="badge rounded-pill bg-info">2016</span>
+                                        </td>
+                                    </tr>
+                                    <tr>
+                                        <td>
+                                            <strong>ASMAA SADIQ ABDULJABAR</strong><br />
+                                                RECOVERING DEFECTIVE LANDSAT 7 ENHANCED THEMATIC MAPPER PLUS IMAGES USING MULTI-TEMPORAL RECONSTRUCTION APPROACH<br />
+                                            <span class="badge rounded-pill  bg-success">PHD</span>
+                                            <span class="badge rounded-pill  bg-warning">GRADUATED</span>
+                                            <span class="badge rounded-pill  bg-danger">SUPERVISOR</span>
+                                                <span class="badge rounded-pill bg-info">2016</span>
+                                        </td>
+                                    </tr>
+                                    <tr>
+                                        <td>
+                                            <strong>OMAR ISMAEL IBRAHIM</strong><br />
+                                                VIDEO COPY-MOVE FORGERY DETECTION SCHEME BASED ON DISPLACEMENT PATHS<br />
+                                            <span class="badge rounded-pill  bg-success">PHD</span>
+                                            <span class="badge rounded-pill  bg-warning">GRADUATED</span>
+                                            <span class="badge rounded-pill  bg-danger">SUPERVISOR</span>
+                                                <span class="badge rounded-pill bg-info">2016</span>
+                                        </td>
+                                    </tr>
+                                    <tr>
+                                        <td>
+                                            <strong>HUDA ABDULAALI ABDULBAQI</strong><br />
+                                                ONLINE SKETCH-BASED IMAGE RETRIEVAL USING KEYSHAPE MINING OF GEOMETRICAL OBJECTS<br />
+                                            <span class="badge rounded-pill  bg-success">PHD</span>
+                                            <span class="badge rounded-pill  bg-warning">GRADUATED</span>
+                                            <span class="badge rounded-pill  bg-danger">SUPERVISOR</span>
+                                                <span class="badge rounded-pill bg-info">2016</span>
+                                        </td>
+                                    </tr>
+                                    <tr>
+                                        <td>
+                                            <strong>GHALIB A SALMAN SALIH AITHAWI</strong><br />
+                                                HIERARCHICAL CLASSIFICATION SCHEME BASED ON GLOBAL AND LOCAL FEATURES FOR AGE ESTIMATION<br />
+                                            <span class="badge rounded-pill  bg-success">PHD</span>
+                                            <span class="badge rounded-pill  bg-warning">GRADUATED</span>
+                                            <span class="badge rounded-pill  bg-danger">SUPERVISOR</span>
+                                                <span class="badge rounded-pill bg-info">2016</span>
+                                        </td>
+                                    </tr>
+                                    <tr>
+                                        <td>
+                                            <strong>AZHAR @ NOR AZIZ BIN AHMAD JAINI</strong><br />
+                                                STEGANOGRAFI MUATAN TINGGI MENGGUNAKAN PENGGANTIAN BIT TERKURANG BERERTI DAN PEMBEZAAN NILAI PIKSEL BERASASKAN BIT<br />
+                                            <span class="badge rounded-pill  bg-success">PHD</span>
+                                            <span class="badge rounded-pill  bg-warning">GRADUATED</span>
+                                            <span class="badge rounded-pill  bg-danger">SUPERVISOR</span>
+                                                <span class="badge rounded-pill bg-info">2018</span>
+                                        </td>
+                                    </tr>
+                                    <tr>
+                                        <td>
+                                            <strong>GLORIA JENNIS TAN</strong><br />
+                                                OFFLINE TEXT-INDEPENDENT CHINESE WRITER IDENTIFICATION METHOD WITH TWO-TIER IMAGE RETRIEVAL<br />
+                                            <span class="badge rounded-pill  bg-success">PHD</span>
+                                            <span class="badge rounded-pill  bg-warning">GRADUATED</span>
+                                            <span class="badge rounded-pill  bg-danger">SUPERVISOR</span>
+                                                <span class="badge rounded-pill bg-info">2019</span>
+                                        </td>
+                                    </tr>
+                                    <tr>
+                                        <td>
+                                            <strong>ARAZ RAJAB ABRAHIM</strong><br />
+                                                IMAGE SPLICING DETECTION SCHEME USING ADAPTIVE THRESHOLD MEAN TERNARY PATTERN DESCRIPTOR<br />
+                                            <span class="badge rounded-pill  bg-success">PHD</span>
+                                            <span class="badge rounded-pill  bg-warning">GRADUATED</span>
+                                            <span class="badge rounded-pill  bg-danger">CO-SUPERVISOR</span>
+                                                <span class="badge rounded-pill bg-info">2019</span>
+                                        </td>
+                                    </tr>
+                                    <tr>
+                                        <td>
+                                            <strong>MOHAMAD FAIZAL BIN AB JABAL</strong><br />
+                                                SPOT FILTERING ADAPTIVE THRESHOLDING METHOD FOR IRIS PIGMENT SPOTS FEATURE EXTRACTION AND DETECTION<br />
+                                            <span class="badge rounded-pill  bg-success">PHD</span>
+                                            <span class="badge rounded-pill  bg-warning">GRADUATED</span>
+                                            <span class="badge rounded-pill  bg-danger">CO-SUPERVISOR</span>
+                                                <span class="badge rounded-pill bg-info">2019</span>
+                                        </td>
+                                    </tr>
+                                    <tr>
+                                        <td>
+                                            <strong>AOW YONG LI YEW</strong><br />
+                                                ENHANCED ALZHEIMER&#x27;S DISEASE CLASSIFICATION SCHEME USING 3D FEATURES<br />
+                                            <span class="badge rounded-pill  bg-success">PHD</span>
+                                            <span class="badge rounded-pill  bg-warning">GRADUATED</span>
+                                            <span class="badge rounded-pill  bg-danger">CO-SUPERVISOR</span>
+                                                <span class="badge rounded-pill bg-info">2021</span>
+                                        </td>
+                                    </tr>
+                                    <tr>
+                                        <td>
+                                            <strong>AHMED SAIFULLAH SAMI</strong><br />
+                                                ADAPTIVE HYBRID SEGMENTATION MODEL BASED ON WATERSHED AND ENHANCED U-NET FOR ENDOTHELIAL HUMAN CORNEA CELLS<br />
+                                            <span class="badge rounded-pill  bg-success">PHD</span>
+                                            <span class="badge rounded-pill  bg-warning">GRADUATED</span>
+                                            <span class="badge rounded-pill  bg-danger">CO-SUPERVISOR</span>
+                                                <span class="badge rounded-pill bg-info">2021</span>
+                                        </td>
+                                    </tr>
+                                    <tr>
+                                        <td>
+                                            <strong>MOHAMMED SULIMAN HAJI</strong><br />
+                                                PIXEL BLOCK BASED STEGANOGRAPHY CLASSIFICATION TECHNIQUE FOR MULTI RESOLUTION IMAGES<br />
+                                            <span class="badge rounded-pill  bg-success">PHD</span>
+                                            <span class="badge rounded-pill  bg-warning">GRADUATED</span>
+                                            <span class="badge rounded-pill  bg-danger">CO-SUPERVISOR</span>
+                                                <span class="badge rounded-pill bg-info">2024</span>
+                                        </td>
+                                    </tr>
+                                    <tr>
+                                        <td>
+                                            <strong>AG. NOORAJIS BIN AG. NORDIN</strong><br />
+                                                <br />
+                                            <span class="badge rounded-pill  bg-success">MASTER</span>
+                                            <span class="badge rounded-pill  bg-warning">ON GOING</span>
+                                            <span class="badge rounded-pill  bg-danger">SUPERVISOR</span>
+                                        </td>
+                                    </tr>
+                                    <tr>
+                                        <td>
+                                            <strong>SITI MASRINA BINTI SULONG               </strong><br />
+                                                <br />
+                                            <span class="badge rounded-pill  bg-success">MASTER</span>
+                                            <span class="badge rounded-pill  bg-warning">GRADUATED</span>
+                                            <span class="badge rounded-pill  bg-danger">SUPERVISOR</span>
+                                                <span class="badge rounded-pill bg-info">2003</span>
+                                        </td>
+                                    </tr>
+                                    <tr>
+                                        <td>
+                                            <strong>AZRI BIN MOHD ALI                       </strong><br />
+                                                <br />
+                                            <span class="badge rounded-pill  bg-success">MASTER</span>
+                                            <span class="badge rounded-pill  bg-warning">NOT ACTIVE MAINFRAME SYSTEMS STUDENTS    </span>
+                                            <span class="badge rounded-pill  bg-danger">SUPERVISOR</span>
+                                        </td>
+                                    </tr>
+                                    <tr>
+                                        <td>
+                                            <strong>LEONG CHUNG ERN                         </strong><br />
+                                                <br />
+                                            <span class="badge rounded-pill  bg-success">MASTER</span>
+                                            <span class="badge rounded-pill  bg-warning">ON GOING</span>
+                                            <span class="badge rounded-pill  bg-danger">SUPERVISOR</span>
+                                        </td>
+                                    </tr>
+                                    <tr>
+                                        <td>
+                                            <strong>AZHAR @ NOR AZIZ BIN AHMAD JAINI</strong><br />
+                                                STEGANOGRAPHIC METHOD USING ENHNCED PVD APPROACH<br />
+                                            <span class="badge rounded-pill  bg-success">MASTER</span>
+                                            <span class="badge rounded-pill  bg-warning">GRADUATED</span>
+                                            <span class="badge rounded-pill  bg-danger">SUPERVISOR</span>
+                                                <span class="badge rounded-pill bg-info">2010</span>
+                                        </td>
+                                    </tr>
+                                    <tr>
+                                        <td>
+                                            <strong>REBAND JAMIL HASSAN</strong><br />
+                                                <br />
+                                            <span class="badge rounded-pill  bg-success">MASTER</span>
+                                            <span class="badge rounded-pill  bg-warning">GRADUATED</span>
+                                            <span class="badge rounded-pill  bg-danger">SUPERVISOR</span>
+                                                <span class="badge rounded-pill bg-info">2013</span>
+                                        </td>
+                                    </tr>
+                                    <tr>
+                                        <td>
+                                            <strong>AMIR ESMAEIL SARABADANI TAFRESHI</strong><br />
+                                                <br />
+                                            <span class="badge rounded-pill  bg-success">MASTER</span>
+                                            <span class="badge rounded-pill  bg-warning">GRADUATED</span>
+                                            <span class="badge rounded-pill  bg-danger">SUPERVISOR</span>
+                                                <span class="badge rounded-pill bg-info">2013</span>
+                                        </td>
+                                    </tr>
+                                    <tr>
+                                        <td>
+                                            <strong>BOKAN OMAR ALI</strong><br />
+                                                <br />
+                                            <span class="badge rounded-pill  bg-success">MASTER</span>
+                                            <span class="badge rounded-pill  bg-warning">GRADUATED</span>
+                                            <span class="badge rounded-pill  bg-danger">SUPERVISOR</span>
+                                                <span class="badge rounded-pill bg-info">2013</span>
+                                        </td>
+                                    </tr>
+                                    <tr>
+                                        <td>
+                                            <strong>SAMAR KAMIL KHUDHAIR</strong><br />
+                                                <br />
+                                            <span class="badge rounded-pill  bg-success">MASTER</span>
+                                            <span class="badge rounded-pill  bg-warning">GRADUATED</span>
+                                            <span class="badge rounded-pill  bg-danger">SUPERVISOR</span>
+                                                <span class="badge rounded-pill bg-info">2013</span>
+                                        </td>
+                                    </tr>
+                                    <tr>
+                                        <td>
+                                            <strong>SAFA RIYADH WAHEED</strong><br />
+                                                A LEARNING DESCRIPTOR FOR OBJECT DETECTION USING IMPROVED DEEP LEARNING ARCHITECTURE&amp;NBSP;&#xD;&#xA;&amp;NBSP;<br />
+                                            <span class="badge rounded-pill  bg-success">MASTER</span>
+                                            <span class="badge rounded-pill  bg-warning">GRADUATED</span>
+                                            <span class="badge rounded-pill  bg-danger">SUPERVISOR</span>
+                                                <span class="badge rounded-pill bg-info">2013</span>
+                                        </td>
+                                    </tr>
+                                    <tr>
+                                        <td>
+                                            <strong>ISMAIL YAQUB MAOLOOD</strong><br />
+                                                <br />
+                                            <span class="badge rounded-pill  bg-success">MASTER</span>
+                                            <span class="badge rounded-pill  bg-warning">GRADUATED</span>
+                                            <span class="badge rounded-pill  bg-danger">SUPERVISOR</span>
+                                                <span class="badge rounded-pill bg-info">2013</span>
+                                        </td>
+                                    </tr>
+                                    <tr>
+                                        <td>
+                                            <strong>RAMADHAN ALI MOHAMMED</strong><br />
+                                                <br />
+                                            <span class="badge rounded-pill  bg-success">MASTER</span>
+                                            <span class="badge rounded-pill  bg-warning">GRADUATED</span>
+                                            <span class="badge rounded-pill  bg-danger">SUPERVISOR</span>
+                                                <span class="badge rounded-pill bg-info">2013</span>
+                                        </td>
+                                    </tr>
+                                    <tr>
+                                        <td>
+                                            <strong>MUHAMMED AHMED SALEH</strong><br />
+                                                MODELLING OF METAMODEL STANDARD FRAMEWORK FOR INTERNET OF THINGS FORENSIC INVESTIGATION<br />
+                                            <span class="badge rounded-pill  bg-success">MASTER</span>
+                                            <span class="badge rounded-pill  bg-warning">GRADUATED</span>
+                                            <span class="badge rounded-pill  bg-danger">SUPERVISOR</span>
+                                                <span class="badge rounded-pill bg-info">2014</span>
+                                        </td>
+                                    </tr>
+                                    <tr>
+                                        <td>
+                                            <strong>GELAREH MAJID</strong><br />
+                                                <br />
+                                            <span class="badge rounded-pill  bg-success">MASTER</span>
+                                            <span class="badge rounded-pill  bg-warning">GRADUATED</span>
+                                            <span class="badge rounded-pill  bg-danger">SUPERVISOR</span>
+                                                <span class="badge rounded-pill bg-info">2014</span>
+                                        </td>
+                                    </tr>
+                                    <tr>
+                                        <td>
+                                            <strong>SAEED ZANGANEH</strong><br />
+                                                <br />
+                                            <span class="badge rounded-pill  bg-success">MASTER</span>
+                                            <span class="badge rounded-pill  bg-warning">GRADUATED</span>
+                                            <span class="badge rounded-pill  bg-danger">SUPERVISOR</span>
+                                                <span class="badge rounded-pill bg-info">2014</span>
+                                        </td>
+                                    </tr>
+                                    <tr>
+                                        <td>
+                                            <strong>ROYA ESMAEILANI</strong><br />
+                                                <br />
+                                            <span class="badge rounded-pill  bg-success">MASTER</span>
+                                            <span class="badge rounded-pill  bg-warning">GRADUATED</span>
+                                            <span class="badge rounded-pill  bg-danger">SUPERVISOR</span>
+                                                <span class="badge rounded-pill bg-info">2014</span>
+                                        </td>
+                                    </tr>
+                                    <tr>
+                                        <td>
+                                            <strong>HABIB GHAFFARI HADIGHEH</strong><br />
+                                                <br />
+                                            <span class="badge rounded-pill  bg-success">MASTER</span>
+                                            <span class="badge rounded-pill  bg-warning">GRADUATED</span>
+                                            <span class="badge rounded-pill  bg-danger">SUPERVISOR</span>
+                                                <span class="badge rounded-pill bg-info">2014</span>
+                                        </td>
+                                    </tr>
+                                    <tr>
+                                        <td>
+                                            <strong>AINUL AZURA BINTI ABDUL HAMID</strong><br />
+                                                MEDIAN SIGMOID FILTERING APPROACH FOR SCARRED FINGERPRINT IMAGES ENHANCEMENT<br />
+                                            <span class="badge rounded-pill  bg-success">MASTER</span>
+                                            <span class="badge rounded-pill  bg-warning">GRADUATED</span>
+                                            <span class="badge rounded-pill  bg-danger">CO-SUPERVISOR</span>
+                                                <span class="badge rounded-pill bg-info">2015</span>
+                                        </td>
+                                    </tr>
+                                    <tr>
+                                        <td>
+                                            <strong>ZURAIDASAHANA BT ZULKARNAIN</strong><br />
+                                                TRIANGULAR GEOMETRIC FEATURE FOR OFFLINE SIGNATURE VERIFICATION<br />
+                                            <span class="badge rounded-pill  bg-success">MASTER</span>
+                                            <span class="badge rounded-pill  bg-warning">GRADUATED</span>
+                                            <span class="badge rounded-pill  bg-danger">CO-SUPERVISOR</span>
+                                                <span class="badge rounded-pill bg-info">2015</span>
+                                        </td>
+                                    </tr>
+                                    <tr>
+                                        <td>
+                                            <strong>MAS ELYNA BINTI MOHD AZOL</strong><br />
+                                                <br />
+                                            <span class="badge rounded-pill  bg-success">MASTER</span>
+                                            <span class="badge rounded-pill  bg-warning">GRADUATED</span>
+                                            <span class="badge rounded-pill  bg-danger">SUPERVISOR</span>
+                                                <span class="badge rounded-pill bg-info">2016</span>
+                                        </td>
+                                    </tr>
+                                    <tr>
+                                        <td>
+                                            <strong>GOPINATHAAN A/L RAJAMOHAN</strong><br />
+                                                ENHANCED INDEPENDENT COMPONENT ANALYSIS USING SYMMETRIC ORTHOGONALIZATION FOR ALZHEIMER&#x27;S DISEASE IMAGE CLASSIFICATION<br />
+                                            <span class="badge rounded-pill  bg-success">MASTER</span>
+                                            <span class="badge rounded-pill  bg-warning">GRADUATED</span>
+                                            <span class="badge rounded-pill  bg-danger">CO-SUPERVISOR</span>
+                                                <span class="badge rounded-pill bg-info">2017</span>
+                                        </td>
+                                    </tr>
+                            </tbody>
+                        </table>
+                    </div>
+                </div>
+            </div>
+
+        </div>
+    </div>
+</div>
+
+<div class="modal fade" tabindex="-1" role="dialog" id="shareModalBox" aria-labelledby="mySmallModalLabel" aria-hidden="true">
+    <div class="modal-dialog modal-dialog-centered">
+        <div class="modal-content">
+            <div class="modal-header">
+                <h5 class="modal-title mt-0">Share This</h5>
+            </div>
+            <div class="modal-body">
+                <div class="icon-container1 d-flex">
+                    <div class="smd" id="share-tw" data-sharer="twitter" data-title="UTM Scholar : GHAZALI BIN SULONG                      " data-hashtags="UTMNexus" data-url="https://utmscholar.utm.my/Scholar/ScholarInfoDetails/p17v">
+                        <i class=" img-thumbnail fab fa-twitter fa-2x" style="color:#4c6ef5;background-color: aliceblue"></i>
+                    </div>
+                    <div class="smd" id="share-fb" data-sharer="facebook" data-title="UTM Scholar : GHAZALI BIN SULONG                      " data-hashtag="UTMNexus" data-url="https://utmscholar.utm.my/Scholar/ScholarInfoDetails/p17v">
+                        <i class="img-thumbnail fab fa-facebook fa-2x" style="color: #3b5998;background-color: #eceff5;"></i>
+                    </div>
+                    <div class="smd" id="share-li" data-sharer="linkedin" data-title="UTM Scholar : GHAZALI BIN SULONG                      " data-url="https://utmscholar.utm.my/Scholar/ScholarInfoDetails/p17v">
+                        <i class="img-thumbnail fab fa-linkedin fa-2x" style="color: #25D366;background-color: #cef5dc;"></i>
+                    </div>
+                    <div class="smd" id="share-wa" data-sharer="whatsapp" data-title="UTM Scholar : GHAZALI BIN SULONG                      " data-url="https://utmscholar.utm.my/Scholar/ScholarInfoDetails/p17v">
+                        <i class="img-thumbnail fab fa-whatsapp fa-2x" style="color: #4c6ef5;background-color: aliceblue"></i>
+                    </div>
+                </div>
+            </div>
+            <div class="modal-footer">
+                <div class="field d-flex align-items-center justify-content-between">
+                    <span class="fas fa-link text-center"></span>
+                    <input type="url" class="col-10 ur" value="https://utmscholar.utm.my/Scholar/ScholarInfoDetails/p17v"> <button><i class="far fa-clone"></i></button>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+
+
+                </div>
+            </div>
+            <footer class="footer">
+            <div class="container-fluid">
+                <div class="row">
+                    <div class="col-sm-12">
+                        © 2022 <span class="d-none d-sm-inline-block"> - Crafted with <i class="mdi mdi-heart text-danger"></i> by UTM NEXUS.</span>
+                    </div>
+                </div>
+            </div>
+        </footer>
+        </div>
+    </div>
+
+    <script src="/assets/libs/jquery/jquery.min.js"></script>
+    <script src="/assets/libs/bootstrap/js/bootstrap.bundle.min.js"></script>
+    <script src="/assets/libs/metismenu/metisMenu.min.js"></script>
+    <script src="/assets/libs/simplebar/simplebar.min.js"></script>
+    <script src="/assets/libs/node-waves/waves.min.js"></script>
+    <script src="/assets/libs/jquery-sparkline/jquery.sparkline.min.js"></script>
+    <script src="/assets/libs/morris.js/morris.min.js"></script>
+    <script src="/assets/libs/raphael/raphael.min.js"></script>
+    <script src="/assets/libs/datatables.net/js/jquery.dataTables.min.js"></script>
+    <script src="/assets/libs/datatables.net-bs4/js/dataTables.bootstrap4.min.js"></script>
+    <script src="/assets/libs/parsleyjs/parsley.min.js"></script>
+    <script src="/assets/libs/sharer.js/sharer.min.js"></script>   
+    <script src="/assets/js/app.js"></script>
+        <script>
+            
+            var names = document.getElementById("keyword").textContent;
+            var nameArr = names.split(/[,;]/);
+            var a = [];
+            nameArr.forEach(function (kword, x) {
+                a.push("<span class='badge rounded-pill bg-warning'>" + kword + "</span>");
+            });
+
+            var b = a.toString();
+            $("#keyword").replaceWith("<p class='text-muted font-small-2' id='keyword'>" + b + "</p>");
+
+            $(document).ready(function () {
+                    $('#more').attr('hidden', false);
+                    $('#more_sect').attr('hidden', false);
+                    $('#less_sect').attr('hidden', true);
+                });
+            
+                $("#more").click(function () {
+                    $('#more').attr('hidden', true);
+                    $('#less').attr('hidden', false);
+                    $('#brief').attr('hidden', false);
+                    $('#more_sect').attr('hidden', true);
+                    $('#less_sect').attr('hidden', false);
+                });
+                $("#less").click(function () {
+                    $('#more').attr('hidden', false);
+                    $('#less').attr('hidden', true);
+                    $('#brief').attr('hidden', true);
+                    $('#more_sect').attr('hidden', false);
+                    $('#less_sect').attr('hidden', true);
+                });
+                $("#less_1").click(function () {
+                    $('#more').attr('hidden', false);
+                    $('#less').attr('hidden', true);
+                    $('#brief').attr('hidden', true);
+                    $('#more_sect').attr('hidden', false);
+                    $('#less_sect').attr('hidden', true);
+                });
+            </script>
+    <!-- Google tag (gtag.js) -->
+    <script async src="https://www.googletagmanager.com/gtag/js?id=G-B5MYS061R0"></script>
+    <script>
+        window.dataLayer = window.dataLayer || [];
+        function gtag() { dataLayer.push(arguments); }
+        gtag('js', new Date());
+
+        gtag('config', 'G-B5MYS061R0');
+    </script>
+    
+    <script>
+        var no_pekerja = 'p17v';
+        var scopus_id = '6505595829';
+        var nama_pekerja = 'GHAZALI BIN SULONG                      ';
+        var no_pkrj = '2316';
+
+
+        $.ajax({
+            type: "POST",
+            url: '/Scholar/GrantScholarPersonalResult?id=' + no_pekerja,
+        }).done(function (data) {
+            var newArrayGrant = [];
+            data.data.forEach(function (elm, i) {
+                $newObject = {
+                    label: data.data[i].TYPE_GRANTS,
+                    value: data.data[i].TOTAL_GRANTS
+                }
+                newArrayGrant.push($newObject);
+            });
+
+            var Grant_Chart = Morris.Donut({
+                element: 'grant_chart_personal',
+                data: newArrayGrant,
+                resize: true,
+                colors: ['#193C77', '#39FF33', '#197754', '#541977', '#1FE874', '#3d90bf', '#bf783d', '#1ab394', '#ed0c0c', '#FF5733', '#FFBD33']
+            });
+
+            Grant_Chart.options.data.forEach(function (label, i) {
+                var legendItem = $('<span></span>').text(label['label']).prepend('<br><span>&nbsp;</span>');
+                legendItem.find('span')
+                    .css('backgroundColor', Grant_Chart.options.colors[i])
+                    .css('width', '50px')
+                    .css('display', 'inline-block')
+                    .css('margin', '5px');
+                $('#legendGrantMorris').append(legendItem)
+            });
+
+            var totalx = 0;
+            for (var i = 0; i < data.data.length; i++) {
+                totalx += data.data[i].TOTAL_GRANTS << 0;
+            }
+            $("#TotalGrantCount").append(totalx);
+
+
+        }).fail(function () { });
+
+        $.ajax({
+            type: "POST",
+            url: '/Scholar/PublicationScholarPersonResult?id=' + no_pekerja,
+        }).done(function (data) {
+            var newArrayPublication = [];
+            data.data.forEach(function (elm, i) {
+                $newObject = {
+                    label: data.data[i].TYPE_PUBLICATION,
+                    value: data.data[i].TOTAL_PUBLICATION
+                }
+
+                newArrayPublication.push($newObject);
+            })
+            var Publication_Chart = Morris.Donut({
+                element: 'publication_chart_personal',
+                data: newArrayPublication,
+                resize: true,
+                colors: ['#3d90bf', '#bf783d', '#1ab394', '#ed0c0c', '#FF5733', '#FFBD33', '#193C77', '#39FF33', '#197754', '#541977', '#1FE874']
+            });
+
+            Publication_Chart.options.data.forEach(function (label, i) {
+                var legendItem = $('<span></span>').text(label['label']).prepend('<br><span>&nbsp;</span>');
+                legendItem.find('span')
+                    .css('backgroundColor', Publication_Chart.options.colors[i])
+                    .css('width', '20px')
+                    .css('display', 'inline-block')
+                    .css('margin', '5px');
+                $('#legendPublicationMorris').append(legendItem)
+            });
+
+            var totaly = 0;
+            for (var i = 0; i < data.data.length; i++) {
+                totaly += data.data[i].TOTAL_PUBLICATION << 0;
+            }
+            $("#TotalPublicationCount").append(totaly);
+
+        }).fail(function () {
+
+        });
+
+        $.ajax({
+            type: "POST",
+            url: '/Scholar/SupervisionScholarPersonResult?id=' + no_pekerja,
+        }).done(function (data) {
+
+            var newArraySupervision = [];
+            data.data.forEach(function (elm, i) {
+                $newObject = {
+                    label: data.data[i].LEVEL_STUDY,
+                    value: data.data[i].TOTAL_STUDENTS
+                }
+
+                newArraySupervision.push($newObject);
+            });
+
+            var Supervision_Chart = Morris.Donut({
+                element: 'supervision_chart_personal',
+                data: newArraySupervision,
+                resize: true,
+                colors: ['#3d90bf', '#bf783d', '#1ab394', '#ed0c0c', '#FF5733', '#FFBD33', '#193C77', '#39FF33', '#197754', '#541977', '#1FE874']
+            });
+
+            Supervision_Chart.options.data.forEach(function (label, i) {
+                var legendItem = $('<span></span>').text(label['label']).prepend('<br><span>&nbsp;</span>');
+                legendItem.find('span')
+                    .css('backgroundColor', Supervision_Chart.options.colors[i])
+                    .css('width', '20px')
+                    .css('display', 'inline-block')
+                    .css('margin', '5px');
+                $('#legendSupervisionMorris').append(legendItem)
+            });
+
+            var totalz = 0;
+            for (var i = 0; i < data.data.length; i++) {
+                totalz += data.data[i].TOTAL_STUDENTS << 0;
+            }
+            $("#TotalSupervisionCount_chart").append(totalz);
+            $("#TotalSupervisionCount").append(totalz);
+
+
+        }).fail(function () {
+
+        });
+        /*---- H Index for Scopus API -----------*/
+        if (scopus_id == "0") {
+            var hIndexVal = "0";
+            var CountIndex = "0";
+
+            $("#hIndexID").append(hIndexVal);
+            $("#CountPublicIndexID").append(CountIndex);
+        }
+        else {
+            $.ajax({
+                type: "POST",
+                url: "/Scholar/GetCitationHIndex?id=" + scopus_id,
+                datatype: "json",
+                success: function (data) {
+                    console.log(data);
+                    var test = jQuery.parseJSON(data.response);
+                    $("#hIndexID").append(test["author-retrieval-response"]["0"]["h-index"]);
+                    $("#CountPublicIndexID").append(test["author-retrieval-response"]["0"]["coredata"]["citation-count"]);
+                },
+                error: function (data) {
+                    console.log('An error occurred.');
+                },
+            });
+        }
+
+        /*---- datatable -----------*/
+
+        $(document).ready(function () {
+            GrantDatatable = $('#grantListTablePersonalDatatable').DataTable({
+                processing: true,
+                searching: true,
+                sorting: false,
+                paging: true,
+                pageLength: 15,
+                lengthChange: false,
+                info: true,
+                responsive: true
+            });
+
+            PublicationDatatable = $('#publicationListTablePersonalDatatable').DataTable({
+                processing: true,
+                searching: true,
+                sorting: false,
+                paging: true,
+                pageLength: 15,
+                lengthChange: false,
+                info: true,
+                responsive: true
+            });
+
+            SupervisionDatatable = $('#supervisionListTablePersonalDatatable').DataTable({
+                processing: true,
+                searching: true,
+                sorting: false,
+                paging: true,
+                pageLength: 15,
+                lengthChange: false,
+                info: true,
+                responsive: true
+            });
+
+            IPDatatable = $('#IPListTablePersonalDatatable').DataTable({
+                processing: true,
+                searching: true,
+                sorting: false,
+                paging: true,
+                pageLength: 15,
+                lengthChange: false,
+                info: true,
+                responsive: true
+            });
+
+
+        });
+
+
+        /*------- Share JS components -----------*/
+        document.addEventListener('DOMContentLoaded', function (e) {
+            let field = document.querySelector('.field');
+            let input = document.querySelector('input');
+            let copyBtn = document.querySelector('.field button');
+
+            copyBtn.onclick = () => {
+                input.select();
+                if (document.execCommand("copy")) {
+                    field.classList.add('active');
+                    copyBtn.innerText = 'Copied';
+                    setTimeout(() => {
+                        field.classList.remove('active');
+                        copyBtn.innerText = 'Copy';
+                    }, 3500)
+                }
+            }
+        });
+
+    </script>
+
+
+</body>
+
+</html>

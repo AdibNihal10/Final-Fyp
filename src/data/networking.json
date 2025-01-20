@@ -1,0 +1,487 @@
+[
+  {
+    "No": 1,
+    "Description": "UTM - INTEC PRECISION ENGINEERING",
+    "Type": "MoU",
+    "StartYear": "16 Mac 2021",
+    "EndYear": "15 Mac 2023",
+    "YearStart": 2021,
+    "YearEnd": 2023,
+    "PIC": "PM Dr. Nor Azman bin Ismail"
+  },
+  {
+    "No": 2,
+    "Description": "UTM - SURUHANJAYA SYARIKAT MALAYSIA",
+    "Type": "MoU",
+    "StartYear": "17 Mac 2021",
+    "EndYear": "16 Mac 2024",
+    "YearStart": 2021,
+    "YearEnd": 2024,
+    "PIC": "Pn. Nor Hawaniah binti Zakaria"
+  },
+  {
+    "No": 3,
+    "Description": "UTM - RUNCLOUD SDN BHD",
+    "Type": "MoU",
+    "StartYear": "18 Oktober 2021",
+    "EndYear": "17 Oktober 2024",
+    "YearStart": 2021,
+    "YearEnd": 2024,
+    "PIC": "Dr. Farhan bin Mohamed"
+  },
+  {
+    "No": 4,
+    "Description": "UTM - GAZA UNIVERSITY",
+    "Type": "MoU",
+    "StartYear": "21 June 2021",
+    "EndYear": "20 June 2024",
+    "YearStart": 2021,
+    "YearEnd": 2024,
+    "PIC": "PM Dr. Nor Azman bin Ismail"
+  },
+  {
+    "No": 5,
+    "Description": "UTM - CANADIAN UNIVERSITY DUBAI",
+    "Type": "LoC",
+    "StartYear": "20 April 2021",
+    "EndYear": "19 April 2024",
+    "YearStart": 2021,
+    "YearEnd": 2024,
+    "PIC": "PM Dr. Nor Azman bin Ismail"
+  },
+  {
+    "No": 6,
+    "Description": "UTM - DHL DAA",
+    "Type": "LoC",
+    "StartYear": "13 July 2021",
+    "EndYear": "12 July 2023",
+    "YearStart": 2021,
+    "YearEnd": 2023,
+    "PIC": "Dr. Erne Nazira binti Bazin"
+  },
+  {
+    "No": 7,
+    "Description": "UTM – MICROSOFT",
+    "Type": "MoU",
+    "StartYear": "10 Mei 2021",
+    "EndYear": "1 November 2023",
+    "YearStart": 2021,
+    "YearEnd": 2023,
+    "PIC": "Prof. Dr. Dayang Norhayati binti Abang Jawawi"
+  },
+  {
+    "No": 8,
+    "Description": "UTM - CISCO",
+    "Type": "MoU",
+    "StartYear": "23 March 2022",
+    "EndYear": "22 March 2025",
+    "YearStart": 2022,
+    "YearEnd": 2025,
+    "PIC": "Prof Asri"
+  },
+  {
+    "No": 9,
+    "Description": "UTM - IJM",
+    "Type": "LoC",
+    "StartYear": "29 August 2021",
+    "EndYear": "28 August 2024",
+    "YearStart": 2021,
+    "YearEnd": 2024,
+    "PIC": "Dr. Iqbal"
+  },
+  {
+    "No": 10,
+    "Description": "UTM - INTEC PRECISION ENGINEERING",
+    "Type": "MoA",
+    "StartYear": "5 April 2022",
+    "EndYear": "4 April 2024",
+    "YearStart": 2022,
+    "YearEnd": 2024,
+    "PIC": "PM Dr. Nor Azman bin Ismail"
+  },
+  {
+    "No": 11,
+    "Description": "UTM - CANADIAN UNIVERSITY DUBAI",
+    "Type": "MoU",
+    "StartYear": "20 April 2021",
+    "EndYear": "19 April 2024",
+    "YearStart": 2021,
+    "YearEnd": 2024,
+    "PIC": "PM Dr. Nor Azman bin Ismail"
+  },
+  {
+    "No": 12,
+    "Description": "UTM - USIM",
+    "Type": "MoU",
+    "StartYear": "24 November 2021",
+    "EndYear": "23 November 2024",
+    "YearStart": 2021,
+    "YearEnd": 2024,
+    "PIC": "Dr. Azurah"
+  },
+  {
+    "No": 13,
+    "Description": "UTM - ATM",
+    "Type": "MoU",
+    "StartYear": "23 March 2022",
+    "EndYear": "22 March 2025",
+    "YearStart": 2022,
+    "YearEnd": 2025,
+    "PIC": "Dr. Ismail Fauzi"
+  },
+  {
+    "No": 14,
+    "Description": "UTM-HYPERANALYTIC",
+    "Type": "MoU",
+    "StartYear": "10 February 2022",
+    "EndYear": "9 February 2025",
+    "YearStart": 2022,
+    "YearEnd": 2025,
+    "PIC": "Dr. Adila"
+  },
+  {
+    "No": 15,
+    "Description": "UTM-DIGITAL WAY ACADEMY",
+    "Type": "MoA",
+    "StartYear": "21 February 2022",
+    "EndYear": "20 February 2022",
+    "YearStart": 2022,
+    "YearEnd": 2022,
+    "PIC": "Dr. Adham"
+  },
+  {
+    "No": 16,
+    "Description": "UTM-JOHOR CORPORATION",
+    "Type": "MoA",
+    "StartYear": "1 October 2021",
+    "EndYear": "30 June 2024",
+    "YearStart": 2021,
+    "YearEnd": 2024,
+    "PIC": "Dr. Haliza"
+  },
+  {
+    "No": 17,
+    "Description": "UTM- DREAMEDGE SDN BHD",
+    "Type": "MoU",
+    "StartYear": "17 September 2020",
+    "EndYear": "16 September 2023",
+    "YearStart": 2020,
+    "YearEnd": 2023,
+    "PIC": "Dr. Masitah"
+  },
+  {
+    "No": 18,
+    "Description": "UTM-SURUHANJAYA SYARIKAT MALAYSIA",
+    "Type": "MoU",
+    "StartYear": "17 Mac 2020",
+    "EndYear": "16 Mac 2024",
+    "YearStart": 2020,
+    "YearEnd": 2024,
+    "PIC": "Dr. Iqbal Tariq"
+  },
+  {
+    "No": 19,
+    "Description": "UTM-NATIONAL ANTI-FINANCIAL CRIME CENTRE",
+    "Type": "MoU",
+    "StartYear": "25 April 2022",
+    "EndYear": "24 April 2025",
+    "YearStart": 2022,
+    "YearEnd": 2025,
+    "PIC": "Prof. Madya Dr. Anazida Binti Zainal"
+  },
+  {
+    "No": 20,
+    "Description": "UTM- VIRTUAL SPACE CENTER",
+    "Type": "MoU",
+    "StartYear": "29 June 2022",
+    "EndYear": "28 June 2025",
+    "YearStart": 2022,
+    "YearEnd": 2025,
+    "PIC": "Dr. Norhaida"
+  },
+  {
+    "No": 21,
+    "Description": "UTM-KYUSHU INSTITUTE OF TECHNOLOGY",
+    "Type": "MoU",
+    "StartYear": "9 June 2022",
+    "EndYear": "8 June 2027",
+    "YearStart": 2022,
+    "YearEnd": 2027,
+    "PIC": "Prof Dr. Mohd Shahrizal"
+  },
+  {
+    "No": 22,
+    "Description": "UTM -BIDNOW SDN BHD",
+    "Type": "MoU",
+    "StartYear": "23 August 2022",
+    "EndYear": "22 August 2025",
+    "YearStart": 2022,
+    "YearEnd": 2025,
+    "PIC": "Prof. Madya Dr. Anazida Binti Zainal"
+  },
+  {
+    "No": 23,
+    "Description": "UTM -MAYBANK AGEAS HOLDING",
+    "Type": "MoU",
+    "StartYear": "28 March 2023",
+    "EndYear": "28 March 2026",
+    "YearStart": 2023,
+    "YearEnd": 2026,
+    "PIC": "Dr. Sim Hiew Moi"
+  },
+  {
+    "No": 24,
+    "Description": "UTM - FEB, UKSW",
+    "Type": "LoI",
+    "StartYear": "8 August 2023",
+    "EndYear": "8 August 2025",
+    "YearStart": 2023,
+    "YearEnd": 2025,
+    "PIC": "Ts. Dr. Nur Haliza Wahab"
+  },
+  {
+    "No": 25,
+    "Description": "UTM - FIT, UKSW",
+    "Type": "LoI",
+    "StartYear": "8 August 2023",
+    "EndYear": "8 August 2025",
+    "YearStart": 2023,
+    "YearEnd": 2025,
+    "PIC": "Ts. Dr. Nur Haliza Wahab"
+  },
+  {
+    "No": 26,
+    "Description": "UTM - SUST China",
+    "Type": "LoC",
+    "StartYear": "20 September 2023",
+    "EndYear": "20 September 2025",
+    "YearStart": 2023,
+    "YearEnd": 2025,
+    "PIC": "Dr. Muhammad Aliif Ahmad"
+  },
+  {
+    "No": 27,
+    "Description": "UTM-HALUOLEO UNIVERSITY (UHO)",
+    "Type": "LoI",
+    "StartYear": "30 August 2023",
+    "EndYear": "30 August 2025",
+    "YearStart": 2023,
+    "YearEnd": 2025,
+    "PIC": "Prof. Dr. Md Asri Ngadi"
+  },
+  {
+    "No": 28,
+    "Description": "UTM-CLARITY TECHWORKS SDN BHD",
+    "Type": "LoC",
+    "StartYear": "1 October 2023",
+    "EndYear": "1 October 2025",
+    "YearStart": 2023,
+    "YearEnd": 2025,
+    "PIC": "Dr. Suhaila Yusuf"
+  },
+  {
+    "No": 29,
+    "Description": "UTM- PPD Segamat",
+    "Type": "LoI",
+    "StartYear": "7 February 2024",
+    "EndYear": "7 February 2026",
+    "YearStart": 2024,
+    "YearEnd": 2026,
+    "PIC": "Prof.Dr. Dayang"
+  },
+  {
+    "No": 30,
+    "Description": "UTM-Dreamedge",
+    "Type": "MoU",
+    "StartYear": "8 February 2024",
+    "EndYear": "8 February 2026",
+    "YearStart": 2024,
+    "YearEnd": 2026,
+    "PIC": "Prof. Madya Dr. Masitah Ghazali"
+  },
+  {
+    "No": 31,
+    "Description": "UTM-SK Sri Skudai",
+    "Type": "LoI",
+    "StartYear": "5 June 2024",
+    "EndYear": "5 June 2026",
+    "YearStart": 2024,
+    "YearEnd": 2026,
+    "PIC": "Dr. Farkhana Muctar"
+  },
+  {
+    "No": 32,
+    "Description": "UTM- KEO",
+    "Type": "LoI",
+    "StartYear": "13 July 2024",
+    "EndYear": "13 July 2026",
+    "YearStart": 2024,
+    "YearEnd": 2026,
+    "PIC": "PM. Dr. Azman Ismail"
+  },
+  {
+    "No": 33,
+    "Description": "UTM-Politeknik Negeri Malang",
+    "Type": "LoI",
+    "StartYear": "22 August 2024",
+    "EndYear": "22 August 2026",
+    "YearStart": 2024,
+    "YearEnd": 2026,
+    "PIC": "Dr Haliza Wahab"
+  },
+  {
+    "No": 34,
+    "Description": "UTM- Universitas Islam Negeri Maulana Malik Ibrahim Malang",
+    "Type": "LoI",
+    "StartYear": "22 August 2024",
+    "EndYear": "22 August 2026",
+    "YearStart": 2024,
+    "YearEnd": 2026,
+    "PIC": "Dr Haliza Wahab"
+  },
+  {
+    "No": 35,
+    "Description": "UTM-Universitas Muhammadiyah Malang",
+    "Type": "LoI",
+    "StartYear": "22 August 2024",
+    "EndYear": "22 August 2026",
+    "YearStart": 2024,
+    "YearEnd": 2026,
+    "PIC": "Dr Haliza Wahab"
+  },
+  {
+    "No": 36,
+    "Description": "UTM-Institut Bisnis Dan Teknologi Indonesia",
+    "Type": "LoI",
+    "StartYear": "22 August 2024",
+    "EndYear": "22 August 2026",
+    "YearStart": 2024,
+    "YearEnd": 2026,
+    "PIC": "Dr Haliza Wahab"
+  },
+  {
+    "No": 37,
+    "Description": "UTM- Universitas Warmadewa",
+    "Type": "LoI",
+    "StartYear": "22 August 2024",
+    "EndYear": "22 August 2026",
+    "YearStart": 2024,
+    "YearEnd": 2026,
+    "PIC": "Dr Haliza Wahab"
+  },
+  {
+    "No": 38,
+    "Description": "UTM-Origtek",
+    "Type": "LoI",
+    "StartYear": "22 October 2024",
+    "EndYear": "21 October 2026",
+    "YearStart": 2024,
+    "YearEnd": 2026,
+    "PIC": "Dr. Sim"
+  },
+  {
+    "No": 39,
+    "Description": "UTM-Hackquest",
+    "Type": "LoI",
+    "StartYear": "23 September 2024",
+    "EndYear": "22 September 2026",
+    "YearStart": 2024,
+    "YearEnd": 2026,
+    "PIC": "Dr. Haliza"
+  },
+  {
+    "No": 40,
+    "Description": "UTM- Collaborative UTHM/UMK/UNISZA",
+    "Type": "Research Agreement",
+    "StartYear": "15 September 2024",
+    "EndYear": "14 September 2026",
+    "YearStart": 2024,
+    "YearEnd": 2026
+  },
+  {
+    "No": 41,
+    "Description": "UTM-Universitas Dinamika Bangsa, Indonesia",
+    "Type": "LoI",
+    "StartYear": "25 September 2024",
+    "EndYear": "25 September 2026",
+    "YearStart": 2024,
+    "YearEnd": 2026
+  },
+  {
+    "No": 42,
+    "Description": "UTM- CERTIIFY SOLUTION (M) SDN BHD",
+    "Type": "MoU",
+    "StartYear": "27 June 2024",
+    "EndYear": "27 June 2027",
+    "YearStart": 2024,
+    "YearEnd": 2027
+  },
+  {
+    "No": 43,
+    "Description": "UTM-INFINITE LOOP",
+    "Type": "LoI",
+    "StartYear": "20 August 2024",
+    "EndYear": "20 August 2026",
+    "YearStart": 2024,
+    "YearEnd": 2026,
+    "PIC": "Dr. Azman"
+  },
+  {
+    "No": 44,
+    "Description": "UTM-FORUM KOMUNIKASI PERGURUAN TINGGI KEAGAMAAN ISLAM SWASTA (PTKIS)",
+    "Type": "LoI",
+    "StartYear": "25 September 2024",
+    "EndYear": "25 September 2026",
+    "YearStart": 2024,
+    "YearEnd": 2026
+  },
+  {
+    "No": 45,
+    "Description": "UTM-Universitas Islam Malang",
+    "Type": "LoI",
+    "StartYear": "4 September 2024",
+    "EndYear": "4 September 2026",
+    "YearStart": 2024,
+    "YearEnd": 2026
+  },
+  {
+    "No": 46,
+    "Description": "UTM- National Anti Financial Crime Centre (NFCC)",
+    "Type": "MoA",
+    "StartYear": "1 May 2024",
+    "EndYear": "31 October 2024",
+    "YearStart": 2024,
+    "YearEnd": 2024,
+    "PIC": "Dr. Anazida"
+  },
+  {
+    "No": 47,
+    "Description": "UTM- National Anti Financial Crime Centre (NFCC)",
+    "Type": "MoA",
+    "StartYear": "1 May 2024",
+    "EndYear": "31 Disember 2024",
+    "YearStart": 2024,
+    "YearEnd": 2024,
+    "PIC": "Dr. Anazida"
+  },
+  {
+    "No": 48,
+    "Description": "UTM-Universitar Siber Indonesia",
+    "Type": "LoI",
+    "StartYear": "25 September 2024",
+    "EndYear": "24 September 2026",
+    "YearStart": 2024,
+    "YearEnd": 2026,
+    "PIC": "Dr. Shahizan"
+  },
+  {
+    "No": 49,
+    "Description": "UTM-Universitas Putra Indonesia,Padang",
+    "Type": "LoI",
+    "StartYear": "25 September 2024",
+    "EndYear": "24 September 2026",
+    "YearStart": 2024,
+    "YearEnd": 2026,
+    "PIC": "Dr. Shahizan"
+  }
+]

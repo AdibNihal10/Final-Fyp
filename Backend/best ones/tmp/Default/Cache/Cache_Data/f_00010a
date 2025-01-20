@@ -1,0 +1,2268 @@
+<!doctype html>
+<html lang="en">
+
+<head>
+    <meta charset="utf-8"/>
+    <title>UTM Scholar : PROF. MADYA TS. DR. SHAHIDA BINTI SULAIMAN </title>
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta content="UTM Scholar Official Portal" name="description"/>
+    <meta name="google-site-verification" content="5ysLm8G0uPkHXlp2400O5bjCL-DV5tIMVqEQtlsm0NM"/>
+    <meta content="Office of Deputy Vice Cansellor Research &amp; Innovations, Universiti Teknologi Malaysia, Johore, Malaysia" name="author"/>
+    <link rel="shortcut icon" href="/assets/images/favicon.ico">
+    <link href="/assets/css/bootstrap.min.css" id="bootstrap-style" rel="stylesheet" type="text/css" />
+    <link href="/assets/css/icons.min.css" rel="stylesheet" type="text/css" />
+    <link href="/assets/css/app.min.css" id="app-style" rel="stylesheet" type="text/css" />
+    <link href="/assets/libs/datatables.net-bs4/css/dataTables.bootstrap4.min.css" rel="stylesheet" type="text/css" />
+    <link href="/assets/libs/datatables.net-buttons-bs4/css/buttons.bootstrap4.min.css" rel="stylesheet" type="text/css" />
+    <link href="/assets/libs/datatables.net-responsive-bs4/css/responsive.bootstrap4.min.css" rel="stylesheet" type="text/css" />
+    <style>
+            .img-thumbnail {
+                border-radius: 33px;
+                width: 61px;
+                height: 61px
+            }
+            
+            .fab:before {
+                position: relative;
+                top: 13px
+            }
+            
+            .smd {
+                width: 200px;
+                font-size: small;
+                text-align: center
+            }
+            
+            .modal-footer {
+                display: block
+            }
+            
+            .ur {
+                border: none;
+                background-color: #e6e2e2;
+                border-bottom-left-radius: 4px;
+                border-top-left-radius: 4px
+            }
+            
+            .cpy {
+                border: none;
+                background-color: #e6e2e2;
+                border-bottom-right-radius: 4px;
+                border-top-right-radius: 4px;
+                box-shadow: none !important
+            }
+            
+            .ur.focus,
+            .ur:focus {
+                outline: 0;
+                box-shadow: none !important
+            }
+            
+            .message {
+                font-size: 11px;
+                color: #ee5535
+            }
+        </style>
+</head>
+<body data-sidebar="dark">
+    <div id="layout-wrapper">
+        <header id="page-topbar">
+    <div class="navbar-header">
+        <div class="d-flex">
+          
+            <div class="navbar-brand-box">
+                <a class="logo logo-dark" href="/">
+                    <span class="logo-sm">
+                        <img src="/assets/images/logo-sm.png" alt="" height="38">
+                    </span>
+                    <span class="logo-lg">
+                        <img src="/assets/images/logo-utm.png" alt="" height="35">
+                    </span>
+                </a>
+
+                <a class="logo logo-light" href="/">
+                    <span class="logo-sm">
+                        <img src="/assets/images/logo-sm.png" alt="" height="38">
+                    </span>
+                    <span class="logo-lg">
+                        <img src="/assets/images/logo-utm.png" alt="" height="35">
+                    </span>
+                </a>
+            </div>
+
+            <button type="button" class="btn btn-sm px-3 font-size-24 header-item waves-effect vertical-menu-btn">
+                <i class="mdi mdi-menu"></i>
+            </button>
+            <div class="d-none d-sm-block">
+                <div class="page-title-box">
+                    <h4>PROF. MADYA TS. DR. SHAHIDA BINTI SULAIMAN</h4>
+                    <ol class="breadcrumb m-0">
+                        <li class="breadcrumb-item">
+                            PROFESOR MADYA
+                        </li>
+                        
+                       <!--
+                                                 <li class="breadcrumb-item" id="more_sect" hidden>
+                                            <a id="more" style="color:blue" onclick="test()" hidden><b>&nbsp;&nbsp;...&nbsp;read more</b></a>
+                                                 </li>
+                                                 <li class="breadcrumb-item" id="less_sect" hidden>
+                                                     <a id="less" style="color:blue" onclick="test()" hidden><b>&nbsp;&nbsp;Read less</b></a>
+                                                 </li>
+                                                 <li class="breadcrumb-item" id="brief" hidden>
+                                            <a id="less_1" style="color:blue" onclick="test()"><b>&nbsp;read less</b></a>
+                                                 </li>
+                       --> 
+                    </ol>
+                </div>
+            </div>
+            
+        </div>
+        <div class="d-flex">
+            <div class="dropdown d-none d-lg-inline-block">
+                            <a href="/Login/Login" class="btn btn-sm btn-primary">Login</a>
+                <button type="button" class="btn header-item noti-icon waves-effect" data-toggle="fullscreen">
+                    <i class="mdi mdi-fullscreen font-size-24"></i>
+                </button>
+            </div>
+            <div class="dropdown d-inline-block">
+                <button type="button" class="btn header-item waves-effect" id="page-header-user-dropdown"
+                        data-bs-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
+                    <i class="mdi mdi-24px mdi-cog"></i>
+                </button>
+                <div class="dropdown-menu dropdown-menu-end">
+                    <!-- item-->
+                    <a class="dropdown-item" href="/"><i class="ti-dashboard font-size-17 text-muted align-middle me-1"></i> Home</a>
+                    <a class="dropdown-item" href="/scholars"><i class="ti-bar-chart font-size-17 text-muted align-middle me-1"></i> Scholar List</a>
+                    <a class="dropdown-item" href="/research-unit"><i class="ti-pie-chart font-size-17 text-muted align-middle me-1"></i> Research Unit</a>
+                </div>
+            </div>
+        </div>
+    </div>
+</header>
+        <div class="vertical-menu">
+            <div data-simplebar class="h-100">
+                <div id="sidebar-menu">
+                    <ul class="metismenu list-unstyled" id="side-menu">
+                        <li>
+                            <a href="javascript:void(0);" class="waves-effect">
+                                <img src="/view-gambar?id=ZZEN"
+                                     style="border-radius: 2%; margin-left: 50px;" height="200" width="150">
+                            </a>
+                        </li>
+                        <li>
+                            <a href="mailto:shahidasulaiman@utm.my" class="waves-effect">
+                                <i class="mdi mdi-email-outline"></i><span> Email<br/>shahidasulaiman@utm.my</span>
+                            </a>
+                        </li>
+
+                        <li>
+                            <a href="/faculties/28" class="waves-effect">
+                                <i class="mdi mdi-home"></i><span> Faculty<br/>FACULTY OF COMPUTING</span>
+                            </a>
+                        </li>
+                        <li>
+                            <a href="/schools/" class="waves-effect">
+                                <i class="mdi mdi-book-open-page-variant"></i><span> School<br/></span>
+                            </a>
+                        </li>
+                        <li>
+                            <a href="/niche-area/J090500" class="waves-effect">
+                                <i class="mdi mdi-book-arrow-down-outline"></i><span> Research Alliances<br/>SMART DIGITAL COMMUNITY</span>
+                            </a>
+                        </li>
+                        <li>
+
+                                <a href="/research-groups/390" class="waves-effect">
+                                    <i class="mdi mdi-trophy-variant-outline "></i><span> Research Group<br/>Intelligent Informatics Research Group (IIRG)</span>
+                                </a>
+
+                        </li>
+                        <li>
+                                <a href="javascript:void(0);" class="waves-effect">
+                                    <i class="mdi mdi-radar"></i><span> HI COE/COE/Research Center<br/>-</span>
+                                </a>
+
+                        </li>
+                        <li>
+                            <a href="https://www.scopus.com/authid/detail.uri?authorId=25825568100" target="_blank" class="waves-effect">
+                                <i class="fas fa-university"></i><span> Scopus Profile<br/></span>
+                            </a>
+                        </li>
+                        <li>
+                            <a href="#" class="waves-effect" data-bs-toggle="modal" data-bs-target="#shareModalBox" >
+                                <i class="fas fa-share-alt"></i><span>Share</span>
+                            </a>
+                        </li>
+
+                        <li>
+                            <a href="javascript:void(0);" class="waves-effect">
+                                <i class="mdi mdi-book"></i>
+                                <span>
+                                    Keywords/Interest<br/>
+                                    <p class="text-muted font-small-2" id="keyword">SOFTWARE DESIGN; SOFTWARE EVOLUTION AND MAINTENANCE; WEB ENGINEERING; KNOWLEDGE MANAGEMENT; WEB DESIGN; EDUCATION INFORMATICS; REQUIREMENTS ENGINEERING; USER INTERFACE DESIGN</p>
+                                </span>
+                            </a>
+                        </li>
+                    </ul>
+                </div>
+                <!-- Sidebar -->
+            </div>
+        </div>
+        <div class="main-content">
+            <div class="page-content">
+                <div class="container-fluid">
+                    
+<div class="row">
+    <div class="col-xl-2 col-sm-6 h-50">
+        <div class="card mini-stat bg-primary">
+            <div class="card-body mini-stat-img">
+                <div class="mini-stat-icon">
+                    <i class="mdi mdi-cube-outline float-end"></i>
+                </div>
+                <div class="text-white">
+                    <h6 class="text-uppercase mb-3 font-size-12 text-white">GRANT(PI & MEMBERS)</h6>
+                    <h2 class="mb-4 text-white">35</h2>
+
+                </div>
+            </div>
+        </div>
+    </div>
+    <div class="col-xl-2 col-sm-6 h-50">
+        <div class="card mini-stat bg-warning">
+            <div class="card-body mini-stat-img">
+                <div class="mini-stat-icon">
+                    <i class="mdi mdi-buffer float-end"></i>
+                </div>
+                <div class="text-white">
+                    <h6 class="text-uppercase mb-3 font-size-12 text-white">PUBLICATIONS</h6>
+                    <h2 class="mb-4 text-white">103</h2>
+                </div>
+            </div>
+        </div>
+    </div>
+    <div class="col-xl-2 col-sm-6 h-50">
+        <div class="card mini-stat bg-info">
+            <div class="card-body mini-stat-img">
+                <div class="mini-stat-icon">
+                    <i class="mdi mdi-tag-text-outline float-end"></i>
+                </div>
+                <div class="text-white">
+                    <h6 class="text-uppercase mb-3 font-size-12 text-white">INDEXED PUBLICATION</h6>
+                    <h2 class="mb-4 text-white">41</h2>
+                </div>
+            </div>
+        </div>
+    </div>
+    <div class="col-xl-2 col-sm-6 h-50">
+        <div class="card mini-stat bg-danger">
+            <div class="card-body mini-stat-img">
+                <div class="mini-stat-icon">
+                    <i class="mdi mdi-chart-pie float-end"></i>
+                </div>
+                <div class="text-white">
+                    <h6 class="text-uppercase mb-3 font-size-12 text-white">TOTAL STUDENTS</h6>
+                    <h2 class="mb-4 text-white"><span id="TotalSupervisionCount"></span></h2>
+                </div>
+            </div>
+        </div>
+    </div>
+    <div class="col-xl-2 col-sm-6 h-50">
+        <div class="card mini-stat bg-success">
+            <div class="card-body mini-stat-img">
+                <div class="mini-stat-icon">
+                    <i class="mdi mdi-chart-bar float-end"></i>
+                </div>
+                <div class="text-white">
+                    <h6 class="text-uppercase mb-3 font-size-12 text-white">H-INDEXED (SCOPUS)</h6>
+                    <h2 class="mb-4 text-white"><span id="hIndexID"></span></h2>
+                </div>
+            </div>
+        </div>
+    </div>
+    <div class="col-xl-2 col-sm-6 h-50">
+        <div class="card mini-stat bg-info">
+            <div class="card-body mini-stat-img">
+                <div class="mini-stat-icon">
+                    <i class="mdi mdi-briefcase-check float-end"></i>
+                </div>
+                <div class="text-white">
+                    <h6 class="text-uppercase mb-3 font-size-12 text-white">CITATIONS (SCOPUS)</h6>
+                    <h2 class="mb-4 text-white"><span id="CountPublicIndexID"></span></h2>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+
+<div class="row">
+    <div class="col-xl-4">
+        <div class="card">
+            <div class="card-body">
+                <h4 class="card-title mb-3">Grant (PI)</h4>
+                <div class="row">
+                    <div class="col-md-12 col-12">
+                        <div id="grant_chart_personal" class="morris-charts morris-chart-height"></div>
+                    </div>
+                </div>
+                    <div class="row">
+                        <div class="col-md-12 col-12">
+                            <div class="inbox-wid">
+                                <div class="inbox-item">
+                                    <div class="float-start">INTERNATIONAL GRANTS</div>
+                                    <div class="float-end">1</div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="row">
+                        <div class="col-md-12 col-12">
+                            <div class="inbox-wid">
+                                <div class="inbox-item">
+                                    <div class="float-start">NATIONAL GRANTS</div>
+                                    <div class="float-end">14</div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="row">
+                        <div class="col-md-12 col-12">
+                            <div class="inbox-wid">
+                                <div class="inbox-item">
+                                    <div class="float-start">UNIVERSITY FUND</div>
+                                    <div class="float-end">2</div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                <div class="row">
+                    <div class="col-md-12 col-12">
+                        <div class="inbox-wid">
+                            <div class="inbox-item">
+                                <div class="float-start"><strong>TOTAL</strong></div>
+                                <div class="float-end"><span id="TotalGrantCount"></span></div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+    <div class="col-xl-4">
+        <div class="card">
+            <div class="card-body">
+                <h4 class="card-title mb-3">Publications</h4>
+                <div class="row">
+                    <div class="col-md-12 col-12">
+                        <div id="publication_chart_personal" class="morris-charts morris-chart-height"></div>
+                    </div>
+                </div>
+                    <div class="row">
+                        <div class="col-md-12 col-12">
+                            <div class="inbox-wid">
+                                <div class="inbox-item">
+                                    <div class="float-start">INDEXED PUBLICATION</div>
+                                    <div class="float-end">41</div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="row">
+                        <div class="col-md-12 col-12">
+                            <div class="inbox-wid">
+                                <div class="inbox-item">
+                                    <div class="float-start">NON-INDEXED PUBLICATION</div>
+                                    <div class="float-end">12</div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="row">
+                        <div class="col-md-12 col-12">
+                            <div class="inbox-wid">
+                                <div class="inbox-item">
+                                    <div class="float-start">OTHERS PUBLICATION</div>
+                                    <div class="float-end">50</div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                <div class="row">
+                    <div class="col-md-12 col-12">
+                        <div class="inbox-wid">
+                            <div class="inbox-item">
+                                <div class="float-start"><strong>TOTAL</strong></div>
+                                <div class="float-end"><span id="TotalPublicationCount"></span></div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+    <div class="col-xl-4">
+        <div class="card">
+            <div class="card-body">
+                <h4 class="card-title mb-4">Supervisions</h4>
+                <div class="row">
+                    <div class="col-md-12 col-12">
+                        <div id="supervision_chart_personal" class="morris-charts morris-chart-height"></div>
+                    </div>
+                </div>
+                    <div class="row">
+                        <div class="col-md-12">
+                            <div class="inbox-wid">
+                                <div class="inbox-item">
+                                    <div class="float-start">MASTER</div>
+                                    <div class="float-end">3</div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="row">
+                        <div class="col-md-12">
+                            <div class="inbox-wid">
+                                <div class="inbox-item">
+                                    <div class="float-start">PHD</div>
+                                    <div class="float-end">5</div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                <div class="row">
+                    <div class="inbox-wid">
+                        <div class="inbox-item">
+                            <div class="float-start"><strong>TOTAL</strong></div>
+                            <div class="float-end"><span id="TotalSupervisionCount_chart"></span></div>
+                        </div>
+                    </div>
+                </div>
+
+            </div>
+        </div>
+    </div>
+</div>
+
+<div class="row">
+    <div class="card">
+        <div class="card-body">
+            <!-- Nav tabs -->
+            <ul class="nav nav-tabs nav-tabs-custom" role="tablist">
+                <li class="nav-item">
+                    <a class="nav-link active" data-bs-toggle="tab" href="#grant_tab" role="tab" aria-selected="true">
+                        <span class="d-block d-sm-none"><i class="fas fa-dollar-sign"></i></span>
+                        <span class="d-none d-sm-block">Grants</span>
+                    </a>
+                </li>
+                <li class="nav-item">
+                    <a class="nav-link" data-bs-toggle="tab" href="#publication_tab" role="tab" aria-selected="false">
+                        <span class="d-block d-sm-none"><i class="fa fa-book-open"></i></span>
+                        <span class="d-none d-sm-block">Publications</span>
+                    </a>
+                </li>
+                <li class="nav-item">
+                    <a class="nav-link" data-bs-toggle="tab" href="#ip_tab" role="tab" aria-selected="false">
+                        <span class="d-block d-sm-none"><i class="far fa-envelope"></i></span>
+                        <span class="d-none d-sm-block">Intellectual Property</span>
+                    </a>
+                </li>
+                <li class="nav-item">
+                    <a class="nav-link" data-bs-toggle="tab" href="#supervision_tab" role="tab" aria-selected="false">
+                        <span class="d-block d-sm-none"><i class="fas fa-user-graduate"></i></span>
+                        <span class="d-none d-sm-block">Supervisions</span>
+                    </a>
+                </li>
+            </ul>
+
+            <!-- Tab panes -->
+            <div class="tab-content">
+                <div class="tab-pane p-3 active" id="grant_tab" role="tabpanel">
+                    <p class="mb-0">
+                    <p>Legend : <span class="badge rounded-pill  bg-info">SPONSOR</span> <span class="badge rounded-pill  bg-success">TYPE OF GRANT</span></p>
+                    <div class="table-responsive">
+                        <table id="grantListTablePersonalDatatable" class="table mb-0 dt-responsive nowrap" style="border-collapse: collapse; border-spacing: 0; width: 100%;">
+                            <thead>
+                                <tr>
+                                    <th>Grant Name</th>
+                                    <th>Year</th>
+                                </tr>
+                            </thead>
+                            <tbody>
+                                    <tr>
+                                        <td>MG1-35.1 : Developing Web Application for Learning Computer Science (WALCS) Using Checklist-Based Framework<br /><span class="badge rounded-pill  bg-info">RUG OF UTM</span> <span class="badge rounded-pill  bg-success">Matching Grant </span></td>
+                                        <td>2024</td>
+                                    </tr>
+                                    <tr>
+                                        <td>Lanjutan bagi Kajian dan Pelaksanaan Platform Digital di Wilayah KEJORA di bawah Centre for Advancement in Rural Education Informatics iCARE UTM-KEJORA<br /><span class="badge rounded-pill  bg-info">RUG OF UTM</span> <span class="badge rounded-pill  bg-success">UTM R&amp;D Fund                                                                                                                                                                                                                                                   </span></td>
+                                        <td>2023</td>
+                                    </tr>
+                                    <tr>
+                                        <td>Lanjutan bagi Kajian dan Pelaksanaan Platform Digital di Wilayah KEJORA di bawah Centre for Advancement in Rural Education Informatics iCARE UTM-KEJORA<br /><span class="badge rounded-pill  bg-info">LEMBAGA KEMAJUAN JOHOR TENGGARA (KEJORA)</span> <span class="badge rounded-pill  bg-success">Non Goverment Agency</span></td>
+                                        <td>2023</td>
+                                    </tr>
+                                    <tr>
+                                        <td>Increasing Interest in Computer Science among Rural Secondary Students (iCARE Computer Science: iCS Programme)<br /><span class="badge rounded-pill  bg-info">THE INSTITUTE OF ELECTRICAL AND ELECTRONICS ENGINEERS (IEEE)</span> <span class="badge rounded-pill  bg-success">International Grant</span></td>
+                                        <td>2023</td>
+                                    </tr>
+                                    <tr>
+                                        <td>Kajian dan Pelaksanaan Platform Digital di Wilayah KEJORA  di bawah Centre for Advancement in Rural Education Informatics iCARE UTM-KEJORA<br /><span class="badge rounded-pill  bg-info">LEMBAGA KEMAJUAN JOHOR TENGGARA (KEJORA)</span> <span class="badge rounded-pill  bg-success">Contract                                                                                                                                                                                                                                                       </span></td>
+                                        <td>2021</td>
+                                    </tr>
+                                    <tr>
+                                        <td>A framework on personalized learning approach to enhance self-confidence and speaking skills among students with global development delay.<br /><span class="badge rounded-pill  bg-info">MINISTRY OF EDUCATION</span> <span class="badge rounded-pill  bg-success">Fundamental Research Grant Scheme </span></td>
+                                        <td>2020</td>
+                                    </tr>
+                                    <tr>
+                                        <td>BUKU DIALOG DAN VIDEO ANIMASI BAGI MENINGKATKAN KEMAHIRAN BERBAHASA INGGERIS DALAM KALANGAN PELAJAR BERMASALAH PEMBELAJARAN<br /><span class="badge rounded-pill  bg-info">RUG OF UTM</span> <span class="badge rounded-pill  bg-success">Tier 2                                                                                                                                                                                                                                                         </span></td>
+                                        <td>2019</td>
+                                    </tr>
+                                    <tr>
+                                        <td>Kelestarian Modal Insan Luar Bandar melalui Program iCARE My English di sekolah wilayah KEJORA (iME@School)<br /><span class="badge rounded-pill  bg-info">LEMBAGA KEMAJUAN JOHOR TENGGARA (KEJORA)</span> <span class="badge rounded-pill  bg-success">Business Entity </span></td>
+                                        <td>2019</td>
+                                    </tr>
+                                    <tr>
+                                        <td>KELESTARIAN MODAL INSAN LUAR BANDAR (KAMIL) MELALUI CENTRE FOR ADVANCEMENT IN RURAL EDUCATION INFORMATICS (ICARE) UTM-KEJORA<br /><span class="badge rounded-pill  bg-info">LEMBAGA KEMAJUAN JOHOR TENGGARA (KEJORA)</span> <span class="badge rounded-pill  bg-success">Non Goverment Agency</span></td>
+                                        <td>2018</td>
+                                    </tr>
+                                    <tr>
+                                        <td>Museum Informatics towards Edu-Tourism (iMET) - Informatik Muzium ke Arah Pelancongan Berpendidikan<br /><span class="badge rounded-pill  bg-info">LEMBAGA KEMAJUAN JOHOR TENGGARA (KEJORA)</span> <span class="badge rounded-pill  bg-success">Non Goverment Agency</span></td>
+                                        <td>2018</td>
+                                    </tr>
+                                    <tr>
+                                        <td>Kajian dan Pelaksanaan Program Informatik Pendidikan di Perbadanan Perpustakaan Awam Johor Cawangan Bandar Penawar<br /><span class="badge rounded-pill  bg-info">PERBADANAN PERPUSTAKAAN AWAM JOHOR</span> <span class="badge rounded-pill  bg-success">Networking Grant                                                                                                                                                                                                                                               </span></td>
+                                        <td>2017</td>
+                                    </tr>
+                                    <tr>
+                                        <td>Adaptasi Teknologi Maklumat dan Komunikasi bagi Peningkatan Kemahiran Bahasa Inggeris di Luar Bandar Bermula dari Rumah (i-BIRU)<br /><span class="badge rounded-pill  bg-info">MINISTRY OF EDUCATION</span> <span class="badge rounded-pill  bg-success">Centre for Community and Industry Network </span></td>
+                                        <td>2016</td>
+                                    </tr>
+                                    <tr>
+                                        <td>FUZZY-SUPPORTED REQUIREMENT ANALYSIS APPROACH TOWARDS COMPLETE AND UNAMBIGUOUS FUNCTIONAL REQUIREMENTS (FUSRA)<br /><span class="badge rounded-pill  bg-info">RUG OF UTM</span> <span class="badge rounded-pill  bg-success">Tier 1                                                                                                                                                                                                                                                         </span></td>
+                                        <td>2016</td>
+                                    </tr>
+                                    <tr>
+                                        <td>CENTRE FOR ADVANCEMENT IN RURAL EDUCATION INFORMATICS (ICARE): PENINGKATAN PROGRAM BERASASKAN KAJIAN AWAL<br /><span class="badge rounded-pill  bg-info">LEMBAGA KEMAJUAN JOHOR TENGGARA (KEJORA)</span> <span class="badge rounded-pill  bg-success">Non Goverment Agency</span></td>
+                                        <td>2015</td>
+                                    </tr>
+                                    <tr>
+                                        <td>PEMANTAPAN PROJEK LIGA ROBOTIK ICARE UTM-KEJORA KE PERINGKAT LEBIH TINGGI<br /><span class="badge rounded-pill  bg-info">LEMBAGA KEMAJUAN JOHOR TENGGARA (KEJORA)</span> <span class="badge rounded-pill  bg-success">Non Goverment Agency</span></td>
+                                        <td>2015</td>
+                                    </tr>
+                                    <tr>
+                                        <td>A GENERIC MODEL OF KNOWLEDGE COMMUNITY FOR A SUSTAINABLE AND HOLISTIC ADVANCEMENT IN RURAL EDUCATION (K-SHARE)<br /><span class="badge rounded-pill  bg-info">RUG OF UTM</span> <span class="badge rounded-pill  bg-success">Tier 1                                                                                                                                                                                                                                                         </span></td>
+                                        <td>2015</td>
+                                    </tr>
+                                    <tr>
+                                        <td>MODEL PERKONGSIAN ILMU KE ARAH KELESTARIAN MODAL INSAN LUAR BANDAR (KAMIL) MELALUI CENTRE FOR ADVANCEMENT IN RURAL EDUCATION INFORMATICS (ICARE) UTM-KEJORA: ICARE MY AIM &amp; ICARE MY ENGLISH<br /><span class="badge rounded-pill  bg-info">LEMBAGA KEMAJUAN JOHOR TENGGARA (KEJORA)</span> <span class="badge rounded-pill  bg-success">Non Goverment Agency</span></td>
+                                        <td>2015</td>
+                                    </tr>
+                                    <tr>
+                                        <td>KREATIVITI DAN INOVASI MELALUI PENGATURCARAAN LIGA ROBOTIK ICARE UTM-KEJORA : KEMAHIRAN PENYELESAIAN MASALAH<br /><span class="badge rounded-pill  bg-info">LEMBAGA KEMAJUAN JOHOR TENGGARA (KEJORA)</span> <span class="badge rounded-pill  bg-success">Non Goverment Agency</span></td>
+                                        <td>2015</td>
+                                    </tr>
+                                    <tr>
+                                        <td>Educate Malaysia: Maths, English &amp; Science - UTM-MESHelp Support - Program Minat dan Yakin Berbahasa Inggeris<br /><span class="badge rounded-pill  bg-info">MINISTRY OF EDUCATION</span> <span class="badge rounded-pill  bg-success">Networking Grant                                                                                                                                                                                                                                               </span></td>
+                                        <td>2015</td>
+                                    </tr>
+                                    <tr>
+                                        <td>Database Summarization for Mobile Web Pre-fetching (MoDS) Using Rough Set<br /><span class="badge rounded-pill  bg-info">MINISTRY OF ENERGY, SCIENCE, TECHNOLOGY, ENVIRONEMNT AND CLIMATE CHANGE (MESTECC)</span> <span class="badge rounded-pill  bg-success">Sciencefund </span></td>
+                                        <td>2015</td>
+                                    </tr>
+                                    <tr>
+                                        <td>A NEW SCHEME OF INTELLIGENT TIME SHIFTED CACHES FOR DATA ACCESS IN WIRELESS NETWORK<br /><span class="badge rounded-pill  bg-info">MINISTRY OF EDUCATION</span> <span class="badge rounded-pill  bg-success">Fundamental Research Grant Scheme </span></td>
+                                        <td>2014</td>
+                                    </tr>
+                                    <tr>
+                                        <td>Centre for Advancement in Rural Education Informatics: iCARE My English Programme<br /><span class="badge rounded-pill  bg-info">LEMBAGA KEMAJUAN JOHOR TENGGARA (KEJORA)</span> <span class="badge rounded-pill  bg-success">Non Goverment Agency</span></td>
+                                        <td>2014</td>
+                                    </tr>
+                                    <tr>
+                                        <td>iCARE Pengaturcaraan ROBOT-LIGA KEJORA<br /><span class="badge rounded-pill  bg-info">LEMBAGA KEMAJUAN JOHOR TENGGARA (KEJORA)</span> <span class="badge rounded-pill  bg-success">Non Goverment Agency</span></td>
+                                        <td>2014</td>
+                                    </tr>
+                                    <tr>
+                                        <td>Cloud Computing Services for E-Learning Big Data<br /><span class="badge rounded-pill  bg-info">RUG OF UTM</span> <span class="badge rounded-pill  bg-success">Flagship-Research Group </span></td>
+                                        <td>2014</td>
+                                    </tr>
+                                    <tr>
+                                        <td>A COMPONENT-BASED MOBILE ROBOTICS  APPLICATION TOOLBOX FOR TEACHING PROGRAMMING SKILL<br /><span class="badge rounded-pill  bg-info">RUG OF UTM</span> <span class="badge rounded-pill  bg-success">Tier 1                                                                                                                                                                                                                                                         </span></td>
+                                        <td>2014</td>
+                                    </tr>
+                                    <tr>
+                                        <td>Crowd Feedback for Efficient and Convenient Commuter Planning<br /><span class="badge rounded-pill  bg-info">RUG OF UTM</span> <span class="badge rounded-pill  bg-success">Flagship </span></td>
+                                        <td>2014</td>
+                                    </tr>
+                                    <tr>
+                                        <td>An Impression-Based Model for Understandability, Learnability and Attractiveness  (IBMULA) in Web Usability<br /><span class="badge rounded-pill  bg-info">MINISTRY OF EDUCATION</span> <span class="badge rounded-pill  bg-success">Fundamental Research Grant Scheme </span></td>
+                                        <td>2013</td>
+                                    </tr>
+                                    <tr>
+                                        <td>INTERACTIVE PUBLIC SITUATED DISPLAYS AND INTELLIGENT MOBILE WEB PRE-CACHING IN KNOWLEDGE ORIENTED DIGITAL UNIVERSITY FRAMEWORK<br /><span class="badge rounded-pill  bg-info">RUG OF UTM</span> <span class="badge rounded-pill  bg-success">Flagship </span></td>
+                                        <td>2013</td>
+                                    </tr>
+                                    <tr>
+                                        <td>A Dynamic User Centric Model for Managing and Tracking Change and Modification Requests (DUCMoRe) of Prototype-Based Web Applications<br /><span class="badge rounded-pill  bg-info">MINISTRY OF ENERGY, SCIENCE, TECHNOLOGY, ENVIRONEMNT AND CLIMATE CHANGE (MESTECC)</span> <span class="badge rounded-pill  bg-success">Sciencefund </span></td>
+                                        <td>2013</td>
+                                    </tr>
+                                    <tr>
+                                        <td>THE AUGMENTED SOCIAL NETWORK (ASN) BENCHMARK FOR WEB PRE-CACHING ON SOLVING TRUST, ACCURACY AND EXPECTATION PROBLEMS<br /><span class="badge rounded-pill  bg-info">RUG OF UTM</span> <span class="badge rounded-pill  bg-success">Tier 1                                                                                                                                                                                                                                                         </span></td>
+                                        <td>2012</td>
+                                    </tr>
+                                    <tr>
+                                        <td>KE ARAH KELESTARIAN PEMBANGUNAN PENDIDIKAN LUAR BANDAR MELALUI LEMBAGA KEMAJUAN JOHOR TENGGARA (KEJORA) DAN CENTRE FOR ADVANCEMENT IN RURAL EDUCATION INFORMATICS (ICARE)<br /><span class="badge rounded-pill  bg-info">LEMBAGA KEMAJUAN JOHOR TENGGARA (KEJORA)</span> <span class="badge rounded-pill  bg-success">Non Goverment Agency</span></td>
+                                        <td>2012</td>
+                                    </tr>
+
+                            </tbody>
+                        </table>
+                    </div>
+                    </p>
+                </div>
+                <div class="tab-pane p-3" id="publication_tab" role="tabpanel">
+                    <p class="mb-0">
+                    <p class="text-muted">
+                        Legend : <span class="badge rounded-pill  bg-info">PUBLICATION CATEGORY </span>
+                        <span class="badge rounded-pill  bg-success">TYPE OF AUTHORS</span>
+                    </p>
+                    <div class="table-responsive">
+                        <table id="publicationListTablePersonalDatatable" class="table mb-0 dt-responsive nowrap" style="border-collapse: collapse; border-spacing: 0; width: 100%;">
+                            <thead>
+                                <tr>
+                                    <th>Publication Name</th>
+                                    <th>Year</th>
+                                </tr>
+                            </thead>
+                            <tbody>
+                                    <tr>
+                                        <td>
+
+                                            <a href="/scholar-publication/ZZEN/144619"></a>
+
+                                            <br />
+                                                KENALI SAINS KOMPUTER: APAKAH YANG ANDA INGIN TAHU?<br />
+                                            <span class="badge rounded-pill  bg-info">Modules / Manual</span> <span class="badge rounded-pill  bg-success">FIRST UTM CORRESPONDING AUTHOR</span>
+                                        </td>
+                                        <td>2024</td>
+                                    </tr>
+                                    <tr>
+                                        <td>
+
+                                            <a href="/scholar-publication/ZZEN/146523"></a>
+
+                                            <br />
+                                                KHIDMAT PROFESIONAL: PROJEK KOMUNITI ICARE UTM-KEJORA<br />
+                                            <span class="badge rounded-pill  bg-info">Original Book</span> <span class="badge rounded-pill  bg-success">INDIVIDUAL AUTHOR</span>
+                                        </td>
+                                        <td>2024</td>
+                                    </tr>
+                                    <tr>
+                                        <td>
+
+                                            <a href="/scholar-publication/ZZEN/140073">Acceptance Factors Towards Mobile Technologies In Learning English Among Rural Students</a>
+
+                                            <br />
+                                                INTERNATIONAL JOURNAL OF INNOVATIVE COMPUTING<br />
+                                            <span class="badge rounded-pill  bg-info">Journal Article Non Citation-Indexed</span> <span class="badge rounded-pill  bg-success">UTM FIRST AUTHOR</span>
+                                        </td>
+                                        <td>2023</td>
+                                    </tr>
+                                    <tr>
+                                        <td>
+
+                                            <a href="/scholar-publication/ZZEN/138685">Virtual Keyboard Optimization With Vision Controlled Human Interaction For Disabled People</a>
+
+                                            <br />
+                                                HUMAN-COMPUTER INTERACTION: THEORY AND PRACTICAL APPLICATIONS<br />
+                                            <span class="badge rounded-pill  bg-info">Book Chapter</span> <span class="badge rounded-pill  bg-success">UTM FIRST AUTHOR</span>
+                                        </td>
+                                        <td>2023</td>
+                                    </tr>
+                                    <tr>
+                                        <td>
+
+                                            <a href="/scholar-publication/ZZEN/138541">Online Community Engagement: Exposing Information And Communication Technology Among Rural Learners During The Covid-19 Era</a>
+
+                                            <br />
+                                                13TH IEEE SYMPOSIUM ON COMPUTER APPLICATIONS AND INDUSTRIAL ELECTRONICS, ISCAIE 2023<br />
+                                            <span class="badge rounded-pill  bg-info">Publication In Scopus</span> <span class="badge rounded-pill  bg-success">UTM FIRST AUTHOR</span>
+                                        </td>
+                                        <td>2023</td>
+                                    </tr>
+                                    <tr>
+                                        <td>
+
+                                            <a href="/scholar-publication/ZZEN/135739"></a>
+
+                                            <br />
+                                                LAPORAN PROJEK JUN 2018&#x2500;MEI 2021: CENTRE FOR ADVANCEMENT IN RURAL EDUCATION INFORMATICS (ICARE) UTM-KEJORA<br />
+                                            <span class="badge rounded-pill  bg-info">Pelaporan / Penerbitan Khusus (Rancangan Malaysia, Statistik Kebangsaan)</span> <span class="badge rounded-pill  bg-success">UTM FIRST AUTHOR</span>
+                                        </td>
+                                        <td>2022</td>
+                                    </tr>
+                                    <tr>
+                                        <td>
+
+                                            <a href="/scholar-publication/ZZEN/132609">Visual-Based Vocabulary Assistance Application</a>
+
+                                            <br />
+                                                UTM COMPUTING PROCEEDINGS: INNOVATIONS IN COMPUTING TECHNOLOGY AND APPLICATIONS<br />
+                                            <span class="badge rounded-pill  bg-info">Proceedings</span> <span class="badge rounded-pill  bg-success">UTM FIRST AUTHOR</span>
+                                        </td>
+                                        <td>2022</td>
+                                    </tr>
+                                    <tr>
+                                        <td>
+
+                                            <a href="/scholar-publication/ZZEN/134889">Online Service-Learning In An Application Development Course: The Challenges During The Covid-19 Post-Pandemic Period</a>
+
+                                            <br />
+                                                JOINT PROCEEDINGS OF 10TH WORKSHOP ON QUANTITATIVE APPROACHES TO SOFTWARE QUALITY (QUASOQ 2022) &amp; 6TH SOFTWARE ENGINEERING EDUCATION WORKSHOP (SEED 2022): CO-LOCATED WITH APSEC 2022<br />
+                                            <span class="badge rounded-pill  bg-info">Publication In Scopus</span> <span class="badge rounded-pill  bg-success">INDIVIDUAL AUTHOR</span>
+                                        </td>
+                                        <td>2022</td>
+                                    </tr>
+                                    <tr>
+                                        <td>
+
+                                            <a href="/scholar-publication/ZZEN/135390">Checklist Approach For The Development Of Educational Applications By Novice Software Developers</a>
+
+                                            <br />
+                                                IEEE ACCESS<br />
+                                            <span class="badge rounded-pill  bg-info">Publication In Web Of Science</span> <span class="badge rounded-pill  bg-success">UTM FIRST AUTHOR</span>
+                                        </td>
+                                        <td>2022</td>
+                                    </tr>
+                                    <tr>
+                                        <td>
+
+                                            <a href="/scholar-publication/ZZEN/136531">Measuring Reliability Of A Web Portal Based On Testing Profile</a>
+
+                                            <br />
+                                                COMPUTERS, MATERIALS &amp; CONTINUA<br />
+                                            <span class="badge rounded-pill  bg-info">Publication In Web Of Science</span> <span class="badge rounded-pill  bg-success">UTM FIRST AUTHOR</span>
+                                        </td>
+                                        <td>2022</td>
+                                    </tr>
+                                    <tr>
+                                        <td>
+
+                                            <a href="/scholar-publication/ZZEN/132610">Mobile Application For Learning Cascading Style Sheets Concepts</a>
+
+                                            <br />
+                                                UTM COMPUTING PROCEEDINGS: INNOVATIONS IN COMPUTING TECHNOLOGY AND APPLICATIONS<br />
+                                            <span class="badge rounded-pill  bg-info">Proceedings</span> <span class="badge rounded-pill  bg-success">UTM FIRST AUTHOR</span>
+                                        </td>
+                                        <td>2022</td>
+                                    </tr>
+                                    <tr>
+                                        <td>
+
+                                            <a href="/scholar-publication/ZZEN/131461">Community Engagement In Education Informatics For Rural Learners During The Post-Covid-19 Era</a>
+
+                                            <br />
+                                                UNIVERSITI MALAYA ACADEMIA COMMUNITY ENGAGEMENT CONFERENCE (UMACE 2021)<br />
+                                            <span class="badge rounded-pill  bg-info">Proceedings</span> <span class="badge rounded-pill  bg-success">INDIVIDUAL AUTHOR</span>
+                                        </td>
+                                        <td>2021</td>
+                                    </tr>
+                                    <tr>
+                                        <td>
+
+                                            <a href="/scholar-publication/ZZEN/127612">Teaching Software Engineering Virtually During Covid-19 Pandemic Era: Lessons Learned</a>
+
+                                            <br />
+                                                JOINT PROCEEDINGS OF SEED 2021 &amp; QUASOQ 2021&#xA;CO-LOCATED WITH 28TH ASIA PACIFIC SOFTWARE ENGINEERING CONFERENCE 2021<br />
+                                            <span class="badge rounded-pill  bg-info">Publication In Scopus</span> <span class="badge rounded-pill  bg-success">INDIVIDUAL AUTHOR</span>
+                                        </td>
+                                        <td>2021</td>
+                                    </tr>
+                                    <tr>
+                                        <td>
+
+                                            <a href="/scholar-publication/ZZEN/123060">Case Study On Prototyping Educational Applications Using Persona-Based Approach</a>
+
+                                            <br />
+                                                PROCEEDINGS OF THE 8TH INTERNATIONAL CONFERENCE ON COMPUTER AND COMMUNICATION ENGINEERING (ICCCE 2021)<br />
+                                            <span class="badge rounded-pill  bg-info">Publication In Scopus</span> <span class="badge rounded-pill  bg-success">UTM FIRST AUTHOR</span>
+                                        </td>
+                                        <td>2021</td>
+                                    </tr>
+                                    <tr>
+                                        <td>
+
+                                            <a href="/scholar-publication/ZZEN/120431">Systematic Review On Software Quality In Educational Applications</a>
+
+                                            <br />
+                                                IEEE ACCESS<br />
+                                            <span class="badge rounded-pill  bg-info">Publication In Web Of Science</span> <span class="badge rounded-pill  bg-success">UTM FIRST AUTHOR</span>
+                                        </td>
+                                        <td>2021</td>
+                                    </tr>
+                                    <tr>
+                                        <td>
+
+                                            <a href="/scholar-publication/ZZEN/112003">Service Learning In Application Development Course: A Case Study Of A Rural Community Engagement</a>
+
+                                            <br />
+                                                2020 9TH INTERNATIONAL CONFERENCE ON SOFTWARE AND COMPUTER APPLICATIONS (ICSCA 2020)<br />
+                                            <span class="badge rounded-pill  bg-info">Proceedings</span> <span class="badge rounded-pill  bg-success">CORRESPONDING AUTHOR</span>
+                                        </td>
+                                        <td>2020</td>
+                                    </tr>
+                                    <tr>
+                                        <td>
+
+                                            <a href="/scholar-publication/ZZEN/113770">A Comparative Study On Quality Characteristics In Designing Educational Applications</a>
+
+                                            <br />
+                                                INTERNATIONAL JOURNAL OF INFORMATION AND EDUCATION TECHNOLOGY<br />
+                                            <span class="badge rounded-pill  bg-info">Publication In Scopus</span> <span class="badge rounded-pill  bg-success">UTM FIRST AUTHOR</span>
+                                        </td>
+                                        <td>2020</td>
+                                    </tr>
+                                    <tr>
+                                        <td>
+
+                                            <a href="/scholar-publication/ZZEN/115548">A Systematic Literature Review On Teaching And Learning&#xD;&#xA;English Using Mobile Technology</a>
+
+                                            <br />
+                                                INTERNATIONAL JOURNAL OF INFORMATION AND EDUCATION TECHNOLOGY<br />
+                                            <span class="badge rounded-pill  bg-info">Publication In Scopus</span> <span class="badge rounded-pill  bg-success">UTM FIRST AUTHOR</span>
+                                        </td>
+                                        <td>2020</td>
+                                    </tr>
+                                    <tr>
+                                        <td>
+
+                                            <a href="/scholar-publication/ZZEN/117858">Service Learning In Application Development Course: A Case Study Of A Rural Community Engagement</a>
+
+                                            <br />
+                                                2020 9TH INTERNATIONAL CONFERENCE ON SOFTWARE AND COMPUTER APPLICATIONS (ICSCA 2020)<br />
+                                            <span class="badge rounded-pill  bg-info">Publication In Scopus</span> <span class="badge rounded-pill  bg-success">CORRESPONDING AUTHOR</span>
+                                        </td>
+                                        <td>2020</td>
+                                    </tr>
+                                    <tr>
+                                        <td>
+
+                                            <a href="/scholar-publication/ZZEN/117311">Generic Code Clone Detection Model For Java Applications</a>
+
+                                            <br />
+                                                IOP CONFERENCE SERIES: MATERIALS SCIENCE AND ENGINEERING<br />
+                                            <span class="badge rounded-pill  bg-info">Publication In Scopus</span> <span class="badge rounded-pill  bg-success">UTM FIRST AUTHOR</span>
+                                        </td>
+                                        <td>2020</td>
+                                    </tr>
+                                    <tr>
+                                        <td>
+
+                                            <a href="/scholar-publication/ZZEN/111959">Pairing-Based Approach To Support Understanding Of Object-Oriented Concepts And Programming</a>
+
+                                            <br />
+                                                INTERNATIONAL JOURNAL ON ADVANCED SCIENCE, ENGINEERING AND INFORMATION TECHNOLOGY<br />
+                                            <span class="badge rounded-pill  bg-info">Publication In Scopus</span> <span class="badge rounded-pill  bg-success">INDIVIDUAL AUTHOR</span>
+                                        </td>
+                                        <td>2020</td>
+                                    </tr>
+                                    <tr>
+                                        <td>
+
+                                            <a href="/scholar-publication/ZZEN/104110"></a>
+
+                                            <br />
+                                                PENYELIDIKAN BERASASKAN PENYERTAAN KOMUNITI MELALUI PROJEK ICARE UTM-KEJORA<br />
+                                            <span class="badge rounded-pill  bg-info">Pelaporan / Penerbitan Khusus (Rancangan Malaysia, Statistik Kebangsaan)</span> <span class="badge rounded-pill  bg-success">CORRESPONDING AUTHOR</span>
+                                        </td>
+                                        <td>2019</td>
+                                    </tr>
+                                    <tr>
+                                        <td>
+
+                                            <a href="/scholar-publication/ZZEN/105064"></a>
+
+                                            <br />
+                                                INFORMATIK MUZIUM KE ARAH PELANCONGAN BERASASKAN PENDIDIKAN<br />
+                                            <span class="badge rounded-pill  bg-info">Pelaporan / Penerbitan Khusus (Rancangan Malaysia, Statistik Kebangsaan)</span> <span class="badge rounded-pill  bg-success">CORRESPONDING AUTHOR</span>
+                                        </td>
+                                        <td>2019</td>
+                                    </tr>
+                                    <tr>
+                                        <td>
+
+                                            <a href="/scholar-publication/ZZEN/100801"></a>
+
+                                            <br />
+                                                A NEW SCHEME OF INTELLIGENT TIME SHIFTED CACHES FOR DATA ACCESS IN WIRELESS&#xD;&#xA;NETWORK<br />
+                                            <span class="badge rounded-pill  bg-info">Clasified/Technical Report</span> <span class="badge rounded-pill  bg-success">CO-AUTHOR</span>
+                                        </td>
+                                        <td>2019</td>
+                                    </tr>
+                                    <tr>
+                                        <td>
+
+                                            <a href="/scholar-publication/ZZEN/105769">Museum Informatics: A Case Study On Augmented Reality At Tanjung Balau Fishermen Museum</a>
+
+                                            <br />
+                                                IEEE 9TH INTERNATIONAL CONFERENCE ON SYSTEM ENGINEERING AND TECHNOLOGY (ICSET 2019)<br />
+                                            <span class="badge rounded-pill  bg-info">Proceedings</span> <span class="badge rounded-pill  bg-success">UTM FIRST AUTHOR</span>
+                                        </td>
+                                        <td>2019</td>
+                                    </tr>
+                                    <tr>
+                                        <td>
+
+                                            <a href="/scholar-publication/ZZEN/101502"></a>
+
+                                            <br />
+                                                DATABASE SUMMARIZATION FOR MOBILE WEB PRE-FETCHING (MODS) USING&#xD;&#xA;ROUGH SET (PROJECT PROFILE&#xD;&#xA;R.J130000.7928.4S117)&#xD;&#xA;<br />
+                                            <span class="badge rounded-pill  bg-info">Clasified/Technical Report</span> <span class="badge rounded-pill  bg-success">CO-AUTHOR</span>
+                                        </td>
+                                        <td>2019</td>
+                                    </tr>
+                                    <tr>
+                                        <td>
+
+                                            <a href="/scholar-publication/ZZEN/105768">A Survey On Quality Factors In Designing Educational Applications For Active&#xD;&#xA;Learning</a>
+
+                                            <br />
+                                                IEEE 9TH INTERNATIONAL CONFERENCE ON SYSTEM ENGINEERING AND TECHNOLOGY (ICSET 2019)<br />
+                                            <span class="badge rounded-pill  bg-info">Proceedings</span> <span class="badge rounded-pill  bg-success">UTM FIRST AUTHOR</span>
+                                        </td>
+                                        <td>2019</td>
+                                    </tr>
+                                    <tr>
+                                        <td>
+
+                                            <a href="/scholar-publication/ZZEN/101950">Task-Based Student-Centred Approach In Mobile Learning To Support 21st Century Skills In English Subject</a>
+
+                                            <br />
+                                                INTERNATIONAL JOURNAL OF SOFTWARE ENGINEERING AND TECHNOLOGY<br />
+                                            <span class="badge rounded-pill  bg-info">Journal Article Non Citation-Indexed</span> <span class="badge rounded-pill  bg-success">UTM FIRST AUTHOR</span>
+                                        </td>
+                                        <td>2018</td>
+                                    </tr>
+                                    <tr>
+                                        <td>
+
+                                            <a href="/scholar-publication/ZZEN/98064">Hybrid Hierarchical Architecture For Integration And Interoperability Of A One-Stop E-Government Portal</a>
+
+                                            <br />
+                                                JOURNAL OF COMPUTING RESEARCH AND INNOVATION<br />
+                                            <span class="badge rounded-pill  bg-info">Journal Article Non Citation-Indexed</span> <span class="badge rounded-pill  bg-success">UTM FIRST AUTHOR</span>
+                                        </td>
+                                        <td>2018</td>
+                                    </tr>
+                                    <tr>
+                                        <td>
+
+                                            <a href="/scholar-publication/ZZEN/96553">The Role Of Academia In University Social Responsibility: A Case Study On Community-Based Participatory Research In Selected Rural Education Informatics</a>
+
+                                            <br />
+                                                SUSTAINABILITY OF HIGHER EDUCATION: A GLOBAL PERSEPECTIVE<br />
+                                            <span class="badge rounded-pill  bg-info">Book Chapter</span> <span class="badge rounded-pill  bg-success">INDIVIDUAL AUTHOR</span>
+                                        </td>
+                                        <td>2018</td>
+                                    </tr>
+                                    <tr>
+                                        <td>
+
+                                            <a href="/scholar-publication/ZZEN/106043">Knowledge&#xA;Based Requirements Engineering In Detecting Ambiguity</a>
+
+                                            <br />
+                                                INTERNATIONAL JOURNAL OF ENGINEERING &amp; TECHNOLOGY<br />
+                                            <span class="badge rounded-pill  bg-info">Journal Article Non Citation-Indexed</span> <span class="badge rounded-pill  bg-success">UTM FIRST AUTHOR</span>
+                                        </td>
+                                        <td>2018</td>
+                                    </tr>
+                                    <tr>
+                                        <td>
+
+                                            <a href="/scholar-publication/ZZEN/102099"></a>
+
+                                            <br />
+                                                PEMBELAJARAN MUDAH ALIH KE ARAH PENDIDIKAN 4.0<br />
+                                            <span class="badge rounded-pill  bg-info">Book (Text)</span> <span class="badge rounded-pill  bg-success">UTM FIRST AUTHOR</span>
+                                        </td>
+                                        <td>2018</td>
+                                    </tr>
+                                    <tr>
+                                        <td>
+
+                                            <a href="/scholar-publication/ZZEN/106044">An Interview&#xD;&#xA;Based Approach To Elicit User Interface Design For Web Applications</a>
+
+                                            <br />
+                                                INTERNATIONAL JOURNAL OF ENGINEERING &amp; TECHNOLOGY<br />
+                                            <span class="badge rounded-pill  bg-info">Journal Article Non Citation-Indexed</span> <span class="badge rounded-pill  bg-success">UTM FIRST AUTHOR</span>
+                                        </td>
+                                        <td>2018</td>
+                                    </tr>
+                                    <tr>
+                                        <td>
+
+                                            <a href="/scholar-publication/ZZEN/93491">An Interview-Based Approach To Elicit User Interface Design For Web Applications</a>
+
+                                            <br />
+                                                UTM COMPUTING PROCEEDINGS: INNOVATION IN COMPUTING TECHNOLOGY AND APPLICATIONS<br />
+                                            <span class="badge rounded-pill  bg-info">Proceedings</span> <span class="badge rounded-pill  bg-success">UTM FIRST AUTHOR</span>
+                                        </td>
+                                        <td>2017</td>
+                                    </tr>
+                                    <tr>
+                                        <td>
+
+                                            <a href="/scholar-publication/ZZEN/88559"></a>
+
+                                            <br />
+                                                A GENERIC MODEL OF KNOWLEDGE COMMUNITY FOR A SUSTAINABLE AND HOLISTIC ADVANCEMENT IN RURAL EDUCATION (K-SHARE)<br />
+                                            <span class="badge rounded-pill  bg-info">Clasified/Technical Report</span> <span class="badge rounded-pill  bg-success">CORRESPONDING AUTHOR</span>
+                                        </td>
+                                        <td>2017</td>
+                                    </tr>
+                                    <tr>
+                                        <td>
+
+                                            <a href="/scholar-publication/ZZEN/88300">Attractiveness And Learnability To Support Operability In Web Applications</a>
+
+                                            <br />
+                                                JOURNAL OF TELECOMMUNICATION, ELECTRONIC AND COMPUTER&#xD;&#xA;ENGINEERING<br />
+                                            <span class="badge rounded-pill  bg-info">Publication In Scopus</span> <span class="badge rounded-pill  bg-success">UTM FIRST AUTHOR</span>
+                                        </td>
+                                        <td>2017</td>
+                                    </tr>
+                                    <tr>
+                                        <td>
+
+                                            <a href="/scholar-publication/ZZEN/88093">A Systematic Literature Review On User Interface Design For Web Applications</a>
+
+                                            <br />
+                                                JOURNAL OF TELECOMMUNICATION, ELECTRONIC AND COMPUTER&#xD;&#xA;ENGINEERING<br />
+                                            <span class="badge rounded-pill  bg-info">Publication In Scopus</span> <span class="badge rounded-pill  bg-success">UTM FIRST AUTHOR</span>
+                                        </td>
+                                        <td>2017</td>
+                                    </tr>
+                                    <tr>
+                                        <td>
+
+                                            <a href="/scholar-publication/ZZEN/88091">Detecting Ambiguity In Requirements Analysis Using Mamdani Fuzzy Inference</a>
+
+                                            <br />
+                                                JOURNAL OF TELECOMMUNICATION, ELECTRONIC AND COMPUTER&#xD;&#xA;ENGINEERING<br />
+                                            <span class="badge rounded-pill  bg-info">Publication In Scopus</span> <span class="badge rounded-pill  bg-success">UTM FIRST AUTHOR</span>
+                                        </td>
+                                        <td>2017</td>
+                                    </tr>
+                                    <tr>
+                                        <td>
+
+                                            <a href="/scholar-publication/ZZEN/85174"></a>
+
+                                            <br />
+                                                KUASAI ASAS BAHASA INGGERIS: STRATEGI MUDAH DAN BERTEKNOLOGI MAKLUMAT<br />
+                                            <span class="badge rounded-pill  bg-info">Book (Text)</span> <span class="badge rounded-pill  bg-success">INDIVIDUAL AUTHOR</span>
+                                        </td>
+                                        <td>2017</td>
+                                    </tr>
+                                    <tr>
+                                        <td>
+
+                                            <a href="/scholar-publication/ZZEN/78222">Implementing Fuzzy Logic Technique In Requirements Engineering</a>
+
+                                            <br />
+                                                PROCEEDINGS OF THE JOINT POSTGRADUATE RESEARCH WORKSHOP AND SOFTWARE ENGINEERING POSTGRADUATE WORKSHOP<br />
+                                            <span class="badge rounded-pill  bg-info">Proceedings</span> <span class="badge rounded-pill  bg-success">UTM FIRST AUTHOR</span>
+                                        </td>
+                                        <td>2016</td>
+                                    </tr>
+                                    <tr>
+                                        <td>
+
+                                            <a href="/scholar-publication/ZZEN/82702">A Framework To Improve Attractiveness And Learnability Factors In Web Applications</a>
+
+                                            <br />
+                                                12TH POSTGRADUATE ANNUAL RESEARCH SEMINAR (PARS 2016)<br />
+                                            <span class="badge rounded-pill  bg-info">Conference Paper</span> <span class="badge rounded-pill  bg-success">UTM FIRST AUTHOR</span>
+                                        </td>
+                                        <td>2016</td>
+                                    </tr>
+                                    <tr>
+                                        <td>
+
+                                            <a href="/scholar-publication/ZZEN/80538">Implementing Fuzzy Logic Technique In Requirements Engineering</a>
+
+                                            <br />
+                                                12TH POSTGRADUATE ANNUAL RESEARCH SEMINAR (PARS2016)<br />
+                                            <span class="badge rounded-pill  bg-info">Conference Paper</span> <span class="badge rounded-pill  bg-success">UTM FIRST AUTHOR</span>
+                                        </td>
+                                        <td>2016</td>
+                                    </tr>
+                                    <tr>
+                                        <td>
+
+                                            <a href="/scholar-publication/ZZEN/78220">A Framework To Guide Developers In Improving Attractiveness And Learnability Of Web Applications</a>
+
+                                            <br />
+                                                JOINT POSTGRADUATE RESEARCH WORKSHOP AND SOFTWARE ENGINEERING POSTGRADUATE WORKSHOP<br />
+                                            <span class="badge rounded-pill  bg-info">Proceedings</span> <span class="badge rounded-pill  bg-success">UTM FIRST AUTHOR</span>
+                                        </td>
+                                        <td>2016</td>
+                                    </tr>
+                                    <tr>
+                                        <td>
+
+                                            <a href="/scholar-publication/ZZEN/78362">Testing And Operational Profile Based Reliability Engineering Framework For Software</a>
+
+                                            <br />
+                                                JOINT POSTGRADUATE RESEARCH WORKSHOP &amp; SOFTWARE ENGINEERING POSTGRADUATE WORKSHOP<br />
+                                            <span class="badge rounded-pill  bg-info">Proceedings</span> <span class="badge rounded-pill  bg-success">UTM FIRST AUTHOR</span>
+                                        </td>
+                                        <td>2016</td>
+                                    </tr>
+                                    <tr>
+                                        <td>
+
+                                            <a href="/scholar-publication/ZZEN/78766"></a>
+
+                                            <br />
+                                                ACADEMIC HANDBOOK UNDERGRADUATE 2016/2017<br />
+                                            <span class="badge rounded-pill  bg-info">Modules / Manual</span> <span class="badge rounded-pill  bg-success">CO-AUTHOR</span>
+                                        </td>
+                                        <td>2016</td>
+                                    </tr>
+                                    <tr>
+                                        <td>
+
+                                            <a href="/scholar-publication/ZZEN/83776"></a>
+
+                                            <br />
+                                                CENTRE FOR ADVANCEMENT IN RURAL EDUCATION INFORMATICS: PENINGKATAN PROGRAM INFORMATIK PENDIDIKAN BERASASKAN KAJIAN AWAL<br />
+                                            <span class="badge rounded-pill  bg-info">Clasified/Technical Report</span> <span class="badge rounded-pill  bg-success">CORRESPONDING AUTHOR</span>
+                                        </td>
+                                        <td>2016</td>
+                                    </tr>
+                                    <tr>
+                                        <td>
+
+                                            <a href="/scholar-publication/ZZEN/56901">-</a>
+
+                                            <br />
+                                                AN IMPRESSION-BASED MODEL FOR UNDERSTANDABILITY, LEARNABILITY AND ATTRACTIVENESS (IBMULA) IN WEB USABILITY<br />
+                                            <span class="badge rounded-pill  bg-info">Clasified/Technical Report</span> <span class="badge rounded-pill  bg-success">CORRESPONDING AUTHOR</span>
+                                        </td>
+                                        <td>2016</td>
+                                    </tr>
+                                    <tr>
+                                        <td>
+
+                                            <a href="/scholar-publication/ZZEN/82996"></a>
+
+                                            <br />
+                                                PROJECT PROFILE&#xD;&#xA;VOTE NUMBER: Q.J130000.2428.02G70&#xD;&#xA;CLOUD COMPUTING SERVICES FOR E-LEARNING BIG DATA<br />
+                                            <span class="badge rounded-pill  bg-info">Clasified/Technical Report</span> <span class="badge rounded-pill  bg-success">CO-AUTHOR</span>
+                                        </td>
+                                        <td>2016</td>
+                                    </tr>
+                                    <tr>
+                                        <td>
+
+                                            <a href="/scholar-publication/ZZEN/83724"></a>
+
+                                            <br />
+                                                PANDUAN PENGGUNA APLIKASI DALAM IPAD MINI BAGI PROJEK RINTIS EDUCATION INFORMATICS<br />
+                                            <span class="badge rounded-pill  bg-info">Modules / Manual</span> <span class="badge rounded-pill  bg-success">INDIVIDUAL AUTHOR</span>
+                                        </td>
+                                        <td>2016</td>
+                                    </tr>
+                                    <tr>
+                                        <td>
+
+                                            <a href="/scholar-publication/ZZEN/82564">Integrating Service Learning In A Community-Based Participatory Research: A Case Study Of Centre For Advancement In Rural Education&#xD;&#xA;Informatics</a>
+
+                                            <br />
+                                                6TH REGIONAL CONFERENCE ON ENGINEERING EDUCATION RCEE 2016<br />
+                                            <span class="badge rounded-pill  bg-info">Proceedings</span> <span class="badge rounded-pill  bg-success">INDIVIDUAL AUTHOR</span>
+                                        </td>
+                                        <td>2016</td>
+                                    </tr>
+                                    <tr>
+                                        <td>
+
+                                            <a href="/scholar-publication/ZZEN/69689">A Case Study On Reliability And Usability Testing Of&#xD;&#xA;A Web Portal</a>
+
+                                            <br />
+                                                THE 9TH MALAYSIAN SOFTWARE ENGINEERING CONFERENCE (MYSEC 2015)<br />
+                                            <span class="badge rounded-pill  bg-info">Conference Paper</span> <span class="badge rounded-pill  bg-success">UTM FIRST AUTHOR</span>
+                                        </td>
+                                        <td>2015</td>
+                                    </tr>
+                                    <tr>
+                                        <td>
+
+                                            <a href="/scholar-publication/ZZEN/69690">A Systematic Literature Review On Attractiveness&#xD;&#xA;And Learnability Factors In Web Applications</a>
+
+                                            <br />
+                                                IEEE CONFERENCE ON OPEN SYSTEMS (ICOS 2015)<br />
+                                            <span class="badge rounded-pill  bg-info">Conference Paper</span> <span class="badge rounded-pill  bg-success">UTM FIRST AUTHOR</span>
+                                        </td>
+                                        <td>2015</td>
+                                    </tr>
+                                    <tr>
+                                        <td>
+
+                                            <a href="/scholar-publication/ZZEN/69696">Improving Automated Programming Assessments: &#xD;&#xA;User Experience Evaluation Using Fast-Generator</a>
+
+                                            <br />
+                                                THE THIRD INFORMATION SYSTEMS INTERNATIONAL CONFERENCE (ISICO 2015)<br />
+                                            <span class="badge rounded-pill  bg-info">Conference Paper</span> <span class="badge rounded-pill  bg-success">UTM FIRST AUTHOR</span>
+                                        </td>
+                                        <td>2015</td>
+                                    </tr>
+                                    <tr>
+                                        <td>
+
+                                            <a href="/scholar-publication/ZZEN/67375"></a>
+
+                                            <br />
+                                                I LOVE IDIOMS: WITH CARTOON ILLUSTRATIONS<br />
+                                            <span class="badge rounded-pill  bg-info">Original Book</span> <span class="badge rounded-pill  bg-success">CORRESPONDING AUTHOR</span>
+                                        </td>
+                                        <td>2015</td>
+                                    </tr>
+                                    <tr>
+                                        <td>
+
+                                            <a href="/scholar-publication/ZZEN/67373"></a>
+
+                                            <br />
+                                                SENANGNYA CAKAP INGGERIS: TINGKATKAN NILAI DIRI MELALUI KOMUNIKASI<br />
+                                            <span class="badge rounded-pill  bg-info">Original Book</span> <span class="badge rounded-pill  bg-success">INDIVIDUAL AUTHOR</span>
+                                        </td>
+                                        <td>2015</td>
+                                    </tr>
+                                    <tr>
+                                        <td>
+
+                                            <a href="/scholar-publication/ZZEN/72294"></a>
+
+                                            <br />
+                                                PROJEK ICARE PUSAT KEMAJUAN DALAM INFORMATIK PENDIDIKAN LUAR BANDAR (IPKPLB)<br />
+                                            <span class="badge rounded-pill  bg-info">Clasified/Technical Report</span> <span class="badge rounded-pill  bg-success">CORRESPONDING AUTHOR</span>
+                                        </td>
+                                        <td>2015</td>
+                                    </tr>
+                                    <tr>
+                                        <td>
+
+                                            <a href="/scholar-publication/ZZEN/67134">Towards Effectiveness Of Integration And Interoperability Of One-Stop E-Government Portal</a>
+
+                                            <br />
+                                                JURNAL TEKNOLOGI<br />
+                                            <span class="badge rounded-pill  bg-info">Publication In Scopus</span> <span class="badge rounded-pill  bg-success">UTM FIRST AUTHOR</span>
+                                        </td>
+                                        <td>2015</td>
+                                    </tr>
+                                    <tr>
+                                        <td>
+
+                                            <a href="/scholar-publication/ZZEN/67140">Enhancing Generic Pipeline Model For Code Clone Detection Using Divide And Conquer Approach</a>
+
+                                            <br />
+                                                INTERNATIONAL ARAB JOURNAL OF INFORMATION TECHNOLOGY<br />
+                                            <span class="badge rounded-pill  bg-info">Publication In Web Of Science</span> <span class="badge rounded-pill  bg-success">UTM FIRST AUTHOR</span>
+                                        </td>
+                                        <td>2015</td>
+                                    </tr>
+                                    <tr>
+                                        <td>
+
+                                            <a href="/scholar-publication/ZZEN/69683">Model Perkongsian Ilmu Untuk Menyokong Informatik Pendidikan Luar Bandar</a>
+
+                                            <br />
+                                                TANGGUNGJAWAB SOSIAL UNIVERSITI: MODEL PERKONGSIAN ILMU MELALUI PROJEK KOMUNITI UTM-KEJORA<br />
+                                            <span class="badge rounded-pill  bg-info">Book Chapter</span> <span class="badge rounded-pill  bg-success">CORRESPONDING AUTHOR</span>
+                                        </td>
+                                        <td>2015</td>
+                                    </tr>
+                                    <tr>
+                                        <td>
+
+                                            <a href="/scholar-publication/ZZEN/69686">Kepentingan Program Pendedahan Etika Dan Keselamatan Dalam Talian (Peka) Bagi Pelajar Sekolah</a>
+
+                                            <br />
+                                                TANGGUNGJAWAB SOSIAL UNIVERSITI: MODEL PERKONGSIAN ILMU MELALUI PROJEK KOMUNITI UTM-KEJORA<br />
+                                            <span class="badge rounded-pill  bg-info">Book Chapter</span> <span class="badge rounded-pill  bg-success">UTM FIRST AUTHOR</span>
+                                        </td>
+                                        <td>2015</td>
+                                    </tr>
+                                    <tr>
+                                        <td>
+
+                                            <a href="/scholar-publication/ZZEN/67368">Enhancing A Hybrid Pre-Processing And Transformation Process For Code Clone Detection In .Net Application</a>
+
+                                            <br />
+                                                JURNAL TEKNOLOGI<br />
+                                            <span class="badge rounded-pill  bg-info">Publication In Scopus</span> <span class="badge rounded-pill  bg-success">UTM FIRST AUTHOR</span>
+                                        </td>
+                                        <td>2015</td>
+                                    </tr>
+                                    <tr>
+                                        <td>
+
+                                            <a href="/scholar-publication/ZZEN/67145">Improving Reliability Using Software Operational&#xD;&#xA;Profile And Testing Profile</a>
+
+                                            <br />
+                                                I4CT 2015 - 2015 2ND INTERNATIONAL CONFERENCE ON COMPUTER, COMMUNICATIONS, AND CONTROL TECHNOLOGY, ART PROCEEDING<br />
+                                            <span class="badge rounded-pill  bg-info">Publication In Scopus</span> <span class="badge rounded-pill  bg-success">UTM FIRST AUTHOR</span>
+                                        </td>
+                                        <td>2015</td>
+                                    </tr>
+                                    <tr>
+                                        <td>
+
+                                            <a href="/scholar-publication/ZZEN/67132">Improving The Reliability And Validity Of Test Data Adequacy In Programming Assessments</a>
+
+                                            <br />
+                                                JURNAL TEKNOLOGI<br />
+                                            <span class="badge rounded-pill  bg-info">Publication In Scopus</span> <span class="badge rounded-pill  bg-success">UTM FIRST AUTHOR</span>
+                                        </td>
+                                        <td>2015</td>
+                                    </tr>
+                                    <tr>
+                                        <td>
+
+                                            <a href="/scholar-publication/ZZEN/72288"></a>
+
+                                            <br />
+                                                CROWD FEEDBACK FOR EFFICIENT AND CONVENIENT COMMUTER PLANNING<br />
+                                            <span class="badge rounded-pill  bg-info">Clasified/Technical Report</span> <span class="badge rounded-pill  bg-success">CO-AUTHOR</span>
+                                        </td>
+                                        <td>2015</td>
+                                    </tr>
+                                    <tr>
+                                        <td>
+
+                                            <a href="/scholar-publication/ZZEN/10247">A Hybrid Architecture For One-Stop E-Government Portal Integration And Interoperability</a>
+
+                                            <br />
+                                                PROCEEDINGS OF THE 8TH MALAYSIAN CONFERENCE ON SOFTWARE ENGINEERING (MYSEC 2014)<br />
+                                            <span class="badge rounded-pill  bg-info">Proceedings</span> <span class="badge rounded-pill  bg-success">UTM FIRST AUTHOR</span>
+                                        </td>
+                                        <td>2014</td>
+                                    </tr>
+                                    <tr>
+                                        <td>
+
+                                            <a href="/scholar-publication/ZZEN/6062">Chapter 22 Code Clone Detection And Analysis In Open Source Applications</a>
+
+                                            <br />
+                                                HANDBOOK OF RESEARCH ON EMERGING ADVANCEMENTS AND TECHNOLOGIES IN SOFTWARE ENGINEERING<br />
+                                            <span class="badge rounded-pill  bg-info">Book Chapter</span> <span class="badge rounded-pill  bg-success">UTM FIRST AUTHOR</span>
+                                        </td>
+                                        <td>2014</td>
+                                    </tr>
+                                    <tr>
+                                        <td>
+
+                                            <a href="/scholar-publication/ZZEN/10252">Test Data Generation Framework For Automatic Programming Assessment</a>
+
+                                            <br />
+                                                PROCEEDINGS OF THE 8TH MALAYSIAN CONFERENCE ON SOFTWARE ENGINEERING (MYSEC 2014)<br />
+                                            <span class="badge rounded-pill  bg-info">Proceedings</span> <span class="badge rounded-pill  bg-success">UTM FIRST AUTHOR</span>
+                                        </td>
+                                        <td>2014</td>
+                                    </tr>
+                                    <tr>
+                                        <td>
+
+                                            <a href="/scholar-publication/ZZEN/10232">A Knowledge-Based Decision Making Model To Support The Analysis Phase In Software Maintenance</a>
+
+                                            <br />
+                                                THE 13TH INTERNATIONAL CONFERENCE ON INTELLIGENT SOFTWARE METHODOLOGIES, TOOLS AND TECHNIQUES; NEW TRENDS IN SOFTWARE METHODOLOGIES, TOOLS AND TECHNIQUES. FUJITA, H. (EDS.)<br />
+                                            <span class="badge rounded-pill  bg-info">Proceedings</span> <span class="badge rounded-pill  bg-success">UTM FIRST AUTHOR</span>
+                                        </td>
+                                        <td>2014</td>
+                                    </tr>
+                                    <tr>
+                                        <td>
+
+                                            <a href="/scholar-publication/ZZEN/10240">Capturing Users Actions In A Web Application To Support Learnability</a>
+
+                                            <br />
+                                                PROCEEDINGS OF THE 8TH MALAYSIAN CONFERENCE ON SOFTWARE ENGINEERING (MYSEC 2014)<br />
+                                            <span class="badge rounded-pill  bg-info">Proceedings</span> <span class="badge rounded-pill  bg-success">UTM FIRST AUTHOR</span>
+                                        </td>
+                                        <td>2014</td>
+                                    </tr>
+                                    <tr>
+                                        <td>
+
+                                            <a href="/scholar-publication/ZZEN/10241">A Hybrid Technique In Pre-Processing And Transformation Process For Code Clone Detection</a>
+
+                                            <br />
+                                                PROCEEDINGS OF THE 8TH MALAYSIAN CONFERENCE ON SOFTWARE ENGINEERING (MYSEC 2014)<br />
+                                            <span class="badge rounded-pill  bg-info">Proceedings</span> <span class="badge rounded-pill  bg-success">UTM FIRST AUTHOR</span>
+                                        </td>
+                                        <td>2014</td>
+                                    </tr>
+                                    <tr>
+                                        <td>
+
+                                            <a href="/scholar-publication/ZZEN/10253">A Review Of Software Operational Profile In Software Reliability Engineering</a>
+
+                                            <br />
+                                                PROCEEDINGS OF THE 8TH MALAYSIAN CONFERENCE ON SOFTWARE ENGINEERING (MYSEC 2014)<br />
+                                            <span class="badge rounded-pill  bg-info">Proceedings</span> <span class="badge rounded-pill  bg-success">UTM FIRST AUTHOR</span>
+                                        </td>
+                                        <td>2014</td>
+                                    </tr>
+                                    <tr>
+                                        <td>
+
+                                            <a href="/scholar-publication/ZZEN/10254">Improving The Software Reliability Using Testing Profile Augmenting Operational Profile</a>
+
+                                            <br />
+                                                PROCEEDINGS OF THE 5TH SOFTWARE ENGINEERING POSTGRADUATES WORKSHOP (SEPOW 2014)<br />
+                                            <span class="badge rounded-pill  bg-info">Proceedings</span> <span class="badge rounded-pill  bg-success">UTM FIRST AUTHOR</span>
+                                        </td>
+                                        <td>2014</td>
+                                    </tr>
+                                    <tr>
+                                        <td>
+
+                                            <a href="/scholar-publication/ZZEN/8938"></a>
+
+                                            <br />
+                                                PROJECT PROFILE VOTE NUMBER : Q.J130000.2528.03H00 THE AUGMENTED SOCIAL NETWORK (ASN) BENCHMARK FOR WEB PRE-CACHING ON SOLVING TRUST, ACCURACY AND EXPECTATION PROBLEMS<br />
+                                            <span class="badge rounded-pill  bg-info">Clasified/Technical Report</span> <span class="badge rounded-pill  bg-success">CO-AUTHOR</span>
+                                        </td>
+                                        <td>2014</td>
+                                    </tr>
+                                    <tr>
+                                        <td>
+
+                                            <a href="/scholar-publication/ZZEN/8939"></a>
+
+                                            <br />
+                                                PROJECT PROFILE&#xD;&#xA;VOTE NUMBER : Q.J130000.2428.00G96 INTERACTIVE PUBLIC SITUATED DISPLAYS INTELLIGENT MOBILE WEB PRE-CACHING KNOWLEDGE ORIENTED DIGITAL UNIVERSITY<br />
+                                            <span class="badge rounded-pill  bg-info">Clasified/Technical Report</span> <span class="badge rounded-pill  bg-success">CO-AUTHOR</span>
+                                        </td>
+                                        <td>2014</td>
+                                    </tr>
+                                    <tr>
+                                        <td>
+
+                                            <a href="/scholar-publication/ZZEN/6056">Learnability And Understandability Factors In&#xD;&#xA;Software Applications:&#xD;&#xA;A Systematic Literature Review</a>
+
+                                            <br />
+                                                INTERNATIONAL JOURNAL OF SOFTWARE ENGINEERING AND TECHNOLOGY<br />
+                                            <span class="badge rounded-pill  bg-info">Journal Article Non Citation-Indexed</span> <span class="badge rounded-pill  bg-success">UTM FIRST AUTHOR</span>
+                                        </td>
+                                        <td>2014</td>
+                                    </tr>
+                                    <tr>
+                                        <td>
+
+                                            <a href="/scholar-publication/ZZEN/6058">Managing Modification Requests In Software&#xD;&#xA;Maintenance: A Systematic Literature Review</a>
+
+                                            <br />
+                                                INTERNATIONAL JOURNAL OF SOFTWARE ENGINEERING AND TECHNOLOGY<br />
+                                            <span class="badge rounded-pill  bg-info">Journal Article Non Citation-Indexed</span> <span class="badge rounded-pill  bg-success">UTM FIRST AUTHOR</span>
+                                        </td>
+                                        <td>2014</td>
+                                    </tr>
+                                    <tr>
+                                        <td>
+
+                                            <a href="/scholar-publication/ZZEN/6060">A Systematic Literature Review Of Code Clone&#xD;&#xA;Prevention Approaches</a>
+
+                                            <br />
+                                                INTERNATIONAL JOURNAL OF SOFTWARE ENGINEERING AND TECHNOLOGY<br />
+                                            <span class="badge rounded-pill  bg-info">Journal Article Non Citation-Indexed</span> <span class="badge rounded-pill  bg-success">UTM FIRST AUTHOR</span>
+                                        </td>
+                                        <td>2014</td>
+                                    </tr>
+                                    <tr>
+                                        <td>
+
+                                            <a href="/scholar-publication/ZZEN/8582">Evolving Paper-Based Activities Approach (Epaa) To Promote Interest In Software Engineering Education</a>
+
+                                            <br />
+                                                WSEAS TRANSACTIONS ON ADVANCES IN ENGINEERING EDUCATION<br />
+                                            <span class="badge rounded-pill  bg-info">Journal Article Non Citation-Indexed</span> <span class="badge rounded-pill  bg-success">CORRESPONDING AUTHOR</span>
+                                        </td>
+                                        <td>2014</td>
+                                    </tr>
+                                    <tr>
+                                        <td>
+
+                                            <a href="/scholar-publication/ZZEN/10249">Maintenance Decision Making In Problem And Modification Analysis Phase Using A Knowledge-Based Model</a>
+
+                                            <br />
+                                                PROCEEDINGS OF THE 8TH MALAYSIAN CONFERENCE ON SOFTWARE ENGINEERING (MYSEC 2014)<br />
+                                            <span class="badge rounded-pill  bg-info">Proceedings</span> <span class="badge rounded-pill  bg-success">UTM FIRST AUTHOR</span>
+                                        </td>
+                                        <td>2014</td>
+                                    </tr>
+                                    <tr>
+                                        <td>
+
+                                            <a href="/scholar-publication/ZZEN/17999">Intelligent Web Caching For E-Learning Log Data</a>
+
+                                            <br />
+                                                Proceedings of the Third Asia International Conference on Modelling &amp; Simulation (AMS2009) Bandung, Indonesia<br />
+                                            <span class="badge rounded-pill  bg-info">Publication In Scopus</span> <span class="badge rounded-pill  bg-success">CO-AUTHOR</span>
+                                        </td>
+                                        <td>2009</td>
+                                    </tr>
+                                    <tr>
+                                        <td>
+
+                                            <a href="/scholar-publication/ZZEN/18011">Perspectives On Knowledge Sharing System For Special Interest Group (Sig): Culture, Power Issues And User Interface</a>
+
+                                            <br />
+                                                International Conference on Computer Technology and Development (ICCTD 2009)<br />
+                                            <span class="badge rounded-pill  bg-info">Publication In Scopus</span> <span class="badge rounded-pill  bg-success">CO-AUTHOR</span>
+                                        </td>
+                                        <td>2009</td>
+                                    </tr>
+                                    <tr>
+                                        <td>
+
+                                            <a href="/scholar-publication/ZZEN/18013">Hajj-Qaes: A Knowledge-Based Expert System To Support Hajj Pilgrims In Decision Making</a>
+
+                                            <br />
+                                                International Conference on Computer Technology and Development (ICCTD 2009)<br />
+                                            <span class="badge rounded-pill  bg-info">Publication In Scopus</span> <span class="badge rounded-pill  bg-success">UTM FIRST AUTHOR</span>
+                                        </td>
+                                        <td>2009</td>
+                                    </tr>
+                                    <tr>
+                                        <td>
+
+                                            <a href="/scholar-publication/ZZEN/18014">Project Management Using Risk Identification Architecture Pattern (Riap) Model: A Case Study On A Web-Based Application</a>
+
+                                            <br />
+                                                Proceedings of Asia-Pacific Software Engineering Conference (APSEC 2009)<br />
+                                            <span class="badge rounded-pill  bg-info">Publication In Scopus</span> <span class="badge rounded-pill  bg-success">CO-AUTHOR</span>
+                                        </td>
+                                        <td>2009</td>
+                                    </tr>
+                                    <tr>
+                                        <td>
+
+                                            <a href="/scholar-publication/ZZEN/40707">Wprima Tool: Managing Risk Factors For Web Project Management</a>
+
+                                            <br />
+                                                Proceedings of World Academy of Science, Engineering, Technology<br />
+                                            <span class="badge rounded-pill  bg-info">Publication In Scopus</span> <span class="badge rounded-pill  bg-success">CO-AUTHOR</span>
+                                        </td>
+                                        <td>2009</td>
+                                    </tr>
+                                    <tr>
+                                        <td>
+
+                                            <a href="/scholar-publication/ZZEN/18019">Risk Analysis And Web Project Management</a>
+
+                                            <br />
+                                                Journal of Software<br />
+                                            <span class="badge rounded-pill  bg-info">Publication In Scopus</span> <span class="badge rounded-pill  bg-success">CO-AUTHOR</span>
+                                        </td>
+                                        <td>2009</td>
+                                    </tr>
+                                    <tr>
+                                        <td>
+
+                                            <a href="/scholar-publication/ZZEN/18020">Visel: Visualisation Of Expertise Level In A Special Interest Group Knowledge Portal</a>
+
+                                            <br />
+                                                First International Visual Informatics Conference 2009 (IVIC&#x27;09)<br />
+                                            <span class="badge rounded-pill  bg-info">Publication In Scopus</span> <span class="badge rounded-pill  bg-success">CO-AUTHOR</span>
+                                        </td>
+                                        <td>2009</td>
+                                    </tr>
+                                    <tr>
+                                        <td>
+
+                                            <a href="/scholar-publication/ZZEN/18021">Gendmg: A Generic Graph Representation Layout To Visualize Existing Software Artifacts</a>
+
+                                            <br />
+                                                First International Visual Informatics Conference IVIC2009<br />
+                                            <span class="badge rounded-pill  bg-info">Publication In Scopus</span> <span class="badge rounded-pill  bg-success">UTM FIRST AUTHOR</span>
+                                        </td>
+                                        <td>2009</td>
+                                    </tr>
+                                    <tr>
+                                        <td>
+
+                                            <a href="/scholar-publication/ZZEN/40706">A Hybrid Of Rule And Frame Based Approach In Solving Hajj Complex Problems</a>
+
+                                            <br />
+                                                Soft Computing and Pattern Recognition (SoCPaR 2009)<br />
+                                            <span class="badge rounded-pill  bg-info">Publication In Scopus</span> <span class="badge rounded-pill  bg-success">CO-AUTHOR</span>
+                                        </td>
+                                        <td>2009</td>
+                                    </tr>
+                                    <tr>
+                                        <td>
+
+                                            <a href="/scholar-publication/ZZEN/18018">Supporting Architectural Design Decisions Through Risk Identification Architecture Pattern (Riap) Model</a>
+
+                                            <br />
+                                                WSEAS Transactions on Information Science &amp; Applications<br />
+                                            <span class="badge rounded-pill  bg-info">Publication In Scopus</span> <span class="badge rounded-pill  bg-success">CO-AUTHOR</span>
+                                        </td>
+                                        <td>2009</td>
+                                    </tr>
+                                    <tr>
+                                        <td>
+
+                                            <a href="/scholar-publication/ZZEN/17997">A Framework Of Rough Cultural Algorithms In Optimizing Mobile Web Caching Performance</a>
+
+                                            <br />
+                                                Jurnal Teknologi Maklumat<br />
+                                            <span class="badge rounded-pill  bg-info">Journal Article Non Citation-Indexed</span> <span class="badge rounded-pill  bg-success">CO-AUTHOR</span>
+                                        </td>
+                                        <td>2008</td>
+                                    </tr>
+                                    <tr>
+                                        <td>
+
+                                            <a href="/scholar-publication/ZZEN/18004">A Risk Identification Architecture Pattern Based On Bayesian Network</a>
+
+                                            <br />
+                                                International Symposium on Information Technology 2008 ITSIM&#x27;08<br />
+                                            <span class="badge rounded-pill  bg-info">Publication In Scopus</span> <span class="badge rounded-pill  bg-success">CO-AUTHOR</span>
+                                        </td>
+                                        <td>2008</td>
+                                    </tr>
+                                    <tr>
+                                        <td>
+
+                                            <a href="/scholar-publication/ZZEN/18005">Novices Expectations In Gaining Theoretical Knowledge And Practical Skills In Software Development Or Maintenance</a>
+
+                                            <br />
+                                                IASTED International Conference on Software Engineering SE2008<br />
+                                            <span class="badge rounded-pill  bg-info">Publication In Scopus</span> <span class="badge rounded-pill  bg-success">UTM FIRST AUTHOR</span>
+                                        </td>
+                                        <td>2008</td>
+                                    </tr>
+                                    <tr>
+                                        <td>
+
+                                            <a href="/scholar-publication/ZZEN/18006">Web-Caching And Prefetching: What, Why, And How? </a>
+
+                                            <br />
+                                                International Symposium on Information Technology 2008 ITSIM&#x27;08<br />
+                                            <span class="badge rounded-pill  bg-info">Publication In Scopus</span> <span class="badge rounded-pill  bg-success">CO-AUTHOR</span>
+                                        </td>
+                                        <td>2008</td>
+                                    </tr>
+                                    <tr>
+                                        <td>
+
+                                            <a href="/scholar-publication/ZZEN/18007">Supporting System Development By Novice Software Engineers Using A Tutor-Based Software Visualization (Tubvis) Approach</a>
+
+                                            <br />
+                                                International Symposium on Information Technology 2008 ITSIM&#x27;08<br />
+                                            <span class="badge rounded-pill  bg-info">Publication In Scopus</span> <span class="badge rounded-pill  bg-success">UTM FIRST AUTHOR</span>
+                                        </td>
+                                        <td>2008</td>
+                                    </tr>
+                                    <tr>
+                                        <td>
+
+                                            <a href="/scholar-publication/ZZEN/18024">A Knowledge-Based Approach To Facilitate Queries By Hajj Pilgrims</a>
+
+                                            <br />
+                                                The International Symposium on Information Technology 2008 ITSIM&#x27;08<br />
+                                            <span class="badge rounded-pill  bg-info">Publication In Scopus</span> <span class="badge rounded-pill  bg-success">UTM FIRST AUTHOR</span>
+                                        </td>
+                                        <td>2008</td>
+                                    </tr>
+                                    <tr>
+                                        <td>
+
+                                            <a href="/scholar-publication/ZZEN/18010">A Classification And Visualization Approach For Knowledge Management Of A Special Interest Group</a>
+
+                                            <br />
+                                                The Fourth IASTED International Conference on Advances in Computer Science and Technology ACST2008<br />
+                                            <span class="badge rounded-pill  bg-info">Publication In Scopus</span> <span class="badge rounded-pill  bg-success">UTM FIRST AUTHOR</span>
+                                        </td>
+                                        <td>2008</td>
+                                    </tr>
+                                    <tr>
+                                        <td>
+
+                                            <a href="/scholar-publication/ZZEN/18012">New Operational Risk Approach To Web Project Development</a>
+
+                                            <br />
+                                                International Journal of Soft Computing<br />
+                                            <span class="badge rounded-pill  bg-info">Publication In Scopus</span> <span class="badge rounded-pill  bg-success">CO-AUTHOR</span>
+                                        </td>
+                                        <td>2008</td>
+                                    </tr>
+                                    <tr>
+                                        <td>
+
+                                            <a href="/scholar-publication/ZZEN/18017">Rough Set Granularity In Mobile Web Pre-Caching</a>
+
+                                            <br />
+                                                The Eight International Conference on Intelligent System Design and Applications ISDA 2008<br />
+                                            <span class="badge rounded-pill  bg-info">Publication In Scopus</span> <span class="badge rounded-pill  bg-success">CO-AUTHOR</span>
+                                        </td>
+                                        <td>2008</td>
+                                    </tr>
+                                    <tr>
+                                        <td>
+
+                                            <a href="/scholar-publication/ZZEN/18022">A Point-Based Semi-Automatic Expertise Classification (Pbase) Method For Knowledge Management Of An Online Special Interest Group</a>
+
+                                            <br />
+                                                International Symposium on Information Technology 2008 ITSIM&#x27;08<br />
+                                            <span class="badge rounded-pill  bg-info">Publication In Scopus</span> <span class="badge rounded-pill  bg-success">CO-AUTHOR</span>
+                                        </td>
+                                        <td>2008</td>
+                                    </tr>
+                                    <tr>
+                                        <td>
+
+                                            <a href="/scholar-publication/ZZEN/18009">Com&#x2B;Hdm: Extending Uml Profiles For Modeling Complex Web Hypermedia Applications</a>
+
+                                            <br />
+                                                The 2008 International Conference on Advanced Computer Theory and Engineering (ICACTE 2008)<br />
+                                            <span class="badge rounded-pill  bg-info">Publication In Scopus</span> <span class="badge rounded-pill  bg-success">CO-AUTHOR</span>
+                                        </td>
+                                        <td>2008</td>
+                                    </tr>
+                                    <tr>
+                                        <td>
+
+                                            <a href="/scholar-publication/ZZEN/18023">The Study Of Standards And Tools In Production And Maintenance Of System Documentation</a>
+
+                                            <br />
+                                                Jurnal Teknologi Maklumat dan Multimedia<br />
+                                            <span class="badge rounded-pill  bg-info">Journal Article Non Citation-Indexed</span> <span class="badge rounded-pill  bg-success">UTM FIRST AUTHOR</span>
+                                        </td>
+                                        <td>2005</td>
+                                    </tr>
+                                    <tr>
+                                        <td>
+
+                                            <a href="/scholar-publication/ZZEN/18002">Enhancing Cognitive Aspects Of Software Visualization Using Doclike Modularized Graph (Dmg)</a>
+
+                                            <br />
+                                                International Arab Journal of Information Technology (IAJIT)<br />
+                                            <span class="badge rounded-pill  bg-info">Journal Article Non Citation-Indexed</span> <span class="badge rounded-pill  bg-success">UTM FIRST AUTHOR</span>
+                                        </td>
+                                        <td>2005</td>
+                                    </tr>
+                                    <tr>
+                                        <td>
+
+                                            <a href="/scholar-publication/ZZEN/18016">Viewing Software Artifacts For Different Software Maintenance Categories Using Graph Representatios</a>
+
+                                            <br />
+                                                Malaysian Journal of Computer Science<br />
+                                            <span class="badge rounded-pill  bg-info">Publication In Scopus</span> <span class="badge rounded-pill  bg-success">UTM FIRST AUTHOR</span>
+                                        </td>
+                                        <td>2004</td>
+                                    </tr>
+                            </tbody>
+                        </table>
+                    </div>
+                    </p>
+                </div>
+                <div class="tab-pane p-3" id="ip_tab" role="tabpanel">
+                    <p class="mb-0">
+                    <p class="text-muted">
+                        Legend :
+                        <span class="badge rounded-pill  bg-info">IP CATEGORY </span>
+                        <span class="badge rounded-pill  bg-warning">IP LEVEL </span>
+
+                    </p>
+                    <div class="table-responsive">
+                        <table id="IPListTablePersonalDatatable" class="table mb-0 dt-responsive nowrap" style="border-collapse: collapse; border-spacing: 0; width: 100%;">
+                            <thead>
+                                <tr>
+                                    <th>Intellectual Property Name</th>
+                                    <th>Grant Register No.</th>
+                                    <th>IP Level</th>
+                                    <th>IP Category</th>
+                                </tr>
+                            </thead>
+                            <tbody>
+                                    <tr>
+                                        <td><a href="/intelectual-property/ZZEN/1Vg5"> INCLUSION OF MOBILE TECHNOLOGY READING MODEL IN TEACHING AND LEARNING ENGLISH</a></td>
+                                        <td></td>
+                                        <td><span class="badge rounded-pill  bg-warning">NATIONAL</span></td>
+                                        <td><span class="badge rounded-pill  bg-info">COPYRIGHT</span></td>
+                                    </tr>
+                                    <tr>
+                                        <td><a href="/intelectual-property/ZZEN/8jrp"> COMPONENT-BASED CHECKLIST FRAMEWORK TO IMPROVE QUALITY IN EDUCATIONAL APPLICATIONS</a></td>
+                                        <td>LY2021E03266</td>
+                                        <td><span class="badge rounded-pill  bg-warning">NATIONAL</span></td>
+                                        <td><span class="badge rounded-pill  bg-info">COPYRIGHT</span></td>
+                                    </tr>
+                                    <tr>
+                                        <td><a href="/intelectual-property/ZZEN/2DVE"> LECTURE NOTE FOR INFORMATION SYSTEMS IMPLEMENTATION</a></td>
+                                        <td>-                             </td>
+                                        <td><span class="badge rounded-pill  bg-warning">NATIONAL</span></td>
+                                        <td><span class="badge rounded-pill  bg-info">COPYRIGHT</span></td>
+                                    </tr>
+                                    <tr>
+                                        <td><a href="/intelectual-property/ZZEN/bam9"> LECTURE NOTE FOR DESIGN</a></td>
+                                        <td>-                             </td>
+                                        <td><span class="badge rounded-pill  bg-warning">NATIONAL</span></td>
+                                        <td><span class="badge rounded-pill  bg-info">COPYRIGHT</span></td>
+                                    </tr>
+                                    <tr>
+                                        <td><a href="/intelectual-property/ZZEN/OMBG"> LECTURE NOTE FOR INFORMATION SYSTEMS ANALYSIS</a></td>
+                                        <td>-                             </td>
+                                        <td><span class="badge rounded-pill  bg-warning">NATIONAL</span></td>
+                                        <td><span class="badge rounded-pill  bg-info">COPYRIGHT</span></td>
+                                    </tr>
+                                    <tr>
+                                        <td><a href="/intelectual-property/ZZEN/JNVk"> LECTURE NOTE FOR INFORMATION SYSTEMS FUNDAMENTAL AND PROJECT PLANNING</a></td>
+                                        <td>-                             </td>
+                                        <td><span class="badge rounded-pill  bg-warning">NATIONAL</span></td>
+                                        <td><span class="badge rounded-pill  bg-info">COPYRIGHT</span></td>
+                                    </tr>
+                            </tbody>
+                        </table>
+                    </div>
+                    </p>
+                </div>
+                <div class="tab-pane p-3" id="supervision_tab" role="tabpanel">
+                    <p class="mb-0">
+                    <p class="text-muted">
+                        Legend :
+                        <span class="badge rounded-pill  bg-info">SESSION </span>
+                        <span class="badge rounded-pill  bg-success">LEVEL OF STUDY</span>
+                        <span class="badge rounded-pill  bg-warning">STATUS </span>
+                        <span class="badge rounded-pill  bg-danger">SUPERVISION LEVEL </span>
+                    </p>
+                    <div class="table-responsive">
+                        <table id="supervisionListTablePersonalDatatable" class="table table-bordered dt-responsive nowrap" style="border-collapse: collapse; border-spacing: 0; width: 100%;">
+                            <thead>
+                                <tr>
+                                    <th>Supervision List</th>
+                                </tr>
+                            </thead>
+                            <tbody>
+                                    <tr>
+                                        <td>
+                                            <strong>AL-FAHIM BIN MUBARAK ALI</strong><br />
+                                                GENERIC CODE CLONE DETECTION MODEL FOR JAVA APPLICATIONS<br />
+                                            <span class="badge rounded-pill  bg-success">PHD</span>
+                                            <span class="badge rounded-pill  bg-warning">GRADUATED</span>
+                                            <span class="badge rounded-pill  bg-danger">SUPERVISOR</span>
+                                                <span class="badge rounded-pill bg-info">2016</span>
+                                        </td>
+                                    </tr>
+                                    <tr>
+                                        <td>
+                                            <strong>MALIK MUHAMMAD ALI SHAHID</strong><br />
+                                                SOFTWARE RELIABILITY ESTIMATION FRAMEWORK BASED ON OPERATIONAL AND TESTING PROFILES<br />
+                                            <span class="badge rounded-pill  bg-success">PHD</span>
+                                            <span class="badge rounded-pill  bg-warning">GRADUATED</span>
+                                            <span class="badge rounded-pill  bg-danger">SUPERVISOR</span>
+                                                <span class="badge rounded-pill bg-info">2016</span>
+                                        </td>
+                                    </tr>
+                                    <tr>
+                                        <td>
+                                            <strong>NORZILA BINTI NGADIMAN</strong><br />
+                                                SOFTWARE QUALITY CHECKLIST-BASED FRAMEWORK FOR EDUCATIONAL APPLICATIONS<br />
+                                            <span class="badge rounded-pill  bg-success">PHD</span>
+                                            <span class="badge rounded-pill  bg-warning">GRADUATED</span>
+                                            <span class="badge rounded-pill  bg-danger">SUPERVISOR</span>
+                                                <span class="badge rounded-pill bg-info">2022</span>
+                                        </td>
+                                    </tr>
+                                    <tr>
+                                        <td>
+                                            <strong>ANAS USMAN INUWA</strong><br />
+                                                KNOWLEDGE-BASED FRAMEWORK FOR PRE-UNIVERSITY LEVEL PERSONALIZED LEARNING<br />
+                                            <span class="badge rounded-pill  bg-success">PHD</span>
+                                            <span class="badge rounded-pill  bg-warning">ON GOING</span>
+                                            <span class="badge rounded-pill  bg-danger">SUPERVISOR</span>
+                                        </td>
+                                    </tr>
+                                    <tr>
+                                        <td>
+                                            <strong>NORZILA BINTI NGADIMAN</strong><br />
+                                                COMPONENT-BASED&amp;NBSP;CHECKLIST FRAMEWORK TO IMPROVE QUALITY IN&amp;NBSP;EDUCATIONAL APPLICATIONS<br />
+                                            <span class="badge rounded-pill  bg-success">MASTER</span>
+                                            <span class="badge rounded-pill  bg-warning">GRADUATED</span>
+                                            <span class="badge rounded-pill  bg-danger">SUPERVISOR</span>
+                                                <span class="badge rounded-pill bg-info">2017</span>
+                                        </td>
+                                    </tr>
+                                    <tr>
+                                        <td>
+                                            <strong>JACLINE SUDAH ANAK SINPANG</strong><br />
+                                                A KNOWLEDGE-BASED AMBIGUITY DETECTION APPROACH TO ELIMINATE VAGUENESS IN REQUIREMENTS ANALYSIS<br />
+                                            <span class="badge rounded-pill  bg-success">MASTER</span>
+                                            <span class="badge rounded-pill  bg-warning">GRADUATED</span>
+                                            <span class="badge rounded-pill  bg-danger">SUPERVISOR</span>
+                                                <span class="badge rounded-pill bg-info">2020</span>
+                                        </td>
+                                    </tr>
+                                    <tr>
+                                        <td>
+                                            <strong>SITI JULIA BINTI MOHD SHAHROL</strong><br />
+                                                INCLUSION OF MOBILE TECHNOLOGY READING MODEL IN TEACHING AND LEARNING ENGLISH<br />
+                                            <span class="badge rounded-pill  bg-success">MASTER</span>
+                                            <span class="badge rounded-pill  bg-warning">GRADUATED</span>
+                                            <span class="badge rounded-pill  bg-danger">SUPERVISOR</span>
+                                                <span class="badge rounded-pill bg-info">2021</span>
+                                        </td>
+                                    </tr>
+                            </tbody>
+                        </table>
+                    </div>
+                </div>
+            </div>
+
+        </div>
+    </div>
+</div>
+
+<div class="modal fade" tabindex="-1" role="dialog" id="shareModalBox" aria-labelledby="mySmallModalLabel" aria-hidden="true">
+    <div class="modal-dialog modal-dialog-centered">
+        <div class="modal-content">
+            <div class="modal-header">
+                <h5 class="modal-title mt-0">Share This</h5>
+            </div>
+            <div class="modal-body">
+                <div class="icon-container1 d-flex">
+                    <div class="smd" id="share-tw" data-sharer="twitter" data-title="UTM Scholar : SHAHIDA BINTI SULAIMAN" data-hashtags="UTMNexus" data-url="https://utmscholar.utm.my/Scholar/ScholarInfoDetails/ZZEN">
+                        <i class=" img-thumbnail fab fa-twitter fa-2x" style="color:#4c6ef5;background-color: aliceblue"></i>
+                    </div>
+                    <div class="smd" id="share-fb" data-sharer="facebook" data-title="UTM Scholar : SHAHIDA BINTI SULAIMAN" data-hashtag="UTMNexus" data-url="https://utmscholar.utm.my/Scholar/ScholarInfoDetails/ZZEN">
+                        <i class="img-thumbnail fab fa-facebook fa-2x" style="color: #3b5998;background-color: #eceff5;"></i>
+                    </div>
+                    <div class="smd" id="share-li" data-sharer="linkedin" data-title="UTM Scholar : SHAHIDA BINTI SULAIMAN" data-url="https://utmscholar.utm.my/Scholar/ScholarInfoDetails/ZZEN">
+                        <i class="img-thumbnail fab fa-linkedin fa-2x" style="color: #25D366;background-color: #cef5dc;"></i>
+                    </div>
+                    <div class="smd" id="share-wa" data-sharer="whatsapp" data-title="UTM Scholar : SHAHIDA BINTI SULAIMAN" data-url="https://utmscholar.utm.my/Scholar/ScholarInfoDetails/ZZEN">
+                        <i class="img-thumbnail fab fa-whatsapp fa-2x" style="color: #4c6ef5;background-color: aliceblue"></i>
+                    </div>
+                </div>
+            </div>
+            <div class="modal-footer">
+                <div class="field d-flex align-items-center justify-content-between">
+                    <span class="fas fa-link text-center"></span>
+                    <input type="url" class="col-10 ur" value="https://utmscholar.utm.my/Scholar/ScholarInfoDetails/ZZEN"> <button><i class="far fa-clone"></i></button>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+
+
+                </div>
+            </div>
+            <footer class="footer">
+            <div class="container-fluid">
+                <div class="row">
+                    <div class="col-sm-12">
+                        © 2022 <span class="d-none d-sm-inline-block"> - Crafted with <i class="mdi mdi-heart text-danger"></i> by UTM NEXUS.</span>
+                    </div>
+                </div>
+            </div>
+        </footer>
+        </div>
+    </div>
+
+    <script src="/assets/libs/jquery/jquery.min.js"></script>
+    <script src="/assets/libs/bootstrap/js/bootstrap.bundle.min.js"></script>
+    <script src="/assets/libs/metismenu/metisMenu.min.js"></script>
+    <script src="/assets/libs/simplebar/simplebar.min.js"></script>
+    <script src="/assets/libs/node-waves/waves.min.js"></script>
+    <script src="/assets/libs/jquery-sparkline/jquery.sparkline.min.js"></script>
+    <script src="/assets/libs/morris.js/morris.min.js"></script>
+    <script src="/assets/libs/raphael/raphael.min.js"></script>
+    <script src="/assets/libs/datatables.net/js/jquery.dataTables.min.js"></script>
+    <script src="/assets/libs/datatables.net-bs4/js/dataTables.bootstrap4.min.js"></script>
+    <script src="/assets/libs/parsleyjs/parsley.min.js"></script>
+    <script src="/assets/libs/sharer.js/sharer.min.js"></script>   
+    <script src="/assets/js/app.js"></script>
+        <script>
+            
+            var names = document.getElementById("keyword").textContent;
+            var nameArr = names.split(/[,;]/);
+            var a = [];
+            nameArr.forEach(function (kword, x) {
+                a.push("<span class='badge rounded-pill bg-warning'>" + kword + "</span>");
+            });
+
+            var b = a.toString();
+            $("#keyword").replaceWith("<p class='text-muted font-small-2' id='keyword'>" + b + "</p>");
+
+            $(document).ready(function () {
+                    $('#more').attr('hidden', false);
+                    $('#more_sect').attr('hidden', false);
+                    $('#less_sect').attr('hidden', true);
+                });
+            
+                $("#more").click(function () {
+                    $('#more').attr('hidden', true);
+                    $('#less').attr('hidden', false);
+                    $('#brief').attr('hidden', false);
+                    $('#more_sect').attr('hidden', true);
+                    $('#less_sect').attr('hidden', false);
+                });
+                $("#less").click(function () {
+                    $('#more').attr('hidden', false);
+                    $('#less').attr('hidden', true);
+                    $('#brief').attr('hidden', true);
+                    $('#more_sect').attr('hidden', false);
+                    $('#less_sect').attr('hidden', true);
+                });
+                $("#less_1").click(function () {
+                    $('#more').attr('hidden', false);
+                    $('#less').attr('hidden', true);
+                    $('#brief').attr('hidden', true);
+                    $('#more_sect').attr('hidden', false);
+                    $('#less_sect').attr('hidden', true);
+                });
+            </script>
+    <!-- Google tag (gtag.js) -->
+    <script async src="https://www.googletagmanager.com/gtag/js?id=G-B5MYS061R0"></script>
+    <script>
+        window.dataLayer = window.dataLayer || [];
+        function gtag() { dataLayer.push(arguments); }
+        gtag('js', new Date());
+
+        gtag('config', 'G-B5MYS061R0');
+    </script>
+    
+    <script>
+        var no_pekerja = 'ZZEN';
+        var scopus_id = '25825568100';
+        var nama_pekerja = 'SHAHIDA BINTI SULAIMAN';
+        var no_pkrj = '12162';
+
+
+        $.ajax({
+            type: "POST",
+            url: '/Scholar/GrantScholarPersonalResult?id=' + no_pekerja,
+        }).done(function (data) {
+            var newArrayGrant = [];
+            data.data.forEach(function (elm, i) {
+                $newObject = {
+                    label: data.data[i].TYPE_GRANTS,
+                    value: data.data[i].TOTAL_GRANTS
+                }
+                newArrayGrant.push($newObject);
+            });
+
+            var Grant_Chart = Morris.Donut({
+                element: 'grant_chart_personal',
+                data: newArrayGrant,
+                resize: true,
+                colors: ['#193C77', '#39FF33', '#197754', '#541977', '#1FE874', '#3d90bf', '#bf783d', '#1ab394', '#ed0c0c', '#FF5733', '#FFBD33']
+            });
+
+            Grant_Chart.options.data.forEach(function (label, i) {
+                var legendItem = $('<span></span>').text(label['label']).prepend('<br><span>&nbsp;</span>');
+                legendItem.find('span')
+                    .css('backgroundColor', Grant_Chart.options.colors[i])
+                    .css('width', '50px')
+                    .css('display', 'inline-block')
+                    .css('margin', '5px');
+                $('#legendGrantMorris').append(legendItem)
+            });
+
+            var totalx = 0;
+            for (var i = 0; i < data.data.length; i++) {
+                totalx += data.data[i].TOTAL_GRANTS << 0;
+            }
+            $("#TotalGrantCount").append(totalx);
+
+
+        }).fail(function () { });
+
+        $.ajax({
+            type: "POST",
+            url: '/Scholar/PublicationScholarPersonResult?id=' + no_pekerja,
+        }).done(function (data) {
+            var newArrayPublication = [];
+            data.data.forEach(function (elm, i) {
+                $newObject = {
+                    label: data.data[i].TYPE_PUBLICATION,
+                    value: data.data[i].TOTAL_PUBLICATION
+                }
+
+                newArrayPublication.push($newObject);
+            })
+            var Publication_Chart = Morris.Donut({
+                element: 'publication_chart_personal',
+                data: newArrayPublication,
+                resize: true,
+                colors: ['#3d90bf', '#bf783d', '#1ab394', '#ed0c0c', '#FF5733', '#FFBD33', '#193C77', '#39FF33', '#197754', '#541977', '#1FE874']
+            });
+
+            Publication_Chart.options.data.forEach(function (label, i) {
+                var legendItem = $('<span></span>').text(label['label']).prepend('<br><span>&nbsp;</span>');
+                legendItem.find('span')
+                    .css('backgroundColor', Publication_Chart.options.colors[i])
+                    .css('width', '20px')
+                    .css('display', 'inline-block')
+                    .css('margin', '5px');
+                $('#legendPublicationMorris').append(legendItem)
+            });
+
+            var totaly = 0;
+            for (var i = 0; i < data.data.length; i++) {
+                totaly += data.data[i].TOTAL_PUBLICATION << 0;
+            }
+            $("#TotalPublicationCount").append(totaly);
+
+        }).fail(function () {
+
+        });
+
+        $.ajax({
+            type: "POST",
+            url: '/Scholar/SupervisionScholarPersonResult?id=' + no_pekerja,
+        }).done(function (data) {
+
+            var newArraySupervision = [];
+            data.data.forEach(function (elm, i) {
+                $newObject = {
+                    label: data.data[i].LEVEL_STUDY,
+                    value: data.data[i].TOTAL_STUDENTS
+                }
+
+                newArraySupervision.push($newObject);
+            });
+
+            var Supervision_Chart = Morris.Donut({
+                element: 'supervision_chart_personal',
+                data: newArraySupervision,
+                resize: true,
+                colors: ['#3d90bf', '#bf783d', '#1ab394', '#ed0c0c', '#FF5733', '#FFBD33', '#193C77', '#39FF33', '#197754', '#541977', '#1FE874']
+            });
+
+            Supervision_Chart.options.data.forEach(function (label, i) {
+                var legendItem = $('<span></span>').text(label['label']).prepend('<br><span>&nbsp;</span>');
+                legendItem.find('span')
+                    .css('backgroundColor', Supervision_Chart.options.colors[i])
+                    .css('width', '20px')
+                    .css('display', 'inline-block')
+                    .css('margin', '5px');
+                $('#legendSupervisionMorris').append(legendItem)
+            });
+
+            var totalz = 0;
+            for (var i = 0; i < data.data.length; i++) {
+                totalz += data.data[i].TOTAL_STUDENTS << 0;
+            }
+            $("#TotalSupervisionCount_chart").append(totalz);
+            $("#TotalSupervisionCount").append(totalz);
+
+
+        }).fail(function () {
+
+        });
+        /*---- H Index for Scopus API -----------*/
+        if (scopus_id == "0") {
+            var hIndexVal = "0";
+            var CountIndex = "0";
+
+            $("#hIndexID").append(hIndexVal);
+            $("#CountPublicIndexID").append(CountIndex);
+        }
+        else {
+            $.ajax({
+                type: "POST",
+                url: "/Scholar/GetCitationHIndex?id=" + scopus_id,
+                datatype: "json",
+                success: function (data) {
+                    console.log(data);
+                    var test = jQuery.parseJSON(data.response);
+                    $("#hIndexID").append(test["author-retrieval-response"]["0"]["h-index"]);
+                    $("#CountPublicIndexID").append(test["author-retrieval-response"]["0"]["coredata"]["citation-count"]);
+                },
+                error: function (data) {
+                    console.log('An error occurred.');
+                },
+            });
+        }
+
+        /*---- datatable -----------*/
+
+        $(document).ready(function () {
+            GrantDatatable = $('#grantListTablePersonalDatatable').DataTable({
+                processing: true,
+                searching: true,
+                sorting: false,
+                paging: true,
+                pageLength: 15,
+                lengthChange: false,
+                info: true,
+                responsive: true
+            });
+
+            PublicationDatatable = $('#publicationListTablePersonalDatatable').DataTable({
+                processing: true,
+                searching: true,
+                sorting: false,
+                paging: true,
+                pageLength: 15,
+                lengthChange: false,
+                info: true,
+                responsive: true
+            });
+
+            SupervisionDatatable = $('#supervisionListTablePersonalDatatable').DataTable({
+                processing: true,
+                searching: true,
+                sorting: false,
+                paging: true,
+                pageLength: 15,
+                lengthChange: false,
+                info: true,
+                responsive: true
+            });
+
+            IPDatatable = $('#IPListTablePersonalDatatable').DataTable({
+                processing: true,
+                searching: true,
+                sorting: false,
+                paging: true,
+                pageLength: 15,
+                lengthChange: false,
+                info: true,
+                responsive: true
+            });
+
+
+        });
+
+
+        /*------- Share JS components -----------*/
+        document.addEventListener('DOMContentLoaded', function (e) {
+            let field = document.querySelector('.field');
+            let input = document.querySelector('input');
+            let copyBtn = document.querySelector('.field button');
+
+            copyBtn.onclick = () => {
+                input.select();
+                if (document.execCommand("copy")) {
+                    field.classList.add('active');
+                    copyBtn.innerText = 'Copied';
+                    setTimeout(() => {
+                        field.classList.remove('active');
+                        copyBtn.innerText = 'Copy';
+                    }, 3500)
+                }
+            }
+        });
+
+    </script>
+
+
+</body>
+
+</html>

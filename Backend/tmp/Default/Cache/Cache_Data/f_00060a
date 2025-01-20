@@ -1,0 +1,2117 @@
+<!doctype html>
+<html lang="en">
+
+<head>
+    <meta charset="utf-8"/>
+    <title>UTM Scholar : TS. DR. NUR HALIZA BINTI ABDUL WAHAB </title>
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta content="UTM Scholar Official Portal" name="description"/>
+    <meta name="google-site-verification" content="5ysLm8G0uPkHXlp2400O5bjCL-DV5tIMVqEQtlsm0NM"/>
+    <meta content="Office of Deputy Vice Cansellor Research &amp; Innovations, Universiti Teknologi Malaysia, Johore, Malaysia" name="author"/>
+    <link rel="shortcut icon" href="/assets/images/favicon.ico">
+    <link href="/assets/css/bootstrap.min.css" id="bootstrap-style" rel="stylesheet" type="text/css" />
+    <link href="/assets/css/icons.min.css" rel="stylesheet" type="text/css" />
+    <link href="/assets/css/app.min.css" id="app-style" rel="stylesheet" type="text/css" />
+    <link href="/assets/libs/datatables.net-bs4/css/dataTables.bootstrap4.min.css" rel="stylesheet" type="text/css" />
+    <link href="/assets/libs/datatables.net-buttons-bs4/css/buttons.bootstrap4.min.css" rel="stylesheet" type="text/css" />
+    <link href="/assets/libs/datatables.net-responsive-bs4/css/responsive.bootstrap4.min.css" rel="stylesheet" type="text/css" />
+    <style>
+            .img-thumbnail {
+                border-radius: 33px;
+                width: 61px;
+                height: 61px
+            }
+            
+            .fab:before {
+                position: relative;
+                top: 13px
+            }
+            
+            .smd {
+                width: 200px;
+                font-size: small;
+                text-align: center
+            }
+            
+            .modal-footer {
+                display: block
+            }
+            
+            .ur {
+                border: none;
+                background-color: #e6e2e2;
+                border-bottom-left-radius: 4px;
+                border-top-left-radius: 4px
+            }
+            
+            .cpy {
+                border: none;
+                background-color: #e6e2e2;
+                border-bottom-right-radius: 4px;
+                border-top-right-radius: 4px;
+                box-shadow: none !important
+            }
+            
+            .ur.focus,
+            .ur:focus {
+                outline: 0;
+                box-shadow: none !important
+            }
+            
+            .message {
+                font-size: 11px;
+                color: #ee5535
+            }
+        </style>
+</head>
+<body data-sidebar="dark">
+    <div id="layout-wrapper">
+        <header id="page-topbar">
+    <div class="navbar-header">
+        <div class="d-flex">
+          
+            <div class="navbar-brand-box">
+                <a class="logo logo-dark" href="/">
+                    <span class="logo-sm">
+                        <img src="/assets/images/logo-sm.png" alt="" height="38">
+                    </span>
+                    <span class="logo-lg">
+                        <img src="/assets/images/logo-utm.png" alt="" height="35">
+                    </span>
+                </a>
+
+                <a class="logo logo-light" href="/">
+                    <span class="logo-sm">
+                        <img src="/assets/images/logo-sm.png" alt="" height="38">
+                    </span>
+                    <span class="logo-lg">
+                        <img src="/assets/images/logo-utm.png" alt="" height="35">
+                    </span>
+                </a>
+            </div>
+
+            <button type="button" class="btn btn-sm px-3 font-size-24 header-item waves-effect vertical-menu-btn">
+                <i class="mdi mdi-menu"></i>
+            </button>
+            <div class="d-none d-sm-block">
+                <div class="page-title-box">
+                    <h4>TS. DR. NUR HALIZA BINTI ABDUL WAHAB</h4>
+                    <ol class="breadcrumb m-0">
+                        <li class="breadcrumb-item">
+                            PENSYARAH UNIVERSITI
+                        </li>
+                        
+                       <!--
+                                                 <li class="breadcrumb-item" id="more_sect" hidden>
+                                            <a id="more" style="color:blue" onclick="test()" hidden><b>&nbsp;&nbsp;...&nbsp;read more</b></a>
+                                                 </li>
+                                                 <li class="breadcrumb-item" id="less_sect" hidden>
+                                                     <a id="less" style="color:blue" onclick="test()" hidden><b>&nbsp;&nbsp;Read less</b></a>
+                                                 </li>
+                                                 <li class="breadcrumb-item" id="brief" hidden>
+                                            <a id="less_1" style="color:blue" onclick="test()"><b>&nbsp;read less</b></a>
+                                                 </li>
+                       --> 
+                    </ol>
+                </div>
+            </div>
+            
+        </div>
+        <div class="d-flex">
+            <div class="dropdown d-none d-lg-inline-block">
+                            <a href="/Login/Login" class="btn btn-sm btn-primary">Login</a>
+                <button type="button" class="btn header-item noti-icon waves-effect" data-toggle="fullscreen">
+                    <i class="mdi mdi-fullscreen font-size-24"></i>
+                </button>
+            </div>
+            <div class="dropdown d-inline-block">
+                <button type="button" class="btn header-item waves-effect" id="page-header-user-dropdown"
+                        data-bs-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
+                    <i class="mdi mdi-24px mdi-cog"></i>
+                </button>
+                <div class="dropdown-menu dropdown-menu-end">
+                    <!-- item-->
+                    <a class="dropdown-item" href="/"><i class="ti-dashboard font-size-17 text-muted align-middle me-1"></i> Home</a>
+                    <a class="dropdown-item" href="/scholars"><i class="ti-bar-chart font-size-17 text-muted align-middle me-1"></i> Scholar List</a>
+                    <a class="dropdown-item" href="/research-unit"><i class="ti-pie-chart font-size-17 text-muted align-middle me-1"></i> Research Unit</a>
+                </div>
+            </div>
+        </div>
+    </div>
+</header>
+        <div class="vertical-menu">
+            <div data-simplebar class="h-100">
+                <div id="sidebar-menu">
+                    <ul class="metismenu list-unstyled" id="side-menu">
+                        <li>
+                            <a href="javascript:void(0);" class="waves-effect">
+                                <img src="/view-gambar?id=ag9w"
+                                     style="border-radius: 2%; margin-left: 50px;" height="200" width="150">
+                            </a>
+                        </li>
+                        <li>
+                            <a href="mailto:nur.haliza@utm.my" class="waves-effect">
+                                <i class="mdi mdi-email-outline"></i><span> Email<br/>nur.haliza@utm.my</span>
+                            </a>
+                        </li>
+
+                        <li>
+                            <a href="/faculties/28" class="waves-effect">
+                                <i class="mdi mdi-home"></i><span> Faculty<br/>FACULTY OF COMPUTING</span>
+                            </a>
+                        </li>
+                        <li>
+                            <a href="/schools/" class="waves-effect">
+                                <i class="mdi mdi-book-open-page-variant"></i><span> School<br/></span>
+                            </a>
+                        </li>
+                        <li>
+                            <a href="/niche-area/J090500" class="waves-effect">
+                                <i class="mdi mdi-book-arrow-down-outline"></i><span> Research Alliances<br/>SMART DIGITAL COMMUNITY</span>
+                            </a>
+                        </li>
+                        <li>
+
+                                <a href="/research-groups/206" class="waves-effect">
+                                    <i class="mdi mdi-trophy-variant-outline "></i><span> Research Group<br/>Pervasive Computing (PCRG)</span>
+                                </a>
+
+                        </li>
+                        <li>
+                                <a href='/hi-coe/J091005' class="waves-effect">
+                                    <i class="mdi mdi-radar"></i><span> HI COE/COE/Research Center<br/>UTM Big Data Centre (BDC)</span>
+                                </a>
+
+                        </li>
+                        <li>
+                            <a href="https://www.scopus.com/authid/detail.uri?authorId=26634532400" target="_blank" class="waves-effect">
+                                <i class="fas fa-university"></i><span> Scopus Profile<br/></span>
+                            </a>
+                        </li>
+                        <li>
+                            <a href="#" class="waves-effect" data-bs-toggle="modal" data-bs-target="#shareModalBox" >
+                                <i class="fas fa-share-alt"></i><span>Share</span>
+                            </a>
+                        </li>
+
+                        <li>
+                            <a href="javascript:void(0);" class="waves-effect">
+                                <i class="mdi mdi-book"></i>
+                                <span>
+                                    Keywords/Interest<br/>
+                                    <p class="text-muted font-small-2" id="keyword">BLOCKCHAIN, INTERNET OF THINGS, SYSTEM DEVELOPMENT, ARTIFICIAL INTELLIGENT, INDOOR LOCALISATION</p>
+                                </span>
+                            </a>
+                        </li>
+                    </ul>
+                </div>
+                <!-- Sidebar -->
+            </div>
+        </div>
+        <div class="main-content">
+            <div class="page-content">
+                <div class="container-fluid">
+                    
+<div class="row">
+    <div class="col-xl-2 col-sm-6 h-50">
+        <div class="card mini-stat bg-primary">
+            <div class="card-body mini-stat-img">
+                <div class="mini-stat-icon">
+                    <i class="mdi mdi-cube-outline float-end"></i>
+                </div>
+                <div class="text-white">
+                    <h6 class="text-uppercase mb-3 font-size-12 text-white">GRANT(PI & MEMBERS)</h6>
+                    <h2 class="mb-4 text-white">31</h2>
+
+                </div>
+            </div>
+        </div>
+    </div>
+    <div class="col-xl-2 col-sm-6 h-50">
+        <div class="card mini-stat bg-warning">
+            <div class="card-body mini-stat-img">
+                <div class="mini-stat-icon">
+                    <i class="mdi mdi-buffer float-end"></i>
+                </div>
+                <div class="text-white">
+                    <h6 class="text-uppercase mb-3 font-size-12 text-white">PUBLICATIONS</h6>
+                    <h2 class="mb-4 text-white">85</h2>
+                </div>
+            </div>
+        </div>
+    </div>
+    <div class="col-xl-2 col-sm-6 h-50">
+        <div class="card mini-stat bg-info">
+            <div class="card-body mini-stat-img">
+                <div class="mini-stat-icon">
+                    <i class="mdi mdi-tag-text-outline float-end"></i>
+                </div>
+                <div class="text-white">
+                    <h6 class="text-uppercase mb-3 font-size-12 text-white">INDEXED PUBLICATION</h6>
+                    <h2 class="mb-4 text-white">41</h2>
+                </div>
+            </div>
+        </div>
+    </div>
+    <div class="col-xl-2 col-sm-6 h-50">
+        <div class="card mini-stat bg-danger">
+            <div class="card-body mini-stat-img">
+                <div class="mini-stat-icon">
+                    <i class="mdi mdi-chart-pie float-end"></i>
+                </div>
+                <div class="text-white">
+                    <h6 class="text-uppercase mb-3 font-size-12 text-white">TOTAL STUDENTS</h6>
+                    <h2 class="mb-4 text-white"><span id="TotalSupervisionCount"></span></h2>
+                </div>
+            </div>
+        </div>
+    </div>
+    <div class="col-xl-2 col-sm-6 h-50">
+        <div class="card mini-stat bg-success">
+            <div class="card-body mini-stat-img">
+                <div class="mini-stat-icon">
+                    <i class="mdi mdi-chart-bar float-end"></i>
+                </div>
+                <div class="text-white">
+                    <h6 class="text-uppercase mb-3 font-size-12 text-white">H-INDEXED (SCOPUS)</h6>
+                    <h2 class="mb-4 text-white"><span id="hIndexID"></span></h2>
+                </div>
+            </div>
+        </div>
+    </div>
+    <div class="col-xl-2 col-sm-6 h-50">
+        <div class="card mini-stat bg-info">
+            <div class="card-body mini-stat-img">
+                <div class="mini-stat-icon">
+                    <i class="mdi mdi-briefcase-check float-end"></i>
+                </div>
+                <div class="text-white">
+                    <h6 class="text-uppercase mb-3 font-size-12 text-white">CITATIONS (SCOPUS)</h6>
+                    <h2 class="mb-4 text-white"><span id="CountPublicIndexID"></span></h2>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+
+<div class="row">
+    <div class="col-xl-4">
+        <div class="card">
+            <div class="card-body">
+                <h4 class="card-title mb-3">Grant (PI)</h4>
+                <div class="row">
+                    <div class="col-md-12 col-12">
+                        <div id="grant_chart_personal" class="morris-charts morris-chart-height"></div>
+                    </div>
+                </div>
+                    <div class="row">
+                        <div class="col-md-12 col-12">
+                            <div class="inbox-wid">
+                                <div class="inbox-item">
+                                    <div class="float-start">INDUSTRY GRANTS</div>
+                                    <div class="float-end">3</div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="row">
+                        <div class="col-md-12 col-12">
+                            <div class="inbox-wid">
+                                <div class="inbox-item">
+                                    <div class="float-start">NATIONAL GRANTS</div>
+                                    <div class="float-end">4</div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="row">
+                        <div class="col-md-12 col-12">
+                            <div class="inbox-wid">
+                                <div class="inbox-item">
+                                    <div class="float-start">UNIVERSITY FUND</div>
+                                    <div class="float-end">2</div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                <div class="row">
+                    <div class="col-md-12 col-12">
+                        <div class="inbox-wid">
+                            <div class="inbox-item">
+                                <div class="float-start"><strong>TOTAL</strong></div>
+                                <div class="float-end"><span id="TotalGrantCount"></span></div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+    <div class="col-xl-4">
+        <div class="card">
+            <div class="card-body">
+                <h4 class="card-title mb-3">Publications</h4>
+                <div class="row">
+                    <div class="col-md-12 col-12">
+                        <div id="publication_chart_personal" class="morris-charts morris-chart-height"></div>
+                    </div>
+                </div>
+                    <div class="row">
+                        <div class="col-md-12 col-12">
+                            <div class="inbox-wid">
+                                <div class="inbox-item">
+                                    <div class="float-start">INDEXED PUBLICATION</div>
+                                    <div class="float-end">41</div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="row">
+                        <div class="col-md-12 col-12">
+                            <div class="inbox-wid">
+                                <div class="inbox-item">
+                                    <div class="float-start">NON-INDEXED PUBLICATION</div>
+                                    <div class="float-end">2</div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="row">
+                        <div class="col-md-12 col-12">
+                            <div class="inbox-wid">
+                                <div class="inbox-item">
+                                    <div class="float-start">OTHERS PUBLICATION</div>
+                                    <div class="float-end">41</div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                <div class="row">
+                    <div class="col-md-12 col-12">
+                        <div class="inbox-wid">
+                            <div class="inbox-item">
+                                <div class="float-start"><strong>TOTAL</strong></div>
+                                <div class="float-end"><span id="TotalPublicationCount"></span></div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+    <div class="col-xl-4">
+        <div class="card">
+            <div class="card-body">
+                <h4 class="card-title mb-4">Supervisions</h4>
+                <div class="row">
+                    <div class="col-md-12 col-12">
+                        <div id="supervision_chart_personal" class="morris-charts morris-chart-height"></div>
+                    </div>
+                </div>
+                    <div class="row">
+                        <div class="col-md-12">
+                            <div class="inbox-wid">
+                                <div class="inbox-item">
+                                    <div class="float-start">MASTER</div>
+                                    <div class="float-end">3</div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="row">
+                        <div class="col-md-12">
+                            <div class="inbox-wid">
+                                <div class="inbox-item">
+                                    <div class="float-start">PHD</div>
+                                    <div class="float-end">10</div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                <div class="row">
+                    <div class="inbox-wid">
+                        <div class="inbox-item">
+                            <div class="float-start"><strong>TOTAL</strong></div>
+                            <div class="float-end"><span id="TotalSupervisionCount_chart"></span></div>
+                        </div>
+                    </div>
+                </div>
+
+            </div>
+        </div>
+    </div>
+</div>
+
+<div class="row">
+    <div class="card">
+        <div class="card-body">
+            <!-- Nav tabs -->
+            <ul class="nav nav-tabs nav-tabs-custom" role="tablist">
+                <li class="nav-item">
+                    <a class="nav-link active" data-bs-toggle="tab" href="#grant_tab" role="tab" aria-selected="true">
+                        <span class="d-block d-sm-none"><i class="fas fa-dollar-sign"></i></span>
+                        <span class="d-none d-sm-block">Grants</span>
+                    </a>
+                </li>
+                <li class="nav-item">
+                    <a class="nav-link" data-bs-toggle="tab" href="#publication_tab" role="tab" aria-selected="false">
+                        <span class="d-block d-sm-none"><i class="fa fa-book-open"></i></span>
+                        <span class="d-none d-sm-block">Publications</span>
+                    </a>
+                </li>
+                <li class="nav-item">
+                    <a class="nav-link" data-bs-toggle="tab" href="#ip_tab" role="tab" aria-selected="false">
+                        <span class="d-block d-sm-none"><i class="far fa-envelope"></i></span>
+                        <span class="d-none d-sm-block">Intellectual Property</span>
+                    </a>
+                </li>
+                <li class="nav-item">
+                    <a class="nav-link" data-bs-toggle="tab" href="#supervision_tab" role="tab" aria-selected="false">
+                        <span class="d-block d-sm-none"><i class="fas fa-user-graduate"></i></span>
+                        <span class="d-none d-sm-block">Supervisions</span>
+                    </a>
+                </li>
+            </ul>
+
+            <!-- Tab panes -->
+            <div class="tab-content">
+                <div class="tab-pane p-3 active" id="grant_tab" role="tabpanel">
+                    <p class="mb-0">
+                    <p>Legend : <span class="badge rounded-pill  bg-info">SPONSOR</span> <span class="badge rounded-pill  bg-success">TYPE OF GRANT</span></p>
+                    <div class="table-responsive">
+                        <table id="grantListTablePersonalDatatable" class="table mb-0 dt-responsive nowrap" style="border-collapse: collapse; border-spacing: 0; width: 100%;">
+                            <thead>
+                                <tr>
+                                    <th>Grant Name</th>
+                                    <th>Year</th>
+                                </tr>
+                            </thead>
+                            <tbody>
+                                    <tr>
+                                        <td>A Blockchain-Based Tracking System for Creating a Sustainable Value Chain<br /><span class="badge rounded-pill  bg-info">PETRONAS RESEARCH SDN. BHD.</span> <span class="badge rounded-pill  bg-success">Contract                                                                                                                                                                                                                                                       </span></td>
+                                        <td>2024</td>
+                                    </tr>
+                                    <tr>
+                                        <td>F4&#x2B; 3.5.1: Development of Multiplatform Mobile Application System for Human Digital Twin of Circulatory System <br /><span class="badge rounded-pill  bg-info">RUG OF UTM</span> <span class="badge rounded-pill  bg-success">Geran Penyelidikan Hi-Tech(F4)</span></td>
+                                        <td>2024</td>
+                                    </tr>
+                                    <tr>
+                                        <td>CRG 55.1 : A Recommender Models for Smart Governance and Smart Economy for Flood Resilience Management<br /><span class="badge rounded-pill  bg-info">UNIVERSITI TEKNOLOGI MALAYSIA</span> <span class="badge rounded-pill  bg-success">Collaborative Research Grant </span></td>
+                                        <td>2024</td>
+                                    </tr>
+                                    <tr>
+                                        <td>MG1-34.0 Smart Schedule Waste Management System Systematic Monitoring of Scheduled Waste Generation at Site<br /><span class="badge rounded-pill  bg-info">MALAYSIA MARINE AND HEAVY ENGINEERING SDN BHD</span> <span class="badge rounded-pill  bg-success">Contract                                                                                                                                                                                                                                                       </span></td>
+                                        <td>2024</td>
+                                    </tr>
+                                    <tr>
+                                        <td>ASSESSMENT AND MITIGATION OF LANDSLIDE RISKS THROUGH ARTIFICIAL INTELLIGENCE-BASED SOLUTION<br /><span class="badge rounded-pill  bg-info">UNIVERSITAS KRISTEN SATYA WACANA</span> <span class="badge rounded-pill  bg-success">Networking Grant                                                                                                                                                                                                                                               </span></td>
+                                        <td>2023</td>
+                                    </tr>
+                                    <tr>
+                                        <td>STUDY OF COMMUNITY EMPOWERMENT AND ENGAGEMENT USING COMPUTER-MEDIATED PLATFORM<br /><span class="badge rounded-pill  bg-info">PUSAT KHIDMAT PARLIMEN SRI GADING, JOHOR</span> <span class="badge rounded-pill  bg-success">Government Agency Grant</span></td>
+                                        <td>2023</td>
+                                    </tr>
+                                    <tr>
+                                        <td>Scalable Practical Byzantine Fault Tolerance (PBFT) Based on Cryptographic Enhancements<br /><span class="badge rounded-pill  bg-info">RUG OF UTM</span> <span class="badge rounded-pill  bg-success">UTM Fundamental Research </span></td>
+                                        <td>2023</td>
+                                    </tr>
+                                    <tr>
+                                        <td>OPTIMIZE LOAD-BALANCING TRAFFIC ROUTING WITH FLOWTABLE OVERFLOW AWARENESS FOR SOFTWARE DEFINED WIRELESS NETWORKS<br /><span class="badge rounded-pill  bg-info">RUG OF UTM</span> <span class="badge rounded-pill  bg-success">UTM Fundamental Research </span></td>
+                                        <td>2023</td>
+                                    </tr>
+                                    <tr>
+                                        <td>Penternakan Ikan Kelah dan Ikan Air Tawar Berasaskan Teknologi Internet-of-Things (IoT)<br /><span class="badge rounded-pill  bg-info">PROGRAM INISIATIF INOVASI SOSIAL MALAYSIA (MYIS KOMUNITI)</span> <span class="badge rounded-pill  bg-success">Centre for Community and Industry Network </span></td>
+                                        <td>2023</td>
+                                    </tr>
+                                    <tr>
+                                        <td>DEVELOPMENT OF COMMUNITY MOBILE APPLICATION (iKON) CROSS PLATFORM SOFTWARE FOCUS TO WOMEN IN MALAYSIA<br /><span class="badge rounded-pill  bg-info">KELAB WANITA IKON MALAYSIA (KWIM)</span> <span class="badge rounded-pill  bg-success">Non Goverment Agency</span></td>
+                                        <td>2023</td>
+                                    </tr>
+                                    <tr>
+                                        <td>MG2 - 22.0 : Lightweight Security for Low Power Consumption IoT Devices Based on MQTT Communication Protocol<br /><span class="badge rounded-pill  bg-info">TELKOM UNIVERSITY</span> <span class="badge rounded-pill  bg-success">Others-MG</span></td>
+                                        <td>2023</td>
+                                    </tr>
+                                    <tr>
+                                        <td>MG2 - 22.1 : Lightweight Network Intrusion Detection System (NIDS) Model based on Hybrid Feature Selection<br /><span class="badge rounded-pill  bg-info">RUG OF UTM</span> <span class="badge rounded-pill  bg-success">Matching Grant </span></td>
+                                        <td>2023</td>
+                                    </tr>
+                                    <tr>
+                                        <td>River Efficacy Assessment for Floating Marine Plastic Debris at Klang River using Hydrophone Array<br /><span class="badge rounded-pill  bg-info">THE OCEAN CLEANUP INTERCEPTION B.V.</span> <span class="badge rounded-pill  bg-success">International Grant</span></td>
+                                        <td>2023</td>
+                                    </tr>
+                                    <tr>
+                                        <td>Artificial Intelligent (AI) Auction Report Translator System<br /><span class="badge rounded-pill  bg-info">OTOFACTS (M) SDN BHD</span> <span class="badge rounded-pill  bg-success">Contract Research DTD </span></td>
+                                        <td>2022</td>
+                                    </tr>
+                                    <tr>
+                                        <td>COE/RG 1.4: PEMBANGUNAN SISTEM PEMANTAUAN DAN PERAMALAN PENYELENGGARAAN SENI BINA WARISAN BERASASKAN IoT<br /><span class="badge rounded-pill  bg-info">RUG OF UTM</span> <span class="badge rounded-pill  bg-success">Flagship CoE/RG</span></td>
+                                        <td>2022</td>
+                                    </tr>
+                                    <tr>
+                                        <td>A Framework to Mitigate IoT Vulnerabilities Using Hardening Machine Learning for Smart Home Communication Layer Security<br /><span class="badge rounded-pill  bg-info">RUG OF UTM</span> <span class="badge rounded-pill  bg-success">UTM Encouragement Research </span></td>
+                                        <td>2022</td>
+                                    </tr>
+                                    <tr>
+                                        <td>A New Classification of Breathing signal using hybrid Deep learning algorithm for non-contact human physiological measurement<br /><span class="badge rounded-pill  bg-info">MINISTRY OF EDUCATION</span> <span class="badge rounded-pill  bg-success">Networking Grant                                                                                                                                                                                                                                               </span></td>
+                                        <td>2022</td>
+                                    </tr>
+                                    <tr>
+                                        <td>DEVELOPMENT OF HYBRID AUTHENTICATION ASSISTED WITH PUSH NOTIFICATION IN JSPHERE APPLICATION<br /><span class="badge rounded-pill  bg-info">JOHOR CORPORATION</span> <span class="badge rounded-pill  bg-success">Contract Research DTD </span></td>
+                                        <td>2021</td>
+                                    </tr>
+                                    <tr>
+                                        <td>Human&#x27;s sneezing and coughing effects on the dispersion of particles in an indoor environment<br /><span class="badge rounded-pill  bg-info">RUG OF UTM</span> <span class="badge rounded-pill  bg-success">UTM Zamalah</span></td>
+                                        <td>2021</td>
+                                    </tr>
+                                    <tr>
+                                        <td>Adaptive Control for Position Tracking Accuracy of Electro-Pneumatic Actuator System with Servo Valve<br /><span class="badge rounded-pill  bg-info">RUG OF UTM</span> <span class="badge rounded-pill  bg-success">UTM Encouragement Research </span></td>
+                                        <td>2021</td>
+                                    </tr>
+                                    <tr>
+                                        <td>Reducing Bandwidth Through New Mechanism Encode Transformation Filtering (ETF) for 360-Degree Video for Online Education System.<br /><span class="badge rounded-pill  bg-info">MINISTRY OF EDUCATION</span> <span class="badge rounded-pill  bg-success">Fundamental Research Grant Scheme </span></td>
+                                        <td>2021</td>
+                                    </tr>
+                                    <tr>
+                                        <td>Indoor Child Monitoring and Tracking via Augmented Reality (AR) Assisted by Internet of Things (IoT)<br /><span class="badge rounded-pill  bg-info">RUG OF UTM</span> <span class="badge rounded-pill  bg-success">UTM Encouragement Research </span></td>
+                                        <td>2020</td>
+                                    </tr>
+                                    <tr>
+                                        <td>DEVELOPMENT OF MOBILE APPLICATION (HCMS V2.0 PERFORMANCE MANAGEMENT AND TRAINING AND DEVELOPMENT MODULES)<br /><span class="badge rounded-pill  bg-info">JOHOR CORPORATION</span> <span class="badge rounded-pill  bg-success">Contract Research DTD </span></td>
+                                        <td>2020</td>
+                                    </tr>
+                                    <tr>
+                                        <td>DENGUE OUTBREAK PREVENTION THROUGH SUSTAINABLE COMMUNITY EMPOWERMENT PROGRAM USING IR4.0 TECHNOLOGY ADOPTION<br /><span class="badge rounded-pill  bg-info">RUG OF UTM</span> <span class="badge rounded-pill  bg-success">UTM High Impact Research                                                                                                                                                                                                                                       </span></td>
+                                        <td>2020</td>
+                                    </tr>
+                                    <tr>
+                                        <td>CRG 19.3 INTELLIGENT REPORTS BASED ON DATA ANALYTICS FOR ASSET LOCATION<br /><span class="badge rounded-pill  bg-info">UNIVERSITI MALAYSIA TERENGGANU</span> <span class="badge rounded-pill  bg-success">Collaborative Research Grant National </span></td>
+                                        <td>2019</td>
+                                    </tr>
+                                    <tr>
+                                        <td>CRG18.1 DEVELOPMENT OF AN EFFICIENT DATA AGGREGATION AND PACKET SCHEDULING ALGORITHM FOR WIRELESS HEALTHCARE MONITORING AND FALL DETECTION SYSTEM<br /><span class="badge rounded-pill  bg-info">RESEARCH UNIVERSITY GRANT</span> <span class="badge rounded-pill  bg-success">Collaborative Research Grant </span></td>
+                                        <td>2019</td>
+                                    </tr>
+
+                            </tbody>
+                        </table>
+                    </div>
+                    </p>
+                </div>
+                <div class="tab-pane p-3" id="publication_tab" role="tabpanel">
+                    <p class="mb-0">
+                    <p class="text-muted">
+                        Legend : <span class="badge rounded-pill  bg-info">PUBLICATION CATEGORY </span>
+                        <span class="badge rounded-pill  bg-success">TYPE OF AUTHORS</span>
+                    </p>
+                    <div class="table-responsive">
+                        <table id="publicationListTablePersonalDatatable" class="table mb-0 dt-responsive nowrap" style="border-collapse: collapse; border-spacing: 0; width: 100%;">
+                            <thead>
+                                <tr>
+                                    <th>Publication Name</th>
+                                    <th>Year</th>
+                                </tr>
+                            </thead>
+                            <tbody>
+                                    <tr>
+                                        <td>
+
+                                            <a href="/scholar-publication/ag9w/147610">Advances In Consortium Chain Scalability: A Review Of The Practical Byzantine Fault Tolerance Consensus Algorithm</a>
+
+                                            <br />
+                                                INTERNATIONAL JOURNAL OF ADVANCED COMPUTER SCIENCE AND APPLICATIONS<br />
+                                            <span class="badge rounded-pill  bg-info">Publication In Web Of Science</span> <span class="badge rounded-pill  bg-success">FIRST UTM CORRESPONDING AUTHOR</span>
+                                        </td>
+                                        <td>2024</td>
+                                    </tr>
+                                    <tr>
+                                        <td>
+
+                                            <a href="/scholar-publication/ag9w/147629"></a>
+
+                                            <br />
+                                                TRANSFORMASI DUNIA MELALUI TEKNOLOGI BLOCKCHAIN: MASA DEPAN DIGITAL KITA<br />
+                                            <span class="badge rounded-pill  bg-info">Original Book</span> <span class="badge rounded-pill  bg-success">FIRST UTM CORRESPONDING AUTHOR</span>
+                                        </td>
+                                        <td>2024</td>
+                                    </tr>
+                                    <tr>
+                                        <td>
+
+                                            <a href="/scholar-publication/ag9w/141356">Airborne Microplastic/Nanoplastic Research: A Comprehensive Web Of Science (Wos) Data-Driven Bibliometric Analysis</a>
+
+                                            <br />
+                                                ENVIRONMENTAL SCIENCE AND POLLUTION RESEARCH<br />
+                                            <span class="badge rounded-pill  bg-info">Publication In Web Of Science</span> <span class="badge rounded-pill  bg-success">CO-AUTHOR</span>
+                                        </td>
+                                        <td>2024</td>
+                                    </tr>
+                                    <tr>
+                                        <td>
+
+                                            <a href="/scholar-publication/ag9w/147218">Performance Comparison Of Breathing Signal Classifiers Using Machine Learning Techniques</a>
+
+                                            <br />
+                                                14TH IEEE INTERNATIONAL CONFERENCE ON CONTROL SYSTEM, COMPUTING AND ENGINEERING, ICCSCE 2024<br />
+                                            <span class="badge rounded-pill  bg-info">Publication In Scopus</span> <span class="badge rounded-pill  bg-success">UTM FIRST AUTHOR</span>
+                                        </td>
+                                        <td>2024</td>
+                                    </tr>
+                                    <tr>
+                                        <td>
+
+                                            <a href="/scholar-publication/ag9w/147604">The Frontier Of Blockchain Privacy: Developmentof A Private Ethereum Network</a>
+
+                                            <br />
+                                                2024 IEEE 14TH SYMPOSIUM ON COMPUTER APPLICATIONS &amp; INDUSTRIAL ELECTRONICS (ISCAIE)<br />
+                                            <span class="badge rounded-pill  bg-info">Publication In Scopus</span> <span class="badge rounded-pill  bg-success">UTM FIRST AUTHOR</span>
+                                        </td>
+                                        <td>2024</td>
+                                    </tr>
+                                    <tr>
+                                        <td>
+
+                                            <a href="/scholar-publication/ag9w/147605">Hyperspectral Imaging For Remote Sensing And Agriculture: A Comparative Study Of Transformer-Based Models</a>
+
+                                            <br />
+                                                2024 IEEE 14TH SYMPOSIUM ON COMPUTER APPLICATIONS &amp; INDUSTRIAL ELECTRONICS (ISCAIE)<br />
+                                            <span class="badge rounded-pill  bg-info">Publication In Scopus</span> <span class="badge rounded-pill  bg-success">UTM FIRST AUTHOR</span>
+                                        </td>
+                                        <td>2024</td>
+                                    </tr>
+                                    <tr>
+                                        <td>
+
+                                            <a href="/scholar-publication/ag9w/147607">Enhancing Virtual Reality Education With Low-Bandwidth 360-Degree Video</a>
+
+                                            <br />
+                                                2024 20TH IEEE INTERNATIONAL COLLOQUIUM ON SIGNAL PROCESSING &amp; ITS APPLICATIONS (CSPA)<br />
+                                            <span class="badge rounded-pill  bg-info">Publication In Scopus</span> <span class="badge rounded-pill  bg-success">UTM FIRST AUTHOR</span>
+                                        </td>
+                                        <td>2024</td>
+                                    </tr>
+                                    <tr>
+                                        <td>
+
+                                            <a href="/scholar-publication/ag9w/147603">Blockchain In Malaysia: A Comprehensive Review Of Decentralized Applications And Trends From Last 1 Decade (2013-2023)</a>
+
+                                            <br />
+                                                2024 IEEE 14TH SYMPOSIUM ON COMPUTER APPLICATIONS &amp; INDUSTRIAL ELECTRONICS (ISCAIE)<br />
+                                            <span class="badge rounded-pill  bg-info">Publication In Scopus</span> <span class="badge rounded-pill  bg-success">UTM FIRST AUTHOR</span>
+                                        </td>
+                                        <td>2024</td>
+                                    </tr>
+                                    <tr>
+                                        <td>
+
+                                            <a href="/scholar-publication/ag9w/147621">Microsleep Detection Using Convolution Neural Network (Cnn) In Deep Learning (Dl) For Accident Prevention</a>
+
+                                            <br />
+                                                AIP CONFERENCE PROCEEDINGS<br />
+                                            <span class="badge rounded-pill  bg-info">Publication In Scopus</span> <span class="badge rounded-pill  bg-success">FIRST UTM CORRESPONDING AUTHOR</span>
+                                        </td>
+                                        <td>2024</td>
+                                    </tr>
+                                    <tr>
+                                        <td>
+
+                                            <a href="/scholar-publication/ag9w/147601">An In-Depth Review Of Revolutionizing Traffic Control Systems Leveraging Software-Defined Networking (Sdn)</a>
+
+                                            <br />
+                                                 2024 IEEE 14TH SYMPOSIUM ON COMPUTER APPLICATIONS &amp; INDUSTRIAL ELECTRONICS (ISCAIE)<br />
+                                            <span class="badge rounded-pill  bg-info">Publication In Scopus</span> <span class="badge rounded-pill  bg-success">UTM FIRST AUTHOR</span>
+                                        </td>
+                                        <td>2024</td>
+                                    </tr>
+                                    <tr>
+                                        <td>
+
+                                            <a href="/scholar-publication/ag9w/147606">Unleashing The Potential Of Blockchain And Internet Of Things (Iot) Convergence: A Comprehensive Study</a>
+
+                                            <br />
+                                                2024 20TH IEEE INTERNATIONAL COLLOQUIUM ON SIGNAL PROCESSING &amp; ITS APPLICATIONS (CSPA)<br />
+                                            <span class="badge rounded-pill  bg-info">Publication In Scopus</span> <span class="badge rounded-pill  bg-success">UTM FIRST AUTHOR</span>
+                                        </td>
+                                        <td>2024</td>
+                                    </tr>
+                                    <tr>
+                                        <td>
+
+                                            <a href="/scholar-publication/ag9w/147620">Challenges And Improvements In Deep Learning For Traffic Prediction</a>
+
+                                            <br />
+                                                AIP CONFERENCE PROCEEDINGS<br />
+                                            <span class="badge rounded-pill  bg-info">Publication In Scopus</span> <span class="badge rounded-pill  bg-success">CO-AUTHOR</span>
+                                        </td>
+                                        <td>2024</td>
+                                    </tr>
+                                    <tr>
+                                        <td>
+
+                                            <a href="/scholar-publication/ag9w/144413">Critical Review On Airborne Microplastics: An Indoor Air Contaminant Of Emerging Concern</a>
+
+                                            <br />
+                                                ENVIRONMENTAL RESEARCH<br />
+                                            <span class="badge rounded-pill  bg-info">Publication In Web Of Science</span> <span class="badge rounded-pill  bg-success">CO-AUTHOR</span>
+                                        </td>
+                                        <td>2024</td>
+                                    </tr>
+                                    <tr>
+                                        <td>
+
+                                            <a href="/scholar-publication/ag9w/143700">Improvement Of Vision-Based Hand Gesture Recognition System With Distance Range</a>
+
+                                            <br />
+                                                COMMUNICATION IN COMPUTER AND INFORMATION SCIENCE<br />
+                                            <span class="badge rounded-pill  bg-info">Publication In Scopus</span> <span class="badge rounded-pill  bg-success">CO-AUTHOR</span>
+                                        </td>
+                                        <td>2024</td>
+                                    </tr>
+                                    <tr>
+                                        <td>
+
+                                            <a href="/scholar-publication/ag9w/143849">Implementing Blockchain Technology For Accreditation And Degree Verification</a>
+
+                                            <br />
+                                                COMMUNICATIONS IN COMPUTER AND INFORMATION SCIENCE<br />
+                                            <span class="badge rounded-pill  bg-info">Publication In Scopus</span> <span class="badge rounded-pill  bg-success">FIRST UTM CORRESPONDING AUTHOR</span>
+                                        </td>
+                                        <td>2024</td>
+                                    </tr>
+                                    <tr>
+                                        <td>
+
+                                            <a href="/scholar-publication/ag9w/147215">Optimizing Blockchain Consensus: Incorporating Trust Value In The Practical Byzantine Fault Tolerance Algorithm With Boneh-Lynnshacham Aggregate Signature</a>
+
+                                            <br />
+                                                BAGHDAD SCIENCE JOURNAL<br />
+                                            <span class="badge rounded-pill  bg-info">Publication In Web Of Science</span> <span class="badge rounded-pill  bg-success">FIRST UTM CORRESPONDING AUTHOR</span>
+                                        </td>
+                                        <td>2024</td>
+                                    </tr>
+                                    <tr>
+                                        <td>
+
+                                            <a href="/scholar-publication/ag9w/141829">Fakulti Komputeran Jalin Kerjasama Dengan Kelab Wanita Ikon Malaysia (Kwim), Perkasa Wanita Dan Belia</a>
+
+                                            <br />
+                                                UTM NEWSHUB<br />
+                                            <span class="badge rounded-pill  bg-info">Article In Mass Media</span> <span class="badge rounded-pill  bg-success">INDIVIDUAL AUTHOR</span>
+                                        </td>
+                                        <td>2023</td>
+                                    </tr>
+                                    <tr>
+                                        <td>
+
+                                            <a href="/scholar-publication/ag9w/141703">Kepakaran Fakulti Komputeran Utm Ditagih Bantu Pembangunan Teknologi Blockchain Negeri Johor</a>
+
+                                            <br />
+                                                UTM NEWSHUB<br />
+                                            <span class="badge rounded-pill  bg-info">Article In Mass Media</span> <span class="badge rounded-pill  bg-success">INDIVIDUAL AUTHOR</span>
+                                        </td>
+                                        <td>2023</td>
+                                    </tr>
+                                    <tr>
+                                        <td>
+
+                                            <a href="/scholar-publication/ag9w/141830">Utm&#x2019;S Faculty Of Computing Spearheads Blockchain Solution To Combat Online Exploitation</a>
+
+                                            <br />
+                                                UTM NEWSHUB<br />
+                                            <span class="badge rounded-pill  bg-info">Article In Mass Media</span> <span class="badge rounded-pill  bg-success">INDIVIDUAL AUTHOR</span>
+                                        </td>
+                                        <td>2023</td>
+                                    </tr>
+                                    <tr>
+                                        <td>
+
+                                            <a href="/scholar-publication/ag9w/141103">Research On Blockchain: Privacy Protection Of Cryptography Blockchain-Based Applications</a>
+
+                                            <br />
+                                                2023 3RD INTERNATIONAL CONFERENCE ON EMERGING SMART TECHNOLOGIES AND APPLICATIONS, ESMARTA 2023<br />
+                                            <span class="badge rounded-pill  bg-info">Publication In Scopus</span> <span class="badge rounded-pill  bg-success">UTM FIRST AUTHOR</span>
+                                        </td>
+                                        <td>2023</td>
+                                    </tr>
+                                    <tr>
+                                        <td>
+
+                                            <a href="/scholar-publication/ag9w/143848">Facial Feature-Based Microsleep Detection With High Precision Using Deep Learning</a>
+
+                                            <br />
+                                                INTERNATIONAL CONFERENCE ON SOFTWARE, KNOWLEDGE INFORMATION, INDUSTRIAL MANAGEMENT AND APPLICATIONS, SKIMA<br />
+                                            <span class="badge rounded-pill  bg-info">Publication In Scopus</span> <span class="badge rounded-pill  bg-success">CO-AUTHOR</span>
+                                        </td>
+                                        <td>2023</td>
+                                    </tr>
+                                    <tr>
+                                        <td>
+
+                                            <a href="/scholar-publication/ag9w/141111">Ai Educational Mobile App Using Deep Learning Approach</a>
+
+                                            <br />
+                                                INTERNATIONAL JOURNAL ON INFORMATICS VISUALIZATION<br />
+                                            <span class="badge rounded-pill  bg-info">Publication In Scopus</span> <span class="badge rounded-pill  bg-success">UTM FIRST AUTHOR</span>
+                                        </td>
+                                        <td>2023</td>
+                                    </tr>
+                                    <tr>
+                                        <td>
+
+                                            <a href="/scholar-publication/ag9w/139285">Owntrad: A Blockchain-Based Decentralized Application For Vintage E-Commerce Marketplaces</a>
+
+                                            <br />
+                                                IEEE SYMPOSIUM ON WIRELESS TECHNOLOGY AND APPLICATIONS, ISWTA<br />
+                                            <span class="badge rounded-pill  bg-info">Publication In Scopus</span> <span class="badge rounded-pill  bg-success">UTM FIRST AUTHOR</span>
+                                        </td>
+                                        <td>2023</td>
+                                    </tr>
+                                    <tr>
+                                        <td>
+
+                                            <a href="/scholar-publication/ag9w/137809">Test Case Prioritization Based On Mccm Complexity For Event Sequence Test Cases</a>
+
+                                            <br />
+                                                AIP CONFERENCE PROCEEDINGS<br />
+                                            <span class="badge rounded-pill  bg-info">Publication In Scopus</span> <span class="badge rounded-pill  bg-success">CO-AUTHOR</span>
+                                        </td>
+                                        <td>2023</td>
+                                    </tr>
+                                    <tr>
+                                        <td>
+
+                                            <a href="/scholar-publication/ag9w/138041">Pid Controller Using Grey Wolf Optimization For Position Tracking Of A Pneumatic Actuator System</a>
+
+                                            <br />
+                                                SENSOR &amp; INSTRUMENTATION SYSTEM<br />
+                                            <span class="badge rounded-pill  bg-info">Book Chapter</span> <span class="badge rounded-pill  bg-success">CO-AUTHOR</span>
+                                        </td>
+                                        <td>2023</td>
+                                    </tr>
+                                    <tr>
+                                        <td>
+
+                                            <a href="/scholar-publication/ag9w/137637">Iot Energy Monitoring Devices Using Wemos D1 And Ct Sensor</a>
+
+                                            <br />
+                                                INTERNET OF THINGS (IOTS) AND SENSOR APPLICATION (SERIES 2)<br />
+                                            <span class="badge rounded-pill  bg-info">Book Chapter</span> <span class="badge rounded-pill  bg-success">CO-AUTHOR</span>
+                                        </td>
+                                        <td>2023</td>
+                                    </tr>
+                                    <tr>
+                                        <td>
+
+                                            <a href="/scholar-publication/ag9w/136798">An Overview Of Machine Learning Techniques In Local Path Planning For Autonomous Underwater Vehicles</a>
+
+                                            <br />
+                                                IEEE ACCESS<br />
+                                            <span class="badge rounded-pill  bg-info">Publication In Web Of Science</span> <span class="badge rounded-pill  bg-success">CO-AUTHOR</span>
+                                        </td>
+                                        <td>2023</td>
+                                    </tr>
+                                    <tr>
+                                        <td>
+
+                                            <a href="/scholar-publication/ag9w/136824">Does Human Movement-Induced Airflow Elevate Infection Risk In Burn&#xA;Patient&#x2019;S Isolation Ward? A Validated Dynamics Numerical Simulation&#xA;Approach</a>
+
+                                            <br />
+                                                ENERGY &amp; BUILDINGS<br />
+                                            <span class="badge rounded-pill  bg-info">Publication In Web Of Science</span> <span class="badge rounded-pill  bg-success">CO-AUTHOR</span>
+                                        </td>
+                                        <td>2023</td>
+                                    </tr>
+                                    <tr>
+                                        <td>
+
+                                            <a href="/scholar-publication/ag9w/137857">Ventilation Strategies For Mitigating Airborne Infection In Healthcare Facilities: A Review And Bibliometric Analysis (1993 To 2022)</a>
+
+                                            <br />
+                                                ENERGY &amp; BUILDINGS<br />
+                                            <span class="badge rounded-pill  bg-info">Publication In Web Of Science</span> <span class="badge rounded-pill  bg-success">CO-AUTHOR</span>
+                                        </td>
+                                        <td>2023</td>
+                                    </tr>
+                                    <tr>
+                                        <td>
+
+                                            <a href="/scholar-publication/ag9w/136821">Why Do Ventilation Strategies Matter In Controlling Infectious Airborne Particles? A Comprehensive Numerical Analysis In Isolation Ward</a>
+
+                                            <br />
+                                                BUILDING AND ENVIRONMENT<br />
+                                            <span class="badge rounded-pill  bg-info">Publication In Web Of Science</span> <span class="badge rounded-pill  bg-success">CO-AUTHOR</span>
+                                        </td>
+                                        <td>2023</td>
+                                    </tr>
+                                    <tr>
+                                        <td>
+
+                                            <a href="/scholar-publication/ag9w/136349">Social Engineering Attack Classifications On Social Media Using Deep Learning</a>
+
+                                            <br />
+                                                CMC-COMPUTERS MATERIALS &amp; CONTINUA<br />
+                                            <span class="badge rounded-pill  bg-info">Publication In Web Of Science</span> <span class="badge rounded-pill  bg-success">UTM FIRST AUTHOR</span>
+                                        </td>
+                                        <td>2023</td>
+                                    </tr>
+                                    <tr>
+                                        <td>
+
+                                            <a href="/scholar-publication/ag9w/137333">Dental Service System Into Blockchain Environment</a>
+
+                                            <br />
+                                                INTERNATIONAL JOURNAL OF INNOVATIVE COMPUTING<br />
+                                            <span class="badge rounded-pill  bg-info">Journal Article Non Citation-Indexed</span> <span class="badge rounded-pill  bg-success">UTM FIRST AUTHOR</span>
+                                        </td>
+                                        <td>2023</td>
+                                    </tr>
+                                    <tr>
+                                        <td>
+
+                                            <a href="/scholar-publication/ag9w/141510">Hybrid Feature Selection Based Lightweight Network Intrusion Detection System For Mqtt Protocol</a>
+
+                                            <br />
+                                                CONF ON SOFTWARE, KNOWLEDGE, INFORMATION MANAGEMENT &amp; APPLICATIONS (SKIMA2023)<br />
+                                            <span class="badge rounded-pill  bg-info">Conference Paper</span> <span class="badge rounded-pill  bg-success">CO-AUTHOR</span>
+                                        </td>
+                                        <td>2023</td>
+                                    </tr>
+                                    <tr>
+                                        <td>
+
+                                            <a href="/scholar-publication/ag9w/142325">The Development Of E-Bike Tracking System For Bike Sharing In Promoting Transport Resilience </a>
+
+                                            <br />
+                                                NEW ACADEMIA LEARNING INNOVATION 2023<br />
+                                            <span class="badge rounded-pill  bg-info"></span> <span class="badge rounded-pill  bg-success">CO-AUTHOR</span>
+                                        </td>
+                                        <td>2023</td>
+                                    </tr>
+                                    <tr>
+                                        <td>
+
+                                            <a href="/scholar-publication/ag9w/142308">The Development Of E-Bike Tracking System For Bike Sharing In Promoting Transport Resilience </a>
+
+                                            <br />
+                                                NEW ACADEMIA LEARNING INNOVATION 2023<br />
+                                            <span class="badge rounded-pill  bg-info">Proceedings</span> <span class="badge rounded-pill  bg-success">CO-AUTHOR</span>
+                                        </td>
+                                        <td>2023</td>
+                                    </tr>
+                                    <tr>
+                                        <td>
+
+                                            <a href="/scholar-publication/ag9w/128694"></a>
+
+                                            <br />
+                                                INNOVATIVE NETWORKING TECHNOLOGIES<br />
+                                            <span class="badge rounded-pill  bg-info">Original Book</span> <span class="badge rounded-pill  bg-success">EDITOR</span>
+                                        </td>
+                                        <td>2022</td>
+                                    </tr>
+                                    <tr>
+                                        <td>
+
+                                            <a href="/scholar-publication/ag9w/133235"></a>
+
+                                            <br />
+                                                SOFTWARE APPLICATIONS<br />
+                                            <span class="badge rounded-pill  bg-info">Original Book</span> <span class="badge rounded-pill  bg-success">EDITOR</span>
+                                        </td>
+                                        <td>2022</td>
+                                    </tr>
+                                    <tr>
+                                        <td>
+
+                                            <a href="/scholar-publication/ag9w/132260">Informal Cooperative Learning For&#xA;Synchronous Online Learning For&#xA;Microprocessor Course</a>
+
+                                            <br />
+                                                SYMPOSIUM ON TEACHING &amp; LEARNING PRACTICES IN ELECTRICAL ENGINEERING<br />
+                                            <span class="badge rounded-pill  bg-info">Proceedings</span> <span class="badge rounded-pill  bg-success">CO-AUTHOR</span>
+                                        </td>
+                                        <td>2022</td>
+                                    </tr>
+                                    <tr>
+                                        <td>
+
+                                            <a href="/scholar-publication/ag9w/132230">Cooperative Learning Activities Using Microsoft Teams Platform For Synchronous Online Class</a>
+
+                                            <br />
+                                                SYMPOSIUM ON TEACHING AND LEARNING PRACTICES IN ELECTRICAL ENGINEERING 2022<br />
+                                            <span class="badge rounded-pill  bg-info">Proceedings</span> <span class="badge rounded-pill  bg-success">CO-AUTHOR</span>
+                                        </td>
+                                        <td>2022</td>
+                                    </tr>
+                                    <tr>
+                                        <td>
+
+                                            <a href="/scholar-publication/ag9w/131516">Edumy: Web-Based E- Learing Platform For High School In Malaysia</a>
+
+                                            <br />
+                                                SYMPOSIUM ON TEACHING AND LEARNING PRACTICES IN ELECTRICAL ENGINEERING 2022<br />
+                                            <span class="badge rounded-pill  bg-info">Proceedings</span> <span class="badge rounded-pill  bg-success">CORRESPONDING AUTHOR</span>
+                                        </td>
+                                        <td>2022</td>
+                                    </tr>
+                                    <tr>
+                                        <td>
+
+                                            <a href="/scholar-publication/ag9w/130314">Hybrid System On Temperature And Humidity For Swallow Nest Farm Via Mobile Application In Internet Of Things</a>
+
+                                            <br />
+                                                9TH INTERNATIONAL GRADUATE CONFERENCE ON ENGINEERING, SCIENCE AND HUMANITIES (IGCESH) 2022<br />
+                                            <span class="badge rounded-pill  bg-info">Conference Paper</span> <span class="badge rounded-pill  bg-success">CORRESPONDING AUTHOR</span>
+                                        </td>
+                                        <td>2022</td>
+                                    </tr>
+                                    <tr>
+                                        <td>
+
+                                            <a href="/scholar-publication/ag9w/135350">Augmented Reality (Ar) Navigation Application With End Toend Encryption (Eee) Chat </a>
+
+                                            <br />
+                                                2022 SUSTAINABLE AND INTEGRATED ENGINEERING INTERNATIONAL CONFERENCE (SIE 2022)<br />
+                                            <span class="badge rounded-pill  bg-info">Conference Paper</span> <span class="badge rounded-pill  bg-success">CORRESPONDING AUTHOR</span>
+                                        </td>
+                                        <td>2022</td>
+                                    </tr>
+                                    <tr>
+                                        <td>
+
+                                            <a href="/scholar-publication/ag9w/135452">Development Of Face Recognition Attendance System Using Image Processing For Faculty Of Computing</a>
+
+                                            <br />
+                                                2022 SUSTAINABLE AND INTEGRATED ENGINEERING INTERNATIONAL CONFERENCE (SIE 2022)<br />
+                                            <span class="badge rounded-pill  bg-info">Conference Paper</span> <span class="badge rounded-pill  bg-success">UTM FIRST AUTHOR</span>
+                                        </td>
+                                        <td>2022</td>
+                                    </tr>
+                                    <tr>
+                                        <td>
+
+                                            <a href="/scholar-publication/ag9w/133231">Microsleep Detection Usingconvolution Neural Network (Cnn) In Deep Learning (Dl) For Accident Prevention </a>
+
+                                            <br />
+                                                INTERNATIONAL CONFERENCE ON APPLIED DATA SCIENCE &amp;COMPUTATIONAL INTELLIGENCE 2022 ADSCI 2022 <br />
+                                            <span class="badge rounded-pill  bg-info">Conference Paper</span> <span class="badge rounded-pill  bg-success">CORRESPONDING AUTHOR</span>
+                                        </td>
+                                        <td>2022</td>
+                                    </tr>
+                                    <tr>
+                                        <td>
+
+                                            <a href="/scholar-publication/ag9w/129995">360-Degree Video Bandwidth Reduction: Technique And Approaches Comprehensive Review</a>
+
+                                            <br />
+                                                APPLIED SCIENCES-BASEL<br />
+                                            <span class="badge rounded-pill  bg-info">Publication In Web Of Science</span> <span class="badge rounded-pill  bg-success">CORRESPONDING AUTHOR</span>
+                                        </td>
+                                        <td>2022</td>
+                                    </tr>
+                                    <tr>
+                                        <td>
+
+                                            <a href="/scholar-publication/ag9w/130276">Indoor Positioning System: A Review</a>
+
+                                            <br />
+                                                INTERNATIONAL JOURNAL OF ADVANCED COMPUTER SCIENCE AND APPLICATIONS (IJACSA)<br />
+                                            <span class="badge rounded-pill  bg-info">Publication In Web Of Science</span> <span class="badge rounded-pill  bg-success">UTM FIRST AUTHOR</span>
+                                        </td>
+                                        <td>2022</td>
+                                    </tr>
+                                    <tr>
+                                        <td>
+
+                                            <a href="/scholar-publication/ag9w/134361">Web-Based University Classroom Attendance System Based On Deep Learning Face Recognition</a>
+
+                                            <br />
+                                                KSII TRANSACTIONS ON INTERNET AND INFORMATION SYSTEMS<br />
+                                            <span class="badge rounded-pill  bg-info">Publication In Web Of Science</span> <span class="badge rounded-pill  bg-success">CO-AUTHOR</span>
+                                        </td>
+                                        <td>2022</td>
+                                    </tr>
+                                    <tr>
+                                        <td>
+
+                                            <a href="/scholar-publication/ag9w/128692">Internet Protocol Version 6: Comprehensive Review</a>
+
+                                            <br />
+                                                INNOVATIVE NETWORKING TECHNOLOGIES<br />
+                                            <span class="badge rounded-pill  bg-info">Book Chapter</span> <span class="badge rounded-pill  bg-success">UTM FIRST AUTHOR</span>
+                                        </td>
+                                        <td>2022</td>
+                                    </tr>
+                                    <tr>
+                                        <td>
+
+                                            <a href="/scholar-publication/ag9w/128691">Light Fidelity (Lifi) In Future Network: Pilot Study</a>
+
+                                            <br />
+                                                INNOVATIVE NETWORKING TECHNOLOGIES SERIES 1<br />
+                                            <span class="badge rounded-pill  bg-info">Book Chapter</span> <span class="badge rounded-pill  bg-success">UTM FIRST AUTHOR</span>
+                                        </td>
+                                        <td>2022</td>
+                                    </tr>
+                                    <tr>
+                                        <td>
+
+                                            <a href="/scholar-publication/ag9w/132916">Ventilation System In Operating Room Using Simulation Approach: A Mini Review</a>
+
+                                            <br />
+                                                SOFTWARE APPLICATIONS<br />
+                                            <span class="badge rounded-pill  bg-info">Book Chapter</span> <span class="badge rounded-pill  bg-success">CO-AUTHOR</span>
+                                        </td>
+                                        <td>2022</td>
+                                    </tr>
+                                    <tr>
+                                        <td>
+
+                                            <a href="/scholar-publication/ag9w/132894">Assessment Of Thermal Comfort In A Lecture Hall Using Cfd Simulation</a>
+
+                                            <br />
+                                                SOFTWARE APPLICATIONS<br />
+                                            <span class="badge rounded-pill  bg-info">Book Chapter</span> <span class="badge rounded-pill  bg-success">CO-AUTHOR</span>
+                                        </td>
+                                        <td>2022</td>
+                                    </tr>
+                                    <tr>
+                                        <td>
+
+                                            <a href="/scholar-publication/ag9w/132898">A Short Bibliometric Analysis And Review On Human&#x27;S Thermal Comfort Assessment In Healthcare Facility</a>
+
+                                            <br />
+                                                SOFTWARE APPLICATIONS<br />
+                                            <span class="badge rounded-pill  bg-info">Book Chapter</span> <span class="badge rounded-pill  bg-success">CO-AUTHOR</span>
+                                        </td>
+                                        <td>2022</td>
+                                    </tr>
+                                    <tr>
+                                        <td>
+
+                                            <a href="/scholar-publication/ag9w/132878">Biometric Authentication For Mobile&#xA;Application: The Development</a>
+
+                                            <br />
+                                                SOFTWARE APPLICATIONS<br />
+                                            <span class="badge rounded-pill  bg-info">Book Chapter</span> <span class="badge rounded-pill  bg-success">CORRESPONDING AUTHOR</span>
+                                        </td>
+                                        <td>2022</td>
+                                    </tr>
+                                    <tr>
+                                        <td>
+
+                                            <a href="/scholar-publication/ag9w/128906">Three Dimension (3d) Indoor Positioning Via Received Signal Strength Indicator In Internet Of Things</a>
+
+                                            <br />
+                                                LECTURE NOTES IN ELECTRICAL ENGINEERING 6TH INTERNATIONAL CONFERENCE ON ELECTRICAL, CONTROL AND COMPUTER ENGINEERING, INECCE 2021<br />
+                                            <span class="badge rounded-pill  bg-info">Publication In Scopus</span> <span class="badge rounded-pill  bg-success">CORRESPONDING AUTHOR</span>
+                                        </td>
+                                        <td>2022</td>
+                                    </tr>
+                                    <tr>
+                                        <td>
+
+                                            <a href="/scholar-publication/ag9w/129088">A Near Infrared Image Of Forearm Subcutaneous Vein Extraction Using U-Net</a>
+
+                                            <br />
+                                                LECTURE NOTES IN ELECTRICAL ENGINEERING<br />
+                                            <span class="badge rounded-pill  bg-info">Publication In Scopus</span> <span class="badge rounded-pill  bg-success">UTM FIRST AUTHOR</span>
+                                        </td>
+                                        <td>2022</td>
+                                    </tr>
+                                    <tr>
+                                        <td>
+
+                                            <a href="/scholar-publication/ag9w/130274">Development Of Smart Home Automation System Based On Plc</a>
+
+                                            <br />
+                                                2022 12TH IEEE SYMPOSIUM ON COMPUTER APPLICATIONS AND INDUSTRIAL ELECTRONICS, ISCAIE 2022<br />
+                                            <span class="badge rounded-pill  bg-info">Publication In Scopus</span> <span class="badge rounded-pill  bg-success">CORRESPONDING AUTHOR</span>
+                                        </td>
+                                        <td>2022</td>
+                                    </tr>
+                                    <tr>
+                                        <td>
+
+                                            <a href="/scholar-publication/ag9w/128690">Development Of 2d Indoor Monitoring And Positioning System (Imps) Using Received Signal Strength Indicator (Rssi) Assisted By Internet Of Things (Iot)</a>
+
+                                            <br />
+                                                SPRINGER NATURE : LECTURE NOTES IN ELECTRICAL ENGINEERING<br />
+                                            <span class="badge rounded-pill  bg-info">Publication In Scopus</span> <span class="badge rounded-pill  bg-success">CORRESPONDING AUTHOR</span>
+                                        </td>
+                                        <td>2022</td>
+                                    </tr>
+                                    <tr>
+                                        <td>
+
+                                            <a href="/scholar-publication/ag9w/128212">A Study Of Channel And Delay-Based Scheduling Algorithms For Live Video Streaming In The Fifth Generation Long Term Evolution-Advanced Network</a>
+
+                                            <br />
+                                                IIUM ENGINEERING JOURNAL<br />
+                                            <span class="badge rounded-pill  bg-info">Publication In Scopus</span> <span class="badge rounded-pill  bg-success">CO-AUTHOR</span>
+                                        </td>
+                                        <td>2022</td>
+                                    </tr>
+                                    <tr>
+                                        <td>
+
+                                            <a href="/scholar-publication/ag9w/134006">Indoor Location Based Tracking Using Euclidean Distance Estimation (Lts-Ed)</a>
+
+                                            <br />
+                                                INTERNATIONAL CONFERENCE ON ICT CONVERGENCE<br />
+                                            <span class="badge rounded-pill  bg-info">Publication In Scopus</span> <span class="badge rounded-pill  bg-success">CO-AUTHOR</span>
+                                        </td>
+                                        <td>2022</td>
+                                    </tr>
+                                    <tr>
+                                        <td>
+
+                                            <a href="/scholar-publication/ag9w/133233">Aquatic Life Monitoring Using Raspberry-Pi Ininternet Of Things (Iot) </a>
+
+                                            <br />
+                                                IEEE 2022 6THSYMPOSIUM ON FUTURE TELECOMMUNICATION TECHNOLOGIES (SOFTT)  <br />
+                                            <span class="badge rounded-pill  bg-info">Publication In Scopus</span> <span class="badge rounded-pill  bg-success">UTM FIRST AUTHOR</span>
+                                        </td>
+                                        <td>2022</td>
+                                    </tr>
+                                    <tr>
+                                        <td>
+
+                                            <a href="/scholar-publication/ag9w/132579">Energy Coverage Analysis Of Millimeter Wave Wireless Power Transfer</a>
+
+                                            <br />
+                                                2022 IEEE 6TH INTERNATIONAL SYMPOSIUM ON TELECOMMUNICATION TECHNOLOGIES (ISTT)<br />
+                                            <span class="badge rounded-pill  bg-info">Publication In Scopus</span> <span class="badge rounded-pill  bg-success">CO-AUTHOR</span>
+                                        </td>
+                                        <td>2022</td>
+                                    </tr>
+                                    <tr>
+                                        <td>
+
+                                            <a href="/scholar-publication/ag9w/133237">Faculty Of Computing, Utm Took Home All Of The Top Prizes Atalgorand-Reach Intervarsity Hackathon In Blockchain 2022</a>
+
+                                            <br />
+                                                NEWSHUB UTM<br />
+                                            <span class="badge rounded-pill  bg-info">Article In Mass Media</span> <span class="badge rounded-pill  bg-success">INDIVIDUAL AUTHOR</span>
+                                        </td>
+                                        <td>2022</td>
+                                    </tr>
+                                    <tr>
+                                        <td>
+
+                                            <a href="/scholar-publication/ag9w/135910">The Importance Of Blockchain Technology (In Gifs)</a>
+
+                                            <br />
+                                                UTM NEXUS<br />
+                                            <span class="badge rounded-pill  bg-info">Publication In Academic And Profesional Magazine</span> <span class="badge rounded-pill  bg-success">INDIVIDUAL AUTHOR</span>
+                                        </td>
+                                        <td>2022</td>
+                                    </tr>
+                                    <tr>
+                                        <td>
+
+                                            <a href="/scholar-publication/ag9w/126210">Implementation Of Blockchain In Dental Care&#xA;System</a>
+
+                                            <br />
+                                                PROCEEDING OF&#xA;COMMUNICATION NETWORK SYSTEM COLLOQUIUM 2021 <br />
+                                            <span class="badge rounded-pill  bg-info">Proceedings</span> <span class="badge rounded-pill  bg-success">UTM FIRST AUTHOR</span>
+                                        </td>
+                                        <td>2021</td>
+                                    </tr>
+                                    <tr>
+                                        <td>
+
+                                            <a href="/scholar-publication/ag9w/126715">Autonomous Underwater Vehicle In Internet Of Underwater Things: A Survey</a>
+
+                                            <br />
+                                                JOURNAL OF PHYSICS: CONFERENCE SERIES<br />
+                                            <span class="badge rounded-pill  bg-info">Publication In Scopus</span> <span class="badge rounded-pill  bg-success">UTM FIRST AUTHOR</span>
+                                        </td>
+                                        <td>2021</td>
+                                    </tr>
+                                    <tr>
+                                        <td>
+
+                                            <a href="/scholar-publication/ag9w/126713">Microsleep Accident Prevention For Smart Vehicle Via Image Processing Integrated With Artificial Intelligent &#xA;</a>
+
+                                            <br />
+                                                JOURNAL OF PHYSICS: CONFERENCE SERIES (JPCS)<br />
+                                            <span class="badge rounded-pill  bg-info">Publication In Scopus</span> <span class="badge rounded-pill  bg-success">CORRESPONDING AUTHOR</span>
+                                        </td>
+                                        <td>2021</td>
+                                    </tr>
+                                    <tr>
+                                        <td>
+
+                                            <a href="/scholar-publication/ag9w/126694">Mobile-Based Augmented Reality Lecturer Assistant (Marla)</a>
+
+                                            <br />
+                                                POCEEDING OF NEW ACADEMIA LEARNING INNOVATION&#xA;(NALI) 2021&#xA;EXHIBITION &amp; COMPETITION<br />
+                                            <span class="badge rounded-pill  bg-info">Proceedings</span> <span class="badge rounded-pill  bg-success">CORRESPONDING AUTHOR</span>
+                                        </td>
+                                        <td>2021</td>
+                                    </tr>
+                                    <tr>
+                                        <td>
+
+                                            <a href="/scholar-publication/ag9w/126239">Ai Advertising Display Windows Smart Mirror</a>
+
+                                            <br />
+                                                PROCEEDING OF&#xA;COMMUNICATION NETWORK SYSTEM COLLOQUIUM 2021 <br />
+                                            <span class="badge rounded-pill  bg-info">Proceedings</span> <span class="badge rounded-pill  bg-success">CO-AUTHOR</span>
+                                        </td>
+                                        <td>2021</td>
+                                    </tr>
+                                    <tr>
+                                        <td>
+
+                                            <a href="/scholar-publication/ag9w/126195">Locking System Via Deep Learning For Adult</a>
+
+                                            <br />
+                                                PROCEEDING OF&#xA;COMMUNICATION NETWORK SYSTEM COLLOQUIUM 2021 <br />
+                                            <span class="badge rounded-pill  bg-info">Proceedings</span> <span class="badge rounded-pill  bg-success">UTM FIRST AUTHOR</span>
+                                        </td>
+                                        <td>2021</td>
+                                    </tr>
+                                    <tr>
+                                        <td>
+
+                                            <a href="/scholar-publication/ag9w/126075">Indoor Navigation Via Augmented Reality Technique In Internet Of Things</a>
+
+                                            <br />
+                                                PROCEEDING OF&#xA;COMMUNICATION NETWORK SYSTEM COLLOQUIUM 2021 <br />
+                                            <span class="badge rounded-pill  bg-info">Proceedings</span> <span class="badge rounded-pill  bg-success">CORRESPONDING AUTHOR</span>
+                                        </td>
+                                        <td>2021</td>
+                                    </tr>
+                                    <tr>
+                                        <td>
+
+                                            <a href="/scholar-publication/ag9w/126222">Mobile Application For Ar Navigation</a>
+
+                                            <br />
+                                                PROCEEDING OF&#xA;COMMUNICATION NETWORK SYSTEM COLLOQUIUM 2021 <br />
+                                            <span class="badge rounded-pill  bg-info">Proceedings</span> <span class="badge rounded-pill  bg-success">UTM FIRST AUTHOR</span>
+                                        </td>
+                                        <td>2021</td>
+                                    </tr>
+                                    <tr>
+                                        <td>
+
+                                            <a href="/scholar-publication/ag9w/121141">Microsleep Accident Preventation For Smart Vehicle Via Image Processing Integrated With Artificial Intelligent</a>
+
+                                            <br />
+                                                THE 3RD INTERNATIONAL CONFERENCE ON APPLIED COMPUTING ICAC2021<br />
+                                            <span class="badge rounded-pill  bg-info">Conference Paper</span> <span class="badge rounded-pill  bg-success">UTM FIRST AUTHOR</span>
+                                        </td>
+                                        <td>2021</td>
+                                    </tr>
+                                    <tr>
+                                        <td>
+
+                                            <a href="/scholar-publication/ag9w/121144">Development Of 2d Indoor Monitoring And Positioning System (Imps) Using Received Signal Strength Indicator (Rssi) Assisted In Internet Of Things (Iot) Application</a>
+
+                                            <br />
+                                                THE 11TH INTERNATIONAL CONFERENCE ON ROBOTICS, VISION, SIGNAL PROCESSING, AND POWER APPLICATIONS<br />
+                                            <span class="badge rounded-pill  bg-info">Conference Paper</span> <span class="badge rounded-pill  bg-success">CORRESPONDING AUTHOR</span>
+                                        </td>
+                                        <td>2021</td>
+                                    </tr>
+                                    <tr>
+                                        <td>
+
+                                            <a href="/scholar-publication/ag9w/121140">Autonomous Underwater Vehicle In Internet Of Underwater Things: A Survey</a>
+
+                                            <br />
+                                                THE 3RD INTERNATIONAL CONFERENCE ON APPLIED COMPUTING (ICAC2021)<br />
+                                            <span class="badge rounded-pill  bg-info">Conference Paper</span> <span class="badge rounded-pill  bg-success">UTM FIRST AUTHOR</span>
+                                        </td>
+                                        <td>2021</td>
+                                    </tr>
+                                    <tr>
+                                        <td>
+
+                                            <a href="/scholar-publication/ag9w/124186">Three Dimension (3d) Indoor Positioning Via Received Signal Strength Indicator In Internet Of Things</a>
+
+                                            <br />
+                                                THE 6TH INTERNATIONAL CONFERENCE ON ELECTRICAL, CONTROL AND COMPUTER ENGINEERING (INECCE2021)<br />
+                                            <span class="badge rounded-pill  bg-info">Conference Paper</span> <span class="badge rounded-pill  bg-success">CORRESPONDING AUTHOR</span>
+                                        </td>
+                                        <td>2021</td>
+                                    </tr>
+                                    <tr>
+                                        <td>
+
+                                            <a href="/scholar-publication/ag9w/124187">A Near Infrared Image Of Forearm Subcutaneous Vein&#xA;Extraction Using U-Net </a>
+
+                                            <br />
+                                                THE 6TH INTERNATIONAL CONFERENCE ON ELECTRICAL, CONTROL AND COMPUTER ENGINEERING (INECCE2021)<br />
+                                            <span class="badge rounded-pill  bg-info">Conference Paper</span> <span class="badge rounded-pill  bg-success">UTM FIRST AUTHOR</span>
+                                        </td>
+                                        <td>2021</td>
+                                    </tr>
+                                    <tr>
+                                        <td>
+
+                                            <a href="/scholar-publication/ag9w/124188">Development Of A Near-Infrared (Nir) Forearm Subcutaneous&#xA;Vein Extraction Using Deep Residual U-Net</a>
+
+                                            <br />
+                                                INTERNATIONAL CONFERENCE ON BIOMEDICAL ENGINEERING (ICOBE 2021)<br />
+                                            <span class="badge rounded-pill  bg-info">Conference Paper</span> <span class="badge rounded-pill  bg-success">UTM FIRST AUTHOR</span>
+                                        </td>
+                                        <td>2021</td>
+                                    </tr>
+                                    <tr>
+                                        <td>
+
+                                            <a href="/scholar-publication/ag9w/125089">Application Of Electromagnetic Sensor In Electro-Pneumatic Actuator&#xA;Displacement Control Under Variable Loads Conditions:&#xA;Experimental Analysis</a>
+
+                                            <br />
+                                                JOURNAL OF TOMOGRAPHY SYSTEM &amp; SENSORS APPLICATION<br />
+                                            <span class="badge rounded-pill  bg-info">Journal Article Non Citation-Indexed</span> <span class="badge rounded-pill  bg-success">CO-AUTHOR</span>
+                                        </td>
+                                        <td>2021</td>
+                                    </tr>
+                                    <tr>
+                                        <td>
+
+                                            <a href="/scholar-publication/ag9w/124841">A Comparative  Study Of  Unimodal  And Multimodal Interactions  For  Digital  Tv Remote  Control  Mobile Application  Among Elderly </a>
+
+                                            <br />
+                                                INTERNATIONAL  JOURNAL  OF  ADVANCED  COMPUTER SCIENCE  AND APPLICATIONS<br />
+                                            <span class="badge rounded-pill  bg-info">Publication In Web Of Science</span> <span class="badge rounded-pill  bg-success">CO-AUTHOR</span>
+                                        </td>
+                                        <td>2021</td>
+                                    </tr>
+                                    <tr>
+                                        <td>
+
+                                            <a href="/scholar-publication/ag9w/126692">Comprehensive Overview On Internet Of Underwater Things</a>
+
+                                            <br />
+                                                INTERNET OF THINGS (IOTS) AND SENSOR APPLICATIONS<br />
+                                            <span class="badge rounded-pill  bg-info">Book Chapter</span> <span class="badge rounded-pill  bg-success">INDIVIDUAL AUTHOR</span>
+                                        </td>
+                                        <td>2021</td>
+                                    </tr>
+                                    <tr>
+                                        <td>
+
+                                            <a href="/scholar-publication/ag9w/129032">Empirical Modelling Of Pneumatic Actuator With Disturbance</a>
+
+                                            <br />
+                                                SENSOR &amp; INSTRUMENTATION SYSTEM<br />
+                                            <span class="badge rounded-pill  bg-info">Book Chapter</span> <span class="badge rounded-pill  bg-success">CO-AUTHOR</span>
+                                        </td>
+                                        <td>2021</td>
+                                    </tr>
+                                    <tr>
+                                        <td>
+
+                                            <a href="/scholar-publication/ag9w/122746">Mitigating Traffic Congestion At Road Junction Using Fuzzy Logic</a>
+
+                                            <br />
+                                                INTERNATIONAL JOURNAL OF ADVANCED COMPUTER SCIENCE AND APPLICATIONS<br />
+                                            <span class="badge rounded-pill  bg-info">Publication In Scopus</span> <span class="badge rounded-pill  bg-success">CORRESPONDING AUTHOR</span>
+                                        </td>
+                                        <td>2021</td>
+                                    </tr>
+                                    <tr>
+                                        <td>
+
+                                            <a href="/scholar-publication/ag9w/124944">Intelligent Locking System Using Deep Learning For Autonomous Vehicle In Internet Of Things</a>
+
+                                            <br />
+                                                INTERNATIONAL JOURNAL OF ADVANCED COMPUTER SCIENCE AND APPLICATIONS&#xA;<br />
+                                            <span class="badge rounded-pill  bg-info">Publication In Scopus</span> <span class="badge rounded-pill  bg-success">CORRESPONDING AUTHOR</span>
+                                        </td>
+                                        <td>2021</td>
+                                    </tr>
+                                    <tr>
+                                        <td>
+
+                                            <a href="/scholar-publication/ag9w/116070">A Review Of Machine Learning Path Planning Algorithms For Autonomous Underwater Vehicles (Auv) In Internet Of Underwater Things (Iout)</a>
+
+                                            <br />
+                                                THE 12TH INTERNATIONAL CONFERENCE ON INTERNET (ICONI 2020)<br />
+                                            <span class="badge rounded-pill  bg-info">Conference Paper</span> <span class="badge rounded-pill  bg-success">UTM FIRST AUTHOR</span>
+                                        </td>
+                                        <td>2020</td>
+                                    </tr>
+                                    <tr>
+                                        <td>
+
+                                            <a href="/scholar-publication/ag9w/116066">A Study On Autonomous Underwater Vehicle For Internet Of Underwater Things (Iout) Application</a>
+
+                                            <br />
+                                                PROCEEDINGS OF COMMUNICATION NETWORK SYSTEM COLLOQUIUM 2020 SERIES 1<br />
+                                            <span class="badge rounded-pill  bg-info">Proceedings</span> <span class="badge rounded-pill  bg-success">UTM FIRST AUTHOR</span>
+                                        </td>
+                                        <td>2020</td>
+                                    </tr>
+                            </tbody>
+                        </table>
+                    </div>
+                    </p>
+                </div>
+                <div class="tab-pane p-3" id="ip_tab" role="tabpanel">
+                    <p class="mb-0">
+                    <p class="text-muted">
+                        Legend :
+                        <span class="badge rounded-pill  bg-info">IP CATEGORY </span>
+                        <span class="badge rounded-pill  bg-warning">IP LEVEL </span>
+
+                    </p>
+                    <div class="table-responsive">
+                        <table id="IPListTablePersonalDatatable" class="table mb-0 dt-responsive nowrap" style="border-collapse: collapse; border-spacing: 0; width: 100%;">
+                            <thead>
+                                <tr>
+                                    <th>Intellectual Property Name</th>
+                                    <th>Grant Register No.</th>
+                                    <th>IP Level</th>
+                                    <th>IP Category</th>
+                                </tr>
+                            </thead>
+                            <tbody>
+                                    <tr>
+                                        <td><a href="/intelectual-property/ag9w/vBkb"> MICROBIAL CONCENTRATION QUANTIFICATION PROCEDURE FOR PRE- AND POST-SURGERY IN ISO CLASS 7 OPERATING ROOMS: A SYSTEMATIC APPROACH </a></td>
+                                        <td></td>
+                                        <td><span class="badge rounded-pill  bg-warning">NATIONAL</span></td>
+                                        <td><span class="badge rounded-pill  bg-info">COPYRIGHT</span></td>
+                                    </tr>
+                                    <tr>
+                                        <td><a href="/intelectual-property/ag9w/XKA3"> APLIKASI MUDAH-ALIH KOMUNITIKU - MODUL ADUAN DAN PERMOHONAN BANTUAN</a></td>
+                                        <td></td>
+                                        <td><span class="badge rounded-pill  bg-warning">NATIONAL</span></td>
+                                        <td><span class="badge rounded-pill  bg-info">COPYRIGHT</span></td>
+                                    </tr>
+                                    <tr>
+                                        <td><a href="/intelectual-property/ag9w/Yb49"> A SYSTEMATIC PROCEDURE TO INTEGRATE REAL-TIME AIRBORNE PARTICULATE MATTER MONITORING SYSTEM USING A LOW-COST IOT APPROACH</a></td>
+                                        <td></td>
+                                        <td><span class="badge rounded-pill  bg-warning">NATIONAL</span></td>
+                                        <td><span class="badge rounded-pill  bg-info">COPYRIGHT</span></td>
+                                    </tr>
+                                    <tr>
+                                        <td><a href="/intelectual-property/ag9w/95ER"> OWNERSHIP TRANSITION DECENTRALIZE APPLICATION (OWNTRAD)</a></td>
+                                        <td></td>
+                                        <td><span class="badge rounded-pill  bg-warning">NATIONAL</span></td>
+                                        <td><span class="badge rounded-pill  bg-info">COPYRIGHT</span></td>
+                                    </tr>
+                                    <tr>
+                                        <td><a href="/intelectual-property/ag9w/8gjo"> DATA SCIENCE TOOLS FOR DATA PREPARATION</a></td>
+                                        <td></td>
+                                        <td><span class="badge rounded-pill  bg-warning">NATIONAL</span></td>
+                                        <td><span class="badge rounded-pill  bg-info">COPYRIGHT</span></td>
+                                    </tr>
+                                    <tr>
+                                        <td><a href="/intelectual-property/ag9w/Wang"> UTM NEWS MOBILE APPLICATION</a></td>
+                                        <td></td>
+                                        <td><span class="badge rounded-pill  bg-warning">NATIONAL</span></td>
+                                        <td><span class="badge rounded-pill  bg-info">COPYRIGHT</span></td>
+                                    </tr>
+                                    <tr>
+                                        <td><a href="/intelectual-property/ag9w/n6wW"> INTEGRATING LOW-COST IOT SENSORS IN BOTANICAL BIOFILTER SYSTEM FOR REAL-TIME INDOOR AIR QUALITY MONITORING </a></td>
+                                        <td></td>
+                                        <td><span class="badge rounded-pill  bg-warning">NATIONAL</span></td>
+                                        <td><span class="badge rounded-pill  bg-info">COPYRIGHT</span></td>
+                                    </tr>
+                                    <tr>
+                                        <td><a href="/intelectual-property/ag9w/jqMJ"> A SYSTEMATIC METHOD FOR VALIDATING AIRFLOW AND PARTICLE DISPERSION IN ISO CLASS 5 PATIENT WARD</a></td>
+                                        <td></td>
+                                        <td><span class="badge rounded-pill  bg-warning">NATIONAL</span></td>
+                                        <td><span class="badge rounded-pill  bg-info">COPYRIGHT</span></td>
+                                    </tr>
+                                    <tr>
+                                        <td><a href="/intelectual-property/ag9w/QApm"> MOBILE-BASED AUGMENTED REALITY LECTURER ASSISTANT (MARLA)</a></td>
+                                        <td></td>
+                                        <td><span class="badge rounded-pill  bg-warning">NATIONAL</span></td>
+                                        <td><span class="badge rounded-pill  bg-info">COPYRIGHT</span></td>
+                                    </tr>
+                            </tbody>
+                        </table>
+                    </div>
+                    </p>
+                </div>
+                <div class="tab-pane p-3" id="supervision_tab" role="tabpanel">
+                    <p class="mb-0">
+                    <p class="text-muted">
+                        Legend :
+                        <span class="badge rounded-pill  bg-info">SESSION </span>
+                        <span class="badge rounded-pill  bg-success">LEVEL OF STUDY</span>
+                        <span class="badge rounded-pill  bg-warning">STATUS </span>
+                        <span class="badge rounded-pill  bg-danger">SUPERVISION LEVEL </span>
+                    </p>
+                    <div class="table-responsive">
+                        <table id="supervisionListTablePersonalDatatable" class="table table-bordered dt-responsive nowrap" style="border-collapse: collapse; border-spacing: 0; width: 100%;">
+                            <thead>
+                                <tr>
+                                    <th>Supervision List</th>
+                                </tr>
+                            </thead>
+                            <tbody>
+                                    <tr>
+                                        <td>
+                                            <strong>SITI ZALEHA BINTI HARUN</strong><br />
+                                                INNOVATIVE AI-BASED MICROSLEEP DETECTION FOR AUTOMOBILE SAFETY: A NON-INTRUSIVE MULTIMODAL APPROACH<br />
+                                            <span class="badge rounded-pill  bg-success">PHD</span>
+                                            <span class="badge rounded-pill  bg-warning">ON GOING</span>
+                                            <span class="badge rounded-pill  bg-danger">CO-SUPERVISOR</span>
+                                        </td>
+                                    </tr>
+                                    <tr>
+                                        <td>
+                                            <strong>KHAIRUNNISA BINTI ABDUL KADIR</strong><br />
+                                                ENHANCING 360-DEGREE VIDEO STREAMING WITH ENCODE TRANSFORMATION FILTERING (ETF) FOR BANDWIDTH REDUCTION&amp;NBSP;&#xD;&#xA;&amp;NBSP;<br />
+                                            <span class="badge rounded-pill  bg-success">PHD</span>
+                                            <span class="badge rounded-pill  bg-warning">ON GOING</span>
+                                            <span class="badge rounded-pill  bg-danger">SUPERVISOR</span>
+                                        </td>
+                                    </tr>
+                                    <tr>
+                                        <td>
+                                            <strong>DARMAWAN SATYANANDA</strong><br />
+                                                REINFORCEMENT LEARNING FOR HANDLING CONGESTION FACTORS IN THE DISTRIBUTION PROCESS OF VEHICLE ROUTING PROBLEM<br />
+                                            <span class="badge rounded-pill  bg-success">PHD</span>
+                                            <span class="badge rounded-pill  bg-warning">ON GOING</span>
+                                            <span class="badge rounded-pill  bg-danger">CO-SUPERVISOR</span>
+                                        </td>
+                                    </tr>
+                                    <tr>
+                                        <td>
+                                            <strong>ALANAZI, ALI MLASH M</strong><br />
+                                                UTILIZING VISION TRANSFORMERS (VIT) TO ELEVATE HYPERSPECTRAL IMAGING (HSI) CLASSIFICATION IN PRECISION AGRICULTURE&#xD;&#xA;&amp;NBSP;<br />
+                                            <span class="badge rounded-pill  bg-success">PHD</span>
+                                            <span class="badge rounded-pill  bg-warning">ON GOING</span>
+                                            <span class="badge rounded-pill  bg-danger">SUPERVISOR</span>
+                                        </td>
+                                    </tr>
+                                    <tr>
+                                        <td>
+                                            <strong>JUNIARDI NUR FADILA</strong><br />
+                                                LEVERAGING SOFTWARE-DEFINED NETWORKING TECHNOLOGIES FOR  EFFICIENT ROAD TRAFFIC CONTROL SYSTEM<br />
+                                            <span class="badge rounded-pill  bg-success">PHD</span>
+                                            <span class="badge rounded-pill  bg-warning">ON GOING</span>
+                                            <span class="badge rounded-pill  bg-danger">SUPERVISOR</span>
+                                        </td>
+                                    </tr>
+                                    <tr>
+                                        <td>
+                                            <strong>MOHAMMED KHALID SULAIMAN AL MAAWALI</strong><br />
+                                                BLOCKCHAIN SCALABILITY <br />
+                                            <span class="badge rounded-pill  bg-success">PHD</span>
+                                            <span class="badge rounded-pill  bg-warning">ON GOING</span>
+                                            <span class="badge rounded-pill  bg-danger">SUPERVISOR</span>
+                                        </td>
+                                    </tr>
+                                    <tr>
+                                        <td>
+                                            <strong>ISHARA BARHOSON GALADIMA</strong><br />
+                                                ENHANCED CYBERSECURITY INSIDER THREAT DETECTION MODEL USING ENSEMBLE DEEP LEARNING TECHNIQUES<br />
+                                            <span class="badge rounded-pill  bg-success">PHD</span>
+                                            <span class="badge rounded-pill  bg-warning">ON GOING</span>
+                                            <span class="badge rounded-pill  bg-danger">CO-SUPERVISOR</span>
+                                        </td>
+                                    </tr>
+                                    <tr>
+                                        <td>
+                                            <strong>BRANDON LIEW YI QUAN</strong><br />
+                                                ENHANCING  SCALABILITY IN PRIVATE ETHEREUM BLOCKCHAIN NETWORKS WITH TAILORED SHARDING AND  DYNAMIC CONSENSUS ALGORITHM&#xD;&#xA;&amp;NBSP;<br />
+                                            <span class="badge rounded-pill  bg-success">PHD</span>
+                                            <span class="badge rounded-pill  bg-warning">ON GOING</span>
+                                            <span class="badge rounded-pill  bg-danger">SUPERVISOR</span>
+                                        </td>
+                                    </tr>
+                                    <tr>
+                                        <td>
+                                            <strong>ZHANG DAYONG</strong><br />
+                                                ENHANCED SCALABILITY OF PRACTICAL BYZANTINE FAULT TOLERANCE WITH THE NODE TRUST MODEL AND CRYPTOGRAPHIC INNOVATIONS<br />
+                                            <span class="badge rounded-pill  bg-success">PHD</span>
+                                            <span class="badge rounded-pill  bg-warning">ON GOING</span>
+                                            <span class="badge rounded-pill  bg-danger">SUPERVISOR</span>
+                                        </td>
+                                    </tr>
+                                    <tr>
+                                        <td>
+                                            <strong>CHINONSO OKEREKE</strong><br />
+                                                AUTONOMOUS UNDERWATER VEHICLE (AUV) PATH PLANNING USING AN IMPROVED SPIKING NEURAL NETWORK&amp;NBSP;&#xD;&#xA;&amp;NBSP;<br />
+                                            <span class="badge rounded-pill  bg-success">PHD</span>
+                                            <span class="badge rounded-pill  bg-warning">ON GOING</span>
+                                            <span class="badge rounded-pill  bg-danger">CO-SUPERVISOR</span>
+                                        </td>
+                                    </tr>
+                                    <tr>
+                                        <td>
+                                            <strong>SITI NUR HAYATI BINTI HAMSAN</strong><br />
+                                                WEB-BASED SYSTEM FOR THE DESIGN OF COMMERCIAL EQUINE CENTER IN MALAYSIA<br />
+                                            <span class="badge rounded-pill  bg-success">MASTER</span>
+                                            <span class="badge rounded-pill  bg-warning">GRADUATED</span>
+                                            <span class="badge rounded-pill  bg-danger">CO-SUPERVISOR</span>
+                                                <span class="badge rounded-pill bg-info">2023</span>
+                                        </td>
+                                    </tr>
+                                    <tr>
+                                        <td>
+                                            <strong>NURUL SYAZWANI BINTI CHE JAILANI</strong><br />
+                                                ACCURACY ENHANCEMENT ON INDOOR NAVIGATION SYSTEM VIA RECEIVED SIGNAL STRENGTH INDICATOR WITH INTERNET OF THINGS&#xD;&#xA;&#xC2;&#xA0;<br />
+                                            <span class="badge rounded-pill  bg-success">MASTER</span>
+                                            <span class="badge rounded-pill  bg-warning">ON GOING</span>
+                                            <span class="badge rounded-pill  bg-danger">SUPERVISOR</span>
+                                        </td>
+                                    </tr>
+                                    <tr>
+                                        <td>
+                                            <strong>MUNIAMMAL A/P GUNASEKARAN</strong><br />
+                                                <br />
+                                            <span class="badge rounded-pill  bg-success">MASTER</span>
+                                            <span class="badge rounded-pill  bg-warning">ON GOING</span>
+                                            <span class="badge rounded-pill  bg-danger">CO-SUPERVISOR</span>
+                                        </td>
+                                    </tr>
+                            </tbody>
+                        </table>
+                    </div>
+                </div>
+            </div>
+
+        </div>
+    </div>
+</div>
+
+<div class="modal fade" tabindex="-1" role="dialog" id="shareModalBox" aria-labelledby="mySmallModalLabel" aria-hidden="true">
+    <div class="modal-dialog modal-dialog-centered">
+        <div class="modal-content">
+            <div class="modal-header">
+                <h5 class="modal-title mt-0">Share This</h5>
+            </div>
+            <div class="modal-body">
+                <div class="icon-container1 d-flex">
+                    <div class="smd" id="share-tw" data-sharer="twitter" data-title="UTM Scholar : NUR HALIZA BINTI ABDUL WAHAB" data-hashtags="UTMNexus" data-url="https://utmscholar.utm.my/Scholar/ScholarInfoDetails/ag9w">
+                        <i class=" img-thumbnail fab fa-twitter fa-2x" style="color:#4c6ef5;background-color: aliceblue"></i>
+                    </div>
+                    <div class="smd" id="share-fb" data-sharer="facebook" data-title="UTM Scholar : NUR HALIZA BINTI ABDUL WAHAB" data-hashtag="UTMNexus" data-url="https://utmscholar.utm.my/Scholar/ScholarInfoDetails/ag9w">
+                        <i class="img-thumbnail fab fa-facebook fa-2x" style="color: #3b5998;background-color: #eceff5;"></i>
+                    </div>
+                    <div class="smd" id="share-li" data-sharer="linkedin" data-title="UTM Scholar : NUR HALIZA BINTI ABDUL WAHAB" data-url="https://utmscholar.utm.my/Scholar/ScholarInfoDetails/ag9w">
+                        <i class="img-thumbnail fab fa-linkedin fa-2x" style="color: #25D366;background-color: #cef5dc;"></i>
+                    </div>
+                    <div class="smd" id="share-wa" data-sharer="whatsapp" data-title="UTM Scholar : NUR HALIZA BINTI ABDUL WAHAB" data-url="https://utmscholar.utm.my/Scholar/ScholarInfoDetails/ag9w">
+                        <i class="img-thumbnail fab fa-whatsapp fa-2x" style="color: #4c6ef5;background-color: aliceblue"></i>
+                    </div>
+                </div>
+            </div>
+            <div class="modal-footer">
+                <div class="field d-flex align-items-center justify-content-between">
+                    <span class="fas fa-link text-center"></span>
+                    <input type="url" class="col-10 ur" value="https://utmscholar.utm.my/Scholar/ScholarInfoDetails/ag9w"> <button><i class="far fa-clone"></i></button>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+
+
+                </div>
+            </div>
+            <footer class="footer">
+            <div class="container-fluid">
+                <div class="row">
+                    <div class="col-sm-12">
+                        © 2022 <span class="d-none d-sm-inline-block"> - Crafted with <i class="mdi mdi-heart text-danger"></i> by UTM NEXUS.</span>
+                    </div>
+                </div>
+            </div>
+        </footer>
+        </div>
+    </div>
+
+    <script src="/assets/libs/jquery/jquery.min.js"></script>
+    <script src="/assets/libs/bootstrap/js/bootstrap.bundle.min.js"></script>
+    <script src="/assets/libs/metismenu/metisMenu.min.js"></script>
+    <script src="/assets/libs/simplebar/simplebar.min.js"></script>
+    <script src="/assets/libs/node-waves/waves.min.js"></script>
+    <script src="/assets/libs/jquery-sparkline/jquery.sparkline.min.js"></script>
+    <script src="/assets/libs/morris.js/morris.min.js"></script>
+    <script src="/assets/libs/raphael/raphael.min.js"></script>
+    <script src="/assets/libs/datatables.net/js/jquery.dataTables.min.js"></script>
+    <script src="/assets/libs/datatables.net-bs4/js/dataTables.bootstrap4.min.js"></script>
+    <script src="/assets/libs/parsleyjs/parsley.min.js"></script>
+    <script src="/assets/libs/sharer.js/sharer.min.js"></script>   
+    <script src="/assets/js/app.js"></script>
+        <script>
+            
+            var names = document.getElementById("keyword").textContent;
+            var nameArr = names.split(/[,;]/);
+            var a = [];
+            nameArr.forEach(function (kword, x) {
+                a.push("<span class='badge rounded-pill bg-warning'>" + kword + "</span>");
+            });
+
+            var b = a.toString();
+            $("#keyword").replaceWith("<p class='text-muted font-small-2' id='keyword'>" + b + "</p>");
+
+            $(document).ready(function () {
+                    $('#more').attr('hidden', false);
+                    $('#more_sect').attr('hidden', false);
+                    $('#less_sect').attr('hidden', true);
+                });
+            
+                $("#more").click(function () {
+                    $('#more').attr('hidden', true);
+                    $('#less').attr('hidden', false);
+                    $('#brief').attr('hidden', false);
+                    $('#more_sect').attr('hidden', true);
+                    $('#less_sect').attr('hidden', false);
+                });
+                $("#less").click(function () {
+                    $('#more').attr('hidden', false);
+                    $('#less').attr('hidden', true);
+                    $('#brief').attr('hidden', true);
+                    $('#more_sect').attr('hidden', false);
+                    $('#less_sect').attr('hidden', true);
+                });
+                $("#less_1").click(function () {
+                    $('#more').attr('hidden', false);
+                    $('#less').attr('hidden', true);
+                    $('#brief').attr('hidden', true);
+                    $('#more_sect').attr('hidden', false);
+                    $('#less_sect').attr('hidden', true);
+                });
+            </script>
+    <!-- Google tag (gtag.js) -->
+    <script async src="https://www.googletagmanager.com/gtag/js?id=G-B5MYS061R0"></script>
+    <script>
+        window.dataLayer = window.dataLayer || [];
+        function gtag() { dataLayer.push(arguments); }
+        gtag('js', new Date());
+
+        gtag('config', 'G-B5MYS061R0');
+    </script>
+    
+    <script>
+        var no_pekerja = 'ag9w';
+        var scopus_id = '26634532400';
+        var nama_pekerja = 'NUR HALIZA BINTI ABDUL WAHAB';
+        var no_pkrj = '15753';
+
+
+        $.ajax({
+            type: "POST",
+            url: '/Scholar/GrantScholarPersonalResult?id=' + no_pekerja,
+        }).done(function (data) {
+            var newArrayGrant = [];
+            data.data.forEach(function (elm, i) {
+                $newObject = {
+                    label: data.data[i].TYPE_GRANTS,
+                    value: data.data[i].TOTAL_GRANTS
+                }
+                newArrayGrant.push($newObject);
+            });
+
+            var Grant_Chart = Morris.Donut({
+                element: 'grant_chart_personal',
+                data: newArrayGrant,
+                resize: true,
+                colors: ['#193C77', '#39FF33', '#197754', '#541977', '#1FE874', '#3d90bf', '#bf783d', '#1ab394', '#ed0c0c', '#FF5733', '#FFBD33']
+            });
+
+            Grant_Chart.options.data.forEach(function (label, i) {
+                var legendItem = $('<span></span>').text(label['label']).prepend('<br><span>&nbsp;</span>');
+                legendItem.find('span')
+                    .css('backgroundColor', Grant_Chart.options.colors[i])
+                    .css('width', '50px')
+                    .css('display', 'inline-block')
+                    .css('margin', '5px');
+                $('#legendGrantMorris').append(legendItem)
+            });
+
+            var totalx = 0;
+            for (var i = 0; i < data.data.length; i++) {
+                totalx += data.data[i].TOTAL_GRANTS << 0;
+            }
+            $("#TotalGrantCount").append(totalx);
+
+
+        }).fail(function () { });
+
+        $.ajax({
+            type: "POST",
+            url: '/Scholar/PublicationScholarPersonResult?id=' + no_pekerja,
+        }).done(function (data) {
+            var newArrayPublication = [];
+            data.data.forEach(function (elm, i) {
+                $newObject = {
+                    label: data.data[i].TYPE_PUBLICATION,
+                    value: data.data[i].TOTAL_PUBLICATION
+                }
+
+                newArrayPublication.push($newObject);
+            })
+            var Publication_Chart = Morris.Donut({
+                element: 'publication_chart_personal',
+                data: newArrayPublication,
+                resize: true,
+                colors: ['#3d90bf', '#bf783d', '#1ab394', '#ed0c0c', '#FF5733', '#FFBD33', '#193C77', '#39FF33', '#197754', '#541977', '#1FE874']
+            });
+
+            Publication_Chart.options.data.forEach(function (label, i) {
+                var legendItem = $('<span></span>').text(label['label']).prepend('<br><span>&nbsp;</span>');
+                legendItem.find('span')
+                    .css('backgroundColor', Publication_Chart.options.colors[i])
+                    .css('width', '20px')
+                    .css('display', 'inline-block')
+                    .css('margin', '5px');
+                $('#legendPublicationMorris').append(legendItem)
+            });
+
+            var totaly = 0;
+            for (var i = 0; i < data.data.length; i++) {
+                totaly += data.data[i].TOTAL_PUBLICATION << 0;
+            }
+            $("#TotalPublicationCount").append(totaly);
+
+        }).fail(function () {
+
+        });
+
+        $.ajax({
+            type: "POST",
+            url: '/Scholar/SupervisionScholarPersonResult?id=' + no_pekerja,
+        }).done(function (data) {
+
+            var newArraySupervision = [];
+            data.data.forEach(function (elm, i) {
+                $newObject = {
+                    label: data.data[i].LEVEL_STUDY,
+                    value: data.data[i].TOTAL_STUDENTS
+                }
+
+                newArraySupervision.push($newObject);
+            });
+
+            var Supervision_Chart = Morris.Donut({
+                element: 'supervision_chart_personal',
+                data: newArraySupervision,
+                resize: true,
+                colors: ['#3d90bf', '#bf783d', '#1ab394', '#ed0c0c', '#FF5733', '#FFBD33', '#193C77', '#39FF33', '#197754', '#541977', '#1FE874']
+            });
+
+            Supervision_Chart.options.data.forEach(function (label, i) {
+                var legendItem = $('<span></span>').text(label['label']).prepend('<br><span>&nbsp;</span>');
+                legendItem.find('span')
+                    .css('backgroundColor', Supervision_Chart.options.colors[i])
+                    .css('width', '20px')
+                    .css('display', 'inline-block')
+                    .css('margin', '5px');
+                $('#legendSupervisionMorris').append(legendItem)
+            });
+
+            var totalz = 0;
+            for (var i = 0; i < data.data.length; i++) {
+                totalz += data.data[i].TOTAL_STUDENTS << 0;
+            }
+            $("#TotalSupervisionCount_chart").append(totalz);
+            $("#TotalSupervisionCount").append(totalz);
+
+
+        }).fail(function () {
+
+        });
+        /*---- H Index for Scopus API -----------*/
+        if (scopus_id == "0") {
+            var hIndexVal = "0";
+            var CountIndex = "0";
+
+            $("#hIndexID").append(hIndexVal);
+            $("#CountPublicIndexID").append(CountIndex);
+        }
+        else {
+            $.ajax({
+                type: "POST",
+                url: "/Scholar/GetCitationHIndex?id=" + scopus_id,
+                datatype: "json",
+                success: function (data) {
+                    console.log(data);
+                    var test = jQuery.parseJSON(data.response);
+                    $("#hIndexID").append(test["author-retrieval-response"]["0"]["h-index"]);
+                    $("#CountPublicIndexID").append(test["author-retrieval-response"]["0"]["coredata"]["citation-count"]);
+                },
+                error: function (data) {
+                    console.log('An error occurred.');
+                },
+            });
+        }
+
+        /*---- datatable -----------*/
+
+        $(document).ready(function () {
+            GrantDatatable = $('#grantListTablePersonalDatatable').DataTable({
+                processing: true,
+                searching: true,
+                sorting: false,
+                paging: true,
+                pageLength: 15,
+                lengthChange: false,
+                info: true,
+                responsive: true
+            });
+
+            PublicationDatatable = $('#publicationListTablePersonalDatatable').DataTable({
+                processing: true,
+                searching: true,
+                sorting: false,
+                paging: true,
+                pageLength: 15,
+                lengthChange: false,
+                info: true,
+                responsive: true
+            });
+
+            SupervisionDatatable = $('#supervisionListTablePersonalDatatable').DataTable({
+                processing: true,
+                searching: true,
+                sorting: false,
+                paging: true,
+                pageLength: 15,
+                lengthChange: false,
+                info: true,
+                responsive: true
+            });
+
+            IPDatatable = $('#IPListTablePersonalDatatable').DataTable({
+                processing: true,
+                searching: true,
+                sorting: false,
+                paging: true,
+                pageLength: 15,
+                lengthChange: false,
+                info: true,
+                responsive: true
+            });
+
+
+        });
+
+
+        /*------- Share JS components -----------*/
+        document.addEventListener('DOMContentLoaded', function (e) {
+            let field = document.querySelector('.field');
+            let input = document.querySelector('input');
+            let copyBtn = document.querySelector('.field button');
+
+            copyBtn.onclick = () => {
+                input.select();
+                if (document.execCommand("copy")) {
+                    field.classList.add('active');
+                    copyBtn.innerText = 'Copied';
+                    setTimeout(() => {
+                        field.classList.remove('active');
+                        copyBtn.innerText = 'Copy';
+                    }, 3500)
+                }
+            }
+        });
+
+    </script>
+
+
+</body>
+
+</html>

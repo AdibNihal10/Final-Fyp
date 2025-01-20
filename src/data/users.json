@@ -1,0 +1,7 @@
+{
+  "email": "example@gmail.com",
+  "name": "Research Officer",
+  "password": "admin",
+
+  "isAdmin": true
+}

@@ -1,0 +1,66 @@
+[
+  {
+    "No": 1,
+    "Title": "2024 International Conference on Smart City and Information System (ICSCIS 2024)",
+    "Date": "17-19 May 2024",
+    "Year": 2024,
+    "Venue": "Kuala Lumpur",
+    "Note": "Conference"
+  },
+  {
+    "No": 2,
+    "Title": "17th Postgraduate Annual Research Seminar 2024 (PARS2024)",
+    "Date": "25-26 June 2024",
+    "Year": 2024,
+    "Venue": "Faculty of Computing, Johor Bahru",
+    "Note": "Seminar"
+  },
+  {
+    "No": 3,
+    "Title": "FC Research and Innovation X Meet & Greet with Industries 2024",
+    "Date": "27 June 2024",
+    "Year": 2024,
+    "Venue": "Faculty of Computing, Johor Bahru",
+    "Note": "Research Day"
+  },
+  {
+    "No": 4,
+    "Title": "3rd International Conference on Virtual and Mixed Reality 2023",
+    "Date": "25-26 November 2024",
+    "Year": 2024,
+    "Venue": "Hybrid/ Faculty of Computing, Johor Bahru",
+    "Note": "Conference"
+  },
+  {
+    "No": 5,
+    "Title": "International Conference on Data Science and Its Applications (ICoDSA)",
+    "Date": "5-6 July 2024",
+    "Year": 2024,
+    "Venue": "Telkom University, Indonesia",
+    "Note": "Conference"
+  },
+  {
+    "No": 6,
+    "Title": "The 4th International Conference on Applied Computing 2023 (ICAC2023)",
+    "Date": "20-21 August 2023",
+    "Year": 2023,
+    "Venue": "Sunway Big Box Hotel, Johor Bahru",
+    "Note": "Conference"
+  },
+  {
+    "No": 7,
+    "Title": "6th Postgraduate Annual Research Seminars 2023 (PARS 2023)",
+    "Date": "21-22 August 2023",
+    "Year": 2023,
+    "Venue": "Faculty of Computing, Johor Bahru",
+    "Note": "Seminar"
+  },
+  {
+    "No": 8,
+    "Title": "FC Research & Innovation Week 2023",
+    "Date": "21 August 2023",
+    "Year": 2023,
+    "Venue": "Faculty of Computing, Johor Bahru",
+    "Note": "Research Week"
+  }
+]

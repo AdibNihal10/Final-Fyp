@@ -1,0 +1,2537 @@
+<!doctype html>
+<html lang="en">
+
+<head>
+    <meta charset="utf-8"/>
+    <title>UTM Scholar : TS. DR. SARINA BINTI SULAIMAN                    </title>
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta content="UTM Scholar Official Portal" name="description"/>
+    <meta name="google-site-verification" content="5ysLm8G0uPkHXlp2400O5bjCL-DV5tIMVqEQtlsm0NM"/>
+    <meta content="Office of Deputy Vice Cansellor Research &amp; Innovations, Universiti Teknologi Malaysia, Johore, Malaysia" name="author"/>
+    <link rel="shortcut icon" href="/assets/images/favicon.ico">
+    <link href="/assets/css/bootstrap.min.css" id="bootstrap-style" rel="stylesheet" type="text/css" />
+    <link href="/assets/css/icons.min.css" rel="stylesheet" type="text/css" />
+    <link href="/assets/css/app.min.css" id="app-style" rel="stylesheet" type="text/css" />
+    <link href="/assets/libs/datatables.net-bs4/css/dataTables.bootstrap4.min.css" rel="stylesheet" type="text/css" />
+    <link href="/assets/libs/datatables.net-buttons-bs4/css/buttons.bootstrap4.min.css" rel="stylesheet" type="text/css" />
+    <link href="/assets/libs/datatables.net-responsive-bs4/css/responsive.bootstrap4.min.css" rel="stylesheet" type="text/css" />
+    <style>
+            .img-thumbnail {
+                border-radius: 33px;
+                width: 61px;
+                height: 61px
+            }
+            
+            .fab:before {
+                position: relative;
+                top: 13px
+            }
+            
+            .smd {
+                width: 200px;
+                font-size: small;
+                text-align: center
+            }
+            
+            .modal-footer {
+                display: block
+            }
+            
+            .ur {
+                border: none;
+                background-color: #e6e2e2;
+                border-bottom-left-radius: 4px;
+                border-top-left-radius: 4px
+            }
+            
+            .cpy {
+                border: none;
+                background-color: #e6e2e2;
+                border-bottom-right-radius: 4px;
+                border-top-right-radius: 4px;
+                box-shadow: none !important
+            }
+            
+            .ur.focus,
+            .ur:focus {
+                outline: 0;
+                box-shadow: none !important
+            }
+            
+            .message {
+                font-size: 11px;
+                color: #ee5535
+            }
+        </style>
+</head>
+<body data-sidebar="dark">
+    <div id="layout-wrapper">
+        <header id="page-topbar">
+    <div class="navbar-header">
+        <div class="d-flex">
+          
+            <div class="navbar-brand-box">
+                <a class="logo logo-dark" href="/">
+                    <span class="logo-sm">
+                        <img src="/assets/images/logo-sm.png" alt="" height="38">
+                    </span>
+                    <span class="logo-lg">
+                        <img src="/assets/images/logo-utm.png" alt="" height="35">
+                    </span>
+                </a>
+
+                <a class="logo logo-light" href="/">
+                    <span class="logo-sm">
+                        <img src="/assets/images/logo-sm.png" alt="" height="38">
+                    </span>
+                    <span class="logo-lg">
+                        <img src="/assets/images/logo-utm.png" alt="" height="35">
+                    </span>
+                </a>
+            </div>
+
+            <button type="button" class="btn btn-sm px-3 font-size-24 header-item waves-effect vertical-menu-btn">
+                <i class="mdi mdi-menu"></i>
+            </button>
+            <div class="d-none d-sm-block">
+                <div class="page-title-box">
+                    <h4>TS. DR. SARINA BINTI SULAIMAN                   </h4>
+                    <ol class="breadcrumb m-0">
+                        <li class="breadcrumb-item">
+                            PENSYARAH KANAN
+                        </li>
+                        
+                       <!--
+                                                 <li class="breadcrumb-item" id="more_sect" hidden>
+                                            <a id="more" style="color:blue" onclick="test()" hidden><b>&nbsp;&nbsp;...&nbsp;read more</b></a>
+                                                 </li>
+                                                 <li class="breadcrumb-item" id="less_sect" hidden>
+                                                     <a id="less" style="color:blue" onclick="test()" hidden><b>&nbsp;&nbsp;Read less</b></a>
+                                                 </li>
+                                                 <li class="breadcrumb-item" id="brief" hidden>
+                                            <a id="less_1" style="color:blue" onclick="test()"><b>&nbsp;read less</b></a>
+                                                 </li>
+                       --> 
+                    </ol>
+                </div>
+            </div>
+            
+        </div>
+        <div class="d-flex">
+            <div class="dropdown d-none d-lg-inline-block">
+                            <a href="/Login/Login" class="btn btn-sm btn-primary">Login</a>
+                <button type="button" class="btn header-item noti-icon waves-effect" data-toggle="fullscreen">
+                    <i class="mdi mdi-fullscreen font-size-24"></i>
+                </button>
+            </div>
+            <div class="dropdown d-inline-block">
+                <button type="button" class="btn header-item waves-effect" id="page-header-user-dropdown"
+                        data-bs-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
+                    <i class="mdi mdi-24px mdi-cog"></i>
+                </button>
+                <div class="dropdown-menu dropdown-menu-end">
+                    <!-- item-->
+                    <a class="dropdown-item" href="/"><i class="ti-dashboard font-size-17 text-muted align-middle me-1"></i> Home</a>
+                    <a class="dropdown-item" href="/scholars"><i class="ti-bar-chart font-size-17 text-muted align-middle me-1"></i> Scholar List</a>
+                    <a class="dropdown-item" href="/research-unit"><i class="ti-pie-chart font-size-17 text-muted align-middle me-1"></i> Research Unit</a>
+                </div>
+            </div>
+        </div>
+    </div>
+</header>
+        <div class="vertical-menu">
+            <div data-simplebar class="h-100">
+                <div id="sidebar-menu">
+                    <ul class="metismenu list-unstyled" id="side-menu">
+                        <li>
+                            <a href="javascript:void(0);" class="waves-effect">
+                                <img src="/view-gambar?id=lq7y"
+                                     style="border-radius: 2%; margin-left: 50px;" height="200" width="150">
+                            </a>
+                        </li>
+                        <li>
+                            <a href="mailto:sarina@utm.my" class="waves-effect">
+                                <i class="mdi mdi-email-outline"></i><span> Email<br/>sarina@utm.my</span>
+                            </a>
+                        </li>
+
+                        <li>
+                            <a href="/faculties/28" class="waves-effect">
+                                <i class="mdi mdi-home"></i><span> Faculty<br/>FACULTY OF COMPUTING</span>
+                            </a>
+                        </li>
+                        <li>
+                            <a href="/schools/" class="waves-effect">
+                                <i class="mdi mdi-book-open-page-variant"></i><span> School<br/></span>
+                            </a>
+                        </li>
+                        <li>
+                            <a href="/niche-area/J090500" class="waves-effect">
+                                <i class="mdi mdi-book-arrow-down-outline"></i><span> Research Alliances<br/>SMART DIGITAL COMMUNITY</span>
+                            </a>
+                        </li>
+                        <li>
+
+                                <a href="/research-groups/390" class="waves-effect">
+                                    <i class="mdi mdi-trophy-variant-outline "></i><span> Research Group<br/>Intelligent Informatics Research Group (IIRG)</span>
+                                </a>
+
+                        </li>
+                        <li>
+                                <a href='/hi-coe/J091005' class="waves-effect">
+                                    <i class="mdi mdi-radar"></i><span> HI COE/COE/Research Center<br/>UTM Big Data Centre (BDC)</span>
+                                </a>
+
+                        </li>
+                        <li>
+                            <a href="https://www.scopus.com/authid/detail.uri?authorId=24723153600" target="_blank" class="waves-effect">
+                                <i class="fas fa-university"></i><span> Scopus Profile<br/></span>
+                            </a>
+                        </li>
+                        <li>
+                            <a href="#" class="waves-effect" data-bs-toggle="modal" data-bs-target="#shareModalBox" >
+                                <i class="fas fa-share-alt"></i><span>Share</span>
+                            </a>
+                        </li>
+
+                        <li>
+                            <a href="javascript:void(0);" class="waves-effect">
+                                <i class="mdi mdi-book"></i>
+                                <span>
+                                    Keywords/Interest<br/>
+                                    <p class="text-muted font-small-2" id="keyword">MOBILE WEB CACHING AND PRE-FETCHING; SOFT COMPUTING; WEB USAGE MINING; SOCIAL NETWORKING; LEARNING ANALYTICS IN BIG DATA</p>
+                                </span>
+                            </a>
+                        </li>
+                    </ul>
+                </div>
+                <!-- Sidebar -->
+            </div>
+        </div>
+        <div class="main-content">
+            <div class="page-content">
+                <div class="container-fluid">
+                    
+<div class="row">
+    <div class="col-xl-2 col-sm-6 h-50">
+        <div class="card mini-stat bg-primary">
+            <div class="card-body mini-stat-img">
+                <div class="mini-stat-icon">
+                    <i class="mdi mdi-cube-outline float-end"></i>
+                </div>
+                <div class="text-white">
+                    <h6 class="text-uppercase mb-3 font-size-12 text-white">GRANT(PI & MEMBERS)</h6>
+                    <h2 class="mb-4 text-white">63</h2>
+
+                </div>
+            </div>
+        </div>
+    </div>
+    <div class="col-xl-2 col-sm-6 h-50">
+        <div class="card mini-stat bg-warning">
+            <div class="card-body mini-stat-img">
+                <div class="mini-stat-icon">
+                    <i class="mdi mdi-buffer float-end"></i>
+                </div>
+                <div class="text-white">
+                    <h6 class="text-uppercase mb-3 font-size-12 text-white">PUBLICATIONS</h6>
+                    <h2 class="mb-4 text-white">110</h2>
+                </div>
+            </div>
+        </div>
+    </div>
+    <div class="col-xl-2 col-sm-6 h-50">
+        <div class="card mini-stat bg-info">
+            <div class="card-body mini-stat-img">
+                <div class="mini-stat-icon">
+                    <i class="mdi mdi-tag-text-outline float-end"></i>
+                </div>
+                <div class="text-white">
+                    <h6 class="text-uppercase mb-3 font-size-12 text-white">INDEXED PUBLICATION</h6>
+                    <h2 class="mb-4 text-white">30</h2>
+                </div>
+            </div>
+        </div>
+    </div>
+    <div class="col-xl-2 col-sm-6 h-50">
+        <div class="card mini-stat bg-danger">
+            <div class="card-body mini-stat-img">
+                <div class="mini-stat-icon">
+                    <i class="mdi mdi-chart-pie float-end"></i>
+                </div>
+                <div class="text-white">
+                    <h6 class="text-uppercase mb-3 font-size-12 text-white">TOTAL STUDENTS</h6>
+                    <h2 class="mb-4 text-white"><span id="TotalSupervisionCount"></span></h2>
+                </div>
+            </div>
+        </div>
+    </div>
+    <div class="col-xl-2 col-sm-6 h-50">
+        <div class="card mini-stat bg-success">
+            <div class="card-body mini-stat-img">
+                <div class="mini-stat-icon">
+                    <i class="mdi mdi-chart-bar float-end"></i>
+                </div>
+                <div class="text-white">
+                    <h6 class="text-uppercase mb-3 font-size-12 text-white">H-INDEXED (SCOPUS)</h6>
+                    <h2 class="mb-4 text-white"><span id="hIndexID"></span></h2>
+                </div>
+            </div>
+        </div>
+    </div>
+    <div class="col-xl-2 col-sm-6 h-50">
+        <div class="card mini-stat bg-info">
+            <div class="card-body mini-stat-img">
+                <div class="mini-stat-icon">
+                    <i class="mdi mdi-briefcase-check float-end"></i>
+                </div>
+                <div class="text-white">
+                    <h6 class="text-uppercase mb-3 font-size-12 text-white">CITATIONS (SCOPUS)</h6>
+                    <h2 class="mb-4 text-white"><span id="CountPublicIndexID"></span></h2>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+
+<div class="row">
+    <div class="col-xl-4">
+        <div class="card">
+            <div class="card-body">
+                <h4 class="card-title mb-3">Grant (PI)</h4>
+                <div class="row">
+                    <div class="col-md-12 col-12">
+                        <div id="grant_chart_personal" class="morris-charts morris-chart-height"></div>
+                    </div>
+                </div>
+                    <div class="row">
+                        <div class="col-md-12 col-12">
+                            <div class="inbox-wid">
+                                <div class="inbox-item">
+                                    <div class="float-start">NATIONAL GRANTS</div>
+                                    <div class="float-end">7</div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="row">
+                        <div class="col-md-12 col-12">
+                            <div class="inbox-wid">
+                                <div class="inbox-item">
+                                    <div class="float-start">UNIVERSITY FUND</div>
+                                    <div class="float-end">7</div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                <div class="row">
+                    <div class="col-md-12 col-12">
+                        <div class="inbox-wid">
+                            <div class="inbox-item">
+                                <div class="float-start"><strong>TOTAL</strong></div>
+                                <div class="float-end"><span id="TotalGrantCount"></span></div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+    <div class="col-xl-4">
+        <div class="card">
+            <div class="card-body">
+                <h4 class="card-title mb-3">Publications</h4>
+                <div class="row">
+                    <div class="col-md-12 col-12">
+                        <div id="publication_chart_personal" class="morris-charts morris-chart-height"></div>
+                    </div>
+                </div>
+                    <div class="row">
+                        <div class="col-md-12 col-12">
+                            <div class="inbox-wid">
+                                <div class="inbox-item">
+                                    <div class="float-start">INDEXED PUBLICATION</div>
+                                    <div class="float-end">30</div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="row">
+                        <div class="col-md-12 col-12">
+                            <div class="inbox-wid">
+                                <div class="inbox-item">
+                                    <div class="float-start">NON-INDEXED PUBLICATION</div>
+                                    <div class="float-end">10</div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="row">
+                        <div class="col-md-12 col-12">
+                            <div class="inbox-wid">
+                                <div class="inbox-item">
+                                    <div class="float-start">OTHERS PUBLICATION</div>
+                                    <div class="float-end">69</div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                <div class="row">
+                    <div class="col-md-12 col-12">
+                        <div class="inbox-wid">
+                            <div class="inbox-item">
+                                <div class="float-start"><strong>TOTAL</strong></div>
+                                <div class="float-end"><span id="TotalPublicationCount"></span></div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+    <div class="col-xl-4">
+        <div class="card">
+            <div class="card-body">
+                <h4 class="card-title mb-4">Supervisions</h4>
+                <div class="row">
+                    <div class="col-md-12 col-12">
+                        <div id="supervision_chart_personal" class="morris-charts morris-chart-height"></div>
+                    </div>
+                </div>
+                    <div class="row">
+                        <div class="col-md-12">
+                            <div class="inbox-wid">
+                                <div class="inbox-item">
+                                    <div class="float-start">MASTER</div>
+                                    <div class="float-end">4</div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="row">
+                        <div class="col-md-12">
+                            <div class="inbox-wid">
+                                <div class="inbox-item">
+                                    <div class="float-start">PHD</div>
+                                    <div class="float-end">8</div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                <div class="row">
+                    <div class="inbox-wid">
+                        <div class="inbox-item">
+                            <div class="float-start"><strong>TOTAL</strong></div>
+                            <div class="float-end"><span id="TotalSupervisionCount_chart"></span></div>
+                        </div>
+                    </div>
+                </div>
+
+            </div>
+        </div>
+    </div>
+</div>
+
+<div class="row">
+    <div class="card">
+        <div class="card-body">
+            <!-- Nav tabs -->
+            <ul class="nav nav-tabs nav-tabs-custom" role="tablist">
+                <li class="nav-item">
+                    <a class="nav-link active" data-bs-toggle="tab" href="#grant_tab" role="tab" aria-selected="true">
+                        <span class="d-block d-sm-none"><i class="fas fa-dollar-sign"></i></span>
+                        <span class="d-none d-sm-block">Grants</span>
+                    </a>
+                </li>
+                <li class="nav-item">
+                    <a class="nav-link" data-bs-toggle="tab" href="#publication_tab" role="tab" aria-selected="false">
+                        <span class="d-block d-sm-none"><i class="fa fa-book-open"></i></span>
+                        <span class="d-none d-sm-block">Publications</span>
+                    </a>
+                </li>
+                <li class="nav-item">
+                    <a class="nav-link" data-bs-toggle="tab" href="#ip_tab" role="tab" aria-selected="false">
+                        <span class="d-block d-sm-none"><i class="far fa-envelope"></i></span>
+                        <span class="d-none d-sm-block">Intellectual Property</span>
+                    </a>
+                </li>
+                <li class="nav-item">
+                    <a class="nav-link" data-bs-toggle="tab" href="#supervision_tab" role="tab" aria-selected="false">
+                        <span class="d-block d-sm-none"><i class="fas fa-user-graduate"></i></span>
+                        <span class="d-none d-sm-block">Supervisions</span>
+                    </a>
+                </li>
+            </ul>
+
+            <!-- Tab panes -->
+            <div class="tab-content">
+                <div class="tab-pane p-3 active" id="grant_tab" role="tabpanel">
+                    <p class="mb-0">
+                    <p>Legend : <span class="badge rounded-pill  bg-info">SPONSOR</span> <span class="badge rounded-pill  bg-success">TYPE OF GRANT</span></p>
+                    <div class="table-responsive">
+                        <table id="grantListTablePersonalDatatable" class="table mb-0 dt-responsive nowrap" style="border-collapse: collapse; border-spacing: 0; width: 100%;">
+                            <thead>
+                                <tr>
+                                    <th>Grant Name</th>
+                                    <th>Year</th>
+                                </tr>
+                            </thead>
+                            <tbody>
+                                    <tr>
+                                        <td>User Interface Design Approach for AI-assisted Learning Analytics Dashboard<br /><span class="badge rounded-pill  bg-info">RUG OF UTM</span> <span class="badge rounded-pill  bg-success">UTM Fundamental Research </span></td>
+                                        <td>2024</td>
+                                    </tr>
+                                    <tr>
+                                        <td>Multi-Cropped Convolution Neural Network with Adaptive Weighted Loss Function for Ischemic Stroke Segmentation<br /><span class="badge rounded-pill  bg-info">MINISTRY OF EDUCATION</span> <span class="badge rounded-pill  bg-success">Fundamental Research Grant Scheme </span></td>
+                                        <td>2024</td>
+                                    </tr>
+                                    <tr>
+                                        <td>STUDY OF COMMUNITY EMPOWERMENT AND ENGAGEMENT USING COMPUTER-MEDIATED PLATFORM<br /><span class="badge rounded-pill  bg-info">PUSAT KHIDMAT PARLIMEN SRI GADING, JOHOR</span> <span class="badge rounded-pill  bg-success">Government Agency Grant</span></td>
+                                        <td>2023</td>
+                                    </tr>
+                                    <tr>
+                                        <td>Modified Random Forest Classifier with Two-dimensional Convolution Kernels for Accurate Stroke Lesion Segmentation in MRI Images<br /><span class="badge rounded-pill  bg-info">RUG OF UTM</span> <span class="badge rounded-pill  bg-success">UTM Encouragement Research </span></td>
+                                        <td>2023</td>
+                                    </tr>
+                                    <tr>
+                                        <td>Scored Fusion Discretization Algorithm in Multi-Modal Biometrics of New Born Baby<br /><span class="badge rounded-pill  bg-info">RUG OF UTM</span> <span class="badge rounded-pill  bg-success">UTM Encouragement Research </span></td>
+                                        <td>2021</td>
+                                    </tr>
+                                    <tr>
+                                        <td>ADAPTING GAMIFICATION APPROACH IN MASSIVE OPEN ONLINE COURSES TO IMPROVE USER ENGAGEMENT<br /><span class="badge rounded-pill  bg-info">RUG OF UTM</span> <span class="badge rounded-pill  bg-success">UTM R&amp;D Fund                                                                                                                                                                                                                                                   </span></td>
+                                        <td>2021</td>
+                                    </tr>
+                                    <tr>
+                                        <td>FRAMEWORK OF SELF-REGULATED ARABIC VOCABULARY LEARNING STRATEGIES IN GAMIFICATION LEARNING ENVIRONMENT<br /><span class="badge rounded-pill  bg-info">MINISTRY OF EDUCATION</span> <span class="badge rounded-pill  bg-success">Fundamental Research Grant Scheme </span></td>
+                                        <td>2020</td>
+                                    </tr>
+                                    <tr>
+                                        <td>Handwritten and Normal Text Recognition on Scanned Documents and Key Information Extraction<br /><span class="badge rounded-pill  bg-info">ETIQA INSURANCE (SINGAPORE) PTE. LTD. </span> <span class="badge rounded-pill  bg-success">International Grant</span></td>
+                                        <td>2020</td>
+                                    </tr>
+                                    <tr>
+                                        <td>LEADERSHIP PROFILING AND TALENT PREDICTIVE ANALYTICS FOR AKADEMIK KEPIMPINAN PENDIDIKAN TINGGI (AKEPT)<br /><span class="badge rounded-pill  bg-info">AKADEMI KEPIMPINAN PENDIDIKAN TINGGI (AKEPT)</span> <span class="badge rounded-pill  bg-success">Non Goverment Agency</span></td>
+                                        <td>2020</td>
+                                    </tr>
+                                    <tr>
+                                        <td>BIG DATA TALENT ANALYTICS FOR PREDICTIVE BEHAVIORAL LEADERSHIP<br /><span class="badge rounded-pill  bg-info">RUG OF UTM</span> <span class="badge rounded-pill  bg-success">UTM High Impact Research                                                                                                                                                                                                                                       </span></td>
+                                        <td>2020</td>
+                                    </tr>
+                                    <tr>
+                                        <td>TEKNOLOGI PENYIMPANAN AWAN KOMUNITI UNTUK BAHAGIAN TEKNOLOGI PENDIDIKAN NEGERI JOHOR<br /><span class="badge rounded-pill  bg-info">RUG OF UTM</span> <span class="badge rounded-pill  bg-success">UTM Encouragement Research </span></td>
+                                        <td>2019</td>
+                                    </tr>
+                                    <tr>
+                                        <td>MENGKAJI KEBERKESANAN PENDIDIKAN SAUDARA KITA SECARA ATAS TALIAN MELALUI EDU-MUALLAF<br /><span class="badge rounded-pill  bg-info">CENTER FOR COMMUNITY AND INDUSTRY NETWORK (CCIN)</span> <span class="badge rounded-pill  bg-success">UTM R&amp;D Fund                                                                                                                                                                                                                                                   </span></td>
+                                        <td>2019</td>
+                                    </tr>
+                                    <tr>
+                                        <td>QR BIG DATA CODE ON THE CLOUD<br /><span class="badge rounded-pill  bg-info">RUG OF UTM</span> <span class="badge rounded-pill  bg-success">COE Research Grant </span></td>
+                                        <td>2018</td>
+                                    </tr>
+                                    <tr>
+                                        <td>Pembangunan dan Pengukuran Kualiti Kesejahteraan Pelajar (Student Well-being Quality): Kajian kes di Sekolah ABIM Johor<br /><span class="badge rounded-pill  bg-info">RUG OF UTM</span> <span class="badge rounded-pill  bg-success">Tier 1                                                                                                                                                                                                                                                         </span></td>
+                                        <td>2017</td>
+                                    </tr>
+                                    <tr>
+                                        <td>KINSHIP VERIFICATION USING NEW DEEP CNN FEATURES<br /><span class="badge rounded-pill  bg-info">RUG OF UTM</span> <span class="badge rounded-pill  bg-success">Tier 1                                                                                                                                                                                                                                                         </span></td>
+                                        <td>2017</td>
+                                    </tr>
+                                    <tr>
+                                        <td>e-Pembelajaran untuk Mualaf (e-Mualaf) bagi Institut Latihan Saudara Baru Johor<br /><span class="badge rounded-pill  bg-info">UNIT PERANCANG EKONOMI JOHOR</span> <span class="badge rounded-pill  bg-success">Johor Innovation Valley- Bahagian Perancang Ekonomi Johor </span></td>
+                                        <td>2017</td>
+                                    </tr>
+                                    <tr>
+                                        <td>Penggunaan Teknologi Prototaip lo-fidelity bagi Kesedaran Kepentingan Berfikiran Kritis dan Kreatif Remaja di Luar Bandar<br /><span class="badge rounded-pill  bg-info">MINISTRY OF EDUCATION</span> <span class="badge rounded-pill  bg-success">Centre for Community and Industry Network </span></td>
+                                        <td>2016</td>
+                                    </tr>
+                                    <tr>
+                                        <td>Pilot Deployment of Intelligent Mobile Web Pre-fetching for Community Cloud Computing<br /><span class="badge rounded-pill  bg-info">MINISTRY OF EDUCATION</span> <span class="badge rounded-pill  bg-success">Prototype Development Research Grant Scheme </span></td>
+                                        <td>2016</td>
+                                    </tr>
+                                    <tr>
+                                        <td>FACIAL BASED BIOMETRIC SECURITY FOR ONLINE E-TICKETING<br /><span class="badge rounded-pill  bg-info">RUG OF UTM</span> <span class="badge rounded-pill  bg-success">Tier 2                                                                                                                                                                                                                                                         </span></td>
+                                        <td>2016</td>
+                                    </tr>
+                                    <tr>
+                                        <td>EXPLORING THE EFFECTIVENESS OF SELF-REGULATED LEARNING STRATEGIES FOR LEARNING RETENTION IN MOOC<br /><span class="badge rounded-pill  bg-info">DANA PEMBANGUNAN PENGAJARAN CTL</span> <span class="badge rounded-pill  bg-success">Dana Pembangunan Pengajaran </span></td>
+                                        <td>2016</td>
+                                    </tr>
+                                    <tr>
+                                        <td>ASSESSING THE EFFECTS OF GAMIFICATION AND GAME BASED IN LEARNING : MOTIVATION AND ACADEMIC PERFORMANCE<br /><span class="badge rounded-pill  bg-info">DANA PEMBANGUNAN PENGAJARAN CTL</span> <span class="badge rounded-pill  bg-success">Dana Pembangunan Pengajaran </span></td>
+                                        <td>2016</td>
+                                    </tr>
+                                    <tr>
+                                        <td>MOBILE ANALYTICS DATABASE SUMMARIZATION FOR MALAYSIA AIR POLLUTANT INDEX DATA<br /><span class="badge rounded-pill  bg-info">RUG OF UTM</span> <span class="badge rounded-pill  bg-success">Tier 1                                                                                                                                                                                                                                                         </span></td>
+                                        <td>2016</td>
+                                    </tr>
+                                    <tr>
+                                        <td>INTELLIGENT PREDICTIVE ANALYTICS FOR RETAIL INDUSTRY<br /><span class="badge rounded-pill  bg-info">RUG OF UTM</span> <span class="badge rounded-pill  bg-success">Tier 1                                                                                                                                                                                                                                                         </span></td>
+                                        <td>2016</td>
+                                    </tr>
+                                    <tr>
+                                        <td>DESIGNING BIG DATA INTEGRATION ARCHITECTURE FOR ONLINE SPACE WEATHER DATA ANALYTIC<br /><span class="badge rounded-pill  bg-info">RUG OF UTM</span> <span class="badge rounded-pill  bg-success">Tier 1                                                                                                                                                                                                                                                         </span></td>
+                                        <td>2016</td>
+                                    </tr>
+                                    <tr>
+                                        <td>CLASS IMBALANCE LEARNING IN CUSTOMER BEHAVIOUR PREDICTIVE ANALYTICS FOR TOURISM<br /><span class="badge rounded-pill  bg-info">RUG OF UTM</span> <span class="badge rounded-pill  bg-success">Tier 1                                                                                                                                                                                                                                                         </span></td>
+                                        <td>2016</td>
+                                    </tr>
+                                    <tr>
+                                        <td>Digital Lifestyle - Praxispartnership between Academic &amp; Industry in Malaysia &amp; Germany<br /><span class="badge rounded-pill  bg-info">DEUTSCHER AKADEMISCHER AUSTAUSCHDIENST (GERMAN ACADEMIC EXCHANGE SERVICE)</span> <span class="badge rounded-pill  bg-success">Networking Grant                                                                                                                                                                                                                                               </span></td>
+                                        <td>2016</td>
+                                    </tr>
+                                    <tr>
+                                        <td>A GENERIC MODEL OF KNOWLEDGE COMMUNITY FOR A SUSTAINABLE AND HOLISTIC ADVANCEMENT IN RURAL EDUCATION (K-SHARE)<br /><span class="badge rounded-pill  bg-info">RUG OF UTM</span> <span class="badge rounded-pill  bg-success">Tier 1                                                                                                                                                                                                                                                         </span></td>
+                                        <td>2015</td>
+                                    </tr>
+                                    <tr>
+                                        <td>A FORMAL EVALUATION FOR MASSIVE OPEN ONLINE COURSE IN WEB PROGRAMMING<br /><span class="badge rounded-pill  bg-info">DANA PEMBANGUNAN PENGAJARAN CTL</span> <span class="badge rounded-pill  bg-success">UTM R&amp;D Fund                                                                                                                                                                                                                                                   </span></td>
+                                        <td>2015</td>
+                                    </tr>
+                                    <tr>
+                                        <td>MODEL PERKONGSIAN ILMU KE ARAH KELESTARIAN MODAL INSAN LUAR BANDAR (KAMIL) MELALUI CENTRE FOR ADVANCEMENT IN RURAL EDUCATION INFORMATICS (ICARE) UTM-KEJORA: ICARE MY AIM &amp; ICARE MY ENGLISH<br /><span class="badge rounded-pill  bg-info">LEMBAGA KEMAJUAN JOHOR TENGGARA (KEJORA)</span> <span class="badge rounded-pill  bg-success">Non Goverment Agency</span></td>
+                                        <td>2015</td>
+                                    </tr>
+                                    <tr>
+                                        <td>Database Summarization for Mobile Web Pre-fetching (MoDS) Using Rough Set<br /><span class="badge rounded-pill  bg-info">MINISTRY OF ENERGY, SCIENCE, TECHNOLOGY, ENVIRONEMNT AND CLIMATE CHANGE (MESTECC)</span> <span class="badge rounded-pill  bg-success">Sciencefund </span></td>
+                                        <td>2015</td>
+                                    </tr>
+                                    <tr>
+                                        <td>BIG DATA FRAMEWORK AND ANALYTICS FOR PALM OIL MILL EFFLUENT(POME)<br /><span class="badge rounded-pill  bg-info">RUG OF UTM</span> <span class="badge rounded-pill  bg-success">Flagship </span></td>
+                                        <td>2015</td>
+                                    </tr>
+                                    <tr>
+                                        <td>A NEW SCHEME OF INTELLIGENT TIME SHIFTED CACHES FOR DATA ACCESS IN WIRELESS NETWORK<br /><span class="badge rounded-pill  bg-info">MINISTRY OF EDUCATION</span> <span class="badge rounded-pill  bg-success">Fundamental Research Grant Scheme </span></td>
+                                        <td>2014</td>
+                                    </tr>
+                                    <tr>
+                                        <td>Centre for Advancement in Rural Education Informatics: iCARE My English Programme<br /><span class="badge rounded-pill  bg-info">LEMBAGA KEMAJUAN JOHOR TENGGARA (KEJORA)</span> <span class="badge rounded-pill  bg-success">Non Goverment Agency</span></td>
+                                        <td>2014</td>
+                                    </tr>
+                                    <tr>
+                                        <td>Cloud Computing Services for E-Learning Big Data<br /><span class="badge rounded-pill  bg-info">RUG OF UTM</span> <span class="badge rounded-pill  bg-success">Flagship-Research Group </span></td>
+                                        <td>2014</td>
+                                    </tr>
+                                    <tr>
+                                        <td>Multi Strategy Self Organizing Learning<br /><span class="badge rounded-pill  bg-info">MINISTRY OF EDUCATION</span> <span class="badge rounded-pill  bg-success">Fundamental Research Grant Scheme </span></td>
+                                        <td>2014</td>
+                                    </tr>
+                                    <tr>
+                                        <td>AN INTEGRATED FRAMEWORK FOR MASSIVE OPEN ONLINE COURSES (MOOCS) IN UTM<br /><span class="badge rounded-pill  bg-info">DANA PEMBANGUNAN PENGAJARAN CTL</span> <span class="badge rounded-pill  bg-success">UTM R&amp;D Fund                                                                                                                                                                                                                                                   </span></td>
+                                        <td>2014</td>
+                                    </tr>
+                                    <tr>
+                                        <td>AN IMPLEMENTATION OF EDUTAINMENT TO PROMOTE GENERIC SKILLS AMONG UNDERGRADUATE<br /><span class="badge rounded-pill  bg-info">DANA PEMBANGUNAN PENGAJARAN CTL</span> <span class="badge rounded-pill  bg-success">UTM R&amp;D Fund                                                                                                                                                                                                                                                   </span></td>
+                                        <td>2014</td>
+                                    </tr>
+                                    <tr>
+                                        <td>Crowd Feedback for Efficient and Convenient Commuter Planning<br /><span class="badge rounded-pill  bg-info">RUG OF UTM</span> <span class="badge rounded-pill  bg-success">Flagship </span></td>
+                                        <td>2014</td>
+                                    </tr>
+                                    <tr>
+                                        <td>Improving the reliability of Digital Mobile Nodes Communications for Community-centric commuting services.<br /><span class="badge rounded-pill  bg-info">RUG OF UTM</span> <span class="badge rounded-pill  bg-success">Flagship </span></td>
+                                        <td>2014</td>
+                                    </tr>
+                                    <tr>
+                                        <td>Image Super-Resolution Using Iterative Back Projection and Hybridized Biogeography-Based Optimization Algorithm<br /><span class="badge rounded-pill  bg-info">RUG OF UTM</span> <span class="badge rounded-pill  bg-success">Tier 1                                                                                                                                                                                                                                                         </span></td>
+                                        <td>2014</td>
+                                    </tr>
+                                    <tr>
+                                        <td>An Impression-Based Model for Understandability, Learnability and Attractiveness  (IBMULA) in Web Usability<br /><span class="badge rounded-pill  bg-info">MINISTRY OF EDUCATION</span> <span class="badge rounded-pill  bg-success">Fundamental Research Grant Scheme </span></td>
+                                        <td>2013</td>
+                                    </tr>
+                                    <tr>
+                                        <td>A NEW CLUSTER SPIKE EVOLVING SPIKING NEURAL NETWORK<br /><span class="badge rounded-pill  bg-info">MINISTRY OF EDUCATION</span> <span class="badge rounded-pill  bg-success">Fundamental Research Grant Scheme </span></td>
+                                        <td>2013</td>
+                                    </tr>
+                                    <tr>
+                                        <td>INTERACTIVE PUBLIC SITUATED DISPLAYS AND INTELLIGENT MOBILE WEB PRE-CACHING IN KNOWLEDGE ORIENTED DIGITAL UNIVERSITY FRAMEWORK<br /><span class="badge rounded-pill  bg-info">RUG OF UTM</span> <span class="badge rounded-pill  bg-success">Flagship </span></td>
+                                        <td>2013</td>
+                                    </tr>
+                                    <tr>
+                                        <td>A Dynamic User Centric Model for Managing and Tracking Change and Modification Requests (DUCMoRe) of Prototype-Based Web Applications<br /><span class="badge rounded-pill  bg-info">MINISTRY OF ENERGY, SCIENCE, TECHNOLOGY, ENVIRONEMNT AND CLIMATE CHANGE (MESTECC)</span> <span class="badge rounded-pill  bg-success">Sciencefund </span></td>
+                                        <td>2013</td>
+                                    </tr>
+                                    <tr>
+                                        <td>ADAPTIVE TRAINING OF MACHINE LEARNING FOR IMPROVING WEB PROXY CACHING<br /><span class="badge rounded-pill  bg-info">RUG OF UTM</span> <span class="badge rounded-pill  bg-success">Tier 1                                                                                                                                                                                                                                                         </span></td>
+                                        <td>2012</td>
+                                    </tr>
+                                    <tr>
+                                        <td>Enhancement of Collaborative Learning Assessment using Social Network Analysis and Clustering Technique<br /><span class="badge rounded-pill  bg-info">MINISTRY OF EDUCATION</span> <span class="badge rounded-pill  bg-success">Exploratory Research Grant Scheme </span></td>
+                                        <td>2012</td>
+                                    </tr>
+                                    <tr>
+                                        <td>THE AUGMENTED SOCIAL NETWORK (ASN) BENCHMARK FOR WEB PRE-CACHING ON SOLVING TRUST, ACCURACY AND EXPECTATION PROBLEMS<br /><span class="badge rounded-pill  bg-info">RUG OF UTM</span> <span class="badge rounded-pill  bg-success">Tier 1                                                                                                                                                                                                                                                         </span></td>
+                                        <td>2012</td>
+                                    </tr>
+                                    <tr>
+                                        <td>KE ARAH KELESTARIAN PEMBANGUNAN PENDIDIKAN LUAR BANDAR MELALUI LEMBAGA KEMAJUAN JOHOR TENGGARA (KEJORA) DAN CENTRE FOR ADVANCEMENT IN RURAL EDUCATION INFORMATICS (ICARE)<br /><span class="badge rounded-pill  bg-info">LEMBAGA KEMAJUAN JOHOR TENGGARA (KEJORA)</span> <span class="badge rounded-pill  bg-success">Non Goverment Agency</span></td>
+                                        <td>2012</td>
+                                    </tr>
+                                    <tr>
+                                        <td>Multi-variate Pattern Analysis for Forensic Identification and Verification<br /><span class="badge rounded-pill  bg-info">MINISTRY OF EDUCATION</span> <span class="badge rounded-pill  bg-success">Long Term Research Grant Scheme </span></td>
+                                        <td>2011</td>
+                                    </tr>
+                                    <tr>
+                                        <td>Development Of An Integrated Adaptive Web Caching And Prefetching (Pre-Caching) In Mobile Application<br /><span class="badge rounded-pill  bg-info">MINISTRY OF ENERGY, SCIENCE, TECHNOLOGY, ENVIRONEMNT AND CLIMATE CHANGE (MESTECC)</span> <span class="badge rounded-pill  bg-success">Sciencefund </span></td>
+                                        <td>2008</td>
+                                    </tr>
+                                    <tr>
+                                        <td>Artificial Life Neural Network Caching For Adaptive Hypermedia Learning System<br /><span class="badge rounded-pill  bg-info">MINISTRY OF ENERGY, SCIENCE, TECHNOLOGY, ENVIRONEMNT AND CLIMATE CHANGE (MESTECC)</span> <span class="badge rounded-pill  bg-success">Sciencefund </span></td>
+                                        <td>2006</td>
+                                    </tr>
+                                    <tr>
+                                        <td>Network Routing by Mobile Agents for Image Retrieval Using Fuzzy Genetic Algorithms<br /><span class="badge rounded-pill  bg-info"></span> <span class="badge rounded-pill  bg-success">Short Term                                                                                                                                                                                                                                                     </span></td>
+                                        <td>2000</td>
+                                    </tr>
+                                    <tr>
+                                        <td>The Study of Students&#x27; Self-Assessment Using Intelligent Decision Classification (IDC)<br /><span class="badge rounded-pill  bg-info"></span> <span class="badge rounded-pill  bg-success">Short Term                                                                                                                                                                                                                                                     </span></td>
+                                        <td>1999</td>
+                                    </tr>
+                                    <tr>
+                                        <td>Design and Development of GIS Spatial Data for Transmission and Visualization Through the Web using Tile Tree Method<br /><span class="badge rounded-pill  bg-info">MINISTRY OF ENERGY, SCIENCE, TECHNOLOGY, ENVIRONEMNT AND CLIMATE CHANGE (MESTECC)</span> <span class="badge rounded-pill  bg-success">Sciencefund </span></td>
+                                        <td>1998</td>
+                                    </tr>
+
+                            </tbody>
+                        </table>
+                    </div>
+                    </p>
+                </div>
+                <div class="tab-pane p-3" id="publication_tab" role="tabpanel">
+                    <p class="mb-0">
+                    <p class="text-muted">
+                        Legend : <span class="badge rounded-pill  bg-info">PUBLICATION CATEGORY </span>
+                        <span class="badge rounded-pill  bg-success">TYPE OF AUTHORS</span>
+                    </p>
+                    <div class="table-responsive">
+                        <table id="publicationListTablePersonalDatatable" class="table mb-0 dt-responsive nowrap" style="border-collapse: collapse; border-spacing: 0; width: 100%;">
+                            <thead>
+                                <tr>
+                                    <th>Publication Name</th>
+                                    <th>Year</th>
+                                </tr>
+                            </thead>
+                            <tbody>
+                                    <tr>
+                                        <td>
+
+                                            <a href="/scholar-publication/lq7y/143310">Impak Pembelajaran Berasaskan Kerja Dalam&#xA;Teknologi Sistem Maklumat</a>
+
+                                            <br />
+                                                NEW ACADEMIA LEARNING INNOVATION (NALI) 2023<br />
+                                            <span class="badge rounded-pill  bg-info"></span> <span class="badge rounded-pill  bg-success">CO-AUTHOR</span>
+                                        </td>
+                                        <td>2023</td>
+                                    </tr>
+                                    <tr>
+                                        <td>
+
+                                            <a href="/scholar-publication/lq7y/142825">Extremist Views Detection: Definition, Annotated Corpus And Baseline Results</a>
+
+                                            <br />
+                                                LECTURE NOTES IN NETWORKS AND SYSTEMS<br />
+                                            <span class="badge rounded-pill  bg-info">Publication In Scopus</span> <span class="badge rounded-pill  bg-success">UTM FIRST AUTHOR</span>
+                                        </td>
+                                        <td>2023</td>
+                                    </tr>
+                                    <tr>
+                                        <td>
+
+                                            <a href="/scholar-publication/lq7y/142069">Deep Learning Approaches For Mimo Time-Series&#xA;Analysis</a>
+
+                                            <br />
+                                                INTERNATIONAL JOURNAL OF ADVANCES IN INTELLIGENT INFORMATICS<br />
+                                            <span class="badge rounded-pill  bg-info">Publication In Scopus</span> <span class="badge rounded-pill  bg-success">UTM FIRST AUTHOR</span>
+                                        </td>
+                                        <td>2023</td>
+                                    </tr>
+                                    <tr>
+                                        <td>
+
+                                            <a href="/scholar-publication/lq7y/142847">Developing A Web Based-User Interface Design For Assisting The Deaf Or Blind People In E-Learning</a>
+
+                                            <br />
+                                                HUMAN-COMPUTER INTERACTION THEORY AND PRACTICAL APPLICATIONS<br />
+                                            <span class="badge rounded-pill  bg-info">Book Chapter</span> <span class="badge rounded-pill  bg-success">UTM FIRST AUTHOR</span>
+                                        </td>
+                                        <td>2023</td>
+                                    </tr>
+                                    <tr>
+                                        <td>
+
+                                            <a href="/scholar-publication/lq7y/142059">Wl2a: Web Log Augmented Analytics For Utm E-Learning Environment</a>
+
+                                            <br />
+                                                NEW ACADEMIA LEARNING INNOVATION (NALI) 2023 EXHIBITION &amp; COMPETITION<br />
+                                            <span class="badge rounded-pill  bg-info">Proceedings</span> <span class="badge rounded-pill  bg-success">FIRST UTM CORRESPONDING AUTHOR</span>
+                                        </td>
+                                        <td>2023</td>
+                                    </tr>
+                                    <tr>
+                                        <td>
+
+                                            <a href="/scholar-publication/lq7y/142066">Impak Pembelajaran Berasaskan Kerja (Pbk) Dalam Teknologi Sistem Maklumat</a>
+
+                                            <br />
+                                                NEW ACADEMIA LEARNING INNOVATION (NALI) 2023 EXHIBITION &amp; COMPETITION<br />
+                                            <span class="badge rounded-pill  bg-info">Proceedings</span> <span class="badge rounded-pill  bg-success">CO-AUTHOR</span>
+                                        </td>
+                                        <td>2023</td>
+                                    </tr>
+                                    <tr>
+                                        <td>
+
+                                            <a href="/scholar-publication/lq7y/142063">Systematic Problem Solving Process Using Computational Thinking In&#xA;Technopreneurship Course</a>
+
+                                            <br />
+                                                NEW ACADEMIA LEARNING INNOVATION (NALI) 2023 EXHIBITION &amp; COMPETITION<br />
+                                            <span class="badge rounded-pill  bg-info">Proceedings</span> <span class="badge rounded-pill  bg-success">CO-AUTHOR</span>
+                                        </td>
+                                        <td>2023</td>
+                                    </tr>
+                                    <tr>
+                                        <td>
+
+                                            <a href="/scholar-publication/lq7y/142074">Continuity Rotation Representation For Head Pose Estimation Without Keypoints</a>
+
+                                            <br />
+                                                ACM INTERNATIONAL CONFERENCE PROCEEDING SERIES<br />
+                                            <span class="badge rounded-pill  bg-info">Publication In Scopus</span> <span class="badge rounded-pill  bg-success">UTM FIRST AUTHOR</span>
+                                        </td>
+                                        <td>2023</td>
+                                    </tr>
+                                    <tr>
+                                        <td>
+
+                                            <a href="/scholar-publication/lq7y/135370">An Improved Sardine Feast Metaheuristic&#xA;Optimization Based On L&#xE9;vy Flight </a>
+
+                                            <br />
+                                                JOURNAL OF THEORETICAL AND APPLIED INFORMATION TECHNOLOGY<br />
+                                            <span class="badge rounded-pill  bg-info">Publication In Scopus</span> <span class="badge rounded-pill  bg-success">UTM FIRST AUTHOR</span>
+                                        </td>
+                                        <td>2022</td>
+                                    </tr>
+                                    <tr>
+                                        <td>
+
+                                            <a href="/scholar-publication/lq7y/135250">Introduction To Big Data And Machine Learning</a>
+
+                                            <br />
+                                                BIG DATA AND MACHINE LEARNING WITH APPLICATIONS<br />
+                                            <span class="badge rounded-pill  bg-info">Book Chapter</span> <span class="badge rounded-pill  bg-success">EDITOR</span>
+                                        </td>
+                                        <td>2022</td>
+                                    </tr>
+                                    <tr>
+                                        <td>
+
+                                            <a href="/scholar-publication/lq7y/129988">Data Summarization Of Machine Learning Technique For Classification Of Air Pollution Index </a>
+
+                                            <br />
+                                                BIG DATA AND MACHINE LEARNING WITH APPLICATION <br />
+                                            <span class="badge rounded-pill  bg-info">Book Chapter</span> <span class="badge rounded-pill  bg-success">UTM FIRST AUTHOR</span>
+                                        </td>
+                                        <td>2022</td>
+                                    </tr>
+                                    <tr>
+                                        <td>
+
+                                            <a href="/scholar-publication/lq7y/129987">Introduction To Big Data And Machine&#xA;Learning&#xA;</a>
+
+                                            <br />
+                                                BIG DATA AND MACHINE LEARNING WITH APPLICATIONS<br />
+                                            <span class="badge rounded-pill  bg-info">Book Chapter</span> <span class="badge rounded-pill  bg-success">CO-AUTHOR</span>
+                                        </td>
+                                        <td>2022</td>
+                                    </tr>
+                                    <tr>
+                                        <td>
+
+                                            <a href="/scholar-publication/lq7y/128803">Detection Of Subtle White Matter Lesions In Mri Through Texture Feature Extraction And Boundary Delineation Using An Embedded Clustering Strategy</a>
+
+                                            <br />
+                                                SCIENTIFIC REPORTS<br />
+                                            <span class="badge rounded-pill  bg-info">Publication In Web Of Science</span> <span class="badge rounded-pill  bg-success">CO-AUTHOR</span>
+                                        </td>
+                                        <td>2022</td>
+                                    </tr>
+                                    <tr>
+                                        <td>
+
+                                            <a href="/scholar-publication/lq7y/126431">Evolving Pre-Trained Cnn Using Two-Layers Optimizer For Road Damage Detection From Drone Images</a>
+
+                                            <br />
+                                                IEEE ACCESS<br />
+                                            <span class="badge rounded-pill  bg-info">Publication In Web Of Science</span> <span class="badge rounded-pill  bg-success">CO-AUTHOR</span>
+                                        </td>
+                                        <td>2021</td>
+                                    </tr>
+                                    <tr>
+                                        <td>
+
+                                            <a href="/scholar-publication/lq7y/123810">Evaluation Comparison Of Wave Amount Measurement Results In Brass-Plated Tire Steel Cord Using Rmse And Cosine Similarity</a>
+
+                                            <br />
+                                                INDONESIAN JOURNAL OF ELECTRICAL ENGINEERING AND COMPUTER SCIENCE<br />
+                                            <span class="badge rounded-pill  bg-info">Publication In Scopus</span> <span class="badge rounded-pill  bg-success">UTM FIRST AUTHOR</span>
+                                        </td>
+                                        <td>2021</td>
+                                    </tr>
+                                    <tr>
+                                        <td>
+
+                                            <a href="/scholar-publication/lq7y/125291">Scalability Of Mobile Cloud Storage</a>
+
+                                            <br />
+                                                INTERNATIONAL JOURNAL OF INTERACTIVE MOBILE TECHNOLOGIES<br />
+                                            <span class="badge rounded-pill  bg-info">Publication In Scopus</span> <span class="badge rounded-pill  bg-success">CORRESPONDING AUTHOR</span>
+                                        </td>
+                                        <td>2021</td>
+                                    </tr>
+                                    <tr>
+                                        <td>
+
+                                            <a href="/scholar-publication/lq7y/117012">From Data To Decision: How Big Data Can Be Used To Support The Process Of Selecting Candidates For Top Positions In Universities</a>
+
+                                            <br />
+                                                THE UTM LEADERSHIP SYMPOSIUM 2020<br />
+                                            <span class="badge rounded-pill  bg-info">Proceedings</span> <span class="badge rounded-pill  bg-success">CO-AUTHOR</span>
+                                        </td>
+                                        <td>2020</td>
+                                    </tr>
+                                    <tr>
+                                        <td>
+
+                                            <a href="/scholar-publication/lq7y/117754">Comparison Of Vertical Distance And Sliding Windows Method In Brass Plated Tire Steel Cord (Bptsc) Diameter Measurement</a>
+
+                                            <br />
+                                                ICIC EXPRESS LETTERS<br />
+                                            <span class="badge rounded-pill  bg-info">Publication In Scopus</span> <span class="badge rounded-pill  bg-success">UTM FIRST AUTHOR</span>
+                                        </td>
+                                        <td>2020</td>
+                                    </tr>
+                                    <tr>
+                                        <td>
+
+                                            <a href="/scholar-publication/lq7y/117560">The Similarity Measurement Of Brass Plated Tire Steel Cord Edge Based On Computer Vision</a>
+
+                                            <br />
+                                                INTERNATIONAL JOURNAL OF ADVANCED SCIENCE AND TECHNOLOGY<br />
+                                            <span class="badge rounded-pill  bg-info">Publication In Scopus</span> <span class="badge rounded-pill  bg-success">UTM FIRST AUTHOR</span>
+                                        </td>
+                                        <td>2020</td>
+                                    </tr>
+                                    <tr>
+                                        <td>
+
+                                            <a href="/scholar-publication/lq7y/113889">Enhancement Of Individuality Representation For Multi-Biometric Identification</a>
+
+                                            <br />
+                                                IOP CONFERENCE SERIES: MATERIALS SCIENCE AND ENGINEERING<br />
+                                            <span class="badge rounded-pill  bg-info">Publication In Scopus</span> <span class="badge rounded-pill  bg-success">CO-AUTHOR</span>
+                                        </td>
+                                        <td>2020</td>
+                                    </tr>
+                                    <tr>
+                                        <td>
+
+                                            <a href="/scholar-publication/lq7y/117683">Measurement Of Wave Amount On Brass Plated Tire&#xD;&#xA;Steel Cord Using Local Minima And Maxima</a>
+
+                                            <br />
+                                                TEST ENGINEERING AND MANAGEMENT<br />
+                                            <span class="badge rounded-pill  bg-info">Journal Article Non Citation-Indexed</span> <span class="badge rounded-pill  bg-success">UTM FIRST AUTHOR</span>
+                                        </td>
+                                        <td>2020</td>
+                                    </tr>
+                                    <tr>
+                                        <td>
+
+                                            <a href="/scholar-publication/lq7y/117628">Test Similarity Data Ground Truth With Image&#xD;&#xA;Acquisition Using The Dice Algorithm</a>
+
+                                            <br />
+                                                TEST ENGINEERING AND MANAGEMENT<br />
+                                            <span class="badge rounded-pill  bg-info">Journal Article Non Citation-Indexed</span> <span class="badge rounded-pill  bg-success">UTM FIRST AUTHOR</span>
+                                        </td>
+                                        <td>2020</td>
+                                    </tr>
+                                    <tr>
+                                        <td>
+
+                                            <a href="/scholar-publication/lq7y/108003">Edu-Muallaf: Platform Atas Talian Pembelajaran Asas Fardhu Ain Bagi Saudara Kita Di Johor</a>
+
+                                            <br />
+                                                INTERNATIONAL CONFENRENCE ON MUALLAF (ICOM 2019)<br />
+                                            <span class="badge rounded-pill  bg-info">Proceedings</span> <span class="badge rounded-pill  bg-success">CO-AUTHOR</span>
+                                        </td>
+                                        <td>2019</td>
+                                    </tr>
+                                    <tr>
+                                        <td>
+
+                                            <a href="/scholar-publication/lq7y/106722">Self-Regulated Learning Strategies And Learning Retention In Mooc</a>
+
+                                            <br />
+                                                PAN-COMMONWEALTH FORUM 9, PCF9<br />
+                                            <span class="badge rounded-pill  bg-info">Conference Paper</span> <span class="badge rounded-pill  bg-success">CO-AUTHOR</span>
+                                        </td>
+                                        <td>2019</td>
+                                    </tr>
+                                    <tr>
+                                        <td>
+
+                                            <a href="/scholar-publication/lq7y/101314"></a>
+
+                                            <br />
+                                                MOBILE ANALYTICS DATABASE SUMMARIZATION FOR MALAYSIA AIR POLLUTANT INDEX DATA&#xD;&#xA;<br />
+                                            <span class="badge rounded-pill  bg-info">Clasified/Technical Report</span> <span class="badge rounded-pill  bg-success">CORRESPONDING AUTHOR</span>
+                                        </td>
+                                        <td>2019</td>
+                                    </tr>
+                                    <tr>
+                                        <td>
+
+                                            <a href="/scholar-publication/lq7y/101502"></a>
+
+                                            <br />
+                                                DATABASE SUMMARIZATION FOR MOBILE WEB PRE-FETCHING (MODS) USING&#xD;&#xA;ROUGH SET (PROJECT PROFILE&#xD;&#xA;R.J130000.7928.4S117)&#xD;&#xA;<br />
+                                            <span class="badge rounded-pill  bg-info">Clasified/Technical Report</span> <span class="badge rounded-pill  bg-success">CORRESPONDING AUTHOR</span>
+                                        </td>
+                                        <td>2019</td>
+                                    </tr>
+                                    <tr>
+                                        <td>
+
+                                            <a href="/scholar-publication/lq7y/104726">Preliminary Work On Design Thinking: Addressing Challenges Using Low-Fidelity&#xD;&#xA;Prototyping With Rural Teenagers</a>
+
+                                            <br />
+                                                THE 2018 INTERNATIONAL CONFERENCE ON ICT FOR RURAL DEVELOPMENT (IC-ICT RUDEV)<br />
+                                            <span class="badge rounded-pill  bg-info">Publication In Scopus</span> <span class="badge rounded-pill  bg-success">CO-AUTHOR</span>
+                                        </td>
+                                        <td>2019</td>
+                                    </tr>
+                                    <tr>
+                                        <td>
+
+                                            <a href="/scholar-publication/lq7y/108869">Machine Learning Technique For Enhancing Classification Performance In Data Summarization Using Rough Set And Genetic Algorithm</a>
+
+                                            <br />
+                                                INTERNATIONAL JOURNAL OF SCIENTIFIC AND TECHNOLOGY RESEARCH<br />
+                                            <span class="badge rounded-pill  bg-info">Publication In Scopus</span> <span class="badge rounded-pill  bg-success">UTM FIRST AUTHOR</span>
+                                        </td>
+                                        <td>2019</td>
+                                    </tr>
+                                    <tr>
+                                        <td>
+
+                                            <a href="/scholar-publication/lq7y/100801"></a>
+
+                                            <br />
+                                                A NEW SCHEME OF INTELLIGENT TIME SHIFTED CACHES FOR DATA ACCESS IN WIRELESS&#xD;&#xA;NETWORK<br />
+                                            <span class="badge rounded-pill  bg-info">Clasified/Technical Report</span> <span class="badge rounded-pill  bg-success">CORRESPONDING AUTHOR</span>
+                                        </td>
+                                        <td>2019</td>
+                                    </tr>
+                                    <tr>
+                                        <td>
+
+                                            <a href="/scholar-publication/lq7y/111346">Mobile Intelligent Web Pre-Fetching Scheme For Cloud Computing Services In Industrial Revolution 4.0</a>
+
+                                            <br />
+                                                TEST ENGINEERING AND MANAGEMENT<br />
+                                            <span class="badge rounded-pill  bg-info">Publication In Scopus</span> <span class="badge rounded-pill  bg-success">UTM FIRST AUTHOR</span>
+                                        </td>
+                                        <td>2019</td>
+                                    </tr>
+                                    <tr>
+                                        <td>
+
+                                            <a href="/scholar-publication/lq7y/101695">White Matter Lesion Intensity Standardization Using Adaptive Landmark Based Brain Tissue Analysis On Flair Mr Image</a>
+
+                                            <br />
+                                                INTERNATIONAL JOURNAL OF ADVANCES IN SOFT COMPUTING AND ITS APPLICATION<br />
+                                            <span class="badge rounded-pill  bg-info">Publication In Scopus</span> <span class="badge rounded-pill  bg-success">CO-AUTHOR</span>
+                                        </td>
+                                        <td>2018</td>
+                                    </tr>
+                                    <tr>
+                                        <td>
+
+                                            <a href="/scholar-publication/lq7y/99856">Comparison Of Prediction Methods For Air Pollution Data In Malaysia And Singapore</a>
+
+                                            <br />
+                                                INTERNATIONAL JOURNAL OF INNOVATIVE COMPUTING<br />
+                                            <span class="badge rounded-pill  bg-info">Journal Article Non Citation-Indexed</span> <span class="badge rounded-pill  bg-success">CORRESPONDING AUTHOR</span>
+                                        </td>
+                                        <td>2018</td>
+                                    </tr>
+                                    <tr>
+                                        <td>
+
+                                            <a href="/scholar-publication/lq7y/101168"></a>
+
+                                            <br />
+                                                A FORMAL EVALUATION FOR MASSIVE OPEN ONLINE COURSE IN WEB PROGRAMMING PROJECT: PROFILE R.J130000.7728.4J170<br />
+                                            <span class="badge rounded-pill  bg-info">Clasified/Technical Report</span> <span class="badge rounded-pill  bg-success">INDIVIDUAL AUTHOR</span>
+                                        </td>
+                                        <td>2018</td>
+                                    </tr>
+                                    <tr>
+                                        <td>
+
+                                            <a href="/scholar-publication/lq7y/100718">Data Analytics Of Blended Learning For Data Structure Subject Through Mooc</a>
+
+                                            <br />
+                                                NEW ACADEMIA LEARNING INNOVATION NALI 2018 EXHIBITION AND COMPETITION<br />
+                                            <span class="badge rounded-pill  bg-info">Proceedings</span> <span class="badge rounded-pill  bg-success">CO-AUTHOR</span>
+                                        </td>
+                                        <td>2018</td>
+                                    </tr>
+                                    <tr>
+                                        <td>
+
+                                            <a href="/scholar-publication/lq7y/100713">Gaimooc: Adapting Gamification Approach In Massive Open Online Courses To Improve User Engagement</a>
+
+                                            <br />
+                                                NEW ACADEMIA LEARNING INNOVATION NALI 2018 EXHIBITION AND COMPETITION<br />
+                                            <span class="badge rounded-pill  bg-info">Proceedings</span> <span class="badge rounded-pill  bg-success">UTM FIRST AUTHOR</span>
+                                        </td>
+                                        <td>2018</td>
+                                    </tr>
+                                    <tr>
+                                        <td>
+
+                                            <a href="/scholar-publication/lq7y/101649">Automatic White Matter Lesion Detection And Segmentation On Magnetic Resonance Imaging: A Review Of Past And Current State-Of-The-Art</a>
+
+                                            <br />
+                                                INTERNATIONAL JOURNAL OF ADVANCES IN SOFT COMPUTING AND ITS APPLICATION<br />
+                                            <span class="badge rounded-pill  bg-info">Publication In Scopus</span> <span class="badge rounded-pill  bg-success">CO-AUTHOR</span>
+                                        </td>
+                                        <td>2018</td>
+                                    </tr>
+                                    <tr>
+                                        <td>
+
+                                            <a href="/scholar-publication/lq7y/100226"></a>
+
+                                            <br />
+                                                POLISI PEMBANGUNAN, PENAWARAN DAN PINDAH KREDIT MOOC UTM<br />
+                                            <span class="badge rounded-pill  bg-info">Clasified/Technical Report</span> <span class="badge rounded-pill  bg-success">CO-AUTHOR</span>
+                                        </td>
+                                        <td>2018</td>
+                                    </tr>
+                                    <tr>
+                                        <td>
+
+                                            <a href="/scholar-publication/lq7y/99931"></a>
+
+                                            <br />
+                                                ANNUAL REPORT FACULTY OF COMPUTING 2017<br />
+                                            <span class="badge rounded-pill  bg-info">Clasified/Technical Report</span> <span class="badge rounded-pill  bg-success">CO-AUTHOR</span>
+                                        </td>
+                                        <td>2018</td>
+                                    </tr>
+                                    <tr>
+                                        <td>
+
+                                            <a href="/scholar-publication/lq7y/93115">Usability Testing On Intelligent Mobile Web Pre-Fetching Of Cloud Storage Scheme</a>
+
+                                            <br />
+                                                INTERNATIONAL JOURNAL OF ADVANCES IN INTELLIGENT INFORMATICS<br />
+                                            <span class="badge rounded-pill  bg-info">Journal Article Non Citation-Indexed</span> <span class="badge rounded-pill  bg-success">CORRESPONDING AUTHOR</span>
+                                        </td>
+                                        <td>2017</td>
+                                    </tr>
+                                    <tr>
+                                        <td>
+
+                                            <a href="/scholar-publication/lq7y/92510">Mobile Analytics Database Summarization Using&#xD;&#xA;Rough Set</a>
+
+                                            <br />
+                                                INTERNATIONAL JOURNAL OF INNOVATIVE COMPUTING<br />
+                                            <span class="badge rounded-pill  bg-info">Journal Article Non Citation-Indexed</span> <span class="badge rounded-pill  bg-success">UTM FIRST AUTHOR</span>
+                                        </td>
+                                        <td>2017</td>
+                                    </tr>
+                                    <tr>
+                                        <td>
+
+                                            <a href="/scholar-publication/lq7y/93923">Preloved Donation Mobile Application</a>
+
+                                            <br />
+                                                UTM COMPUTING PROCEEDINGS: INNOVATIONS IN COMPUTING TECHNOLOGY AND APPLICATIONS<br />
+                                            <span class="badge rounded-pill  bg-info">Proceedings</span> <span class="badge rounded-pill  bg-success">UTM FIRST AUTHOR</span>
+                                        </td>
+                                        <td>2017</td>
+                                    </tr>
+                                    <tr>
+                                        <td>
+
+                                            <a href="/scholar-publication/lq7y/88566">Machine Learning In Data Lake For Combining Data Silos</a>
+
+                                            <br />
+                                                DATA MINING AND BIG DATA<br />
+                                            <span class="badge rounded-pill  bg-info">Publication In Scopus</span> <span class="badge rounded-pill  bg-success">CORRESPONDING AUTHOR</span>
+                                        </td>
+                                        <td>2017</td>
+                                    </tr>
+                                    <tr>
+                                        <td>
+
+                                            <a href="/scholar-publication/lq7y/88565">Machine Learning Techniques For Prediction Of Pre-Fetched Objects In Handling Big Data Storage</a>
+
+                                            <br />
+                                                2ND INTERNATIONAL CONFERENCE ON DATA MINING AND BIG DATA<br />
+                                            <span class="badge rounded-pill  bg-info">Publication In Scopus</span> <span class="badge rounded-pill  bg-success">CORRESPONDING AUTHOR</span>
+                                        </td>
+                                        <td>2017</td>
+                                    </tr>
+                                    <tr>
+                                        <td>
+
+                                            <a href="/scholar-publication/lq7y/91246">Achieving Reproducibility Incorporating Service Versioning Into Provenance Model</a>
+
+                                            <br />
+                                                JOURNAL OF TELECOMMUNICATION, ELECTRONIC AND COMPUTER ENGINEERING <br />
+                                            <span class="badge rounded-pill  bg-info">Publication In Scopus</span> <span class="badge rounded-pill  bg-success">UTM FIRST AUTHOR</span>
+                                        </td>
+                                        <td>2017</td>
+                                    </tr>
+                                    <tr>
+                                        <td>
+
+                                            <a href="/scholar-publication/lq7y/88653">Web Pre-Fetching Schemes Using Machine Learning For Mobile Cloud Computing</a>
+
+                                            <br />
+                                                INTERNATIONAL JOURNAL OF ADVANCES IN SOFT COMPUTING AND ITS APPLICATIONS<br />
+                                            <span class="badge rounded-pill  bg-info">Publication In Scopus</span> <span class="badge rounded-pill  bg-success">UTM FIRST AUTHOR</span>
+                                        </td>
+                                        <td>2017</td>
+                                    </tr>
+                                    <tr>
+                                        <td>
+
+                                            <a href="/scholar-publication/lq7y/88559"></a>
+
+                                            <br />
+                                                A GENERIC MODEL OF KNOWLEDGE COMMUNITY FOR A SUSTAINABLE AND HOLISTIC ADVANCEMENT IN RURAL EDUCATION (K-SHARE)<br />
+                                            <span class="badge rounded-pill  bg-info">Clasified/Technical Report</span> <span class="badge rounded-pill  bg-success">CO-AUTHOR</span>
+                                        </td>
+                                        <td>2017</td>
+                                    </tr>
+                                    <tr>
+                                        <td>
+
+                                            <a href="/scholar-publication/lq7y/92594"></a>
+
+                                            <br />
+                                                FACULTY OF COMPUTING ANNUAL REPORT 2016<br />
+                                            <span class="badge rounded-pill  bg-info">Clasified/Technical Report</span> <span class="badge rounded-pill  bg-success">CO-AUTHOR</span>
+                                        </td>
+                                        <td>2017</td>
+                                    </tr>
+                                    <tr>
+                                        <td>
+
+                                            <a href="/scholar-publication/lq7y/92208">Data Pre-Processing: A Case Study In Predicting Student&#x27;S Retention In Mooc</a>
+
+                                            <br />
+                                                JOURNAL OF FUNDAMENTAL AND APPLIED SCIENCES<br />
+                                            <span class="badge rounded-pill  bg-info">Publication In Web Of Science</span> <span class="badge rounded-pill  bg-success">CO-AUTHOR</span>
+                                        </td>
+                                        <td>2017</td>
+                                    </tr>
+                                    <tr>
+                                        <td>
+
+                                            <a href="/scholar-publication/lq7y/93930">Improving The Usability Of Massive Open Online Courses By Adapting Problem Solving Video</a>
+
+                                            <br />
+                                                UTM COMPUTING PROCEEDINGS: INNOVATIONS IN COMPUTING TECHNOLOGY AND APPLICATIONS<br />
+                                            <span class="badge rounded-pill  bg-info">Proceedings</span> <span class="badge rounded-pill  bg-success">UTM FIRST AUTHOR</span>
+                                        </td>
+                                        <td>2017</td>
+                                    </tr>
+                                    <tr>
+                                        <td>
+
+                                            <a href="/scholar-publication/lq7y/93931">Adapting Gamification Approach In Massive Open Online Courses To Improve User Engagement</a>
+
+                                            <br />
+                                                UTM COMPUTING PROCEEDINGS: INNOVATIONS IN COMPUTING TECHNOLOGY AND APPLICATIONS<br />
+                                            <span class="badge rounded-pill  bg-info">Proceedings</span> <span class="badge rounded-pill  bg-success">UTM FIRST AUTHOR</span>
+                                        </td>
+                                        <td>2017</td>
+                                    </tr>
+                                    <tr>
+                                        <td>
+
+                                            <a href="/scholar-publication/lq7y/83095">Smart Mobile Learning Application For Mandarin Languange</a>
+
+                                            <br />
+                                                INTERNATIONAL SEMINAR BETWEEN HUIZHOU UNIVERSITY &amp; UNIVERSITI TEKNOLOGI MALAYSIA 2016<br />
+                                            <span class="badge rounded-pill  bg-info">Conference Paper</span> <span class="badge rounded-pill  bg-success">CORRESPONDING AUTHOR</span>
+                                        </td>
+                                        <td>2016</td>
+                                    </tr>
+                                    <tr>
+                                        <td>
+
+                                            <a href="/scholar-publication/lq7y/56901">-</a>
+
+                                            <br />
+                                                AN IMPRESSION-BASED MODEL FOR UNDERSTANDABILITY, LEARNABILITY AND ATTRACTIVENESS (IBMULA) IN WEB USABILITY<br />
+                                            <span class="badge rounded-pill  bg-info">Clasified/Technical Report</span> <span class="badge rounded-pill  bg-success">CO-AUTHOR</span>
+                                        </td>
+                                        <td>2016</td>
+                                    </tr>
+                                    <tr>
+                                        <td>
+
+                                            <a href="/scholar-publication/lq7y/83139"></a>
+
+                                            <br />
+                                                INDUSTRIAL TRAINING FINAL REPORT<br />
+                                            <span class="badge rounded-pill  bg-info">Clasified/Technical Report</span> <span class="badge rounded-pill  bg-success">INDIVIDUAL AUTHOR</span>
+                                        </td>
+                                        <td>2016</td>
+                                    </tr>
+                                    <tr>
+                                        <td>
+
+                                            <a href="/scholar-publication/lq7y/82996"></a>
+
+                                            <br />
+                                                PROJECT PROFILE&#xD;&#xA;VOTE NUMBER: Q.J130000.2428.02G70&#xD;&#xA;CLOUD COMPUTING SERVICES FOR E-LEARNING BIG DATA<br />
+                                            <span class="badge rounded-pill  bg-info">Clasified/Technical Report</span> <span class="badge rounded-pill  bg-success">CORRESPONDING AUTHOR</span>
+                                        </td>
+                                        <td>2016</td>
+                                    </tr>
+                                    <tr>
+                                        <td>
+
+                                            <a href="/scholar-publication/lq7y/82959">Generated Rules For Aids And E-Learning Classifier Using Rough Set Approach</a>
+
+                                            <br />
+                                                INTERNATIONAL JOURNAL OF ADVANCES IN INTELLIGENT INFORMATICS<br />
+                                            <span class="badge rounded-pill  bg-info">Journal Article Non Citation-Indexed</span> <span class="badge rounded-pill  bg-success">CORRESPONDING AUTHOR</span>
+                                        </td>
+                                        <td>2016</td>
+                                    </tr>
+                                    <tr>
+                                        <td>
+
+                                            <a href="/scholar-publication/lq7y/77541">Mobile Cloud Computing Architecture On Data Management For Big Data Storage</a>
+
+                                            <br />
+                                                INTERNATIONAL JOURNAL OF ADVANCES IN SOFT COMPUTING AND ITS APPLICATIONS<br />
+                                            <span class="badge rounded-pill  bg-info">Publication In Scopus</span> <span class="badge rounded-pill  bg-success">CORRESPONDING AUTHOR</span>
+                                        </td>
+                                        <td>2016</td>
+                                    </tr>
+                                    <tr>
+                                        <td>
+
+                                            <a href="/scholar-publication/lq7y/82947">Management System Prototype For Intelligent Mobile Cloud Computing For Big Data</a>
+
+                                            <br />
+                                                JOURNAL TEKNOLOGI<br />
+                                            <span class="badge rounded-pill  bg-info">Publication In Scopus</span> <span class="badge rounded-pill  bg-success">CORRESPONDING AUTHOR</span>
+                                        </td>
+                                        <td>2016</td>
+                                    </tr>
+                                    <tr>
+                                        <td>
+
+                                            <a href="/scholar-publication/lq7y/83019">Tools In Data Science For Better Processing</a>
+
+                                            <br />
+                                                AIP CONFERENCE PROCEEDINGS<br />
+                                            <span class="badge rounded-pill  bg-info">Publication In Scopus</span> <span class="badge rounded-pill  bg-success">CORRESPONDING AUTHOR</span>
+                                        </td>
+                                        <td>2016</td>
+                                    </tr>
+                                    <tr>
+                                        <td>
+
+                                            <a href="/scholar-publication/lq7y/83038">Generic Shopping Mall Directory Mobile Application</a>
+
+                                            <br />
+                                                INTERNATIONAL CONFERENCE ON SCIENCE IN INFORMATION TECHNOLOGY (ICSITECH)<br />
+                                            <span class="badge rounded-pill  bg-info">Publication In Scopus</span> <span class="badge rounded-pill  bg-success">UTM FIRST AUTHOR</span>
+                                        </td>
+                                        <td>2016</td>
+                                    </tr>
+                                    <tr>
+                                        <td>
+
+                                            <a href="/scholar-publication/lq7y/82936">Visualization And Centrality Measurement Of Social Network Analysis</a>
+
+                                            <br />
+                                                JOURNAL TEKNOLOGI<br />
+                                            <span class="badge rounded-pill  bg-info">Publication In Scopus</span> <span class="badge rounded-pill  bg-success">CORRESPONDING AUTHOR</span>
+                                        </td>
+                                        <td>2016</td>
+                                    </tr>
+                                    <tr>
+                                        <td>
+
+                                            <a href="/scholar-publication/lq7y/77561">Mindstoon:Before And After Invention And Innovation</a>
+
+                                            <br />
+                                                MALAYSIAN INVENTION AND DESIGN SOCIETY (MINDS NEWSLETTER)<br />
+                                            <span class="badge rounded-pill  bg-info">Article In Mass Media</span> <span class="badge rounded-pill  bg-success">INDIVIDUAL AUTHOR</span>
+                                        </td>
+                                        <td>2016</td>
+                                    </tr>
+                                    <tr>
+                                        <td>
+
+                                            <a href="/scholar-publication/lq7y/77563">Mindstoon: Before And After Invention And Innovation</a>
+
+                                            <br />
+                                                MALAYSIAN INVENTION AND DESIGN SOCIETY (MINDS NEWSLETTER)<br />
+                                            <span class="badge rounded-pill  bg-info">Article In Mass Media</span> <span class="badge rounded-pill  bg-success">INDIVIDUAL AUTHOR</span>
+                                        </td>
+                                        <td>2016</td>
+                                    </tr>
+                                    <tr>
+                                        <td>
+
+                                            <a href="/scholar-publication/lq7y/70018">Mobile Learning Di Kawasan Luar&#xD;&#xA;Bandar </a>
+
+                                            <br />
+                                                TANGGUNGJAWAB SOSIAL UNIVERSITI: MODEL PERKONGSIAN ILMU MELALUI PROJEK KOMUNITI UTM-KEJORA &#xD;&#xA;&#xD;&#xA;&#xD;&#xA;<br />
+                                            <span class="badge rounded-pill  bg-info">Book Chapter</span> <span class="badge rounded-pill  bg-success">CO-AUTHOR</span>
+                                        </td>
+                                        <td>2015</td>
+                                    </tr>
+                                    <tr>
+                                        <td>
+
+                                            <a href="/scholar-publication/lq7y/69887">Mobile Learning Di Kawasan Luar Bandar</a>
+
+                                            <br />
+                                                TANGGUNGJAWAB SOSIAL UNIVERSITI:&#xD;&#xA;MODEL PERKONGSIAN ILMU MELALUI PROJEK&#xD;&#xA;KOMUNITI UTM-KEJORA<br />
+                                            <span class="badge rounded-pill  bg-info">Book Chapter</span> <span class="badge rounded-pill  bg-success">CO-AUTHOR</span>
+                                        </td>
+                                        <td>2015</td>
+                                    </tr>
+                                    <tr>
+                                        <td>
+
+                                            <a href="/scholar-publication/lq7y/70880">Kajian Minat Kerjaya Melalui Sistem Penasihat Kursus (Spk) </a>
+
+                                            <br />
+                                                TANGGUNGJAWAB SOSIAL UNIVERSITI: MODEL PERKONGSIAN ILMU MELALUI PROJEK KOMUNITI UTM-KEJORA  <br />
+                                            <span class="badge rounded-pill  bg-info">Book Chapter</span> <span class="badge rounded-pill  bg-success">UTM FIRST AUTHOR</span>
+                                        </td>
+                                        <td>2015</td>
+                                    </tr>
+                                    <tr>
+                                        <td>
+
+                                            <a href="/scholar-publication/lq7y/71541">Generic Shopping Mall Directory Mobile Application</a>
+
+                                            <br />
+                                                THE 2015 INTERNATIONAL CONFERENCE ON SCIENCE IN INFORMATION TECHNOLOGY (ICSITECH)<br />
+                                            <span class="badge rounded-pill  bg-info">Proceedings</span> <span class="badge rounded-pill  bg-success">UTM FIRST AUTHOR</span>
+                                        </td>
+                                        <td>2015</td>
+                                    </tr>
+                                    <tr>
+                                        <td>
+
+                                            <a href="/scholar-publication/lq7y/72288"></a>
+
+                                            <br />
+                                                CROWD FEEDBACK FOR EFFICIENT AND CONVENIENT COMMUTER PLANNING<br />
+                                            <span class="badge rounded-pill  bg-info">Clasified/Technical Report</span> <span class="badge rounded-pill  bg-success">CORRESPONDING AUTHOR</span>
+                                        </td>
+                                        <td>2015</td>
+                                    </tr>
+                                    <tr>
+                                        <td>
+
+                                            <a href="/scholar-publication/lq7y/71355">Social Network Analysis For Political Blogosphere Dataset</a>
+
+                                            <br />
+                                                INTERNATIONAL JOURNAL OF ADVANCES IN SOFT COMPUTING AND ITS APPLICATION<br />
+                                            <span class="badge rounded-pill  bg-info">Publication In Scopus</span> <span class="badge rounded-pill  bg-success">CORRESPONDING AUTHOR</span>
+                                        </td>
+                                        <td>2015</td>
+                                    </tr>
+                                    <tr>
+                                        <td>
+
+                                            <a href="/scholar-publication/lq7y/71342">Intelligent Web Objects Prediction Approach In Web Proxy Cache Using Supervised Machine Learning And Feature Selection</a>
+
+                                            <br />
+                                                INTERNATIONAL JOURNAL OF ADVANCES IN SOFT COMPUTING AND ITS APPLICATION<br />
+                                            <span class="badge rounded-pill  bg-info">Publication In Scopus</span> <span class="badge rounded-pill  bg-success">CORRESPONDING AUTHOR</span>
+                                        </td>
+                                        <td>2015</td>
+                                    </tr>
+                                    <tr>
+                                        <td>
+
+                                            <a href="/scholar-publication/lq7y/72294"></a>
+
+                                            <br />
+                                                PROJEK ICARE PUSAT KEMAJUAN DALAM INFORMATIK PENDIDIKAN LUAR BANDAR (IPKPLB)<br />
+                                            <span class="badge rounded-pill  bg-info">Clasified/Technical Report</span> <span class="badge rounded-pill  bg-success">CO-AUTHOR</span>
+                                        </td>
+                                        <td>2015</td>
+                                    </tr>
+                                    <tr>
+                                        <td>
+
+                                            <a href="/scholar-publication/lq7y/71685">Tools In Data Science For Better Processing</a>
+
+                                            <br />
+                                                SIMPOSIUM KEBANGSAAN SAINS MATEMATIK KE-23<br />
+                                            <span class="badge rounded-pill  bg-info">Conference Paper</span> <span class="badge rounded-pill  bg-success">CORRESPONDING AUTHOR</span>
+                                        </td>
+                                        <td>2015</td>
+                                    </tr>
+                                    <tr>
+                                        <td>
+
+                                            <a href="/scholar-publication/lq7y/8939"></a>
+
+                                            <br />
+                                                PROJECT PROFILE&#xD;&#xA;VOTE NUMBER : Q.J130000.2428.00G96 INTERACTIVE PUBLIC SITUATED DISPLAYS INTELLIGENT MOBILE WEB PRE-CACHING KNOWLEDGE ORIENTED DIGITAL UNIVERSITY<br />
+                                            <span class="badge rounded-pill  bg-info">Clasified/Technical Report</span> <span class="badge rounded-pill  bg-success">CORRESPONDING AUTHOR</span>
+                                        </td>
+                                        <td>2014</td>
+                                    </tr>
+                                    <tr>
+                                        <td>
+
+                                            <a href="/scholar-publication/lq7y/8938"></a>
+
+                                            <br />
+                                                PROJECT PROFILE VOTE NUMBER : Q.J130000.2528.03H00 THE AUGMENTED SOCIAL NETWORK (ASN) BENCHMARK FOR WEB PRE-CACHING ON SOLVING TRUST, ACCURACY AND EXPECTATION PROBLEMS<br />
+                                            <span class="badge rounded-pill  bg-info">Clasified/Technical Report</span> <span class="badge rounded-pill  bg-success">CORRESPONDING AUTHOR</span>
+                                        </td>
+                                        <td>2014</td>
+                                    </tr>
+                                    <tr>
+                                        <td>
+
+                                            <a href="/scholar-publication/lq7y/13609"></a>
+
+                                            <br />
+                                                ENHANCEMENT OF COLLABORATIVE LEARNING ASSESSMENT USING SOCIAL NETWORK ANALYSIS AND CLUSTERING TECHNIQUE<br />
+                                            <span class="badge rounded-pill  bg-info">Clasified/Technical Report</span> <span class="badge rounded-pill  bg-success">CO-AUTHOR</span>
+                                        </td>
+                                        <td>2014</td>
+                                    </tr>
+                                    <tr>
+                                        <td>
+
+                                            <a href="/scholar-publication/lq7y/8937"></a>
+
+                                            <br />
+                                                GRADUATE WORKSPACE POLICY FOR FACULTY OF COMPUTING POSTGRADUATE STUDENTS<br />
+                                            <span class="badge rounded-pill  bg-info">Policy Paper</span> <span class="badge rounded-pill  bg-success">INDIVIDUAL AUTHOR</span>
+                                        </td>
+                                        <td>2014</td>
+                                    </tr>
+                                    <tr>
+                                        <td>
+
+                                            <a href="/scholar-publication/lq7y/8580">Performance Improvement Of Least-Recently-Used Policy In Web Proxy Cache Replacement Using Supervised Machine Learning</a>
+
+                                            <br />
+                                                INTERNATIONAL JOURNAL OF ADVANCES IN SOFT COMPUTING AND ITS APPLICATION<br />
+                                            <span class="badge rounded-pill  bg-info">Publication In Scopus</span> <span class="badge rounded-pill  bg-success">UTM FIRST AUTHOR</span>
+                                        </td>
+                                        <td>2014</td>
+                                    </tr>
+                                    <tr>
+                                        <td>
+
+                                            <a href="/scholar-publication/lq7y/8631">A Review Of Intelligent Methods For Pre-Fetching In Cloud Computing Environment</a>
+
+                                            <br />
+                                                RECENT ADVANCES ON SOFT COMPUTING AND DATA MINING, ADVANCES IN INTELLIGENT SYSTEMS AND COMPUTING<br />
+                                            <span class="badge rounded-pill  bg-info">Book Chapter</span> <span class="badge rounded-pill  bg-success">CORRESPONDING AUTHOR</span>
+                                        </td>
+                                        <td>2014</td>
+                                    </tr>
+                                    <tr>
+                                        <td>
+
+                                            <a href="/scholar-publication/lq7y/8630">Evaluation Of Intelligent Mobile Web Pre-Fetching System For Mobile Cloud Environment</a>
+
+                                            <br />
+                                                SERIES: FRONTIERS IN ARTIFICIAL INTELLIGENCE AND APPLICATIONS, NEW TRENDS IN SOFTWARE METHODOLOGIES, TOOLS AND TECHNIQUES<br />
+                                            <span class="badge rounded-pill  bg-info">Book Chapter</span> <span class="badge rounded-pill  bg-success">CORRESPONDING AUTHOR</span>
+                                        </td>
+                                        <td>2014</td>
+                                    </tr>
+                                    <tr>
+                                        <td>
+
+                                            <a href="/scholar-publication/lq7y/8414">Fusion Global-Local-Topology Particle Swarm Optimization For Global Optimization Problems</a>
+
+                                            <br />
+                                                MATHEMATICAL PROBLEMS IN ENGINEERING<br />
+                                            <span class="badge rounded-pill  bg-info">Publication In Web Of Science</span> <span class="badge rounded-pill  bg-success">CO-AUTHOR</span>
+                                        </td>
+                                        <td>2014</td>
+                                    </tr>
+                                    <tr>
+                                        <td>
+
+                                            <a href="/scholar-publication/lq7y/8582">Evolving Paper-Based Activities Approach (Epaa) To Promote Interest In Software Engineering Education</a>
+
+                                            <br />
+                                                WSEAS TRANSACTIONS ON ADVANCES IN ENGINEERING EDUCATION<br />
+                                            <span class="badge rounded-pill  bg-info">Journal Article Non Citation-Indexed</span> <span class="badge rounded-pill  bg-success">CO-AUTHOR</span>
+                                        </td>
+                                        <td>2014</td>
+                                    </tr>
+                                    <tr>
+                                        <td>
+
+                                            <a href="/scholar-publication/lq7y/8605">A Survey Of Web Caching Architectures Or Deployment Schemes</a>
+
+                                            <br />
+                                                INTERNATIONAL JOURNAL OF INNOVATIVE COMPUTING<br />
+                                            <span class="badge rounded-pill  bg-info">Journal Article Non Citation-Indexed</span> <span class="badge rounded-pill  bg-success">CORRESPONDING AUTHOR</span>
+                                        </td>
+                                        <td>2013</td>
+                                    </tr>
+                                    <tr>
+                                        <td>
+
+                                            <a href="/scholar-publication/lq7y/66869">Implementation Of Social Network Analysis For Web Cache Concent Mining Visualization</a>
+
+                                            <br />
+                                                COMPUTATIONAL SOCIAL NETWORKS: MINING AND VISUALIZATION<br />
+                                            <span class="badge rounded-pill  bg-info">Book Chapter</span> <span class="badge rounded-pill  bg-success">CORRESPONDING AUTHOR</span>
+                                        </td>
+                                        <td>2013</td>
+                                    </tr>
+                                    <tr>
+                                        <td>
+
+                                            <a href="/scholar-publication/lq7y/8620">Intelligent Caching Wireless Data Access In The Wireless Spectrum</a>
+
+                                            <br />
+                                                TELKOMNIKA INDONESIAN JOURNAL OF ELECTRICAL ENGINEERING<br />
+                                            <span class="badge rounded-pill  bg-info">Journal Article Non Citation-Indexed</span> <span class="badge rounded-pill  bg-success">CORRESPONDING AUTHOR</span>
+                                        </td>
+                                        <td>2013</td>
+                                    </tr>
+                                    <tr>
+                                        <td>
+
+                                            <a href="/scholar-publication/lq7y/8787">Centrality Measurement And Visualization Of Social&#xA;Network Analyis For Relational Data</a>
+
+                                            <br />
+                                                2ND INTERNATIONAL CONFERENCE ON INTERACTIVE DIGITAL MEDIA 2013 (ICIDM 2013)<br />
+                                            <span class="badge rounded-pill  bg-info">Proceedings</span> <span class="badge rounded-pill  bg-success">UTM FIRST AUTHOR</span>
+                                        </td>
+                                        <td>2013</td>
+                                    </tr>
+                                    <tr>
+                                        <td>
+
+                                            <a href="/scholar-publication/lq7y/8693">Computational Social Networks: Mining And Visualization, Series In Computer Communications And Networks</a>
+
+                                            <br />
+                                                IMPLEMENTATION OF SOCIAL NETWORK ANALYSIS FOR WEB CACHE CONTENT MINING VISUALIZATION<br />
+                                            <span class="badge rounded-pill  bg-info">Book Chapter</span> <span class="badge rounded-pill  bg-success">CORRESPONDING AUTHOR</span>
+                                        </td>
+                                        <td>2012</td>
+                                    </tr>
+                                    <tr>
+                                        <td>
+
+                                            <a href="/scholar-publication/lq7y/21866">Intelligent Web Caching For E-Learning Log Data, Sarina Sulaiman, Siti Mariyam Shamsuddin, Fadni Forkan, Ajith Abraham, Shahida Sulaiman</a>
+
+                                            <br />
+                                                Third Asia International Conference on Modelling &amp; Simulation (AMS2009), 25-29 May 2009<br />
+                                            <span class="badge rounded-pill  bg-info">Conference Paper</span> <span class="badge rounded-pill  bg-success">CORRESPONDING AUTHOR</span>
+                                        </td>
+                                        <td>2009</td>
+                                    </tr>
+                                    <tr>
+                                        <td>
+
+                                            <a href="/scholar-publication/lq7y/56910">Autonomous Spy&#xE2;&#xA9;: Intelligent Web Proxy Caching Detection Using Neurocomputing And Particle Swarm Optimization, Sarina Sulaiman, Siti Mariyam Shamsuddin, Fadni Forkan</a>
+
+                                            <br />
+                                                Proceeding of the 6th International Symposium on Mechatronics and its Applications (ISMA09), Sharjah, UAE, March 24-26,2009<br />
+                                            <span class="badge rounded-pill  bg-info">Conference Paper</span> <span class="badge rounded-pill  bg-success">CORRESPONDING AUTHOR</span>
+                                        </td>
+                                        <td>2009</td>
+                                    </tr>
+                                    <tr>
+                                        <td>
+
+                                            <a href="/scholar-publication/lq7y/21862">Rough Neuro-Pso Web Caching And Xml Prefetching For Accessing Facebook From Mobile Environment, Sarina Sulaiman1, Siti Mariyam Shamsuddin1, Ajith Abraham2</a>
+
+                                            <br />
+                                                8th International Conference onComputer Information Systems and Industrial Management Applications (cisim 2009), December 9-11, 2009 <br />
+                                            <span class="badge rounded-pill  bg-info">Conference Paper</span> <span class="badge rounded-pill  bg-success">CORRESPONDING AUTHOR</span>
+                                        </td>
+                                        <td>2009</td>
+                                    </tr>
+                                    <tr>
+                                        <td>
+
+                                            <a href="/scholar-publication/lq7y/21868">Rough Web Caching, Sarina Sulaiman, Siti Mariyam Shamsuddin, And Ajith Abraham, </a>
+
+                                            <br />
+                                                A. Abraham, R. Falc&#xC2;&#xB4;on, and R. Bello (Eds.): Rough Set Theory, SCI 174, pp. 187&#xE2;??211. springerlink.com c&#x2; Springer-Verlag Berlin Heidelberg 2009<br />
+                                            <span class="badge rounded-pill  bg-info">Book Chapter</span> <span class="badge rounded-pill  bg-success">CORRESPONDING AUTHOR</span>
+                                        </td>
+                                        <td>2009</td>
+                                    </tr>
+                                    <tr>
+                                        <td>
+
+                                            <a href="/scholar-publication/lq7y/31607">Gendmg: A Generic Graph Representation Layout To Visualize Existing Software Artifacts, Shahida Sulaiman1 And Sarina Sulaiman2</a>
+
+                                            <br />
+                                                H. Badioze Zaman et al. (Eds.): IVIC 2009, LNCS 5857, pp. 789&#xE2;??799, 2009. &#xC2;&#xA9; Springer-Verlag Berlin Heidelberg 2009<br />
+                                            <span class="badge rounded-pill  bg-info">Book Chapter</span> <span class="badge rounded-pill  bg-success">CO-AUTHOR</span>
+                                        </td>
+                                        <td>2009</td>
+                                    </tr>
+                                    <tr>
+                                        <td>
+
+                                            <a href="/scholar-publication/lq7y/8694">Rough Web Caching</a>
+
+                                            <br />
+                                                ROUGH SET THEORY: A TRUE LANDMARK IN DATA ANALYSIS, STUDIES IN COMPUTATIONAL INTELLIGENCE<br />
+                                            <span class="badge rounded-pill  bg-info">Book Chapter</span> <span class="badge rounded-pill  bg-success">CORRESPONDING AUTHOR</span>
+                                        </td>
+                                        <td>2009</td>
+                                    </tr>
+                                    <tr>
+                                        <td>
+
+                                            <a href="/scholar-publication/lq7y/56919">An Implementation Of Rough Set In Optimizing Mobile Web Caching Performance</a>
+
+                                            <br />
+                                                Proceedings - UKSim 10th International Conference on Computer Modelling and Simulation, EUROSIM/UKSim2008<br />
+                                            <span class="badge rounded-pill  bg-info">Conference Paper</span> <span class="badge rounded-pill  bg-success">INDIVIDUAL AUTHOR</span>
+                                        </td>
+                                        <td>2008</td>
+                                    </tr>
+                                    <tr>
+                                        <td>
+
+                                            <a href="/scholar-publication/lq7y/56918">Intelligent Web Caching Using Neurocomputing And Particle Swarm Optimization Algorithm</a>
+
+                                            <br />
+                                                Proceedings - 2nd Asia International Conference on Modelling and Simulation, AMS 2008<br />
+                                            <span class="badge rounded-pill  bg-info">Conference Paper</span> <span class="badge rounded-pill  bg-success">INDIVIDUAL AUTHOR</span>
+                                        </td>
+                                        <td>2008</td>
+                                    </tr>
+                                    <tr>
+                                        <td>
+
+                                            <a href="/scholar-publication/lq7y/56915">Supporting System Development By Novice Software Engineers Using A Tutor-Based Software Visualization (Tubvis) Approach</a>
+
+                                            <br />
+                                                Proceedings - International Symposium on Information Technology 2008, ITSim<br />
+                                            <span class="badge rounded-pill  bg-info">Conference Paper</span> <span class="badge rounded-pill  bg-success">INDIVIDUAL AUTHOR</span>
+                                        </td>
+                                        <td>2008</td>
+                                    </tr>
+                                    <tr>
+                                        <td>
+
+                                            <a href="/scholar-publication/lq7y/21865">Konsep Falsafah Sains Al-Quran Mengenai Teknologi Maklumat, Sarina Sulaiman , Yahaya Jusoh , Siti Mariyam Shamsuddin , Shahida Sulaiman , 18 &amp; 19 March 2008, </a>
+
+                                            <br />
+                                                INSIST 2008 (International Seminar on Islamic Science &amp; Technology) 18 &amp; 19 March 2008, Putra World Trade Centre, Kuala Lumpur<br />
+                                            <span class="badge rounded-pill  bg-info">Conference Paper</span> <span class="badge rounded-pill  bg-success">CORRESPONDING AUTHOR</span>
+                                        </td>
+                                        <td>2008</td>
+                                    </tr>
+                                    <tr>
+                                        <td>
+
+                                            <a href="/scholar-publication/lq7y/56920">A Point-Based Semi-Automatic Expertise Classification (Pbase) Method For Knowledge Management Of An Online Special Interest Group</a>
+
+                                            <br />
+                                                Proceedings - International Symposium on Information Technology 2008, ITSim<br />
+                                            <span class="badge rounded-pill  bg-info">Conference Paper</span> <span class="badge rounded-pill  bg-success">INDIVIDUAL AUTHOR</span>
+                                        </td>
+                                        <td>2008</td>
+                                    </tr>
+                                    <tr>
+                                        <td>
+
+                                            <a href="/scholar-publication/lq7y/32063">A Classification And Visualization Approach For Knowledge Management Of A Special Interest Group, Shahida Sulaiman, Aisyah Ismail, Ahamad Tajudin Khader, Maziani Sabudin, Sarina Sulaiman</a>
+
+                                            <br />
+                                                The Fourth IASTED International Conference Advance in Computer Science Technology (ACST 2008), 2-4 April 2008, Langkawi, ISBN : 978-0-88986-730-7<br />
+                                            <span class="badge rounded-pill  bg-info">Conference Paper</span> <span class="badge rounded-pill  bg-success">CO-AUTHOR</span>
+                                        </td>
+                                        <td>2008</td>
+                                    </tr>
+                                    <tr>
+                                        <td>
+
+                                            <a href="/scholar-publication/lq7y/36538">Carbon Fiber Reinforced Carbon For Brake Pad Application</a>
+
+                                            <br />
+                                                Development in Polymer-based Carbon Fiber Research in Malaysia<br />
+                                            <span class="badge rounded-pill  bg-info">Book Chapter</span> <span class="badge rounded-pill  bg-success">INDIVIDUAL AUTHOR</span>
+                                        </td>
+                                        <td>2008</td>
+                                    </tr>
+                                    <tr>
+                                        <td>
+
+                                            <a href="/scholar-publication/lq7y/21860">Novices&#xE2;?? Expectations In Gaining Theoretical Knowledge And Practical Skills In Software Development Or Maintenance, Shahida Sulaiman, Nuraini Abdul Rashid, Zurinahni Zainol, Sarina Sulaiman</a>
+
+                                            <br />
+                                                The IASTED International Conference (IASTED), 17 - 19 MARCH 2008<br />
+                                            <span class="badge rounded-pill  bg-info">Conference Paper</span> <span class="badge rounded-pill  bg-success">CO-AUTHOR</span>
+                                        </td>
+                                        <td>2008</td>
+                                    </tr>
+                                    <tr>
+                                        <td>
+
+                                            <a href="/scholar-publication/lq7y/56921">A Knowledge-Based Approach To Facilitate Queries By Hajj Pilgrims</a>
+
+                                            <br />
+                                                Proceedings - International Symposium on Information Technology 2008, ITSim<br />
+                                            <span class="badge rounded-pill  bg-info">Conference Paper</span> <span class="badge rounded-pill  bg-success">INDIVIDUAL AUTHOR</span>
+                                        </td>
+                                        <td>2008</td>
+                                    </tr>
+                                    <tr>
+                                        <td>
+
+                                            <a href="/scholar-publication/lq7y/21859">Intelligent Web Caching Using Neurocomputing And Particle Swarm Optimization Algorithm, Sarina Sulaiman, Siti Mariyam Shamsuddin, Fadni Forkan, Ajith Abraham, Second Asia International Conference On Modelling &amp; Simulation</a>
+
+                                            <br />
+                                                Second Asia International Conference on Modelling and Simulation (AMS 2008), Kuala Lumpur, Malaysia, 13-15 May, 2008<br />
+                                            <span class="badge rounded-pill  bg-info">Conference Paper</span> <span class="badge rounded-pill  bg-success">CORRESPONDING AUTHOR</span>
+                                        </td>
+                                        <td>2008</td>
+                                    </tr>
+                                    <tr>
+                                        <td>
+
+                                            <a href="/scholar-publication/lq7y/27137">Artificial Life And Artificial Neural Network-A Comparison Study, Fadni Forkani, Sarina Sulaiman, Farhan Mohamad</a>
+
+                                            <br />
+                                                THE 3RD INTERNATIONAL SEMINAR INFORMATION AND COMMUNICATION TECHNOLOGY SEMINAR (ICTS2007), SEPT 2007, ISSN : 1858-1633<br />
+                                            <span class="badge rounded-pill  bg-info">Conference Paper</span> <span class="badge rounded-pill  bg-success">CO-AUTHOR</span>
+                                        </td>
+                                        <td>2007</td>
+                                    </tr>
+                                    <tr>
+                                        <td>
+
+                                            <a href="/scholar-publication/lq7y/56898">A Framework Of Rough Cultural Algorithms In Optimizing Mobile Web Caching Performance</a>
+
+                                            <br />
+                                                Jurnal Teknologi Maklumat<br />
+                                            <span class="badge rounded-pill  bg-info">Journal Article Non Citation-Indexed</span> <span class="badge rounded-pill  bg-success">INDIVIDUAL AUTHOR</span>
+                                        </td>
+                                        <td>2007</td>
+                                    </tr>
+                                    <tr>
+                                        <td>
+
+                                            <a href="/scholar-publication/lq7y/33926">Latihan Berasaskan Web Untuk Bahasa Pengaturcaraan Java Menggunakan Teknik Rangkaian Bayesian, Sarina Sulaiman. Shahida Sulaiman, Nor Aini Ab. Razak</a>
+
+                                            <br />
+                                                PERSIDANGAN SAINS PENGATURCARAAN 2007 (ATUR2007), 5 DEC 2007<br />
+                                            <span class="badge rounded-pill  bg-info">Conference Paper</span> <span class="badge rounded-pill  bg-success">CORRESPONDING AUTHOR</span>
+                                        </td>
+                                        <td>2007</td>
+                                    </tr>
+                                    <tr>
+                                        <td>
+
+                                            <a href="/scholar-publication/lq7y/35173">System Development: What, Why, When And How Case Tools Should Support Novice Software Engineers, Shahida Sulaiman, Ahamad Tajudin Khader, Zurinahni Zainol, Sarina Sulaiman</a>
+
+                                            <br />
+                                                 The Third Malaysian Software Engineering Conference (MySEC&#x27;07), December 2007<br />
+                                            <span class="badge rounded-pill  bg-info">Conference Paper</span> <span class="badge rounded-pill  bg-success">CO-AUTHOR</span>
+                                        </td>
+                                        <td>2007</td>
+                                    </tr>
+                                    <tr>
+                                        <td>
+
+                                            <a href="/scholar-publication/lq7y/21863">Pengelasan Tahap Kesukaran Soalan Menggunakan Rangkaian Neural, Sarina Sulaiman, 1shahida Sulaiman, 2mohamad Nor Azwan Mohamad Lazam</a>
+
+                                            <br />
+                                                1st International Malaysian Educational Technology Convention (IMETC2007)<br />
+                                            <span class="badge rounded-pill  bg-info">Conference Paper</span> <span class="badge rounded-pill  bg-success">CORRESPONDING AUTHOR</span>
+                                        </td>
+                                        <td>2007</td>
+                                    </tr>
+                                    <tr>
+                                        <td>
+
+                                            <a href="/scholar-publication/lq7y/21864">A Tutor-Based Software Visualization Approach (Tubvis) For Novice Software Engineers, Shahida Suliman, Sarina Sulaiman</a>
+
+                                            <br />
+                                                THE 2ND MALAYSIA MYSEC&#x27;06 SOFTWARE ENGINEERING CONFERENCE, 11 &amp; 12 DEC 2006<br />
+                                            <span class="badge rounded-pill  bg-info">Conference Paper</span> <span class="badge rounded-pill  bg-success">CO-AUTHOR</span>
+                                        </td>
+                                        <td>2006</td>
+                                    </tr>
+                                    <tr>
+                                        <td>
+
+                                            <a href="/scholar-publication/lq7y/21867">A Feasible Benchmark Of Graphical User Interface (Gui) For 3d Modeling Software Development, Sarina Sulaiman, Siti Mariyam Shamsuddin, Nor Anita Fairos Ismail, Lee Chong Siang</a>
+
+                                            <br />
+                                                GRAPHITE2006 THE 4TH INTERNATIONAL CONFERENCE ON COMPUTER GRAPHIC AND INTERACTIVE TECHNIQUES IN AUSTRALASIA AND SOUTHEAST ASIA, NOV 29 - DEC 02. 2006<br />
+                                            <span class="badge rounded-pill  bg-info">Conference Paper</span> <span class="badge rounded-pill  bg-success">CORRESPONDING AUTHOR</span>
+                                        </td>
+                                        <td>2006</td>
+                                    </tr>
+                                    <tr>
+                                        <td>
+
+                                            <a href="/scholar-publication/lq7y/21861">The Priccipal Of Human Computer Interaction (Hci) In User Interface Design, Nor Anita Fairos Ismail, Sarina Sulaiman</a>
+
+                                            <br />
+                                                NATIONAL SEMINAR ON SCIENCE TECHNOLOGY &amp; SOCIAL SCIENCE 2006 <br />
+                                            <span class="badge rounded-pill  bg-info">Conference Paper</span> <span class="badge rounded-pill  bg-success">CO-AUTHOR</span>
+                                        </td>
+                                        <td>2006</td>
+                                    </tr>
+                                    <tr>
+                                        <td>
+
+                                            <a href="/scholar-publication/lq7y/56913">Kajian Keperluan Pendekatan Portal Haluan Siswa (Phs) Untuk Pelajar Tahun Pertama Di Fsksm, Utm, Sarina Sulaiman, Karen Ramanair, Nor Anita Fairos Ismail</a>
+
+                                            <br />
+                                                NASDEC 2006, NATIONAL STUDENT DEVELOPMENT CONFERENCE, 8-9 AUG 2006<br />
+                                            <span class="badge rounded-pill  bg-info">Conference Paper</span> <span class="badge rounded-pill  bg-success">CORRESPONDING AUTHOR</span>
+                                        </td>
+                                        <td>2006</td>
+                                    </tr>
+                            </tbody>
+                        </table>
+                    </div>
+                    </p>
+                </div>
+                <div class="tab-pane p-3" id="ip_tab" role="tabpanel">
+                    <p class="mb-0">
+                    <p class="text-muted">
+                        Legend :
+                        <span class="badge rounded-pill  bg-info">IP CATEGORY </span>
+                        <span class="badge rounded-pill  bg-warning">IP LEVEL </span>
+
+                    </p>
+                    <div class="table-responsive">
+                        <table id="IPListTablePersonalDatatable" class="table mb-0 dt-responsive nowrap" style="border-collapse: collapse; border-spacing: 0; width: 100%;">
+                            <thead>
+                                <tr>
+                                    <th>Intellectual Property Name</th>
+                                    <th>Grant Register No.</th>
+                                    <th>IP Level</th>
+                                    <th>IP Category</th>
+                                </tr>
+                            </thead>
+                            <tbody>
+                                    <tr>
+                                        <td><a href="/intelectual-property/lq7y/NJBK"> METHOD AND SYSTEM FOR CLOUD STORAGE MANAGEMENT</a></td>
+                                        <td></td>
+                                        <td><span class="badge rounded-pill  bg-warning">NATIONAL</span></td>
+                                        <td><span class="badge rounded-pill  bg-info">PATENT</span></td>
+                                    </tr>
+                                    <tr>
+                                        <td><a href="/intelectual-property/lq7y/YnmD"> MOBILE WEB PRE-FETCHING SYSTEM</a></td>
+                                        <td>MY-161479-A</td>
+                                        <td><span class="badge rounded-pill  bg-warning">NATIONAL</span></td>
+                                        <td><span class="badge rounded-pill  bg-info">PATENT</span></td>
+                                    </tr>
+                                    <tr>
+                                        <td><a href="/intelectual-property/lq7y/a36"> METHOD AND SYSTEM OF ARTIFICIAL LIFE NEURAL NETWORK CACHING PERFORMANCE DETECTION</a></td>
+                                        <td>MY-149134-A                   </td>
+                                        <td><span class="badge rounded-pill  bg-warning">NATIONAL</span></td>
+                                        <td><span class="badge rounded-pill  bg-info">PATENT</span></td>
+                                    </tr>
+                                    <tr>
+                                        <td><a href="/intelectual-property/lq7y/4AZK"> A METHOD OF DETERMINING DIAMETER OF A BRASS-PLATED TIRE STEEL CORD BASED ON THE RESULTS OF EDGE DETECTION</a></td>
+                                        <td></td>
+                                        <td><span class="badge rounded-pill  bg-warning">NATIONAL</span></td>
+                                        <td><span class="badge rounded-pill  bg-info">PATENT</span></td>
+                                    </tr>
+                                    <tr>
+                                        <td><a href="/intelectual-property/lq7y/wqaB"> MOBILE APPLICATION OF MENTAL ARITHMETIC FUN-ORIENTED LEARNING</a></td>
+                                        <td>LY2018006227</td>
+                                        <td><span class="badge rounded-pill  bg-warning">NATIONAL</span></td>
+                                        <td><span class="badge rounded-pill  bg-info">COPYRIGHT</span></td>
+                                    </tr>
+                                    <tr>
+                                        <td><a href="/intelectual-property/lq7y/99m3"> USER-CENTERED SYSTEM DESIGN OF EDUTAINMENT MATHEMATICS GAME</a></td>
+                                        <td>LY2017003194</td>
+                                        <td><span class="badge rounded-pill  bg-warning">NATIONAL</span></td>
+                                        <td><span class="badge rounded-pill  bg-info">COPYRIGHT</span></td>
+                                    </tr>
+                                    <tr>
+                                        <td><a href="/intelectual-property/lq7y/NVN1"> GENERIC SHOPPING MALL DIRECTORY MOBILE APPLICATION</a></td>
+                                        <td>LY2018006147</td>
+                                        <td><span class="badge rounded-pill  bg-warning">NATIONAL</span></td>
+                                        <td><span class="badge rounded-pill  bg-info">COPYRIGHT</span></td>
+                                    </tr>
+                                    <tr>
+                                        <td><a href="/intelectual-property/lq7y/Qqmr"> SMART MOBILE LEARNING APPLICATION FOR MANDARIN LANGUAGE</a></td>
+                                        <td>LY2017003197</td>
+                                        <td><span class="badge rounded-pill  bg-warning">NATIONAL</span></td>
+                                        <td><span class="badge rounded-pill  bg-info">COPYRIGHT</span></td>
+                                    </tr>
+                                    <tr>
+                                        <td><a href="/intelectual-property/lq7y/Dww7"> MOSQUE MANAGEMENT SYSTEM</a></td>
+                                        <td></td>
+                                        <td><span class="badge rounded-pill  bg-warning">NATIONAL</span></td>
+                                        <td><span class="badge rounded-pill  bg-info">COPYRIGHT</span></td>
+                                    </tr>
+                                    <tr>
+                                        <td><a href="/intelectual-property/lq7y/1Vmp"> PRINTING SERVICE SYSTEM</a></td>
+                                        <td></td>
+                                        <td><span class="badge rounded-pill  bg-warning">NATIONAL</span></td>
+                                        <td><span class="badge rounded-pill  bg-info">COPYRIGHT</span></td>
+                                    </tr>
+                                    <tr>
+                                        <td><a href="/intelectual-property/lq7y/w5yy"> FROZEN FOOD ORDERING SYSTEM</a></td>
+                                        <td></td>
+                                        <td><span class="badge rounded-pill  bg-warning">NATIONAL</span></td>
+                                        <td><span class="badge rounded-pill  bg-info">COPYRIGHT</span></td>
+                                    </tr>
+                                    <tr>
+                                        <td><a href="/intelectual-property/lq7y/BOzE"> RECYCLING MANAGEMENT SYSTEM</a></td>
+                                        <td></td>
+                                        <td><span class="badge rounded-pill  bg-warning">NATIONAL</span></td>
+                                        <td><span class="badge rounded-pill  bg-info">COPYRIGHT</span></td>
+                                    </tr>
+                                    <tr>
+                                        <td><a href="/intelectual-property/lq7y/AlBX"> TAEKWONDO CLUB MANAGEMENT SYSTEM</a></td>
+                                        <td></td>
+                                        <td><span class="badge rounded-pill  bg-warning">NATIONAL</span></td>
+                                        <td><span class="badge rounded-pill  bg-info">COPYRIGHT</span></td>
+                                    </tr>
+                                    <tr>
+                                        <td><a href="/intelectual-property/lq7y/3q1p"> SOAL SELIDIK KUALITI KESEJAHTERAAN PELAJAR (STUDENT WELL-BEING)</a></td>
+                                        <td></td>
+                                        <td><span class="badge rounded-pill  bg-warning">NATIONAL</span></td>
+                                        <td><span class="badge rounded-pill  bg-info">COPYRIGHT</span></td>
+                                    </tr>
+                                    <tr>
+                                        <td><a href="/intelectual-property/lq7y/9X3n"> GAIMOOC: ADAPTING GAMIFICATION APPROACH IN MASSIVE OPEN ONLINE WEB PROGRAMMING COURSE</a></td>
+                                        <td></td>
+                                        <td><span class="badge rounded-pill  bg-warning">NATIONAL</span></td>
+                                        <td><span class="badge rounded-pill  bg-info">COPYRIGHT</span></td>
+                                    </tr>
+                                    <tr>
+                                        <td><a href="/intelectual-property/lq7y/9mn1"> A DASHBOARD DESIGN ON TALENT ANALYTICS RECOMMENDER SYSTEM</a></td>
+                                        <td>LY2020006135</td>
+                                        <td><span class="badge rounded-pill  bg-warning">NATIONAL</span></td>
+                                        <td><span class="badge rounded-pill  bg-info">COPYRIGHT</span></td>
+                                    </tr>
+                                    <tr>
+                                        <td><a href="/intelectual-property/lq7y/ky2a"> INTELLIGENT MOBILE WEB PREFETCHING (IMWEP) </a></td>
+                                        <td></td>
+                                        <td><span class="badge rounded-pill  bg-warning">NATIONAL</span></td>
+                                        <td><span class="badge rounded-pill  bg-info">COPYRIGHT</span></td>
+                                    </tr>
+                                    <tr>
+                                        <td><a href="/intelectual-property/lq7y/n41"> AUTONOMOUS SPY</a></td>
+                                        <td></td>
+                                        <td><span class="badge rounded-pill  bg-warning">NATIONAL</span></td>
+                                        <td><span class="badge rounded-pill  bg-info">COPYRIGHT</span></td>
+                                    </tr>
+                            </tbody>
+                        </table>
+                    </div>
+                    </p>
+                </div>
+                <div class="tab-pane p-3" id="supervision_tab" role="tabpanel">
+                    <p class="mb-0">
+                    <p class="text-muted">
+                        Legend :
+                        <span class="badge rounded-pill  bg-info">SESSION </span>
+                        <span class="badge rounded-pill  bg-success">LEVEL OF STUDY</span>
+                        <span class="badge rounded-pill  bg-warning">STATUS </span>
+                        <span class="badge rounded-pill  bg-danger">SUPERVISION LEVEL </span>
+                    </p>
+                    <div class="table-responsive">
+                        <table id="supervisionListTablePersonalDatatable" class="table table-bordered dt-responsive nowrap" style="border-collapse: collapse; border-spacing: 0; width: 100%;">
+                            <thead>
+                                <tr>
+                                    <th>Supervision List</th>
+                                </tr>
+                            </thead>
+                            <tbody>
+                                    <tr>
+                                        <td>
+                                            <strong>NUR SYAHELA BINTI HUSSIEN</strong><br />
+                                                MOBILE WEB PRE-FETCHING SCHEME IN IMPROVING STORAGE SERVICE IN CLOUD COMPUTING ENVIRONMENT<br />
+                                            <span class="badge rounded-pill  bg-success">PHD</span>
+                                            <span class="badge rounded-pill  bg-warning">GRADUATED</span>
+                                            <span class="badge rounded-pill  bg-danger">SUPERVISOR</span>
+                                                <span class="badge rounded-pill bg-info">2017</span>
+                                        </td>
+                                    </tr>
+                                    <tr>
+                                        <td>
+                                            <strong>ONG KOK HAUR</strong><br />
+                                                AUTOMATIC WHITE MATTER LESIONS DETECTION AND SEGMENTATION OF BRAIN MAGNETIC RESONANCE IMAGES<br />
+                                            <span class="badge rounded-pill  bg-success">PHD</span>
+                                            <span class="badge rounded-pill  bg-warning">GRADUATED</span>
+                                            <span class="badge rounded-pill  bg-danger">SUPERVISOR</span>
+                                                <span class="badge rounded-pill bg-info">2018</span>
+                                        </td>
+                                    </tr>
+                                    <tr>
+                                        <td>
+                                            <strong>APRIL LIA HANANTO</strong><br />
+                                                MEASUREMENT MODEL OF BRASS PLATED TYRE STEEL CORD BASED ON WAVE FEATURE EXTRACTION<br />
+                                            <span class="badge rounded-pill  bg-success">PHD</span>
+                                            <span class="badge rounded-pill  bg-warning">GRADUATED</span>
+                                            <span class="badge rounded-pill  bg-danger">SUPERVISOR</span>
+                                                <span class="badge rounded-pill bg-info">2022</span>
+                                        </td>
+                                    </tr>
+                                    <tr>
+                                        <td>
+                                            <strong>ZHAO XIONG</strong><br />
+                                                UNIFIED HUMAN-CENTRIC MODEL FOR DRIVER DISTRACTION BEHAVIOR RECOGNITION<br />
+                                            <span class="badge rounded-pill  bg-success">PHD</span>
+                                            <span class="badge rounded-pill  bg-warning">ON GOING</span>
+                                            <span class="badge rounded-pill  bg-danger">SUPERVISOR</span>
+                                        </td>
+                                    </tr>
+                                    <tr>
+                                        <td>
+                                            <strong>MUHAMMAD ANWAR HUSSAIN</strong><br />
+                                                CLASSIFICATION OF ENGLISH RELIGIOUS EXTREMIST TWEETS USING CONTENT ANALYSIS APPROACH<br />
+                                            <span class="badge rounded-pill  bg-success">PHD</span>
+                                            <span class="badge rounded-pill  bg-warning">ON GOING</span>
+                                            <span class="badge rounded-pill  bg-danger">SUPERVISOR</span>
+                                        </td>
+                                    </tr>
+                                    <tr>
+                                        <td>
+                                            <strong>AMIRA ABDALLA OSMAN AHMED</strong><br />
+                                                ADAPTIVE INTELLIGENT WEB PROXY CACHING BASED ON ENSEMBLE MACHINE LEARNING APPROACHES<br />
+                                            <span class="badge rounded-pill  bg-success">PHD</span>
+                                            <span class="badge rounded-pill  bg-warning">GRADUATED</span>
+                                            <span class="badge rounded-pill  bg-danger">SUPERVISOR</span>
+                                                <span class="badge rounded-pill bg-info">2024</span>
+                                        </td>
+                                    </tr>
+                                    <tr>
+                                        <td>
+                                            <strong>DARMAWAN SATYANANDA</strong><br />
+                                                REINFORCEMENT LEARNING FOR HANDLING CONGESTION FACTORS IN THE DISTRIBUTION PROCESS OF VEHICLE ROUTING PROBLEM<br />
+                                            <span class="badge rounded-pill  bg-success">PHD</span>
+                                            <span class="badge rounded-pill  bg-warning">ON GOING</span>
+                                            <span class="badge rounded-pill  bg-danger">SUPERVISOR</span>
+                                        </td>
+                                    </tr>
+                                    <tr>
+                                        <td>
+                                            <strong>SYAZWA  BINTI  MAD  JAIS</strong><br />
+                                                INTELLIGENT TIME SHIFTED DECISION SCHEME FOR WEB CACHING<br />
+                                            <span class="badge rounded-pill  bg-success">MASTER</span>
+                                            <span class="badge rounded-pill  bg-warning">GRADUATED</span>
+                                            <span class="badge rounded-pill  bg-danger">SUPERVISOR</span>
+                                                <span class="badge rounded-pill bg-info">2016</span>
+                                        </td>
+                                    </tr>
+                                    <tr>
+                                        <td>
+                                            <strong>NOR AMALINA BINTI ABDUL RAHIM</strong><br />
+                                                THE AUGMENTED SOCIAL NETWORK ANALYSIS MODEL USING ROUGH SET<br />
+                                            <span class="badge rounded-pill  bg-success">MASTER</span>
+                                            <span class="badge rounded-pill  bg-warning">GRADUATED</span>
+                                            <span class="badge rounded-pill  bg-danger">SUPERVISOR</span>
+                                                <span class="badge rounded-pill bg-info">2016</span>
+                                        </td>
+                                    </tr>
+                                    <tr>
+                                        <td>
+                                            <strong>SHARIFAH ZARITH RAHMAH BINTI SYED AHMAD</strong><br />
+                                                SECOND ORDER MULTI-OBJECTIVE PARTICLE SWARM OPTIMIZATION METHODS FOR WIRE ELECTRIC DISCHARGE MACHINING PARAMETERS&#xD;&#xA;&amp;NBSP;<br />
+                                            <span class="badge rounded-pill  bg-success">MASTER</span>
+                                            <span class="badge rounded-pill  bg-warning">GRADUATED</span>
+                                            <span class="badge rounded-pill  bg-danger">SUPERVISOR</span>
+                                                <span class="badge rounded-pill bg-info">2017</span>
+                                        </td>
+                                    </tr>
+                                    <tr>
+                                        <td>
+                                            <strong>MERLINDA WIBOWO</strong><br />
+                                                ENHANCED DATA SUMMARIZATION USING HYBRID ROUGH SET-GENETIC ALGORITHM<br />
+                                            <span class="badge rounded-pill  bg-success">MASTER</span>
+                                            <span class="badge rounded-pill  bg-warning">GRADUATED</span>
+                                            <span class="badge rounded-pill  bg-danger">SUPERVISOR</span>
+                                                <span class="badge rounded-pill bg-info">2019</span>
+                                        </td>
+                                    </tr>
+                            </tbody>
+                        </table>
+                    </div>
+                </div>
+            </div>
+
+        </div>
+    </div>
+</div>
+
+<div class="modal fade" tabindex="-1" role="dialog" id="shareModalBox" aria-labelledby="mySmallModalLabel" aria-hidden="true">
+    <div class="modal-dialog modal-dialog-centered">
+        <div class="modal-content">
+            <div class="modal-header">
+                <h5 class="modal-title mt-0">Share This</h5>
+            </div>
+            <div class="modal-body">
+                <div class="icon-container1 d-flex">
+                    <div class="smd" id="share-tw" data-sharer="twitter" data-title="UTM Scholar : SARINA BINTI SULAIMAN                   " data-hashtags="UTMNexus" data-url="https://utmscholar.utm.my/Scholar/ScholarInfoDetails/lq7y">
+                        <i class=" img-thumbnail fab fa-twitter fa-2x" style="color:#4c6ef5;background-color: aliceblue"></i>
+                    </div>
+                    <div class="smd" id="share-fb" data-sharer="facebook" data-title="UTM Scholar : SARINA BINTI SULAIMAN                   " data-hashtag="UTMNexus" data-url="https://utmscholar.utm.my/Scholar/ScholarInfoDetails/lq7y">
+                        <i class="img-thumbnail fab fa-facebook fa-2x" style="color: #3b5998;background-color: #eceff5;"></i>
+                    </div>
+                    <div class="smd" id="share-li" data-sharer="linkedin" data-title="UTM Scholar : SARINA BINTI SULAIMAN                   " data-url="https://utmscholar.utm.my/Scholar/ScholarInfoDetails/lq7y">
+                        <i class="img-thumbnail fab fa-linkedin fa-2x" style="color: #25D366;background-color: #cef5dc;"></i>
+                    </div>
+                    <div class="smd" id="share-wa" data-sharer="whatsapp" data-title="UTM Scholar : SARINA BINTI SULAIMAN                   " data-url="https://utmscholar.utm.my/Scholar/ScholarInfoDetails/lq7y">
+                        <i class="img-thumbnail fab fa-whatsapp fa-2x" style="color: #4c6ef5;background-color: aliceblue"></i>
+                    </div>
+                </div>
+            </div>
+            <div class="modal-footer">
+                <div class="field d-flex align-items-center justify-content-between">
+                    <span class="fas fa-link text-center"></span>
+                    <input type="url" class="col-10 ur" value="https://utmscholar.utm.my/Scholar/ScholarInfoDetails/lq7y"> <button><i class="far fa-clone"></i></button>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+
+
+                </div>
+            </div>
+            <footer class="footer">
+            <div class="container-fluid">
+                <div class="row">
+                    <div class="col-sm-12">
+                        © 2022 <span class="d-none d-sm-inline-block"> - Crafted with <i class="mdi mdi-heart text-danger"></i> by UTM NEXUS.</span>
+                    </div>
+                </div>
+            </div>
+        </footer>
+        </div>
+    </div>
+
+    <script src="/assets/libs/jquery/jquery.min.js"></script>
+    <script src="/assets/libs/bootstrap/js/bootstrap.bundle.min.js"></script>
+    <script src="/assets/libs/metismenu/metisMenu.min.js"></script>
+    <script src="/assets/libs/simplebar/simplebar.min.js"></script>
+    <script src="/assets/libs/node-waves/waves.min.js"></script>
+    <script src="/assets/libs/jquery-sparkline/jquery.sparkline.min.js"></script>
+    <script src="/assets/libs/morris.js/morris.min.js"></script>
+    <script src="/assets/libs/raphael/raphael.min.js"></script>
+    <script src="/assets/libs/datatables.net/js/jquery.dataTables.min.js"></script>
+    <script src="/assets/libs/datatables.net-bs4/js/dataTables.bootstrap4.min.js"></script>
+    <script src="/assets/libs/parsleyjs/parsley.min.js"></script>
+    <script src="/assets/libs/sharer.js/sharer.min.js"></script>   
+    <script src="/assets/js/app.js"></script>
+        <script>
+            
+            var names = document.getElementById("keyword").textContent;
+            var nameArr = names.split(/[,;]/);
+            var a = [];
+            nameArr.forEach(function (kword, x) {
+                a.push("<span class='badge rounded-pill bg-warning'>" + kword + "</span>");
+            });
+
+            var b = a.toString();
+            $("#keyword").replaceWith("<p class='text-muted font-small-2' id='keyword'>" + b + "</p>");
+
+            $(document).ready(function () {
+                    $('#more').attr('hidden', false);
+                    $('#more_sect').attr('hidden', false);
+                    $('#less_sect').attr('hidden', true);
+                });
+            
+                $("#more").click(function () {
+                    $('#more').attr('hidden', true);
+                    $('#less').attr('hidden', false);
+                    $('#brief').attr('hidden', false);
+                    $('#more_sect').attr('hidden', true);
+                    $('#less_sect').attr('hidden', false);
+                });
+                $("#less").click(function () {
+                    $('#more').attr('hidden', false);
+                    $('#less').attr('hidden', true);
+                    $('#brief').attr('hidden', true);
+                    $('#more_sect').attr('hidden', false);
+                    $('#less_sect').attr('hidden', true);
+                });
+                $("#less_1").click(function () {
+                    $('#more').attr('hidden', false);
+                    $('#less').attr('hidden', true);
+                    $('#brief').attr('hidden', true);
+                    $('#more_sect').attr('hidden', false);
+                    $('#less_sect').attr('hidden', true);
+                });
+            </script>
+    <!-- Google tag (gtag.js) -->
+    <script async src="https://www.googletagmanager.com/gtag/js?id=G-B5MYS061R0"></script>
+    <script>
+        window.dataLayer = window.dataLayer || [];
+        function gtag() { dataLayer.push(arguments); }
+        gtag('js', new Date());
+
+        gtag('config', 'G-B5MYS061R0');
+    </script>
+    
+    <script>
+        var no_pekerja = 'lq7y';
+        var scopus_id = '24723153600';
+        var nama_pekerja = 'SARINA BINTI SULAIMAN                   ';
+        var no_pkrj = '8102';
+
+
+        $.ajax({
+            type: "POST",
+            url: '/Scholar/GrantScholarPersonalResult?id=' + no_pekerja,
+        }).done(function (data) {
+            var newArrayGrant = [];
+            data.data.forEach(function (elm, i) {
+                $newObject = {
+                    label: data.data[i].TYPE_GRANTS,
+                    value: data.data[i].TOTAL_GRANTS
+                }
+                newArrayGrant.push($newObject);
+            });
+
+            var Grant_Chart = Morris.Donut({
+                element: 'grant_chart_personal',
+                data: newArrayGrant,
+                resize: true,
+                colors: ['#193C77', '#39FF33', '#197754', '#541977', '#1FE874', '#3d90bf', '#bf783d', '#1ab394', '#ed0c0c', '#FF5733', '#FFBD33']
+            });
+
+            Grant_Chart.options.data.forEach(function (label, i) {
+                var legendItem = $('<span></span>').text(label['label']).prepend('<br><span>&nbsp;</span>');
+                legendItem.find('span')
+                    .css('backgroundColor', Grant_Chart.options.colors[i])
+                    .css('width', '50px')
+                    .css('display', 'inline-block')
+                    .css('margin', '5px');
+                $('#legendGrantMorris').append(legendItem)
+            });
+
+            var totalx = 0;
+            for (var i = 0; i < data.data.length; i++) {
+                totalx += data.data[i].TOTAL_GRANTS << 0;
+            }
+            $("#TotalGrantCount").append(totalx);
+
+
+        }).fail(function () { });
+
+        $.ajax({
+            type: "POST",
+            url: '/Scholar/PublicationScholarPersonResult?id=' + no_pekerja,
+        }).done(function (data) {
+            var newArrayPublication = [];
+            data.data.forEach(function (elm, i) {
+                $newObject = {
+                    label: data.data[i].TYPE_PUBLICATION,
+                    value: data.data[i].TOTAL_PUBLICATION
+                }
+
+                newArrayPublication.push($newObject);
+            })
+            var Publication_Chart = Morris.Donut({
+                element: 'publication_chart_personal',
+                data: newArrayPublication,
+                resize: true,
+                colors: ['#3d90bf', '#bf783d', '#1ab394', '#ed0c0c', '#FF5733', '#FFBD33', '#193C77', '#39FF33', '#197754', '#541977', '#1FE874']
+            });
+
+            Publication_Chart.options.data.forEach(function (label, i) {
+                var legendItem = $('<span></span>').text(label['label']).prepend('<br><span>&nbsp;</span>');
+                legendItem.find('span')
+                    .css('backgroundColor', Publication_Chart.options.colors[i])
+                    .css('width', '20px')
+                    .css('display', 'inline-block')
+                    .css('margin', '5px');
+                $('#legendPublicationMorris').append(legendItem)
+            });
+
+            var totaly = 0;
+            for (var i = 0; i < data.data.length; i++) {
+                totaly += data.data[i].TOTAL_PUBLICATION << 0;
+            }
+            $("#TotalPublicationCount").append(totaly);
+
+        }).fail(function () {
+
+        });
+
+        $.ajax({
+            type: "POST",
+            url: '/Scholar/SupervisionScholarPersonResult?id=' + no_pekerja,
+        }).done(function (data) {
+
+            var newArraySupervision = [];
+            data.data.forEach(function (elm, i) {
+                $newObject = {
+                    label: data.data[i].LEVEL_STUDY,
+                    value: data.data[i].TOTAL_STUDENTS
+                }
+
+                newArraySupervision.push($newObject);
+            });
+
+            var Supervision_Chart = Morris.Donut({
+                element: 'supervision_chart_personal',
+                data: newArraySupervision,
+                resize: true,
+                colors: ['#3d90bf', '#bf783d', '#1ab394', '#ed0c0c', '#FF5733', '#FFBD33', '#193C77', '#39FF33', '#197754', '#541977', '#1FE874']
+            });
+
+            Supervision_Chart.options.data.forEach(function (label, i) {
+                var legendItem = $('<span></span>').text(label['label']).prepend('<br><span>&nbsp;</span>');
+                legendItem.find('span')
+                    .css('backgroundColor', Supervision_Chart.options.colors[i])
+                    .css('width', '20px')
+                    .css('display', 'inline-block')
+                    .css('margin', '5px');
+                $('#legendSupervisionMorris').append(legendItem)
+            });
+
+            var totalz = 0;
+            for (var i = 0; i < data.data.length; i++) {
+                totalz += data.data[i].TOTAL_STUDENTS << 0;
+            }
+            $("#TotalSupervisionCount_chart").append(totalz);
+            $("#TotalSupervisionCount").append(totalz);
+
+
+        }).fail(function () {
+
+        });
+        /*---- H Index for Scopus API -----------*/
+        if (scopus_id == "0") {
+            var hIndexVal = "0";
+            var CountIndex = "0";
+
+            $("#hIndexID").append(hIndexVal);
+            $("#CountPublicIndexID").append(CountIndex);
+        }
+        else {
+            $.ajax({
+                type: "POST",
+                url: "/Scholar/GetCitationHIndex?id=" + scopus_id,
+                datatype: "json",
+                success: function (data) {
+                    console.log(data);
+                    var test = jQuery.parseJSON(data.response);
+                    $("#hIndexID").append(test["author-retrieval-response"]["0"]["h-index"]);
+                    $("#CountPublicIndexID").append(test["author-retrieval-response"]["0"]["coredata"]["citation-count"]);
+                },
+                error: function (data) {
+                    console.log('An error occurred.');
+                },
+            });
+        }
+
+        /*---- datatable -----------*/
+
+        $(document).ready(function () {
+            GrantDatatable = $('#grantListTablePersonalDatatable').DataTable({
+                processing: true,
+                searching: true,
+                sorting: false,
+                paging: true,
+                pageLength: 15,
+                lengthChange: false,
+                info: true,
+                responsive: true
+            });
+
+            PublicationDatatable = $('#publicationListTablePersonalDatatable').DataTable({
+                processing: true,
+                searching: true,
+                sorting: false,
+                paging: true,
+                pageLength: 15,
+                lengthChange: false,
+                info: true,
+                responsive: true
+            });
+
+            SupervisionDatatable = $('#supervisionListTablePersonalDatatable').DataTable({
+                processing: true,
+                searching: true,
+                sorting: false,
+                paging: true,
+                pageLength: 15,
+                lengthChange: false,
+                info: true,
+                responsive: true
+            });
+
+            IPDatatable = $('#IPListTablePersonalDatatable').DataTable({
+                processing: true,
+                searching: true,
+                sorting: false,
+                paging: true,
+                pageLength: 15,
+                lengthChange: false,
+                info: true,
+                responsive: true
+            });
+
+
+        });
+
+
+        /*------- Share JS components -----------*/
+        document.addEventListener('DOMContentLoaded', function (e) {
+            let field = document.querySelector('.field');
+            let input = document.querySelector('input');
+            let copyBtn = document.querySelector('.field button');
+
+            copyBtn.onclick = () => {
+                input.select();
+                if (document.execCommand("copy")) {
+                    field.classList.add('active');
+                    copyBtn.innerText = 'Copied';
+                    setTimeout(() => {
+                        field.classList.remove('active');
+                        copyBtn.innerText = 'Copy';
+                    }, 3500)
+                }
+            }
+        });
+
+    </script>
+
+
+</body>
+
+</html>

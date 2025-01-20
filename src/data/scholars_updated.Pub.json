@@ -1,0 +1,966 @@
+[{
+  "_id": {
+    "$oid": "677fb88465397f8fb94f5772"
+  },
+  "name": "PROF. TS. DR. MD. ASRI BIN NGADI",
+  "link": "https://utmscholar.utm.my/Scholar/ScholarInfoDetails/ZzJo",
+  "researchGroup": "Research GroupPervasive Computing (PCRG)",
+  "totalJournals": 15,
+  "publications": [
+    {
+      "journalName": "Security And Privacy Issues In Network Function Virtualization: A Review From Architectural Perspective",
+      "publicationCategory": "Publication In Web Of Science",
+      "typeOfAuthors": "UTM FIRST AUTHOR",
+      "year": "2024",
+      "_id": {
+        "$oid": "677fb884d430de5934695222"
+      }
+    },
+    {
+      "journalName": "Task Scheduling In Cloud Environment-Techniques, Applications, And Tools: A Systematic Literature Review",
+      "publicationCategory": "Publication In Web Of Science",
+      "typeOfAuthors": "FIRST UTM CORRESPONDING AUTHOR",
+      "year": "2024",
+      "_id": {
+        "$oid": "677fb884d430de5934695223"
+      }
+    },
+    {
+      "journalName": "A Comprehensive Authentication Taxonomy And Lightweight Considerations In The Internet-Of-Medical-Things (Iomt)",
+      "publicationCategory": "Publication In Web Of Science",
+      "typeOfAuthors": "UTM FIRST AUTHOR",
+      "year": "2024",
+      "_id": {
+        "$oid": "677fb884d430de5934695224"
+      }
+    },
+    {
+      "journalName": "Intrusion Detection System Using Hybrid Machine Learning Classifiers And Optimum Feature Selection In Internet Of Things (Iot)",
+      "publicationCategory": "Publication In Scopus",
+      "typeOfAuthors": "UTM FIRST AUTHOR",
+      "year": "2024",
+      "_id": {
+        "$oid": "677fb884d430de5934695225"
+      }
+    },
+    {
+      "journalName": "Intelligent Traffic Model For Unmanned Ground Vehicles Based On Dsdv-Aodv Protocol",
+      "publicationCategory": "Publication In Web Of Science",
+      "typeOfAuthors": "UTM FIRST AUTHOR",
+      "year": "2023",
+      "_id": {
+        "$oid": "677fb884d430de5934695226"
+      }
+    },
+    {
+      "journalName": "Enhanced Qos Routing Protocol For An Unmanned Ground Vehicle, Based On The Aco Approach",
+      "publicationCategory": "Publication In Web Of Science",
+      "typeOfAuthors": "UTM FIRST AUTHOR",
+      "year": "2023",
+      "_id": {
+        "$oid": "677fb884d430de5934695227"
+      }
+    },
+    {
+      "journalName": "A Cloud Computing-Based Modified Symbiotic Organisms Search Algorithm (Ai) For Optimal Task Scheduling",
+      "publicationCategory": "Publication In Web Of Science",
+      "typeOfAuthors": "CO-AUTHOR",
+      "year": "2022",
+      "_id": {
+        "$oid": "677fb884d430de5934695228"
+      }
+    },
+    {
+      "journalName": "Cbi4.0: A Cross-Layer Approach For Big Data Gathering For Active Monitoring And Maintenance In The Manufacturing Industry 4.0",
+      "publicationCategory": "Publication In Web Of Science",
+      "typeOfAuthors": "UTM FIRST AUTHOR",
+      "year": "2021",
+      "_id": {
+        "$oid": "677fb884d430de5934695229"
+      }
+    },
+    {
+      "journalName": "Current Perspective Of Symbiotic Organisms Search Technique In Cloud Computing Environment: A Review",
+      "publicationCategory": "Publication In Web Of Science",
+      "typeOfAuthors": "CO-AUTHOR",
+      "year": "2021",
+      "_id": {
+        "$oid": "677fb884d430de593469522a"
+      }
+    },
+    {
+      "journalName": "Big Data Acquired By Internet Of Things-Enabled Industrial Multichannel Wireless Sensors Networks For Active Monitoring And Control In The Smart Grid Industry 4.0",
+      "publicationCategory": "Publication In Web Of Science",
+      "typeOfAuthors": "UTM FIRST AUTHOR",
+      "year": "2021",
+      "_id": {
+        "$oid": "677fb884d430de593469522b"
+      }
+    },
+    {
+      "journalName": "Education Exchange Storage Protocol: Transformation Into Decentralized Learning Platform",
+      "publicationCategory": "Publication In Web Of Science",
+      "typeOfAuthors": "UTM FIRST AUTHOR",
+      "year": "2021",
+      "_id": {
+        "$oid": "677fb884d430de593469522c"
+      }
+    },
+    {
+      "journalName": "Convergence-Based Task Scheduling Techniques In Cloud Computing: A Review",
+      "publicationCategory": "Publication In Scopus",
+      "typeOfAuthors": "CO-AUTHOR",
+      "year": "2020",
+      "_id": {
+        "$oid": "677fb884d430de593469522d"
+      }
+    },
+    {
+      "journalName": "Loss Based Congestion Control Module For Health Centers Deployed By Using Advanced Iot Based Sdn Communication Networks",
+      "publicationCategory": "Publication In Web Of Science",
+      "typeOfAuthors": "UTM FIRST AUTHOR",
+      "year": "2020",
+      "_id": {
+        "$oid": "677fb884d430de593469522e"
+      }
+    },
+    {
+      "journalName": "Ffrp: Dynamic Firefly Mating Optimization Inspired Energy Efficient Routing Protocol For Internet Of Underwater Wireless Sensor Networks",
+      "publicationCategory": "Publication In Web Of Science",
+      "typeOfAuthors": "UTM FIRST AUTHOR",
+      "year": "2020",
+      "_id": {
+        "$oid": "677fb884d430de593469522f"
+      }
+    },
+    {
+      "journalName": "An Authentication And Plausibility Model For Big Data Analytic Under Los And Nlos Conditions In 5g-Vanet",
+      "publicationCategory": "Publication In Web Of Science",
+      "typeOfAuthors": "CO-AUTHOR",
+      "year": "2020",
+      "_id": {
+        "$oid": "677fb884d430de5934695230"
+      }
+    }
+  ],
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "677fb89865397f8fb94f577c"
+  },
+  "name": "PROF. MADYA TS. DR.  ISMAIL FAUZI BIN ISNIN",
+  "link": "https://utmscholar.utm.my/Scholar/ScholarInfoDetails/p80v",
+  "researchGroup": "Research GroupPervasive Computing (PCRG)",
+  "totalJournals": 15,
+  "publications": [
+    {
+      "journalName": "Cluster-Based Wireless Sensor Network Framework For Denial-Of-Service Attack Detection Based On Variable Selection Ensemble Machine Learning Algorithms",
+      "publicationCategory": "Publication In Web Of Science",
+      "typeOfAuthors": "UTM FIRST AUTHOR",
+      "year": "2024",
+      "_id": {
+        "$oid": "677fb898d430de5934695232"
+      }
+    },
+    {
+      "journalName": "Enhanced Intrusion Detection Model Based On Principal Component Analysis\nAnd Variable Ensemble Machine Learning Algorithm",
+      "publicationCategory": "Publication In Web Of Science",
+      "typeOfAuthors": "UTM FIRST AUTHOR",
+      "year": "2024",
+      "_id": {
+        "$oid": "677fb898d430de5934695233"
+      }
+    },
+    {
+      "journalName": "Current Security Threats In Applications Of Wireless Sensor Network",
+      "publicationCategory": "Journal Article Non Citation-Indexed",
+      "typeOfAuthors": "UTM FIRST AUTHOR",
+      "year": "2023",
+      "_id": {
+        "$oid": "677fb898d430de5934695234"
+      }
+    },
+    {
+      "journalName": "Modified Stable Weighted Clustering Scheme For Secured V2v Communications",
+      "publicationCategory": "Publication In Scopus",
+      "typeOfAuthors": "UTM FIRST AUTHOR",
+      "year": "2023",
+      "_id": {
+        "$oid": "677fb898d430de5934695235"
+      }
+    },
+    {
+      "journalName": "A Reliable Merging Link Scheme Using Weighted Markov Chain Model In Vehicular Ad Hoc Networks",
+      "publicationCategory": "Publication In Web Of Science",
+      "typeOfAuthors": "UTM FIRST AUTHOR",
+      "year": "2022",
+      "_id": {
+        "$oid": "677fb898d430de5934695236"
+      }
+    },
+    {
+      "journalName": "Thermal-Aware Directional And Adaptive Routing Algorithm For 3d Network-On-Chip",
+      "publicationCategory": "Publication In Scopus",
+      "typeOfAuthors": "UTM FIRST AUTHOR",
+      "year": "2022",
+      "_id": {
+        "$oid": "677fb898d430de5934695237"
+      }
+    },
+    {
+      "journalName": "Interval Based Transaction Record Keeping Mechanism For Adaptive 3d Network-On-Chip Routing",
+      "publicationCategory": "Publication In Scopus",
+      "typeOfAuthors": "UTM FIRST AUTHOR",
+      "year": "2022",
+      "_id": {
+        "$oid": "677fb898d430de5934695238"
+      }
+    },
+    {
+      "journalName": "Dynamic Mobile Anchor Path Planning For Underwater Wireless Sensor Networks",
+      "publicationCategory": "Publication In Scopus",
+      "typeOfAuthors": "CO-AUTHOR",
+      "year": "2021",
+      "_id": {
+        "$oid": "677fb898d430de5934695239"
+      }
+    },
+    {
+      "journalName": "A Survey On Network On Chip Routing Algorithms Criteria",
+      "publicationCategory": "Publication In Scopus",
+      "typeOfAuthors": "UTM FIRST AUTHOR",
+      "year": "2021",
+      "_id": {
+        "$oid": "677fb898d430de593469523a"
+      }
+    },
+    {
+      "journalName": "Fixed Attribute Value Removal Method And Anomaly Based Profiled Method, An Sqli Detection Effectiveness Study",
+      "publicationCategory": "Conference Paper",
+      "typeOfAuthors": "UTM FIRST AUTHOR",
+      "year": "2021",
+      "_id": {
+        "$oid": "677fb898d430de593469523b"
+      }
+    },
+    {
+      "journalName": "Thermal-Aware Dynamic Weighted Adaptive Routing Algorithm For 3d Network-On-Chip",
+      "publicationCategory": "Publication In Scopus",
+      "typeOfAuthors": "UTM FIRST AUTHOR",
+      "year": "2021",
+      "_id": {
+        "$oid": "677fb898d430de593469523c"
+      }
+    },
+    {
+      "journalName": "A Development Of Headwater Phenomenon Warning And Monitoring System",
+      "publicationCategory": "Proceedings",
+      "typeOfAuthors": "UTM FIRST AUTHOR",
+      "year": "2020",
+      "_id": {
+        "$oid": "677fb898d430de593469523d"
+      }
+    },
+    {
+      "journalName": "Control Messages Overhead Impact On Destination Oriented\r\nDirected Acyclic Graph - A Wireless Sensor Networks Objective\r\nFunctions Performance Comparison",
+      "publicationCategory": "Journal Article Non Citation-Indexed",
+      "typeOfAuthors": "CO-AUTHOR",
+      "year": "2020",
+      "_id": {
+        "$oid": "677fb898d430de593469523e"
+      }
+    },
+    {
+      "journalName": "Road-Based Multi-Metric Forwarder Evaluation For\r\nMultipath Video Streaming In Urban Vehicular\r\nCommunication",
+      "publicationCategory": "Publication In Web Of Science",
+      "typeOfAuthors": "UTM FIRST AUTHOR",
+      "year": "2020",
+      "_id": {
+        "$oid": "677fb898d430de593469523f"
+      }
+    },
+    {
+      "journalName": "Optimized Backoff Scheme For Prioritized Data In Wireless Sensor Networks: A Class Of Service Approach",
+      "publicationCategory": "Publication In Web Of Science",
+      "typeOfAuthors": "CO-AUTHOR",
+      "year": "2020",
+      "_id": {
+        "$oid": "677fb898d430de5934695240"
+      }
+    }
+  ],
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "677fb8bd65397f8fb94f578d"
+  },
+  "name": "ENCIK FIROZ BIN YUSUF PATEL DAWOODI",
+  "link": "https://utmscholar.utm.my/Scholar/ScholarInfoDetails/XDlk",
+  "researchGroup": "Research GroupPervasive Computing (PCRG)",
+  "totalJournals": 8,
+  "publications": [
+    {
+      "journalName": "Bibliometric Analysis Of Pervasive And Ubiquitous Computing Research",
+      "publicationCategory": "Book Chapter",
+      "typeOfAuthors": "CO-AUTHOR",
+      "year": "2024",
+      "_id": {
+        "$oid": "677fb8bdd430de5934695242"
+      }
+    },
+    {
+      "journalName": "Enhancing Manet Security Through Federated\nLearning And Multiobjective Optimization:\nA Trust-Aware Routing Framework",
+      "publicationCategory": "Publication In Web Of Science",
+      "typeOfAuthors": "CO-AUTHOR",
+      "year": "2024",
+      "_id": {
+        "$oid": "677fb8bdd430de5934695243"
+      }
+    },
+    {
+      "journalName": "Enhancement Of Iot-Based Home Security System To Detect Intruder",
+      "publicationCategory": "Proceedings",
+      "typeOfAuthors": "CO-AUTHOR",
+      "year": "2022",
+      "_id": {
+        "$oid": "677fb8bdd430de5934695244"
+      }
+    },
+    {
+      "journalName": "Iot-Based Home Security System-A Concept",
+      "publicationCategory": "Book Chapter",
+      "typeOfAuthors": "CO-AUTHOR",
+      "year": "2021",
+      "_id": {
+        "$oid": "677fb8bdd430de5934695245"
+      }
+    },
+    {
+      "journalName": "Iot-Based Home Security System- 151 A Concept",
+      "publicationCategory": "Book Chapter",
+      "typeOfAuthors": "CO-AUTHOR",
+      "year": "2021",
+      "_id": {
+        "$oid": "677fb8bdd430de5934695246"
+      }
+    },
+    {
+      "journalName": "Authentication Lock For Application Integration Face Recognition Security",
+      "publicationCategory": "Proceedings",
+      "typeOfAuthors": "UTM FIRST AUTHOR",
+      "year": "2017",
+      "_id": {
+        "$oid": "677fb8bdd430de5934695247"
+      }
+    },
+    {
+      "journalName": "N/A",
+      "publicationCategory": "Modules / Manual",
+      "typeOfAuthors": "CO-AUTHOR",
+      "year": "2015",
+      "_id": {
+        "$oid": "677fb8bdd430de5934695248"
+      }
+    },
+    {
+      "journalName": "N/A",
+      "publicationCategory": "Modules / Manual",
+      "typeOfAuthors": "CO-AUTHOR",
+      "year": "2014",
+      "_id": {
+        "$oid": "677fb8bdd430de5934695249"
+      }
+    }
+  ],
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "677fb8f865397f8fb94f57a5"
+  },
+  "name": "TS. MARINA BINTI MD ARSHAD",
+  "link": "https://utmscholar.utm.my/Scholar/ScholarInfoDetails/zBN9",
+  "researchGroup": "Research GroupPervasive Computing (PCRG)",
+  "totalJournals": 15,
+  "publications": [
+    {
+      "journalName": "Performance Comparative Study On Zero Day Malware Detection Using Xgboost And Random Forest Classifiers",
+      "publicationCategory": "Journal Article Non Citation-Indexed",
+      "typeOfAuthors": "UTM FIRST AUTHOR",
+      "year": "2024",
+      "_id": {
+        "$oid": "677fb8f8d430de593469524b"
+      }
+    },
+    {
+      "journalName": "Machine And Deep Learning Approaches For Iot Networks",
+      "publicationCategory": "Book Chapter",
+      "typeOfAuthors": "UTM FIRST AUTHOR",
+      "year": "2024",
+      "_id": {
+        "$oid": "677fb8f8d430de593469524c"
+      }
+    },
+    {
+      "journalName": "Introduction To Pervasive And Ubiquitous Computing",
+      "publicationCategory": "Book Chapter",
+      "typeOfAuthors": "UTM FIRST AUTHOR",
+      "year": "2024",
+      "_id": {
+        "$oid": "677fb8f8d430de593469524d"
+      }
+    },
+    {
+      "journalName": "Bibliometric Analysis Of Pervasive And Ubiquitous Computing Research",
+      "publicationCategory": "Book Chapter",
+      "typeOfAuthors": "FIRST UTM CORRESPONDING AUTHOR",
+      "year": "2024",
+      "_id": {
+        "$oid": "677fb8f8d430de593469524e"
+      }
+    },
+    {
+      "journalName": "Annual Programme Assessment Report (Apar) Online System",
+      "publicationCategory": "Proceedings",
+      "typeOfAuthors": "UTM FIRST AUTHOR",
+      "year": "2023",
+      "_id": {
+        "$oid": "677fb8f8d430de593469524f"
+      }
+    },
+    {
+      "journalName": "Annual Programme Assessment\nReport Online System",
+      "publicationCategory": "N/A",
+      "typeOfAuthors": "UTM FIRST AUTHOR",
+      "year": "2023",
+      "_id": {
+        "$oid": "677fb8f8d430de5934695250"
+      }
+    },
+    {
+      "journalName": "Comparing Ftp And Ssh Password Brute Force Attack Detection Using K-Nearest Neighbour (K-Nn) And Decision Tree In Cloud Computing",
+      "publicationCategory": "Journal Article Non Citation-Indexed",
+      "typeOfAuthors": "UTM FIRST AUTHOR",
+      "year": "2023",
+      "_id": {
+        "$oid": "677fb8f8d430de5934695251"
+      }
+    },
+    {
+      "journalName": "Comparing Malware Attack Detection Using Machine Learning Techniques In Iot Network Traffic",
+      "publicationCategory": "Journal Article Non Citation-Indexed",
+      "typeOfAuthors": "UTM FIRST AUTHOR",
+      "year": "2023",
+      "_id": {
+        "$oid": "677fb8f8d430de5934695252"
+      }
+    },
+    {
+      "journalName": "Direct Entry Management System",
+      "publicationCategory": "Proceedings",
+      "typeOfAuthors": "FIRST UTM CORRESPONDING AUTHOR",
+      "year": "2023",
+      "_id": {
+        "$oid": "677fb8f8d430de5934695253"
+      }
+    },
+    {
+      "journalName": "A Novel Cost-Effective Data And Service Availability Approach In Machine-To-Machine Communication Network",
+      "publicationCategory": "Proceedings",
+      "typeOfAuthors": "CO-AUTHOR",
+      "year": "2022",
+      "_id": {
+        "$oid": "677fb8f8d430de5934695254"
+      }
+    },
+    {
+      "journalName": "The Implementation Of Competition To Promote Team Working And Thinking Skills In Computer Network Course",
+      "publicationCategory": "Publication In Scopus",
+      "typeOfAuthors": "CO-AUTHOR",
+      "year": "2022",
+      "_id": {
+        "$oid": "677fb8f8d430de5934695255"
+      }
+    },
+    {
+      "journalName": "Future Networking Applications: A Bibliometric Analysis Of Current Research Trend",
+      "publicationCategory": "Book Chapter",
+      "typeOfAuthors": "CORRESPONDING AUTHOR",
+      "year": "2022",
+      "_id": {
+        "$oid": "677fb8f8d430de5934695256"
+      }
+    },
+    {
+      "journalName": "Lightweight Cryptography Schemes Used In Resource-Constrained Devices For Remote Machine-To-Machine Communication",
+      "publicationCategory": "Book Chapter",
+      "typeOfAuthors": "CO-AUTHOR",
+      "year": "2022",
+      "_id": {
+        "$oid": "677fb8f8d430de5934695257"
+      }
+    },
+    {
+      "journalName": "Visual Analytics Design For Students Assessment Representationbased On Supervised Learning Algorithms",
+      "publicationCategory": "Journal Article Non Citation-Indexed",
+      "typeOfAuthors": "CORRESPONDING AUTHOR",
+      "year": "2021",
+      "_id": {
+        "$oid": "677fb8f8d430de5934695258"
+      }
+    },
+    {
+      "journalName": "Penambahbaikan Sistem Kehadiran Pelajar  Universiti Teknologi Malaysia",
+      "publicationCategory": "Proceedings",
+      "typeOfAuthors": "UTM FIRST AUTHOR",
+      "year": "2021",
+      "_id": {
+        "$oid": "677fb8f8d430de5934695259"
+      }
+    }
+  ],
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "677fb90565397f8fb94f57ae"
+  },
+  "name": "PROF. MADYA DR. RADZIAH BINTI MOHAMAD",
+  "link": "https://utmscholar.utm.my/Scholar/ScholarInfoDetails/2BJX",
+  "researchGroup": "Research GroupSoftware Engineering Research Group (SERG)",
+  "totalJournals": 15,
+  "publications": [
+    {
+      "journalName": "Adaptive Learning Framework For Learning Computational\nThinking Using Educational Robotics",
+      "publicationCategory": "Publication In Web Of Science",
+      "typeOfAuthors": "CO-AUTHOR",
+      "year": "2024",
+      "_id": {
+        "$oid": "677fb905d430de593469525b"
+      }
+    },
+    {
+      "journalName": "High Performance Computing Approach For Future Warfare",
+      "publicationCategory": "Book Chapter",
+      "typeOfAuthors": "UTM FIRST AUTHOR",
+      "year": "2024",
+      "_id": {
+        "$oid": "677fb905d430de593469525c"
+      }
+    },
+    {
+      "journalName": "Ambient Computing Approach For Military Education Training",
+      "publicationCategory": "Book Chapter",
+      "typeOfAuthors": "UTM FIRST AUTHOR",
+      "year": "2024",
+      "_id": {
+        "$oid": "677fb905d430de593469525d"
+      }
+    },
+    {
+      "journalName": "Fearless - Next-Gen Solution For Preventing Sexual Harassment And Physical Violation",
+      "publicationCategory": "Journal Article Non Citation-Indexed",
+      "typeOfAuthors": "UTM FIRST AUTHOR",
+      "year": "2024",
+      "_id": {
+        "$oid": "677fb905d430de593469525e"
+      }
+    },
+    {
+      "journalName": "Ontology-Based Negative Selection Algorithm For Pairwise Testing",
+      "publicationCategory": "Journal Article Non Citation-Indexed",
+      "typeOfAuthors": "UTM FIRST AUTHOR",
+      "year": "2024",
+      "_id": {
+        "$oid": "677fb905d430de593469525f"
+      }
+    },
+    {
+      "journalName": "Containerized Event-Driven Microservice Architecture",
+      "publicationCategory": "Publication In Web Of Science",
+      "typeOfAuthors": "UTM FIRST AUTHOR",
+      "year": "2024",
+      "_id": {
+        "$oid": "677fb905d430de5934695260"
+      }
+    },
+    {
+      "journalName": "Flexible Curriculum For Talents' Future Career Growth",
+      "publicationCategory": "Proceedings",
+      "typeOfAuthors": "2ND UTM CORRESPONDING AUTHOR",
+      "year": "2023",
+      "_id": {
+        "$oid": "677fb905d430de5934695261"
+      }
+    },
+    {
+      "journalName": "Enhanced Web Services Recommendation Algorithm Based On User History",
+      "publicationCategory": "Conference Paper",
+      "typeOfAuthors": "UTM FIRST AUTHOR",
+      "year": "2022",
+      "_id": {
+        "$oid": "677fb905d430de5934695262"
+      }
+    },
+    {
+      "journalName": "Genetic Programming Based Self-Adaptive Feature Selection Model For Rumor Detection",
+      "publicationCategory": "Conference Paper",
+      "typeOfAuthors": "UTM FIRST AUTHOR",
+      "year": "2022",
+      "_id": {
+        "$oid": "677fb905d430de5934695263"
+      }
+    },
+    {
+      "journalName": "University Examination Timetabling Using A Hybrid Black Hole Algorithm",
+      "publicationCategory": "Publication In Scopus",
+      "typeOfAuthors": "CO-AUTHOR",
+      "year": "2022",
+      "_id": {
+        "$oid": "677fb905d430de5934695264"
+      }
+    },
+    {
+      "journalName": "Collaborative Assignment And Project For Teaching Embedded And Real-Time Software Engineering Course",
+      "publicationCategory": "Publication In Scopus",
+      "typeOfAuthors": "CO-AUTHOR",
+      "year": "2022",
+      "_id": {
+        "$oid": "677fb905d430de5934695265"
+      }
+    },
+    {
+      "journalName": "Self-Adaptive Mobile Web Service Discovery Framework For Dynamic Mobile Environment",
+      "publicationCategory": "Publication In Web Of Science",
+      "typeOfAuthors": "UTM FIRST AUTHOR",
+      "year": "2022",
+      "_id": {
+        "$oid": "677fb905d430de5934695266"
+      }
+    },
+    {
+      "journalName": "Self-Adaptive Mobile Web Service Discovery Approach Based On Modified Negative Selection Algorithm",
+      "publicationCategory": "Publication In Web Of Science",
+      "typeOfAuthors": "UTM FIRST AUTHOR",
+      "year": "2022",
+      "_id": {
+        "$oid": "677fb905d430de5934695267"
+      }
+    },
+    {
+      "journalName": "Nurturing Secondary School Student Computational Thinking Through Educational Robotics",
+      "publicationCategory": "Publication In Web Of Science",
+      "typeOfAuthors": "CO-AUTHOR",
+      "year": "2022",
+      "_id": {
+        "$oid": "677fb905d430de5934695268"
+      }
+    },
+    {
+      "journalName": "Web Service Discovery Approaches For Dynamic Mobile Environment: A Systematic Literature Review",
+      "publicationCategory": "Publication In Scopus",
+      "typeOfAuthors": "UTM FIRST AUTHOR",
+      "year": "2021",
+      "_id": {
+        "$oid": "677fb905d430de5934695269"
+      }
+    }
+  ],
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "677fb91465397f8fb94f57b5"
+  },
+  "name": "DR. SHAHLIZA BINTI ABD HALIM",
+  "link": "https://utmscholar.utm.my/Scholar/ScholarInfoDetails/2bKZ",
+  "researchGroup": "Research GroupSoftware Engineering Research Group (SERG)",
+  "totalJournals": 15,
+  "publications": [
+    {
+      "journalName": "Authentic Project-Oriented Challenge-Based Assessment In Software Engineering Courses",
+      "publicationCategory": "Proceedings",
+      "typeOfAuthors": "CO-AUTHOR",
+      "year": "2024",
+      "_id": {
+        "$oid": "677fb914d430de593469526b"
+      }
+    },
+    {
+      "journalName": "Utm’S Groundbreaking Covid-19 Tracker For Strategic Pandemic Preparedness (Utmccta)",
+      "publicationCategory": "Journal Article Non Citation-Indexed",
+      "typeOfAuthors": "FIRST UTM CORRESPONDING AUTHOR",
+      "year": "2024",
+      "_id": {
+        "$oid": "677fb914d430de593469526c"
+      }
+    },
+    {
+      "journalName": "Leveraging Transformer Model For Data-Driven Requirement Engineering: A Case Study Of Nlp4re E-Commerce Business Apps In Malaysia And Indonesia",
+      "publicationCategory": "Publication In Scopus",
+      "typeOfAuthors": "CO-AUTHOR",
+      "year": "2024",
+      "_id": {
+        "$oid": "677fb914d430de593469526d"
+      }
+    },
+    {
+      "journalName": "Adaptive Learning Framework For Learning Computational\nThinking Using Educational Robotics",
+      "publicationCategory": "Publication In Web Of Science",
+      "typeOfAuthors": "CO-AUTHOR",
+      "year": "2024",
+      "_id": {
+        "$oid": "677fb914d430de593469526e"
+      }
+    },
+    {
+      "journalName": "Natural Language Processing For Requirement Elicitation In University Using Kmeans And Meanshift Algorithm",
+      "publicationCategory": "Publication In Web Of Science",
+      "typeOfAuthors": "CO-AUTHOR",
+      "year": "2024",
+      "_id": {
+        "$oid": "677fb914d430de593469526f"
+      }
+    },
+    {
+      "journalName": "Prioritized Text Detergent: Comparing Two Judgment Scales Of Analytic Hierachy Process On Priotizing Pre-Processing Techniques On Social Media Sentiment Analysis",
+      "publicationCategory": "Publication In Web Of Science",
+      "typeOfAuthors": "CO-AUTHOR",
+      "year": "2024",
+      "_id": {
+        "$oid": "677fb914d430de5934695270"
+      }
+    },
+    {
+      "journalName": "N/A",
+      "publicationCategory": "Original Book",
+      "typeOfAuthors": "CO-AUTHOR",
+      "year": "2023",
+      "_id": {
+        "$oid": "677fb914d430de5934695271"
+      }
+    },
+    {
+      "journalName": "Enhancing Teamwork In Collaborative Learning For Students Projects With Discord Bots Integration",
+      "publicationCategory": "Proceedings",
+      "typeOfAuthors": "UTM FIRST AUTHOR",
+      "year": "2023",
+      "_id": {
+        "$oid": "677fb914d430de5934695272"
+      }
+    },
+    {
+      "journalName": "Redefining Frugal Alternative Assessment For Online Collaborative Project In Requirements Engineering Course: Adapting To The Pandemic Era",
+      "publicationCategory": "Proceedings",
+      "typeOfAuthors": "CO-AUTHOR",
+      "year": "2023",
+      "_id": {
+        "$oid": "677fb914d430de5934695273"
+      }
+    },
+    {
+      "journalName": "Cost-Effective Test Case Generation With The Hyper-Heuristic For Software Product Line Testing",
+      "publicationCategory": "Publication In Web Of Science",
+      "typeOfAuthors": "CO-AUTHOR",
+      "year": "2023",
+      "_id": {
+        "$oid": "677fb914d430de5934695274"
+      }
+    },
+    {
+      "journalName": "Fm_State: Model-Based Tool For Traceability, Generation, And Prioritization In Software Product Line Engineering.",
+      "publicationCategory": "Publication In Scopus",
+      "typeOfAuthors": "CO-AUTHOR",
+      "year": "2023",
+      "_id": {
+        "$oid": "677fb914d430de5934695275"
+      }
+    },
+    {
+      "journalName": "Test Case Prioritization For Software Product Line: A Systematic Mapping Study",
+      "publicationCategory": "Publication In Scopus",
+      "typeOfAuthors": "FIRST UTM CORRESPONDING AUTHOR",
+      "year": "2023",
+      "_id": {
+        "$oid": "677fb914d430de5934695276"
+      }
+    },
+    {
+      "journalName": "The Implementation Of Clustering Algorithm In Mutation Testing",
+      "publicationCategory": "Publication In Scopus",
+      "typeOfAuthors": "UTM FIRST AUTHOR",
+      "year": "2023",
+      "_id": {
+        "$oid": "677fb914d430de5934695277"
+      }
+    },
+    {
+      "journalName": "Collaborative Assignment And Project For Teaching Embedded And Real-Time Software Engineering Course",
+      "publicationCategory": "Publication In Scopus",
+      "typeOfAuthors": "CO-AUTHOR",
+      "year": "2022",
+      "_id": {
+        "$oid": "677fb914d430de5934695278"
+      }
+    },
+    {
+      "journalName": "The Investigation Of Java Mutation Testing Tools",
+      "publicationCategory": "Publication In Scopus",
+      "typeOfAuthors": "CO-AUTHOR",
+      "year": "2022",
+      "_id": {
+        "$oid": "677fb914d430de5934695279"
+      }
+    }
+  ],
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "677fb97365397f8fb94f57de"
+  },
+  "name": "DR NUR ZURAIFAH SYAZRAH BINTI OTHMAN",
+  "link": "https://utmscholar.utm.my/Scholar/ScholarInfoDetails/yyra",
+  "researchGroup": "Research GroupVirtual, Visualization and Vision (UTM ViCubeLab)",
+  "totalJournals": 15,
+  "publications": [
+    {
+      "journalName": "Faculty Of Computing Undergraduates Earn Top Honors At Fusion 2024 Student Design Competition",
+      "publicationCategory": "Article In Mass Media",
+      "typeOfAuthors": "INDIVIDUAL AUTHOR",
+      "year": "2024",
+      "_id": {
+        "$oid": "677fb973d430de593469527b"
+      }
+    },
+    {
+      "journalName": "Sign Language Application Using Leap Motion",
+      "publicationCategory": "Book Chapter",
+      "typeOfAuthors": "UTM FIRST AUTHOR",
+      "year": "2024",
+      "_id": {
+        "$oid": "677fb973d430de593469527c"
+      }
+    },
+    {
+      "journalName": "Utm Faculty Of Computing Hosts Fcri X Mgi 2024: Bridging Academia And Industry Through Ai Innovation",
+      "publicationCategory": "Article In Mass Media",
+      "typeOfAuthors": "INDIVIDUAL AUTHOR",
+      "year": "2024",
+      "_id": {
+        "$oid": "677fb973d430de593469527d"
+      }
+    },
+    {
+      "journalName": "Persuading People To Fight Dengue And Sustaining It Via Mobile Application",
+      "publicationCategory": "Publication In Scopus",
+      "typeOfAuthors": "CO-AUTHOR",
+      "year": "2024",
+      "_id": {
+        "$oid": "677fb973d430de593469527e"
+      }
+    },
+    {
+      "journalName": "A Review Of Key Factors Influencing Mind Wandering In Online Learning And The Role Of Visual Design And Technological Interventions",
+      "publicationCategory": "Publication In Web Of Science",
+      "typeOfAuthors": "CO-AUTHOR",
+      "year": "2024",
+      "_id": {
+        "$oid": "677fb973d430de593469527f"
+      }
+    },
+    {
+      "journalName": "Virtual Tutorial Application",
+      "publicationCategory": "Book Chapter",
+      "typeOfAuthors": "UTM FIRST AUTHOR",
+      "year": "2024",
+      "_id": {
+        "$oid": "677fb973d430de5934695280"
+      }
+    },
+    {
+      "journalName": "Leap Space: Hand Gesture-Based Solar System Exploration",
+      "publicationCategory": "Proceedings",
+      "typeOfAuthors": "UTM FIRST AUTHOR",
+      "year": "2023",
+      "_id": {
+        "$oid": "677fb973d430de5934695281"
+      }
+    },
+    {
+      "journalName": "Leap Space: Hand Gesture-Based Solar System Exploration For\nScience Education",
+      "publicationCategory": "Proceedings",
+      "typeOfAuthors": "UTM FIRST AUTHOR",
+      "year": "2023",
+      "_id": {
+        "$oid": "677fb973d430de5934695282"
+      }
+    },
+    {
+      "journalName": "Faculty Of Computing’S Hci Day Back After 2-Year Break",
+      "publicationCategory": "Article In Mass Media",
+      "typeOfAuthors": "INDIVIDUAL AUTHOR",
+      "year": "2023",
+      "_id": {
+        "$oid": "677fb973d430de5934695283"
+      }
+    },
+    {
+      "journalName": "Usability Study Of The Online Social\nCommunity Model Through Heuristic\nEvaluation",
+      "publicationCategory": "Book Chapter",
+      "typeOfAuthors": "UTM FIRST AUTHOR",
+      "year": "2023",
+      "_id": {
+        "$oid": "677fb973d430de5934695284"
+      }
+    },
+    {
+      "journalName": "Comparing The Effects Of Gamification To User Engagement In Stress Management Application",
+      "publicationCategory": "Publication In Scopus",
+      "typeOfAuthors": "UTM FIRST AUTHOR",
+      "year": "2023",
+      "_id": {
+        "$oid": "677fb973d430de5934695285"
+      }
+    },
+    {
+      "journalName": "Online Social Interaction Community Model For Unmet Needs Of Older People",
+      "publicationCategory": "Publication In Scopus",
+      "typeOfAuthors": "CO-AUTHOR",
+      "year": "2023",
+      "_id": {
+        "$oid": "677fb973d430de5934695286"
+      }
+    },
+    {
+      "journalName": "Users Experience Perspective In Exploring An Ancient Manuscript Using Augmented Reality Application",
+      "publicationCategory": "Publication In Web Of Science",
+      "typeOfAuthors": "CO-AUTHOR",
+      "year": "2023",
+      "_id": {
+        "$oid": "677fb973d430de5934695287"
+      }
+    },
+    {
+      "journalName": "A Study On User Interface Design In Learning Arabic Alphabets For Dyslexic Children",
+      "publicationCategory": "Publication In Scopus",
+      "typeOfAuthors": "CO-AUTHOR",
+      "year": "2023",
+      "_id": {
+        "$oid": "677fb973d430de5934695288"
+      }
+    },
+    {
+      "journalName": "Implementing Body Pose Tracking\nIn Dance Exercise Application – A\nWork In Progress",
+      "publicationCategory": "Proceedings",
+      "typeOfAuthors": "UTM FIRST AUTHOR",
+      "year": "2022",
+      "_id": {
+        "$oid": "677fb973d430de5934695289"
+      }
+    }
+  ],
+  "__v": 0
+}]

@@ -1,0 +1,440 @@
+[{
+  "_id": {
+    "$oid": "6775aa3865397f8fb94eadfd"
+  },
+  "link": "https://utmscholar.utm.my/Scholar/ScholarInfoDetails/XDlk",
+  "name": "ENCIK FIROZ BIN YUSUF PATEL DAWOODI",
+  "researchGroup": "Research GroupPervasive Computing (PCRG)",
+  "ipFiled": 2,
+  "intellectualProperties": [
+    {
+      "ipName": "MOBILE BASED APPLICATION QR CODE COURSE ATTENDANCE WITH GEOLOCATION VERIFICATION",
+      "ipLevel": "N/A",
+      "ipCategory": "NATIONAL",
+      "_id": {
+        "$oid": "677e4e0c3b1e9bd8b18081ea"
+      }
+    },
+    {
+      "ipName": "TIMETABLE SCHEDULING SYSTEM USING GENETIC ALGORITHM FOR SCHOOL OF COMPUTING (TSUGA)",
+      "ipLevel": "N/A",
+      "ipCategory": "NATIONAL",
+      "_id": {
+        "$oid": "677e4e0c3b1e9bd8b18081eb"
+      }
+    }
+  ],
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6775aa7f65397f8fb94eae29"
+  },
+  "link": "https://utmscholar.utm.my/Scholar/ScholarInfoDetails/2bKZ",
+  "name": "DR. SHAHLIZA BINTI ABD HALIM",
+  "researchGroup": "Research GroupSoftware Engineering Research Group (SERG)",
+  "ipFiled": 12,
+  "intellectualProperties": [
+    {
+      "ipName": "KDSM MANAGEMENT SYSTEM",
+      "ipLevel": "LY2019008842",
+      "ipCategory": "NATIONAL",
+      "_id": {
+        "$oid": "677e4e973b1e9bd8b1808208"
+      }
+    },
+    {
+      "ipName": "WEB APPLICATION DEVELOPMENT FOR JOHOR STATE EDUCATION DEPARTMENT",
+      "ipLevel": "LY2020005469",
+      "ipCategory": "NATIONAL",
+      "_id": {
+        "$oid": "677e4e973b1e9bd8b1808209"
+      }
+    },
+    {
+      "ipName": "INTEGRATED COLLABORATIVE PROJECT FOR SOFTWARE ENGINEERING SE- PROJECT-ORIENTED PROBLEM-BASED LEARNING (POPBL) APPROACH",
+      "ipLevel": "LY2019008989",
+      "ipCategory": "NATIONAL",
+      "_id": {
+        "$oid": "677e4e973b1e9bd8b180820a"
+      }
+    },
+    {
+      "ipName": "EDUCATIONAL ROBOTICS FEATURE MODEL",
+      "ipLevel": "LY2018006420",
+      "ipCategory": "NATIONAL",
+      "_id": {
+        "$oid": "677e4e973b1e9bd8b180820b"
+      }
+    },
+    {
+      "ipName": "MULTI-PLATFORMS APPLICATION FOR DENGUE-ENTOMOLOGICAL SURVEILLANCE SYSTEM",
+      "ipLevel": "LY2018001350",
+      "ipCategory": "NATIONAL",
+      "_id": {
+        "$oid": "677e4e973b1e9bd8b180820c"
+      }
+    },
+    {
+      "ipName": "A QUESTIONNAIRE FOR UNDERGRADUATES REFLECTION ON GENERIC SKILLS IN ROBOKAR CO-CURRICULAR SERVICE LEARNING PROJECTS",
+      "ipLevel": "N/A",
+      "ipCategory": "NATIONAL",
+      "_id": {
+        "$oid": "677e4e973b1e9bd8b180820d"
+      }
+    },
+    {
+      "ipName": "SURVEY OF ACCEPTANCE FOR ARCHITECTURE DESIGN DECISION MAKING PROCESS IN AUTONOMOUS MOBILE ROBOTS",
+      "ipLevel": "LY2018006364",
+      "ipCategory": "NATIONAL",
+      "_id": {
+        "$oid": "677e4e973b1e9bd8b180820e"
+      }
+    },
+    {
+      "ipName": "PROJECT ORIENTED PROBLEM-BASED LEARNING FOR SOFTWARE ENGINEERING COURSES",
+      "ipLevel": "LY2016003881",
+      "ipCategory": "NATIONAL",
+      "_id": {
+        "$oid": "677e4e973b1e9bd8b180820f"
+      }
+    },
+    {
+      "ipName": "UTM ANNUAL PROGRAMME ASSESSMENT REPORT (APAR) SYSTEM",
+      "ipLevel": "N/A",
+      "ipCategory": "NATIONAL",
+      "_id": {
+        "$oid": "677e4e973b1e9bd8b1808210"
+      }
+    },
+    {
+      "ipName": "MICROCREDENTIAL UTM - MODUL PEMIKIRAN KOMPUTASIONAL UNTUK PENYELESAIAN MASALAH MENGGUNAKAN PENGATURCARAAN ROBOTIK",
+      "ipLevel": "N/A",
+      "ipCategory": "NATIONAL",
+      "_id": {
+        "$oid": "677e4e973b1e9bd8b1808211"
+      }
+    },
+    {
+      "ipName": "[UTM MICRO-CREDENTIAL] - IRUL AND IRA ANIMATED CHARACTERS",
+      "ipLevel": "N/A",
+      "ipCategory": "NATIONAL",
+      "_id": {
+        "$oid": "677e4e973b1e9bd8b1808212"
+      }
+    },
+    {
+      "ipName": "[UTM MICRO-CREDENTIAL]  – VIDEO ANIMASI BAGI PEMIKIRAN KOMPUTASIONAL UNTUK PENYELESAIAN MASALAH MENGGUNAKAN PENGATURCARAAN ROBOTIK.",
+      "ipLevel": "N/A",
+      "ipCategory": "NATIONAL",
+      "_id": {
+        "$oid": "677e4e973b1e9bd8b1808213"
+      }
+    }
+  ],
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "677672f765397f8fb94eb394"
+  },
+  "link": "https://utmscholar.utm.my/Scholar/ScholarInfoDetails/ZzJo",
+  "name": "PROF. TS. DR. MD. ASRI BIN NGADI",
+  "researchGroup": "Research GroupPervasive Computing (PCRG)",
+  "ipFiled": 4,
+  "intellectualProperties": [
+    {
+      "ipName": "INFORMATION TECHNOLOGY APTITUDE TEST",
+      "ipLevel": "LY2020006298",
+      "ipCategory": "NATIONAL",
+      "_id": {
+        "$oid": "677e4dc63b1e9bd8b18081e1"
+      }
+    },
+    {
+      "ipName": "INTERFERENCE AWARE CLUSTER BASED JOINT CHANNEL ASSIGNMENT SCHEME IN WIRELESS MESH NETWORK",
+      "ipLevel": "N/A",
+      "ipCategory": "NATIONAL",
+      "_id": {
+        "$oid": "677e4dc63b1e9bd8b18081e2"
+      }
+    },
+    {
+      "ipName": "INTERFERENCE AWARE NON-OVERLAPPING CHANNEL ASSIGNMENT MODEL IN WIRELESS MESH NETWORK",
+      "ipLevel": "N/A",
+      "ipCategory": "NATIONAL",
+      "_id": {
+        "$oid": "677e4dc63b1e9bd8b18081e3"
+      }
+    },
+    {
+      "ipName": "INTERFERENCE AWARE JOINT CHANNEL ASSIGNMENT MODEL IN WIRELESS MESH NETWORK",
+      "ipLevel": "N/A",
+      "ipCategory": "NATIONAL",
+      "_id": {
+        "$oid": "677e4dc63b1e9bd8b18081e4"
+      }
+    }
+  ],
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6776730e65397f8fb94eb39e"
+  },
+  "link": "https://utmscholar.utm.my/Scholar/ScholarInfoDetails/p80v",
+  "name": "PROF. MADYA TS. DR.  ISMAIL FAUZI BIN ISNIN",
+  "researchGroup": "Research GroupPervasive Computing (PCRG)",
+  "ipFiled": 3,
+  "intellectualProperties": [
+    {
+      "ipName": "RELIABLE AND EFFICIENT CERTIFICATELESS KEY AGREMEENT PROTOCOL",
+      "ipLevel": "N/A",
+      "ipCategory": "NATIONAL",
+      "_id": {
+        "$oid": "677e4dd03b1e9bd8b18081e6"
+      }
+    },
+    {
+      "ipName": "A COST EFFECTIVE DECENTRALIZED SESSION-KEY GENERATION METHOD BASED ON PAIRING-FREE CRYPTOGRAPHY",
+      "ipLevel": "MY-187939-A",
+      "ipCategory": "NATIONAL",
+      "_id": {
+        "$oid": "677e4dd03b1e9bd8b18081e7"
+      }
+    },
+    {
+      "ipName": "NOVEL SECURE KEY AGREEMENT PROTOCOLS WITHOUT PAIRINGS WITH MINIMAL COMPUTATIONAL EXPENSE",
+      "ipLevel": "N/A",
+      "ipCategory": "NATIONAL",
+      "_id": {
+        "$oid": "677e4dd03b1e9bd8b18081e8"
+      }
+    }
+  ],
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6776736065397f8fb94eb3c4"
+  },
+  "link": "https://utmscholar.utm.my/Scholar/ScholarInfoDetails/zBN9",
+  "name": "TS. MARINA BINTI MD ARSHAD",
+  "researchGroup": "Research GroupPervasive Computing (PCRG)",
+  "ipFiled": 10,
+  "intellectualProperties": [
+    {
+      "ipName": "GROUP PROJECT MONITORING SYSTEM FOR COMPUTER PROGRAMMING COURSES",
+      "ipLevel": "N/A",
+      "ipCategory": "NATIONAL",
+      "_id": {
+        "$oid": "677e4e233b1e9bd8b18081ed"
+      }
+    },
+    {
+      "ipName": "DIRECT ENTRY MANAGEMENT SYSTEM",
+      "ipLevel": "N/A",
+      "ipCategory": "NATIONAL",
+      "_id": {
+        "$oid": "677e4e233b1e9bd8b18081ee"
+      }
+    },
+    {
+      "ipName": "UTM ANNUAL PROGRAMME ASSESSMENT REPORT (APAR) SYSTEM",
+      "ipLevel": "N/A",
+      "ipCategory": "NATIONAL",
+      "_id": {
+        "$oid": "677e4e233b1e9bd8b18081ef"
+      }
+    },
+    {
+      "ipName": "SISTEM PEMILIHAN DAN PENDAFTARAN ASRAMA KOLEJ TUN DR ISMAIL UTM (UTMSTAY)",
+      "ipLevel": "N/A",
+      "ipCategory": "NATIONAL",
+      "_id": {
+        "$oid": "677e4e233b1e9bd8b18081f0"
+      }
+    },
+    {
+      "ipName": "SISTEM EKEHADIRAN PELAJAR UTM",
+      "ipLevel": "N/A",
+      "ipCategory": "NATIONAL",
+      "_id": {
+        "$oid": "677e4e233b1e9bd8b18081f1"
+      }
+    },
+    {
+      "ipName": "MICROCREDIT APP FOR STARTUP BUSINESS (MICROBIZ)",
+      "ipLevel": "N/A",
+      "ipCategory": "NATIONAL",
+      "_id": {
+        "$oid": "677e4e233b1e9bd8b18081f2"
+      }
+    },
+    {
+      "ipName": "INFORMATION TECHNOLOGY APTITUDE TEST",
+      "ipLevel": "LY2020006298",
+      "ipCategory": "NATIONAL",
+      "_id": {
+        "$oid": "677e4e233b1e9bd8b18081f3"
+      }
+    },
+    {
+      "ipName": "BLI-3A: INDUSTRIAL TRAINING EVALUATION FORM FOR FACULTY SUPERVISOR",
+      "ipLevel": "N/A",
+      "ipCategory": "NATIONAL",
+      "_id": {
+        "$oid": "677e4e233b1e9bd8b18081f4"
+      }
+    },
+    {
+      "ipName": "BLI-2B-INDUSTRIAL TRAINING EVALUATION FORM FOR ORGANIZATION SUPERVISOR",
+      "ipLevel": "N/A",
+      "ipCategory": "NATIONAL",
+      "_id": {
+        "$oid": "677e4e233b1e9bd8b18081f5"
+      }
+    },
+    {
+      "ipName": "FACULTY OF COMPUTING INDUSTRIAL TRAINING GUIDELINE BOOK 7TH EDITION (MALAY-ENGLISH)/BUKU PANDUAN LATIHAN INDUSTRI FAKULTI KOMPUTERAN EDISI 7 (MELAYU-ENGLISH)",
+      "ipLevel": "N/A",
+      "ipCategory": "NATIONAL",
+      "_id": {
+        "$oid": "677e4e233b1e9bd8b18081f6"
+      }
+    }
+  ],
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6776738465397f8fb94eb3d3"
+  },
+  "link": "https://utmscholar.utm.my/Scholar/ScholarInfoDetails/2BJX",
+  "name": "PROF. MADYA DR. RADZIAH BINTI MOHAMAD",
+  "researchGroup": "Research GroupSoftware Engineering Research Group (SERG)",
+  "ipFiled": 15,
+  "intellectualProperties": [
+    {
+      "ipName": "AGENT-BASED SMART WHEELCHAIR SYSTEM DESIGN FRAMEWORK",
+      "ipLevel": "N/A",
+      "ipCategory": "NATIONAL",
+      "_id": {
+        "$oid": "677e4e5e3b1e9bd8b18081f8"
+      }
+    },
+    {
+      "ipName": "COMPONENT BASED ANALYSIS PATTERNS FOR AUTONOMOUS MOBILE ROBOT (AMR) SOFTWARE DEVELOPMENT",
+      "ipLevel": "MY-185333-A",
+      "ipCategory": "NATIONAL",
+      "_id": {
+        "$oid": "677e4e5e3b1e9bd8b18081f9"
+      }
+    },
+    {
+      "ipName": "DESIGN FRAMEWORK FOR AGENT-ORIENTED MULTI-ROBOT SYSTEM BASED ON PATTERNS",
+      "ipLevel": "N/A",
+      "ipCategory": "NATIONAL",
+      "_id": {
+        "$oid": "677e4e5e3b1e9bd8b18081fa"
+      }
+    },
+    {
+      "ipName": "INTEGRATED COLLABORATIVE PROJECT FOR SOFTWARE ENGINEERING SE- PROJECT-ORIENTED PROBLEM-BASED LEARNING (POPBL) APPROACH",
+      "ipLevel": "LY2019008989",
+      "ipCategory": "NATIONAL",
+      "_id": {
+        "$oid": "677e4e5e3b1e9bd8b18081fb"
+      }
+    },
+    {
+      "ipName": "NON-FUNCTIONAL PROPERTIES MODEL FOR MOBILE WEB SERVICES",
+      "ipLevel": "LY2018002022",
+      "ipCategory": "NATIONAL",
+      "_id": {
+        "$oid": "677e4e5e3b1e9bd8b18081fc"
+      }
+    },
+    {
+      "ipName": "MULTI-PLATFORMS APPLICATION FOR DENGUE-ENTOMOLOGICAL SURVEILLANCE SYSTEM",
+      "ipLevel": "LY2018001350",
+      "ipCategory": "NATIONAL",
+      "_id": {
+        "$oid": "677e4e5e3b1e9bd8b18081fd"
+      }
+    },
+    {
+      "ipName": "HYBRID NEGATIVE SELECTION ALGORITHM AND GENETIC ALGORITHM FOR PATH TEST DATA GENERATION",
+      "ipLevel": "LY2017001233",
+      "ipCategory": "NATIONAL",
+      "_id": {
+        "$oid": "677e4e5e3b1e9bd8b18081fe"
+      }
+    },
+    {
+      "ipName": "MOBILE WEB SERVICES DISCOVERY FRAMEWORK AND ALGORITHM",
+      "ipLevel": "LY2017001235",
+      "ipCategory": "NATIONAL",
+      "_id": {
+        "$oid": "677e4e5e3b1e9bd8b18081ff"
+      }
+    },
+    {
+      "ipName": "THE CONTAINERISED EVENT-DRIVEN MICROSERVICE FRAMEWORK",
+      "ipLevel": "N/A",
+      "ipCategory": "NATIONAL",
+      "_id": {
+        "$oid": "677e4e5e3b1e9bd8b1808200"
+      }
+    },
+    {
+      "ipName": "MICROCREDENTIAL UTM - MODUL PEMIKIRAN KOMPUTASIONAL UNTUK PENYELESAIAN MASALAH MENGGUNAKAN PENGATURCARAAN ROBOTIK",
+      "ipLevel": "N/A",
+      "ipCategory": "NATIONAL",
+      "_id": {
+        "$oid": "677e4e5e3b1e9bd8b1808201"
+      }
+    },
+    {
+      "ipName": "[UTM MICRO-CREDENTIAL] - IRUL AND IRA ANIMATED CHARACTERS",
+      "ipLevel": "N/A",
+      "ipCategory": "NATIONAL",
+      "_id": {
+        "$oid": "677e4e5e3b1e9bd8b1808202"
+      }
+    },
+    {
+      "ipName": "[UTM MICRO-CREDENTIAL]  – VIDEO ANIMASI BAGI PEMIKIRAN KOMPUTASIONAL UNTUK PENYELESAIAN MASALAH MENGGUNAKAN PENGATURCARAAN ROBOTIK.",
+      "ipLevel": "N/A",
+      "ipCategory": "NATIONAL",
+      "_id": {
+        "$oid": "677e4e5e3b1e9bd8b1808203"
+      }
+    },
+    {
+      "ipName": "ENHANCED WEB SERVICES LEVEL OF AGREEMENT SPECIFICATION",
+      "ipLevel": "-",
+      "ipCategory": "NATIONAL",
+      "_id": {
+        "$oid": "677e4e5e3b1e9bd8b1808204"
+      }
+    },
+    {
+      "ipName": "SERVICE DISCOVERY AND SELECTION ALGORITHM",
+      "ipLevel": "N/A",
+      "ipCategory": "NATIONAL",
+      "_id": {
+        "$oid": "677e4e5e3b1e9bd8b1808205"
+      }
+    },
+    {
+      "ipName": "ENMASE/AGENPOD2JADEX. A ROADMAP TO ENGINEER JADEX AGENTS ENMASE/AGENPOD",
+      "ipLevel": "N/A",
+      "ipCategory": "NATIONAL",
+      "_id": {
+        "$oid": "677e4e5e3b1e9bd8b1808206"
+      }
+    }
+  ],
+  "__v": 0
+}]
