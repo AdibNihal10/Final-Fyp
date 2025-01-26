@@ -147,20 +147,21 @@ const ResearchGroupBarChart = () => {
 
         // Aggregate data by research group to calculate the total IP filed
         const aggregatedData = jsonData.reduce((acc, group) => {
-          const groupName = group.researchGroup;
+          const fullGroupName = group.researchGroup;
+          const shortGroupName = extractShortGroupName(fullGroupName); // Extract short name
           const ipCount = group.intellectualProperties.length;
 
-          if (!acc[groupName]) {
-            acc[groupName] = {
-              fullResearchGroup: groupName,
-              researchGroup: groupName.replace("Research Group ", ""),
+          if (!acc[shortGroupName]) {
+            acc[shortGroupName] = {
+              fullResearchGroup: fullGroupName,
+              researchGroup: shortGroupName, // Use the short name here
               ipFiled: 0,
               intellectualProperties: [],
             };
           }
 
-          acc[groupName].ipFiled += ipCount;
-          acc[groupName].intellectualProperties.push(
+          acc[shortGroupName].ipFiled += ipCount;
+          acc[shortGroupName].intellectualProperties.push(
             ...group.intellectualProperties.map((ip) => ({
               ...ip,
               name: group.name, // Include the scholar's name
@@ -184,6 +185,12 @@ const ResearchGroupBarChart = () => {
     fetchAllData();
   }, []);
 
+  // Function to extract short names like "PCRG" from "Research Group Pervasive Computing (PCRG)"
+  const extractShortGroupName = (fullName) => {
+    const match = fullName.match(/\(([^)]+)\)/); // Extract content inside parentheses
+    return match ? match[1] : fullName; // If no match, return the full name as fallback
+  };
+
   const handleBarClick = (barData) => {
     // Find the selected group's intellectual properties
     const selectedGroup = scholarData.find(
@@ -192,7 +199,9 @@ const ResearchGroupBarChart = () => {
 
     setSelectedGroupData(selectedGroup?.intellectualProperties || []);
   };
-
+  const handleCloseTable = () => {
+    setSelectedGroupData([]); // Clear the selected group data to hide the table
+  };
   if (loading) return <p>Loading chart...</p>;
   if (error) return <p>{error}</p>;
 
@@ -284,8 +293,23 @@ const ResearchGroupBarChart = () => {
       />
 
       {selectedGroupData.length > 0 && (
-        <div style={{ marginTop: "30px" }}>
+        <div style={{ marginTop: "30px", paddingBottom: "30px" }}>
           <h3>Selected Group Intellectual Properties</h3>
+          <button
+            onClick={handleCloseTable}
+            style={{
+              padding: "10px 20px",
+              fontSize: "16px",
+              cursor: "pointer",
+              backgroundColor: "#f44336",
+              color: "white",
+              border: "none",
+              borderRadius: "5px",
+              marginBottom: "10px",
+            }}
+          >
+            Close Table
+          </button>
           <table
             style={{
               width: "100%",
@@ -302,7 +326,7 @@ const ResearchGroupBarChart = () => {
                   IP Name
                 </th>
                 <th style={{ border: "1px solid #ddd", padding: "8px" }}>
-                  IP Category
+                  IP Level
                 </th>
               </tr>
             </thead>

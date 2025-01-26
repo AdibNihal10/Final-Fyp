@@ -174,7 +174,7 @@ const Sidebar = () => {
               Grants
             </Typography>
             <Item
-              title="Bar Chart"
+              title="Grants By RG Bar"
               to="/bar"
               icon={<BarChartOutlinedIcon />}
               selected={selected}
@@ -252,7 +252,20 @@ const Sidebar = () => {
               selected={selected}
               setSelected={setSelected}
             />
-
+            <Typography
+              variant="h6"
+              color={colors.grey[300]}
+              sx={{ m: "15px 0 5px 20px" }}
+            >
+              IP Filed
+            </Typography>
+            <Item
+              title="IP BarChart"
+              to="/ipBar"
+              icon={<BarChartOutlinedIcon />}
+              selected={selected}
+              setSelected={setSelected}
+            />
             <Typography
               variant="h6"
               color={colors.grey[300]}
@@ -305,27 +318,6 @@ const Sidebar = () => {
             <Item
               title="Networking BarChart"
               to="/nBar"
-              icon={<BarChartOutlinedIcon />}
-              selected={selected}
-              setSelected={setSelected}
-            />
-            <Item
-              title="Networking Data"
-              to="/nLine"
-              icon={<TimelineOutlinedIcon />}
-              selected={selected}
-              setSelected={setSelected}
-            />
-            <Typography
-              variant="h6"
-              color={colors.grey[300]}
-              sx={{ m: "15px 0 5px 20px" }}
-            >
-              IP Filed
-            </Typography>
-            <Item
-              title="IP BarChart"
-              to="/ipBar"
               icon={<BarChartOutlinedIcon />}
               selected={selected}
               setSelected={setSelected}

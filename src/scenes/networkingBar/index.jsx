@@ -6,7 +6,7 @@ import NetworkingBarChart from "../../components/NetworkingBar";
 const NBar = () => {
   return (
     <Box m="20px">
-      <Header title="Bar Chart" subtitle="Simple Bar Chart" />
+      <Header />
       <Box height="75vh">
         <NetworkingBarChart />
       </Box>

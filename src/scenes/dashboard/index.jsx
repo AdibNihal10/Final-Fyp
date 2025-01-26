@@ -936,7 +936,16 @@ import scholarData from "../../data/scraped_scholar_data.json";
 import trainingData from "../../data/training.json";
 import PublicationsBarChart from "../../components/PublicationBarChart";
 import PublicationsPieChart from "../../components/PublicationPieChart";
-
+import PubStackedBarChart from "../../components/PubBar";
+import HIndexBarChart from "../../components/CitationBar";
+import NetworkingBarChart from "../../components/NetworkingBar";
+import NetworkingLineChart from "../../components/NetworkingLine";
+import BarTraining from "../../components/BarTraining";
+import LineChart from "../../components/TrainingLineChart";
+import ConferenceBarChart from "../../components/ConferenceBar";
+import ConferenceLineChart from "../../components/conferenceLine";
+import ResearchGroupBarChart from "../../components/IpBar";
+import CitationsScopusChart from "../../components/PieLikeChart";
 const Dashboard = () => {
   const theme = useTheme();
   const colors = tokens(theme.palette.mode);
@@ -1455,64 +1464,35 @@ const Dashboard = () => {
           </Box>
         </Box>
         {/* Additional StatBoxes for other metrics */}
-        <Box
-          gridColumn="span 3"
-          backgroundColor={colors.primary[400]}
-          display="flex"
-          alignItems="center"
-          justifyContent="center"
-        >
-          <StatBox
-            title={totalProjectsByYear[2024] || 0}
-            subtitle="Trainings Conducted (2024)"
-          />
-        </Box>
-        <Box
-          gridColumn="span 3"
-          backgroundColor={colors.primary[400]}
-          display="flex"
-          alignItems="center"
-          justifyContent="center"
-        >
-          <StatBox
-            title={totalProjectsByYear[2023] || 0}
-            subtitle="Trainings Conducted (2023)"
-          />
-        </Box>
-        <Box
-          gridColumn="span 3"
-          backgroundColor={colors.primary[400]}
-          display="flex"
-          alignItems="center"
-          justifyContent="center"
-        >
-          <StatBox
-            title={totalProjectsByYear[2024] || 0}
-            subtitle="Trainings Conducted (2024)"
-          />
-        </Box>
-        <Box
-          gridColumn="span 3"
-          backgroundColor={colors.primary[400]}
-          display="flex"
-          alignItems="center"
-          justifyContent="center"
-        >
-          <StatBox
-            title={totalProjectsByYear[2023] || 0}
-            subtitle="Trainings Conducted (2023)"
-          />
-        </Box>
+
         {/* CHARTS */}
+        <Box gridColumn="span 12" p="50px">
+          <Typography
+            variant="h4"
+            fontWeight="700"
+            textAlign="center"
+            mb="20px" // Adds margin below the caption
+          >
+            Grants Data Summary
+          </Typography>
+        </Box>
         <Box
           gridColumn="span 6"
           gridRow="span 5"
           backgroundColor={colors.primary[400]}
           p="20px"
         >
-          <Typography variant="h5" fontWeight="600" textAlign="center">
-            Grants Overview
+          <Typography
+            variant="h4"
+            fontWeight="700"
+            textAlign="center"
+            fontSize="14px"
+            mb="2px" // Adds margin below the caption
+          >
+            For a detailed description of the data, go to the "Grants" Section
+            and click on the "Grants By RG Pie graph"
           </Typography>
+
           <Box
             height="300px"
             width="100%"
@@ -1529,8 +1509,15 @@ const Dashboard = () => {
           backgroundColor={colors.primary[400]}
           p="20px"
         >
-          <Typography variant="h5" fontWeight="600" textAlign="center">
-            Publications and Citations
+          <Typography
+            variant="h4"
+            fontWeight="700"
+            textAlign="center"
+            fontSize="14px"
+            mb="2px" // Adds margin below the caption
+          >
+            For a detailed description of the data, go to the "Grants" Section
+            and click on the "Grants By RG Pie graph"
           </Typography>
           <Box
             height="300px"
@@ -1542,14 +1529,30 @@ const Dashboard = () => {
             <BarChart style={{ height: "250px", width: "250px" }} />
           </Box>
         </Box>
+        <Box gridColumn="span 12" p="50px">
+          <Typography
+            variant="h4"
+            fontWeight="700"
+            textAlign="center"
+            mb="20px" // Adds margin below the caption
+          >
+            Grants Data By Year Summary
+          </Typography>
+        </Box>
         <Box
-          gridColumn="span 6"
+          gridColumn="span 12"
           gridRow="span 5"
           backgroundColor={colors.primary[400]}
           p="20px"
         >
-          <Typography variant="h5" fontWeight="600" textAlign="center">
-            Grants Overview
+          <Typography
+            variant="h4"
+            fontWeight="700"
+            textAlign="center"
+            mb="20px" // Adds margin below the caption
+          >
+            For a detailed description of the data, go to the "Grants" Section
+            and click on the "Grants by Year Bar graph"
           </Typography>
           <Box
             height="300px"
@@ -1561,25 +1564,22 @@ const Dashboard = () => {
             <GPieChart style={{ height: "250px", width: "250px" }} />
           </Box>
         </Box>
-        <Box
-          gridColumn="span 6"
+        {/* <Box
+          gridColumn="span 12"
           gridRow="span 5"
           backgroundColor={colors.primary[400]}
           p="20px"
         >
-          <Typography variant="h5" fontWeight="600" textAlign="center">
-            Publications and Citations
-          </Typography>
           <Box
             height="300px"
-            width="100%"
+            width="1000px"
             display="flex"
             justifyContent="center"
             alignItems="center"
           >
-            <GBarChart style={{ height: "250px", width: "250px" }} />
+            <GBarChart style={{ height: "250px", width: "500px" }} />
           </Box>
-        </Box>
+        </Box> */}
         <Box gridColumn="span 12" p="50px">
           <Typography
             variant="h4"
@@ -1596,9 +1596,6 @@ const Dashboard = () => {
           backgroundColor={colors.primary[400]}
           p="20px"
         >
-          <Typography variant="h5" fontWeight="600" textAlign="center">
-            Publications Overview
-          </Typography>
           <Box
             height="300px"
             width="100%"
@@ -1615,9 +1612,6 @@ const Dashboard = () => {
           backgroundColor={colors.primary[400]}
           p="20px"
         >
-          <Typography variant="h5" fontWeight="600" textAlign="center">
-            Publications and Citations
-          </Typography>
           <Box
             height="300px"
             width="100%"
@@ -1626,6 +1620,228 @@ const Dashboard = () => {
             alignItems="center"
           >
             <PublicationsBarChart style={{ height: "250px", width: "250px" }} />
+          </Box>
+        </Box>
+        <Box
+          gridColumn="span 12"
+          gridRow="span 5"
+          backgroundColor={colors.primary[400]}
+          p="20px"
+        >
+          <Box
+            height="300px"
+            width="100%"
+            display="flex"
+            justifyContent="center"
+            alignItems="center"
+          >
+            <PubStackedBarChart style={{ height: "500px", width: "120px" }} />
+          </Box>
+        </Box>
+        <Box gridColumn="span 12" p="50px">
+          <Typography
+            variant="h4"
+            fontWeight="700"
+            textAlign="center"
+            mb="20px" // Adds margin below the caption
+          >
+            H-Index Data Summary
+          </Typography>
+        </Box>
+        <Box
+          gridColumn="span 12"
+          gridRow="span 5"
+          backgroundColor={colors.primary[400]}
+          p="20px"
+        >
+          <Box
+            height="300px"
+            width="100%"
+            display="flex"
+            justifyContent="center"
+            alignItems="center"
+          >
+            <HIndexBarChart style={{ height: "500px", width: "120px" }} />
+          </Box>
+        </Box>
+        <Box gridColumn="span 12" p="50px">
+          <Typography
+            variant="h4"
+            fontWeight="700"
+            textAlign="center"
+            mb="20px" // Adds margin below the caption
+          >
+            Networking Data Summary
+          </Typography>
+        </Box>
+        <Box
+          gridColumn="span 7"
+          gridRow="span 4"
+          backgroundColor={colors.primary[400]}
+          p="20px"
+        >
+          <Box
+            height="300px"
+            width="100%"
+            display="flex"
+            justifyContent="center"
+            alignItems="center"
+          >
+            <NetworkingBarChart style={{ height: "500px", width: "120px" }} />
+          </Box>
+        </Box>
+        <Box
+          gridColumn="span 5"
+          gridRow="span 4"
+          backgroundColor={colors.primary[400]}
+          p="20px"
+        >
+          <Box
+            height="300px"
+            width="100%"
+            display="flex"
+            justifyContent="center"
+            alignItems="center"
+          >
+            <NetworkingLineChart style={{ height: "500px", width: "120px" }} />
+          </Box>
+        </Box>
+        <Box gridColumn="span 12" p="50px">
+          <Typography
+            variant="h4"
+            fontWeight="700"
+            textAlign="center"
+            mb="20px" // Adds margin below the caption
+          >
+            Trainings Data Summary
+          </Typography>
+        </Box>
+        <Box
+          gridColumn="span 7"
+          gridRow="span 4"
+          backgroundColor={colors.primary[400]}
+          p="20px"
+        >
+          <Box
+            height="300px"
+            width="100%"
+            display="flex"
+            justifyContent="center"
+            alignItems="center"
+          >
+            <BarTraining style={{ height: "500px", width: "120px" }} />
+          </Box>
+        </Box>
+        <Box
+          gridColumn="span 5"
+          gridRow="span 4"
+          backgroundColor={colors.primary[400]}
+          p="20px"
+        >
+          <Box
+            height="300px"
+            width="100%"
+            display="flex"
+            justifyContent="center"
+            alignItems="center"
+          >
+            <LineChart style={{ height: "500px", width: "200px" }} />
+          </Box>
+        </Box>
+        <Box gridColumn="span 12" p="50px">
+          <Typography
+            variant="h4"
+            fontWeight="700"
+            textAlign="center"
+            mb="20px" // Adds margin below the caption
+          >
+            Conferences Data Summary
+          </Typography>
+        </Box>
+        <Box
+          gridColumn="span 7"
+          gridRow="span 4"
+          backgroundColor={colors.primary[400]}
+          p="20px"
+        >
+          <Box
+            height="300px"
+            width="100%"
+            display="flex"
+            justifyContent="center"
+            alignItems="center"
+          >
+            <ConferenceBarChart style={{ height: "500px", width: "120px" }} />
+          </Box>
+        </Box>
+        <Box
+          gridColumn="span 5"
+          gridRow="span 4"
+          backgroundColor={colors.primary[400]}
+          p="20px"
+        >
+          <Box
+            height="300px"
+            width="100%"
+            display="flex"
+            justifyContent="center"
+            alignItems="center"
+          >
+            <ConferenceLineChart style={{ height: "500px", width: "120px" }} />
+          </Box>
+        </Box>
+        <Box gridColumn="span 12" p="50px">
+          <Typography
+            variant="h4"
+            fontWeight="700"
+            textAlign="center"
+            mb="20px" // Adds margin below the caption
+          >
+            Intellectual Property Filed Data Summary
+          </Typography>
+        </Box>
+        <Box
+          gridColumn="span 12"
+          gridRow="span 4"
+          backgroundColor={colors.primary[400]}
+          p="20px"
+        >
+          <Box
+            height="300px"
+            width="100%"
+            display="flex"
+            justifyContent="center"
+            alignItems="center"
+          >
+            <ResearchGroupBarChart
+              style={{ height: "500px", width: "120px" }}
+            />
+          </Box>
+        </Box>
+        <Box gridColumn="span 12" p="50px">
+          <Typography
+            variant="h4"
+            fontWeight="700"
+            textAlign="center"
+            mb="20px" // Adds margin below the caption
+          >
+            Citations Data Summary
+          </Typography>
+        </Box>
+        <Box
+          gridColumn="span 12"
+          gridRow="span 5"
+          backgroundColor={colors.primary[400]}
+          p="20px"
+        >
+          <Box
+            height="300px"
+            width="100%"
+            display="flex"
+            justifyContent="center"
+            alignItems="center"
+          >
+            <CitationsScopusChart style={{ height: "500px", width: "100%" }} />
           </Box>
         </Box>
       </Box>

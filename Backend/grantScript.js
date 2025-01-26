@@ -114,12 +114,18 @@
 
 //           if (timeoutReached) break;
 
-//           // Scroll to the bottom to load all sections
-//           await autoScroll(page);
+//           // Wait for the page to load
+//           await page.waitForSelector(".page-title-box h4", { timeout: 20000 });
 
-//           console.log("Extracting Research Group and Grants data...");
+//           // Step 2.1: Extract Scholar Name
+//           const scholarName = await page.evaluate(() => {
+//             const nameElement = document.querySelector(".page-title-box h4");
+//             return nameElement ? nameElement.textContent.trim() : "N/A";
+//           });
 
-//           // Step 2.1: Extract Research Group Data
+//           console.log(`Scholar Name: ${scholarName}`);
+
+//           // Step 2.2: Extract Research Group Data
 //           const researchGroup = await page.evaluate(() => {
 //             const sidebarMenu = document.querySelector("#sidebar-menu");
 //             if (!sidebarMenu) return "N/A";
@@ -136,7 +142,7 @@
 
 //           console.log(`Research Group for ${link}: ${researchGroup}`);
 
-//           // Step 2.2: Navigate to Grants Tab
+//           // Step 2.3: Navigate to Grants Tab
 //           await page.evaluate(() => {
 //             const grantTab = document.querySelector('a[href="#grant_tab"]');
 //             if (grantTab) grantTab.click();
@@ -150,7 +156,7 @@
 //             }
 //           );
 
-//           // Step 2.3: Extract Grants Data
+//           // Step 2.4: Extract Grants Data
 //           const grantsData = await page.evaluate(() => {
 //             const tableBody = document.querySelector(
 //               "#grantListTablePersonalDatatable tbody"
@@ -162,6 +168,8 @@
 
 //             const data = rows.map((row) => {
 //               const cells = Array.from(row.querySelectorAll("td"));
+//               const grantName =
+//                 cells[0]?.childNodes[0]?.textContent.trim() || "N/A";
 //               const sponsor =
 //                 cells[0].querySelector(".badge.bg-info")?.textContent.trim() ||
 //                 "N/A";
@@ -171,7 +179,7 @@
 //                   ?.textContent.trim() || "N/A";
 //               const year = cells[1]?.textContent.trim() || "N/A";
 
-//               return { sponsor, type, year };
+//               return { grantName, sponsor, type, year };
 //             });
 
 //             return { grantsCount, data };
@@ -182,6 +190,7 @@
 //           // Save the data into the database
 //           const scholarData = {
 //             link: link,
+//             name: scholarName, // Save scholar's name
 //             researchGroup: researchGroup,
 //             grantsCount: grantsData.grantsCount,
 //             grants: grantsData.data,
@@ -212,73 +221,61 @@
 // }
 
 // // AutoScroll function
-// // AutoScroll function with improved handling
 // async function autoScroll(page) {
 //   await page.evaluate(async () => {
-//     const distance = 100; // Distance to scroll each step
-//     const timeout = 5000; // Timeout for no new content
+//     const distance = 100;
 //     let totalHeight = 0;
-//     let lastHeight = 0;
-//     const start = Date.now();
-
-//     while (true) {
+//     while (totalHeight < document.body.scrollHeight) {
 //       window.scrollBy(0, distance);
-//       await new Promise((resolve) => setTimeout(resolve, 100));
 //       totalHeight += distance;
-
-//       // Wait for scroll height to stabilize
-//       const newHeight = document.body.scrollHeight;
-
-//       if (newHeight === lastHeight) {
-//         // If no new content is loaded for 5 seconds, stop scrolling
-//         if (Date.now() - start > timeout) {
-//           console.log("AutoScroll: No more content to load, stopping.");
-//           break;
-//         }
-//       } else {
-//         lastHeight = newHeight;
-//       }
+//       await new Promise((resolve) => setTimeout(resolve, 100));
 //     }
 //   });
 // }
 
-// scrapeUTMScholar().catch(console.error);
+// module.exports = scrapeUTMScholar;
 
 const puppeteer = require("puppeteer");
-const mongoose = require("mongoose");
 const Scholar = require("./Model/grantModel"); // Import the MongoDB model
 
 async function scrapeUTMScholar() {
-  // Connect to MongoDB
-  await mongoose.connect("mongodb://127.0.0.1:27017/scholars_updated");
-  console.log("Connected to MongoDB");
-
-  const browser = await puppeteer.launch({
-    headless: false,
-    defaultViewport: false,
-    userDataDir: "./tmp",
-  });
-  const page = await browser.newPage();
-  let allScholarLinks = [];
-  let timeoutReached = false;
-
-  // Set a timer to stop the script after 4 minutes
-  const timeout = setTimeout(() => {
-    timeoutReached = true;
-    console.log("Timeout reached: Stopping the scraping process.");
-  }, 5 * 60 * 1000); // 4 minutes in milliseconds
-
-  console.log("Navigating to the faculty page...");
-  await page.goto("https://utmscholar.utm.my/faculties/28", {
-    waitUntil: "networkidle2",
-  });
-
-  let pageNumber = 1;
+  let browser;
+  let timeout; // Declare timeout variable here so it's accessible in the entire function
+  const scrapedData = []; // Temporary in-memory storage for scraped data
 
   try {
+    console.log("Starting scraping process...");
+
+    // Launch Puppeteer
+    browser = await puppeteer.launch({
+      headless: false,
+      defaultViewport: false,
+      userDataDir: "./tmp",
+    });
+
+    const page = await browser.newPage();
+    let allScholarLinks = [];
+    let timeoutReached = false;
+
+    // Set a timer to stop the script after 10 minutes
+    timeout = setTimeout(() => {
+      timeoutReached = true;
+      console.log("Timeout reached: Stopping the scraping process.");
+    }, 20 * 60 * 1000);
+
+    console.log("Navigating to the faculty page...");
+    await page.goto("https://utmscholar.utm.my/faculties/28", {
+      waitUntil: "networkidle2",
+    });
+
+    let pageNumber = 1;
+
     // Step 1: Gather all links across all pages (pagination)
     while (!timeoutReached) {
       console.log(`Extracting scholar links from page ${pageNumber}...`);
+
+      // Use autoScroll to ensure all content is fully loaded
+      await autoScroll(page);
 
       const scholarLinks = await page.evaluate(() => {
         const rows = Array.from(
@@ -333,7 +330,6 @@ async function scrapeUTMScholar() {
           page.waitForNavigation({ waitUntil: "networkidle2", timeout: 1000 }),
         ]);
       } catch (navError) {
-        console.error("Navigation error:", navError);
         console.log("Retrying next button click...");
       }
 
@@ -355,13 +351,16 @@ async function scrapeUTMScholar() {
         try {
           await page.goto(link, {
             waitUntil: ["networkidle0", "domcontentloaded"],
-            timeout: 20000, // Reduced timeout
+            timeout: 50000,
           });
 
           if (timeoutReached) break;
 
+          // Use autoScroll on the scholar page
+          await autoScroll(page);
+
           // Wait for the page to load
-          await page.waitForSelector(".page-title-box h4", { timeout: 20000 });
+          await page.waitForSelector(".page-title-box h4", { timeout: 50000 });
 
           // Step 2.1: Extract Scholar Name
           const scholarName = await page.evaluate(() => {
@@ -398,7 +397,7 @@ async function scrapeUTMScholar() {
           await page.waitForSelector(
             "#grant_tab #grantListTablePersonalDatatable",
             {
-              timeout: 20000, // Reduced timeout
+              timeout: 50000,
             }
           );
 
@@ -433,17 +432,16 @@ async function scrapeUTMScholar() {
 
           console.log(`Grants Data for ${link}:`, grantsData);
 
-          // Save the data into the database
-          const scholarData = {
+          // Store the data temporarily in memory
+          scrapedData.push({
             link: link,
-            name: scholarName, // Save scholar's name
+            name: scholarName,
             researchGroup: researchGroup,
             grantsCount: grantsData.grantsCount,
             grants: grantsData.data,
-          };
+          });
 
-          await Scholar.replaceOne({ link }, scholarData, { upsert: true });
-          console.log(`Data saved for ${link}`);
+          console.log(`Data for ${link} added to memory.`);
           break; // Exit retry loop if successful
         } catch (error) {
           retryCount++;
@@ -455,14 +453,17 @@ async function scrapeUTMScholar() {
       }
     }
 
-    console.log("Scraping process completed.");
+    // Step 3: Save all scraped data to the database after successful scraping
+    if (scrapedData.length > 0) {
+      await Scholar.insertMany(scrapedData);
+      console.log("All data saved to the database successfully!");
+    }
   } catch (error) {
     console.error("An error occurred during scraping:", error);
   } finally {
     clearTimeout(timeout); // Clear timeout to avoid memory leaks
-    await browser.close();
-    await mongoose.connection.close();
-    console.log("Browser and database connection closed.");
+    if (browser) await browser.close();
+    console.log("Browser closed.");
   }
 }
 
@@ -471,12 +472,14 @@ async function autoScroll(page) {
   await page.evaluate(async () => {
     const distance = 100;
     let totalHeight = 0;
+    const delay = 100;
+
     while (totalHeight < document.body.scrollHeight) {
       window.scrollBy(0, distance);
       totalHeight += distance;
-      await new Promise((resolve) => setTimeout(resolve, 100));
+      await new Promise((resolve) => setTimeout(resolve, delay));
     }
   });
 }
 
-scrapeUTMScholar().catch(console.error);
+module.exports = scrapeUTMScholar;

@@ -117,6 +117,7 @@ import GPie from "./scenes/gpie";
 import PGBar from "./scenes/pubb";
 import { CssBaseline, ThemeProvider } from "@mui/material";
 import { ColorModeContext, useMode } from "./theme";
+import RunScraperButton from "./scenes/button/scraper";
 
 function App() {
   const [theme, colorMode] = useMode();
@@ -191,6 +192,7 @@ function App() {
                   <Route path="/team" element={<Team />} />
                   <Route path="/conferences" element={<Conferences />} />
                   <Route path="/networking" element={<Agreements />} />
+                  <Route path="/scraper" element={<RunScraperButton />} />
                 </>
               )}
 

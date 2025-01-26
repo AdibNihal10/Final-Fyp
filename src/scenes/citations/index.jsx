@@ -5,7 +5,7 @@ import HIndexCitationsPieChart from "../../components/PieLikeChart";
 const Citations = () => {
   return (
     <Box>
-      <Header title="Grants" subtitle="" />
+      <Header title="" subtitle="" />
       <Box height="270px" width="100%">
         <HIndexCitationsPieChart />
       </Box>

@@ -1,0 +1,1982 @@
+<!doctype html>
+<html lang="en">
+
+<head>
+    <meta charset="utf-8"/>
+    <title>UTM Scholar : DR ZALMIYAH BINTI ZAKARIA                   </title>
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta content="UTM Scholar Official Portal" name="description"/>
+    <meta name="google-site-verification" content="5ysLm8G0uPkHXlp2400O5bjCL-DV5tIMVqEQtlsm0NM"/>
+    <meta content="Office of Deputy Vice Cansellor Research &amp; Innovations, Universiti Teknologi Malaysia, Johore, Malaysia" name="author"/>
+    <link rel="shortcut icon" href="/assets/images/favicon.ico">
+    <link href="/assets/css/bootstrap.min.css" id="bootstrap-style" rel="stylesheet" type="text/css" />
+    <link href="/assets/css/icons.min.css" rel="stylesheet" type="text/css" />
+    <link href="/assets/css/app.min.css" id="app-style" rel="stylesheet" type="text/css" />
+    <link href="/assets/libs/datatables.net-bs4/css/dataTables.bootstrap4.min.css" rel="stylesheet" type="text/css" />
+    <link href="/assets/libs/datatables.net-buttons-bs4/css/buttons.bootstrap4.min.css" rel="stylesheet" type="text/css" />
+    <link href="/assets/libs/datatables.net-responsive-bs4/css/responsive.bootstrap4.min.css" rel="stylesheet" type="text/css" />
+    <style>
+            .img-thumbnail {
+                border-radius: 33px;
+                width: 61px;
+                height: 61px
+            }
+            
+            .fab:before {
+                position: relative;
+                top: 13px
+            }
+            
+            .smd {
+                width: 200px;
+                font-size: small;
+                text-align: center
+            }
+            
+            .modal-footer {
+                display: block
+            }
+            
+            .ur {
+                border: none;
+                background-color: #e6e2e2;
+                border-bottom-left-radius: 4px;
+                border-top-left-radius: 4px
+            }
+            
+            .cpy {
+                border: none;
+                background-color: #e6e2e2;
+                border-bottom-right-radius: 4px;
+                border-top-right-radius: 4px;
+                box-shadow: none !important
+            }
+            
+            .ur.focus,
+            .ur:focus {
+                outline: 0;
+                box-shadow: none !important
+            }
+            
+            .message {
+                font-size: 11px;
+                color: #ee5535
+            }
+        </style>
+</head>
+<body data-sidebar="dark">
+    <div id="layout-wrapper">
+        <header id="page-topbar">
+    <div class="navbar-header">
+        <div class="d-flex">
+          
+            <div class="navbar-brand-box">
+                <a class="logo logo-dark" href="/">
+                    <span class="logo-sm">
+                        <img src="/assets/images/logo-sm.png" alt="" height="38">
+                    </span>
+                    <span class="logo-lg">
+                        <img src="/assets/images/logo-utm.png" alt="" height="35">
+                    </span>
+                </a>
+
+                <a class="logo logo-light" href="/">
+                    <span class="logo-sm">
+                        <img src="/assets/images/logo-sm.png" alt="" height="38">
+                    </span>
+                    <span class="logo-lg">
+                        <img src="/assets/images/logo-utm.png" alt="" height="35">
+                    </span>
+                </a>
+            </div>
+
+            <button type="button" class="btn btn-sm px-3 font-size-24 header-item waves-effect vertical-menu-btn">
+                <i class="mdi mdi-menu"></i>
+            </button>
+            <div class="d-none d-sm-block">
+                <div class="page-title-box">
+                    <h4>DR ZALMIYAH BINTI ZAKARIA                  </h4>
+                    <ol class="breadcrumb m-0">
+                        <li class="breadcrumb-item">
+                            PENSYARAH UNIVERSITI
+                        </li>
+                        
+                       <!--
+                                                 <li class="breadcrumb-item" id="more_sect" hidden>
+                                            <a id="more" style="color:blue" onclick="test()" hidden><b>&nbsp;&nbsp;...&nbsp;read more</b></a>
+                                                 </li>
+                                                 <li class="breadcrumb-item" id="less_sect" hidden>
+                                                     <a id="less" style="color:blue" onclick="test()" hidden><b>&nbsp;&nbsp;Read less</b></a>
+                                                 </li>
+                                                 <li class="breadcrumb-item" id="brief" hidden>
+                                            <a id="less_1" style="color:blue" onclick="test()"><b>&nbsp;read less</b></a>
+                                                 </li>
+                       --> 
+                    </ol>
+                </div>
+            </div>
+            
+        </div>
+        <div class="d-flex">
+            <div class="dropdown d-none d-lg-inline-block">
+                            <a href="/Login/Login" class="btn btn-sm btn-primary">Login</a>
+                <button type="button" class="btn header-item noti-icon waves-effect" data-toggle="fullscreen">
+                    <i class="mdi mdi-fullscreen font-size-24"></i>
+                </button>
+            </div>
+            <div class="dropdown d-inline-block">
+                <button type="button" class="btn header-item waves-effect" id="page-header-user-dropdown"
+                        data-bs-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
+                    <i class="mdi mdi-24px mdi-cog"></i>
+                </button>
+                <div class="dropdown-menu dropdown-menu-end">
+                    <!-- item-->
+                    <a class="dropdown-item" href="/"><i class="ti-dashboard font-size-17 text-muted align-middle me-1"></i> Home</a>
+                    <a class="dropdown-item" href="/scholars"><i class="ti-bar-chart font-size-17 text-muted align-middle me-1"></i> Scholar List</a>
+                    <a class="dropdown-item" href="/research-unit"><i class="ti-pie-chart font-size-17 text-muted align-middle me-1"></i> Research Unit</a>
+                </div>
+            </div>
+        </div>
+    </div>
+</header>
+        <div class="vertical-menu">
+            <div data-simplebar class="h-100">
+                <div id="sidebar-menu">
+                    <ul class="metismenu list-unstyled" id="side-menu">
+                        <li>
+                            <a href="javascript:void(0);" class="waves-effect">
+                                <img src="/view-gambar?id=3J2z"
+                                     style="border-radius: 2%; margin-left: 50px;" height="200" width="150">
+                            </a>
+                        </li>
+                        <li>
+                            <a href="mailto:zalmiyah@utm.my" class="waves-effect">
+                                <i class="mdi mdi-email-outline"></i><span> Email<br/>zalmiyah@utm.my</span>
+                            </a>
+                        </li>
+
+                        <li>
+                            <a href="/faculties/28" class="waves-effect">
+                                <i class="mdi mdi-home"></i><span> Faculty<br/>FACULTY OF COMPUTING</span>
+                            </a>
+                        </li>
+                        <li>
+                            <a href="/schools/" class="waves-effect">
+                                <i class="mdi mdi-book-open-page-variant"></i><span> School<br/></span>
+                            </a>
+                        </li>
+                        <li>
+                            <a href="/niche-area/J090500" class="waves-effect">
+                                <i class="mdi mdi-book-arrow-down-outline"></i><span> Research Alliances<br/>SMART DIGITAL COMMUNITY</span>
+                            </a>
+                        </li>
+                        <li>
+
+                                <a href="/research-groups/390" class="waves-effect">
+                                    <i class="mdi mdi-trophy-variant-outline "></i><span> Research Group<br/>Intelligent Informatics Research Group (IIRG)</span>
+                                </a>
+
+                        </li>
+                        <li>
+                                <a href="javascript:void(0);" class="waves-effect">
+                                    <i class="mdi mdi-radar"></i><span> HI COE/COE/Research Center<br/>-</span>
+                                </a>
+
+                        </li>
+                        <li>
+                            <a href="https://www.scopus.com/authid/detail.uri?authorId=35758110800" target="_blank" class="waves-effect">
+                                <i class="fas fa-university"></i><span> Scopus Profile<br/></span>
+                            </a>
+                        </li>
+                        <li>
+                            <a href="#" class="waves-effect" data-bs-toggle="modal" data-bs-target="#shareModalBox" >
+                                <i class="fas fa-share-alt"></i><span>Share</span>
+                            </a>
+                        </li>
+
+                        <li>
+                            <a href="javascript:void(0);" class="waves-effect">
+                                <i class="mdi mdi-book"></i>
+                                <span>
+                                    Keywords/Interest<br/>
+                                    <p class="text-muted font-small-2" id="keyword">ARTIFICIAL INTELLIGENCE IN SCHEDULING AND TIMETABLING; GENETIC ALGORITHM; EVOLUTIONARY COMPUTATION; OPTIMIZATION; COMPUTATIONAL INTELLIGENCE; SOFT COMPUTING; SCHEDULING; INTELLIGENT COMPUTING; APPLIED ARTIFICIAL INTELLIGENCE</p>
+                                </span>
+                            </a>
+                        </li>
+                    </ul>
+                </div>
+                <!-- Sidebar -->
+            </div>
+        </div>
+        <div class="main-content">
+            <div class="page-content">
+                <div class="container-fluid">
+                    
+<div class="row">
+    <div class="col-xl-2 col-sm-6 h-50">
+        <div class="card mini-stat bg-primary">
+            <div class="card-body mini-stat-img">
+                <div class="mini-stat-icon">
+                    <i class="mdi mdi-cube-outline float-end"></i>
+                </div>
+                <div class="text-white">
+                    <h6 class="text-uppercase mb-3 font-size-12 text-white">GRANT(PI & MEMBERS)</h6>
+                    <h2 class="mb-4 text-white">34</h2>
+
+                </div>
+            </div>
+        </div>
+    </div>
+    <div class="col-xl-2 col-sm-6 h-50">
+        <div class="card mini-stat bg-warning">
+            <div class="card-body mini-stat-img">
+                <div class="mini-stat-icon">
+                    <i class="mdi mdi-buffer float-end"></i>
+                </div>
+                <div class="text-white">
+                    <h6 class="text-uppercase mb-3 font-size-12 text-white">PUBLICATIONS</h6>
+                    <h2 class="mb-4 text-white">66</h2>
+                </div>
+            </div>
+        </div>
+    </div>
+    <div class="col-xl-2 col-sm-6 h-50">
+        <div class="card mini-stat bg-info">
+            <div class="card-body mini-stat-img">
+                <div class="mini-stat-icon">
+                    <i class="mdi mdi-tag-text-outline float-end"></i>
+                </div>
+                <div class="text-white">
+                    <h6 class="text-uppercase mb-3 font-size-12 text-white">INDEXED PUBLICATION</h6>
+                    <h2 class="mb-4 text-white">35</h2>
+                </div>
+            </div>
+        </div>
+    </div>
+    <div class="col-xl-2 col-sm-6 h-50">
+        <div class="card mini-stat bg-danger">
+            <div class="card-body mini-stat-img">
+                <div class="mini-stat-icon">
+                    <i class="mdi mdi-chart-pie float-end"></i>
+                </div>
+                <div class="text-white">
+                    <h6 class="text-uppercase mb-3 font-size-12 text-white">TOTAL STUDENTS</h6>
+                    <h2 class="mb-4 text-white"><span id="TotalSupervisionCount"></span></h2>
+                </div>
+            </div>
+        </div>
+    </div>
+    <div class="col-xl-2 col-sm-6 h-50">
+        <div class="card mini-stat bg-success">
+            <div class="card-body mini-stat-img">
+                <div class="mini-stat-icon">
+                    <i class="mdi mdi-chart-bar float-end"></i>
+                </div>
+                <div class="text-white">
+                    <h6 class="text-uppercase mb-3 font-size-12 text-white">H-INDEXED (SCOPUS)</h6>
+                    <h2 class="mb-4 text-white"><span id="hIndexID"></span></h2>
+                </div>
+            </div>
+        </div>
+    </div>
+    <div class="col-xl-2 col-sm-6 h-50">
+        <div class="card mini-stat bg-info">
+            <div class="card-body mini-stat-img">
+                <div class="mini-stat-icon">
+                    <i class="mdi mdi-briefcase-check float-end"></i>
+                </div>
+                <div class="text-white">
+                    <h6 class="text-uppercase mb-3 font-size-12 text-white">CITATIONS (SCOPUS)</h6>
+                    <h2 class="mb-4 text-white"><span id="CountPublicIndexID"></span></h2>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+
+<div class="row">
+    <div class="col-xl-4">
+        <div class="card">
+            <div class="card-body">
+                <h4 class="card-title mb-3">Grant (PI)</h4>
+                <div class="row">
+                    <div class="col-md-12 col-12">
+                        <div id="grant_chart_personal" class="morris-charts morris-chart-height"></div>
+                    </div>
+                </div>
+                    <div class="row">
+                        <div class="col-md-12 col-12">
+                            <div class="inbox-wid">
+                                <div class="inbox-item">
+                                    <div class="float-start">INDUSTRY GRANTS</div>
+                                    <div class="float-end">1</div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="row">
+                        <div class="col-md-12 col-12">
+                            <div class="inbox-wid">
+                                <div class="inbox-item">
+                                    <div class="float-start">NATIONAL GRANTS</div>
+                                    <div class="float-end">4</div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="row">
+                        <div class="col-md-12 col-12">
+                            <div class="inbox-wid">
+                                <div class="inbox-item">
+                                    <div class="float-start">UNIVERSITY FUND</div>
+                                    <div class="float-end">3</div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                <div class="row">
+                    <div class="col-md-12 col-12">
+                        <div class="inbox-wid">
+                            <div class="inbox-item">
+                                <div class="float-start"><strong>TOTAL</strong></div>
+                                <div class="float-end"><span id="TotalGrantCount"></span></div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+    <div class="col-xl-4">
+        <div class="card">
+            <div class="card-body">
+                <h4 class="card-title mb-3">Publications</h4>
+                <div class="row">
+                    <div class="col-md-12 col-12">
+                        <div id="publication_chart_personal" class="morris-charts morris-chart-height"></div>
+                    </div>
+                </div>
+                    <div class="row">
+                        <div class="col-md-12 col-12">
+                            <div class="inbox-wid">
+                                <div class="inbox-item">
+                                    <div class="float-start">INDEXED PUBLICATION</div>
+                                    <div class="float-end">35</div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="row">
+                        <div class="col-md-12 col-12">
+                            <div class="inbox-wid">
+                                <div class="inbox-item">
+                                    <div class="float-start">NON-INDEXED PUBLICATION</div>
+                                    <div class="float-end">10</div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="row">
+                        <div class="col-md-12 col-12">
+                            <div class="inbox-wid">
+                                <div class="inbox-item">
+                                    <div class="float-start">OTHERS PUBLICATION</div>
+                                    <div class="float-end">21</div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                <div class="row">
+                    <div class="col-md-12 col-12">
+                        <div class="inbox-wid">
+                            <div class="inbox-item">
+                                <div class="float-start"><strong>TOTAL</strong></div>
+                                <div class="float-end"><span id="TotalPublicationCount"></span></div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+    <div class="col-xl-4">
+        <div class="card">
+            <div class="card-body">
+                <h4 class="card-title mb-4">Supervisions</h4>
+                <div class="row">
+                    <div class="col-md-12 col-12">
+                        <div id="supervision_chart_personal" class="morris-charts morris-chart-height"></div>
+                    </div>
+                </div>
+                    <div class="row">
+                        <div class="col-md-12">
+                            <div class="inbox-wid">
+                                <div class="inbox-item">
+                                    <div class="float-start">MASTER</div>
+                                    <div class="float-end">9</div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="row">
+                        <div class="col-md-12">
+                            <div class="inbox-wid">
+                                <div class="inbox-item">
+                                    <div class="float-start">PHD</div>
+                                    <div class="float-end">9</div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                <div class="row">
+                    <div class="inbox-wid">
+                        <div class="inbox-item">
+                            <div class="float-start"><strong>TOTAL</strong></div>
+                            <div class="float-end"><span id="TotalSupervisionCount_chart"></span></div>
+                        </div>
+                    </div>
+                </div>
+
+            </div>
+        </div>
+    </div>
+</div>
+
+<div class="row">
+    <div class="card">
+        <div class="card-body">
+            <!-- Nav tabs -->
+            <ul class="nav nav-tabs nav-tabs-custom" role="tablist">
+                <li class="nav-item">
+                    <a class="nav-link active" data-bs-toggle="tab" href="#grant_tab" role="tab" aria-selected="true">
+                        <span class="d-block d-sm-none"><i class="fas fa-dollar-sign"></i></span>
+                        <span class="d-none d-sm-block">Grants</span>
+                    </a>
+                </li>
+                <li class="nav-item">
+                    <a class="nav-link" data-bs-toggle="tab" href="#publication_tab" role="tab" aria-selected="false">
+                        <span class="d-block d-sm-none"><i class="fa fa-book-open"></i></span>
+                        <span class="d-none d-sm-block">Publications</span>
+                    </a>
+                </li>
+                <li class="nav-item">
+                    <a class="nav-link" data-bs-toggle="tab" href="#ip_tab" role="tab" aria-selected="false">
+                        <span class="d-block d-sm-none"><i class="far fa-envelope"></i></span>
+                        <span class="d-none d-sm-block">Intellectual Property</span>
+                    </a>
+                </li>
+                <li class="nav-item">
+                    <a class="nav-link" data-bs-toggle="tab" href="#supervision_tab" role="tab" aria-selected="false">
+                        <span class="d-block d-sm-none"><i class="fas fa-user-graduate"></i></span>
+                        <span class="d-none d-sm-block">Supervisions</span>
+                    </a>
+                </li>
+            </ul>
+
+            <!-- Tab panes -->
+            <div class="tab-content">
+                <div class="tab-pane p-3 active" id="grant_tab" role="tabpanel">
+                    <p class="mb-0">
+                    <p>Legend : <span class="badge rounded-pill  bg-info">SPONSOR</span> <span class="badge rounded-pill  bg-success">TYPE OF GRANT</span></p>
+                    <div class="table-responsive">
+                        <table id="grantListTablePersonalDatatable" class="table mb-0 dt-responsive nowrap" style="border-collapse: collapse; border-spacing: 0; width: 100%;">
+                            <thead>
+                                <tr>
+                                    <th>Grant Name</th>
+                                    <th>Year</th>
+                                </tr>
+                            </thead>
+                            <tbody>
+                                    <tr>
+                                        <td>Continuous Learning Code-Mixed Embeddings with Recurrent Neural Networks to Solve Code Mixing in Malay Chatbot<br /><span class="badge rounded-pill  bg-info">MINISTRY OF EDUCATION</span> <span class="badge rounded-pill  bg-success">Fundamental Research Grant Scheme </span></td>
+                                        <td>2024</td>
+                                    </tr>
+                                    <tr>
+                                        <td>Augmented Fine-Grained Multimodal User Interaction with Proximal Policy Optimization for Prioritizing Android Application Test Cases<br /><span class="badge rounded-pill  bg-info">MINISTRY OF EDUCATION</span> <span class="badge rounded-pill  bg-success">Fundamental Research Grant Scheme </span></td>
+                                        <td>2024</td>
+                                    </tr>
+                                    <tr>
+                                        <td>F4&#x2B; 3.3: Integrating XAI for Automated Diagnosis and Generative AI for Smart Prescription for Cardiovascular Diseases<br /><span class="badge rounded-pill  bg-info">RUG OF UTM</span> <span class="badge rounded-pill  bg-success">Geran Penyelidikan Hi-Tech(F4)</span></td>
+                                        <td>2024</td>
+                                    </tr>
+                                    <tr>
+                                        <td>Program SmarTech 2024 (Teknologi Pintar): Inovasi Produk Mampan Melalui Pembuatan Pintar dan Pencetakan 3D<br /><span class="badge rounded-pill  bg-info">CENTER FOR COMMUNITY AND INDUSTRY NETWORK (CCIN)</span> <span class="badge rounded-pill  bg-success">CCIN AIMS4STAR</span></td>
+                                        <td>2024</td>
+                                    </tr>
+                                    <tr>
+                                        <td>New Malay Polysemy Word Sense Disambiguation Method based on Fuzzy Hypergraph for Malay Text Summarization<br /><span class="badge rounded-pill  bg-info">MINISTRY OF EDUCATION</span> <span class="badge rounded-pill  bg-success">Fundamental Research Grant Scheme </span></td>
+                                        <td>2023</td>
+                                    </tr>
+                                    <tr>
+                                        <td>COE/RG 3.0: Intelligent and Sustainable Additive Manufacturing of  3D-printed Complex Engineering Components<br /><span class="badge rounded-pill  bg-info">RUG OF UTM</span> <span class="badge rounded-pill  bg-success">Flagship CoE/RG</span></td>
+                                        <td>2022</td>
+                                    </tr>
+                                    <tr>
+                                        <td>COE/RG 3.1: Service-Oriented Sustainable Design for Additive Manufacturing Platform Based on Open Architecture Data Structure<br /><span class="badge rounded-pill  bg-info">RUG OF UTM</span> <span class="badge rounded-pill  bg-success">Flagship CoE/RG</span></td>
+                                        <td>2022</td>
+                                    </tr>
+                                    <tr>
+                                        <td>A Hybrid Reinforcement Learning and Metaheuristic Algorithm for Identification of Biomarkers Associated with Acne<br /><span class="badge rounded-pill  bg-info">RUG OF UTM</span> <span class="badge rounded-pill  bg-success">UTM Encouragement Research </span></td>
+                                        <td>2021</td>
+                                    </tr>
+                                    <tr>
+                                        <td>A hybrid Convolutional Neural Network Transfer Learning - Weight Transfusion for Malocclusion Classification<br /><span class="badge rounded-pill  bg-info">MINISTRY OF EDUCATION</span> <span class="badge rounded-pill  bg-success">Fundamental Research Grant Scheme </span></td>
+                                        <td>2021</td>
+                                    </tr>
+                                    <tr>
+                                        <td>A segmented-based representation of the fuzzy relations and tolerance in mixed emotion recognition<br /><span class="badge rounded-pill  bg-info">MINISTRY OF EDUCATION</span> <span class="badge rounded-pill  bg-success">Fundamental Research Grant Scheme </span></td>
+                                        <td>2020</td>
+                                    </tr>
+                                    <tr>
+                                        <td>AN ENHANCED GREEDY-BASED CAT SWARM OPTIMIZATION FOR DYNAMIC TASK SCHEDULING IN CLOUD COMPUTING SYSTEMS<br /><span class="badge rounded-pill  bg-info">RUG OF UTM</span> <span class="badge rounded-pill  bg-success">UTM Encouragement Research </span></td>
+                                        <td>2020</td>
+                                    </tr>
+                                    <tr>
+                                        <td>UTMIcon 4.2 - Development of an Intelligence Brain (Engine) to Perform Security and Social Threat Profiling and Assessments<br /><span class="badge rounded-pill  bg-info">RUG OF UTM</span> <span class="badge rounded-pill  bg-success">UTM RA ICONIC GRANT </span></td>
+                                        <td>2020</td>
+                                    </tr>
+                                    <tr>
+                                        <td>LEADERSHIP PROFILING AND TALENT PREDICTIVE ANALYTICS FOR AKADEMIK KEPIMPINAN PENDIDIKAN TINGGI (AKEPT)<br /><span class="badge rounded-pill  bg-info">AKADEMI KEPIMPINAN PENDIDIKAN TINGGI (AKEPT)</span> <span class="badge rounded-pill  bg-success">Non Goverment Agency</span></td>
+                                        <td>2020</td>
+                                    </tr>
+                                    <tr>
+                                        <td>BIG DATA TALENT ANALYTICS FOR PREDICTIVE BEHAVIORAL LEADERSHIP<br /><span class="badge rounded-pill  bg-info">RUG OF UTM</span> <span class="badge rounded-pill  bg-success">UTM High Impact Research                                                                                                                                                                                                                                       </span></td>
+                                        <td>2020</td>
+                                    </tr>
+                                    <tr>
+                                        <td>AN IMPROVED PENALIZED MACHINE LEARNING ALGORITHM WITH TOPOLOGY-BASED FEATURE SELECTION FOR BIOMARKERS DISCOVERY<br /><span class="badge rounded-pill  bg-info">MINISTRY OF EDUCATION</span> <span class="badge rounded-pill  bg-success">Fundamental Research Grant Scheme </span></td>
+                                        <td>2019</td>
+                                    </tr>
+                                    <tr>
+                                        <td>AN IMPROVED DOMINATED COMPLETED MEDIAN TERNARY PATTERN (DCMTP) FOR COPY-MOVE IMAGE FORGERY DETECTION<br /><span class="badge rounded-pill  bg-info">RUG OF UTM</span> <span class="badge rounded-pill  bg-success">Tier 1                                                                                                                                                                                                                                                         </span></td>
+                                        <td>2018</td>
+                                    </tr>
+                                    <tr>
+                                        <td>A NEW VIDEO COPY-MOVE FORGERY DETECTION USING HYBRID CONVOLUTIONAL NEURAL NETWORKS-LONG SHORT-TERM MEMORY (CONVNET-LSTM)<br /><span class="badge rounded-pill  bg-info">RUG OF UTM</span> <span class="badge rounded-pill  bg-success">Tier 1                                                                                                                                                                                                                                                         </span></td>
+                                        <td>2018</td>
+                                    </tr>
+                                    <tr>
+                                        <td>A NEW CASE-BASED ENSEMBLE INTEGRATOR METHOD IN FUZZY INFERENCE SYSTEM<br /><span class="badge rounded-pill  bg-info">MINISTRY OF EDUCATION</span> <span class="badge rounded-pill  bg-success">Fundamental Research Grant Scheme </span></td>
+                                        <td>2017</td>
+                                    </tr>
+                                    <tr>
+                                        <td>Computational Approaches for Gene Selection of Gene Expression Data<br /><span class="badge rounded-pill  bg-info">RUG OF UTM</span> <span class="badge rounded-pill  bg-success">UTMShine </span></td>
+                                        <td>2016</td>
+                                    </tr>
+                                    <tr>
+                                        <td>An Improved Scatter Search Algorithm for Parameter Estimation in Large-Scale Kinetic Models of Metabolic Systems<br /><span class="badge rounded-pill  bg-info">MINISTRY OF EDUCATION</span> <span class="badge rounded-pill  bg-success">Fundamental Research Grant Scheme </span></td>
+                                        <td>2016</td>
+                                    </tr>
+                                    <tr>
+                                        <td>AN INTEGRATED POVERTY MEASUREMENT BASED ON INTELLIGENCE COMPUTATIONAL METHOD FOR WELFARE DISTRIBUTION<br /><span class="badge rounded-pill  bg-info">RUG OF UTM</span> <span class="badge rounded-pill  bg-success">Tier 1                                                                                                                                                                                                                                                         </span></td>
+                                        <td>2016</td>
+                                    </tr>
+                                    <tr>
+                                        <td>DETERMINATION OF URBAN HOUSE-HOLD POVERTY USING INTELLIGENCE COMPUTATIONAL METHODS<br /><span class="badge rounded-pill  bg-info">GATES IT SOLUTION SDN. BHD.</span> <span class="badge rounded-pill  bg-success">Contract                                                                                                                                                                                                                                                       </span></td>
+                                        <td>2015</td>
+                                    </tr>
+                                    <tr>
+                                        <td>Enhanced Differential Evolution Algorithms for Parameter Estimation in Metabolic Pathway.<br /><span class="badge rounded-pill  bg-info">RUG OF UTM</span> <span class="badge rounded-pill  bg-success">Tier 1                                                                                                                                                                                                                                                         </span></td>
+                                        <td>2014</td>
+                                    </tr>
+                                    <tr>
+                                        <td>Fine-Grain Concept Based Adaptation for Learning Material Selection in Adaptive E-Learning<br /><span class="badge rounded-pill  bg-info">RUG OF UTM</span> <span class="badge rounded-pill  bg-success">Tier 2                                                                                                                                                                                                                                                         </span></td>
+                                        <td>2012</td>
+                                    </tr>
+                                    <tr>
+                                        <td>The development of match-up algorithms for rescheduling of Flexible Manufacturing Systems<br /><span class="badge rounded-pill  bg-info">RUG OF UTM</span> <span class="badge rounded-pill  bg-success">Tier 2                                                                                                                                                                                                                                                         </span></td>
+                                        <td>2012</td>
+                                    </tr>
+                                    <tr>
+                                        <td>The Development Of Integrated Planning And Scheduling Framework For Dynamic And Reactive Environment Of Complex Manufacturing Problem<br /><span class="badge rounded-pill  bg-info">MINISTRY OF ENERGY, SCIENCE, TECHNOLOGY, ENVIRONEMNT AND CLIMATE CHANGE (MESTECC)</span> <span class="badge rounded-pill  bg-success">Sciencefund </span></td>
+                                        <td>2006</td>
+                                    </tr>
+                                    <tr>
+                                        <td>A Study On Component-based Technology for Development of Complex Bioformatics Software<br /><span class="badge rounded-pill  bg-info"></span> <span class="badge rounded-pill  bg-success">Short Term                                                                                                                                                                                                                                                     </span></td>
+                                        <td>1999</td>
+                                    </tr>
+                                    <tr>
+                                        <td>The Development of Hybrid Cell Ontology for Storing and Exchanging Computer-based Biological Models<br /><span class="badge rounded-pill  bg-info">MINISTRY OF ENERGY, SCIENCE, TECHNOLOGY, ENVIRONEMNT AND CLIMATE CHANGE (MESTECC)</span> <span class="badge rounded-pill  bg-success">Sciencefund </span></td>
+                                        <td>1998</td>
+                                    </tr>
+                                    <tr>
+                                        <td>The Development of Multi Agent Systems For Biological Information Retrival From Heterogenous Distributed Data and Knowledge Sources<br /><span class="badge rounded-pill  bg-info">MINISTRY OF ENERGY, SCIENCE, TECHNOLOGY, ENVIRONEMNT AND CLIMATE CHANGE (MESTECC)</span> <span class="badge rounded-pill  bg-success">Sciencefund </span></td>
+                                        <td>1998</td>
+                                    </tr>
+
+                            </tbody>
+                        </table>
+                    </div>
+                    </p>
+                </div>
+                <div class="tab-pane p-3" id="publication_tab" role="tabpanel">
+                    <p class="mb-0">
+                    <p class="text-muted">
+                        Legend : <span class="badge rounded-pill  bg-info">PUBLICATION CATEGORY </span>
+                        <span class="badge rounded-pill  bg-success">TYPE OF AUTHORS</span>
+                    </p>
+                    <div class="table-responsive">
+                        <table id="publicationListTablePersonalDatatable" class="table mb-0 dt-responsive nowrap" style="border-collapse: collapse; border-spacing: 0; width: 100%;">
+                            <thead>
+                                <tr>
+                                    <th>Publication Name</th>
+                                    <th>Year</th>
+                                </tr>
+                            </thead>
+                            <tbody>
+                                    <tr>
+                                        <td>
+
+                                            <a href="/scholar-publication/3J2z/142365">Lateral Cephalogram Contour Transformation Framework For Skeletal Malocclusion Classification</a>
+
+                                            <br />
+                                                PROCEEDINGS: COMPUTER SCIENCE<br />
+                                            <span class="badge rounded-pill  bg-info">Proceedings</span> <span class="badge rounded-pill  bg-success">CO-AUTHOR</span>
+                                        </td>
+                                        <td>2023</td>
+                                    </tr>
+                                    <tr>
+                                        <td>
+
+                                            <a href="/scholar-publication/3J2z/140754">Test Case Prioritization For Software Product Line: A Systematic Mapping Study</a>
+
+                                            <br />
+                                                INTERNATIONAL JOURNAL&#xA;ON INFORMATICS VISUALIZATION<br />
+                                            <span class="badge rounded-pill  bg-info">Publication In Scopus</span> <span class="badge rounded-pill  bg-success">CO-AUTHOR</span>
+                                        </td>
+                                        <td>2023</td>
+                                    </tr>
+                                    <tr>
+                                        <td>
+
+                                            <a href="/scholar-publication/3J2z/135152">Design Thinking Approach In Artificial Intelligence Project</a>
+
+                                            <br />
+                                                E-PROCEEDINGS OF HITEL TEACHING &amp; LEARNING INNOVATION&#xA;(TEACHING AND LEARNING PRACTICES)<br />
+                                            <span class="badge rounded-pill  bg-info">Proceedings</span> <span class="badge rounded-pill  bg-success">CO-AUTHOR</span>
+                                        </td>
+                                        <td>2022</td>
+                                    </tr>
+                                    <tr>
+                                        <td>
+
+                                            <a href="/scholar-publication/3J2z/136192">Entropy Based Method For Malicious File Detection</a>
+
+                                            <br />
+                                                INTERNATIONAL JOURNAL ON INFORMATICS VISUALIZATION<br />
+                                            <span class="badge rounded-pill  bg-info">Publication In Scopus</span> <span class="badge rounded-pill  bg-success">UTM FIRST AUTHOR</span>
+                                        </td>
+                                        <td>2022</td>
+                                    </tr>
+                                    <tr>
+                                        <td>
+
+                                            <a href="/scholar-publication/3J2z/129519">Breast Cancer Disease Classification Using Fuzzy-Id3 Algorithm Based On Association Function</a>
+
+                                            <br />
+                                                IAES INTERNATIONAL JOURNAL OF ARTIFICIAL INTELLIGENCE<br />
+                                            <span class="badge rounded-pill  bg-info">Publication In Scopus</span> <span class="badge rounded-pill  bg-success">UTM FIRST AUTHOR</span>
+                                        </td>
+                                        <td>2022</td>
+                                    </tr>
+                                    <tr>
+                                        <td>
+
+                                            <a href="/scholar-publication/3J2z/130008"> Dynamic Scheduling Of Heterogeneous Resources Across Mobile Edge-Cloud Continuum Using Fruit Fly-Based Simulated Annealing Optimization Scheme</a>
+
+                                            <br />
+                                                NEURAL COMPUTING &amp; APPLICATIONS<br />
+                                            <span class="badge rounded-pill  bg-info">Publication In Web Of Science</span> <span class="badge rounded-pill  bg-success">CO-AUTHOR</span>
+                                        </td>
+                                        <td>2022</td>
+                                    </tr>
+                                    <tr>
+                                        <td>
+
+                                            <a href="/scholar-publication/3J2z/125777">Pubmed Text Data Mining Automation For Biological Validation On Lists Of Genes And Pathways</a>
+
+                                            <br />
+                                                INTERNATIONAL JOURNAL OF INNOVATIVE COMPUTING<br />
+                                            <span class="badge rounded-pill  bg-info">Journal Article Non Citation-Indexed</span> <span class="badge rounded-pill  bg-success">CO-AUTHOR</span>
+                                        </td>
+                                        <td>2022</td>
+                                    </tr>
+                                    <tr>
+                                        <td>
+
+                                            <a href="/scholar-publication/3J2z/123229">Enhanced Directed Random Walk For The Identification Of Breast Cancer Prognostic Markers From Multiclass Expression Data</a>
+
+                                            <br />
+                                                ENTROPY<br />
+                                            <span class="badge rounded-pill  bg-info">Publication In Web Of Science</span> <span class="badge rounded-pill  bg-success">CO-AUTHOR</span>
+                                        </td>
+                                        <td>2021</td>
+                                    </tr>
+                                    <tr>
+                                        <td>
+
+                                            <a href="/scholar-publication/3J2z/124960">A Comparative Analysis Of Metaheuristic Algorithms In Fuzzy Modelling For Phishing Attack Detection</a>
+
+                                            <br />
+                                                INDONESIAN JOURNAL OF ELECTRICAL ENGINEERING AND COMPUTER SCIENCE<br />
+                                            <span class="badge rounded-pill  bg-info">Publication In Scopus</span> <span class="badge rounded-pill  bg-success">UTM FIRST AUTHOR</span>
+                                        </td>
+                                        <td>2021</td>
+                                    </tr>
+                                    <tr>
+                                        <td>
+
+                                            <a href="/scholar-publication/3J2z/117012">From Data To Decision: How Big Data Can Be Used To Support The Process Of Selecting Candidates For Top Positions In Universities</a>
+
+                                            <br />
+                                                THE UTM LEADERSHIP SYMPOSIUM 2020<br />
+                                            <span class="badge rounded-pill  bg-info">Proceedings</span> <span class="badge rounded-pill  bg-success">CO-AUTHOR</span>
+                                        </td>
+                                        <td>2020</td>
+                                    </tr>
+                                    <tr>
+                                        <td>
+
+                                            <a href="/scholar-publication/3J2z/112129">Cloud Customers Service Selection Scheme  Based On Improved Cnventional Cat Swarm Optimization</a>
+
+                                            <br />
+                                                NEURAL COMPUTING AND APPLICATIONS<br />
+                                            <span class="badge rounded-pill  bg-info">Publication In Web Of Science</span> <span class="badge rounded-pill  bg-success">CO-AUTHOR</span>
+                                        </td>
+                                        <td>2020</td>
+                                    </tr>
+                                    <tr>
+                                        <td>
+
+                                            <a href="/scholar-publication/3J2z/108581">Integration Of Statistical Method And Zernike Moment As Feature Extraction In Liveness Detection</a>
+
+                                            <br />
+                                                IOP CONFERENCE SERIES: MATERIALS SCIENCE AND ENGINEERING<br />
+                                            <span class="badge rounded-pill  bg-info">Publication In Scopus</span> <span class="badge rounded-pill  bg-success">CO-AUTHOR</span>
+                                        </td>
+                                        <td>2019</td>
+                                    </tr>
+                                    <tr>
+                                        <td>
+
+                                            <a href="/scholar-publication/3J2z/108727">Re-Engineering In Confinement Method</a>
+
+                                            <br />
+                                                ENGINEERING HERITAGE JOURNAL (GWK)3(1) (2019) 18-19<br />
+                                            <span class="badge rounded-pill  bg-info">Journal Article Non Citation-Indexed</span> <span class="badge rounded-pill  bg-success">CO-AUTHOR</span>
+                                        </td>
+                                        <td>2019</td>
+                                    </tr>
+                                    <tr>
+                                        <td>
+
+                                            <a href="/scholar-publication/3J2z/108667">Online Activity Duration Management System For Manufacturing&#xD;&#xA;Company</a>
+
+                                            <br />
+                                                ACTA ELECTRONICA MALAYSIA (AEM) 3(2) (2019) 01-08 <br />
+                                            <span class="badge rounded-pill  bg-info">Journal Article Non Citation-Indexed</span> <span class="badge rounded-pill  bg-success">CO-AUTHOR</span>
+                                        </td>
+                                        <td>2019</td>
+                                    </tr>
+                                    <tr>
+                                        <td>
+
+                                            <a href="/scholar-publication/3J2z/108696">Impact Of Continuous Practice To The Performance In Cross Country Race</a>
+
+                                            <br />
+                                                SOCIAL VALUES &amp; SOCIETY 1(1) (2019) 11-12<br />
+                                            <span class="badge rounded-pill  bg-info">Journal Article Non Citation-Indexed</span> <span class="badge rounded-pill  bg-success">CO-AUTHOR</span>
+                                        </td>
+                                        <td>2019</td>
+                                    </tr>
+                                    <tr>
+                                        <td>
+
+                                            <a href="/scholar-publication/3J2z/104559">Comparison Of Feature Selection Techniques In Classifying Stroke Documents</a>
+
+                                            <br />
+                                                INDONESIAN JOURNAL OF ELECTRICAL ENGINEERING AND COMPUTER SCIENCE<br />
+                                            <span class="badge rounded-pill  bg-info">Publication In Scopus</span> <span class="badge rounded-pill  bg-success">CO-AUTHOR</span>
+                                        </td>
+                                        <td>2019</td>
+                                    </tr>
+                                    <tr>
+                                        <td>
+
+                                            <a href="/scholar-publication/3J2z/105660">Improved Metaheuristic Algorithms For Metabolic Network Optimization</a>
+
+                                            <br />
+                                                IOP CONFERENCE SERIES: MATERIALS SCIENCE AND ENGINEERING<br />
+                                            <span class="badge rounded-pill  bg-info">Publication In Scopus</span> <span class="badge rounded-pill  bg-success">UTM FIRST AUTHOR</span>
+                                        </td>
+                                        <td>2019</td>
+                                    </tr>
+                                    <tr>
+                                        <td>
+
+                                            <a href="/scholar-publication/3J2z/105020">A Non-Dominated Sorting Differential Search Algorithm Flux Balance Analysis (Ndsdsafba) For In Silico Multiobjective Optimization In Identifying Reactions Knockout</a>
+
+                                            <br />
+                                                COMPUTERS IN BIOLOGY AND MEDICINE&#xD;&#xA;<br />
+                                            <span class="badge rounded-pill  bg-info">Publication In Web Of Science</span> <span class="badge rounded-pill  bg-success">UTM FIRST AUTHOR</span>
+                                        </td>
+                                        <td>2019</td>
+                                    </tr>
+                                    <tr>
+                                        <td>
+
+                                            <a href="/scholar-publication/3J2z/104979">A Review Of Computational Methods For Clustering Genes With Similar Biological Functions</a>
+
+                                            <br />
+                                                PROCESSES<br />
+                                            <span class="badge rounded-pill  bg-info">Publication In Web Of Science</span> <span class="badge rounded-pill  bg-success">UTM FIRST AUTHOR</span>
+                                        </td>
+                                        <td>2019</td>
+                                    </tr>
+                                    <tr>
+                                        <td>
+
+                                            <a href="/scholar-publication/3J2z/105318">Quality Of Service Task Scheduling Algorithm For  Time-Cost Trade Off Scheduling Problem In Cloud Computing Environment</a>
+
+                                            <br />
+                                                INTERNATIONAL JOURNAL  INTELLIGENT SYSTEMS TECHNOLOGIES AND APPLICATIONS<br />
+                                            <span class="badge rounded-pill  bg-info">Publication In Scopus</span> <span class="badge rounded-pill  bg-success">CO-AUTHOR</span>
+                                        </td>
+                                        <td>2019</td>
+                                    </tr>
+                                    <tr>
+                                        <td>
+
+                                            <a href="/scholar-publication/3J2z/97895">Review On Weighting Category Of Pathway Topology-Based Microarray Analysis In Multiclass Classification</a>
+
+                                            <br />
+                                                UTM COMPUTING PROCEEDINGS INNOVATIONS IN COMPUTING TECHNOLOGY AND APPLICATIONS<br />
+                                            <span class="badge rounded-pill  bg-info">Proceedings</span> <span class="badge rounded-pill  bg-success">CORRESPONDING AUTHOR</span>
+                                        </td>
+                                        <td>2018</td>
+                                    </tr>
+                                    <tr>
+                                        <td>
+
+                                            <a href="/scholar-publication/3J2z/99318">Review On Pathway Topology-Based Microarray Analysis</a>
+
+                                            <br />
+                                                7TH INTERNATIONAL GRADUATE CONFERENCE ON ENGINEERING SCIENCE &amp; HUMANITY 2018 (IGCESH 2018) <br />
+                                            <span class="badge rounded-pill  bg-info">Proceedings</span> <span class="badge rounded-pill  bg-success">CORRESPONDING AUTHOR</span>
+                                        </td>
+                                        <td>2018</td>
+                                    </tr>
+                                    <tr>
+                                        <td>
+
+                                            <a href="/scholar-publication/3J2z/101882">Enhancement Of Fingerprint Liveness Detection</a>
+
+                                            <br />
+                                                INTERNATIONAL JOURNAL OF SOFTWARE ENGINEERING AND TECHNOLOGY<br />
+                                            <span class="badge rounded-pill  bg-info">Journal Article Non Citation-Indexed</span> <span class="badge rounded-pill  bg-success">CO-AUTHOR</span>
+                                        </td>
+                                        <td>2018</td>
+                                    </tr>
+                                    <tr>
+                                        <td>
+
+                                            <a href="/scholar-publication/3J2z/96649">Orthogonal Taguchi-Based Cat Algorithm For Solving Task Scheduling Problem In Cloud Computing</a>
+
+                                            <br />
+                                                NEURAL COMPUTING AND APPLICATIONS <br />
+                                            <span class="badge rounded-pill  bg-info">Publication In Web Of Science</span> <span class="badge rounded-pill  bg-success">CO-AUTHOR</span>
+                                        </td>
+                                        <td>2018</td>
+                                    </tr>
+                                    <tr>
+                                        <td>
+
+                                            <a href="/scholar-publication/3J2z/100008">Multi-Objective Task Scheduling Optimization In Cloud Computing- An Appraisal</a>
+
+                                            <br />
+                                                ADVANCED SCIENCE LETTERS<br />
+                                            <span class="badge rounded-pill  bg-info">Publication In Web Of Science</span> <span class="badge rounded-pill  bg-success">CO-AUTHOR</span>
+                                        </td>
+                                        <td>2018</td>
+                                    </tr>
+                                    <tr>
+                                        <td>
+
+                                            <a href="/scholar-publication/3J2z/99927">Quality Of Service (Qos) Task Scheduling Algorithm With Taguchi Orthogonal Approach For Cloud Computing Environment</a>
+
+                                            <br />
+                                                RECENT TRENDS IN INFORMATION AND COMMUNICATION TECHNOLOGY<br />
+                                            <span class="badge rounded-pill  bg-info">Publication In Web Of Science</span> <span class="badge rounded-pill  bg-success">CO-AUTHOR</span>
+                                        </td>
+                                        <td>2018</td>
+                                    </tr>
+                                    <tr>
+                                        <td>
+
+                                            <a href="/scholar-publication/3J2z/99767">Sistem Pemarkahan Pelajar Di Fakulti Sains Komputer Sistem Maklumat Berasaskan Web</a>
+
+                                            <br />
+                                                PEMBANGUNAN SISTEM APLIKASI AMATUR<br />
+                                            <span class="badge rounded-pill  bg-info">Book Chapter</span> <span class="badge rounded-pill  bg-success">CORRESPONDING AUTHOR</span>
+                                        </td>
+                                        <td>2018</td>
+                                    </tr>
+                                    <tr>
+                                        <td>
+
+                                            <a href="/scholar-publication/3J2z/97619">Contact Lens Classification By Using Segmented Lens Boundary Features</a>
+
+                                            <br />
+                                                INDONESIAN JOURNAL OF ELECTRICAL ENGINEERING AND COMPUTER SCIENCE<br />
+                                            <span class="badge rounded-pill  bg-info">Publication In Scopus</span> <span class="badge rounded-pill  bg-success">CO-AUTHOR</span>
+                                        </td>
+                                        <td>2018</td>
+                                    </tr>
+                                    <tr>
+                                        <td>
+
+                                            <a href="/scholar-publication/3J2z/96646">Hybrid Cat Swarm Optimization And Simulated Annealing For Dynamic Task Scheduling On Cloud Computing Environment</a>
+
+                                            <br />
+                                                JOURNAL OF INFORMATION AND COMMUNICATION TECHNOLOGY<br />
+                                            <span class="badge rounded-pill  bg-info">Publication In Scopus</span> <span class="badge rounded-pill  bg-success">CO-AUTHOR</span>
+                                        </td>
+                                        <td>2018</td>
+                                    </tr>
+                                    <tr>
+                                        <td>
+
+                                            <a href="/scholar-publication/3J2z/96639">A Hybrid Of Differential Search Algorithm And Flux Balance Analysis To: Identify Knockout Strategies For In Silico Optimization Of Metabolites Production</a>
+
+                                            <br />
+                                                INTERNATIONAL JOURNAL OF ADVANCES IN SOFT COMPUTING AND ITS APPLICATIONS <br />
+                                            <span class="badge rounded-pill  bg-info">Publication In Scopus</span> <span class="badge rounded-pill  bg-success">UTM FIRST AUTHOR</span>
+                                        </td>
+                                        <td>2018</td>
+                                    </tr>
+                                    <tr>
+                                        <td>
+
+                                            <a href="/scholar-publication/3J2z/96643">The Development Of Personality Ontology Based On The Methontology Approach</a>
+
+                                            <br />
+                                                INTERNATIONAL JOURNAL OF ENGINEERING &amp; TECHNOLOGY<br />
+                                            <span class="badge rounded-pill  bg-info">Publication In Scopus</span> <span class="badge rounded-pill  bg-success">CORRESPONDING AUTHOR</span>
+                                        </td>
+                                        <td>2018</td>
+                                    </tr>
+                                    <tr>
+                                        <td>
+
+                                            <a href="/scholar-publication/3J2z/99913">Overview Of Multiobjective Optimization Methods In In Silico Metabolic Engineering</a>
+
+                                            <br />
+                                                INTERNATIONAL JOURNAL OF INTEGRATED ENGINEERING<br />
+                                            <span class="badge rounded-pill  bg-info">Publication In Scopus</span> <span class="badge rounded-pill  bg-success">UTM FIRST AUTHOR</span>
+                                        </td>
+                                        <td>2018</td>
+                                    </tr>
+                                    <tr>
+                                        <td>
+
+                                            <a href="/scholar-publication/3J2z/93918">Sistem Penasihatan Kerjaya Berdasarkan Personaliti Stifin</a>
+
+                                            <br />
+                                                PROSIDING KOMPUTERAN UTM : INOVASI DI DALAM TEKNOLOGI DAN APLIKASI KOMPUTERAN<br />
+                                            <span class="badge rounded-pill  bg-info">Proceedings</span> <span class="badge rounded-pill  bg-success">UTM FIRST AUTHOR</span>
+                                        </td>
+                                        <td>2017</td>
+                                    </tr>
+                                    <tr>
+                                        <td>
+
+                                            <a href="/scholar-publication/3J2z/88577">Non-Reshuffle-Based Approach For Rescheduling Of Flexible Manufacturing System</a>
+
+                                            <br />
+                                                INTERNATIONAL JOURNAL ON ADVANCED SCIENCE, ENGINEERING AND INFORMATION TECHNOLOGY<br />
+                                            <span class="badge rounded-pill  bg-info">Publication In Scopus</span> <span class="badge rounded-pill  bg-success">CORRESPONDING AUTHOR</span>
+                                        </td>
+                                        <td>2017</td>
+                                    </tr>
+                                    <tr>
+                                        <td>
+
+                                            <a href="/scholar-publication/3J2z/90359"></a>
+
+                                            <br />
+                                                DYNAMIC ADJUSTMENT ALGORITHM WITH QOS ATTRIBUTES FOR NON-PREEMPTIVE TASK ALLOCATION IN CLOUD COMPUTING ENVIRONMENT<br />
+                                            <span class="badge rounded-pill  bg-info">Clasified/Technical Report</span> <span class="badge rounded-pill  bg-success">CO-AUTHOR</span>
+                                        </td>
+                                        <td>2017</td>
+                                    </tr>
+                                    <tr>
+                                        <td>
+
+                                            <a href="/scholar-publication/3J2z/93941">The Development Of Stif In Ontology Based On The Methontology Approach</a>
+
+                                            <br />
+                                                UTM COMPUTING PROCEEDINGS: INNOVATIONS IN COMPUTING TECHNOLOGY AND APPLICATIONS<br />
+                                            <span class="badge rounded-pill  bg-info">Proceedings</span> <span class="badge rounded-pill  bg-success">UTM FIRST AUTHOR</span>
+                                        </td>
+                                        <td>2017</td>
+                                    </tr>
+                                    <tr>
+                                        <td>
+
+                                            <a href="/scholar-publication/3J2z/90357">Solving Task Scheduling Problem In Cloud Computing Environment Using Orthogonal Taguchi-Cat Algorithm</a>
+
+                                            <br />
+                                                INTERNATIONAL JOURNAL OF ELECTRICAL AND COMPUTER ENGINEERING<br />
+                                            <span class="badge rounded-pill  bg-info">Publication In Scopus</span> <span class="badge rounded-pill  bg-success">CO-AUTHOR</span>
+                                        </td>
+                                        <td>2017</td>
+                                    </tr>
+                                    <tr>
+                                        <td>
+
+                                            <a href="/scholar-publication/3J2z/88624">Comparative Study Of Different Window Sizes Setting In Median Filter For Off-Angle Iris Recognition</a>
+
+                                            <br />
+                                                INTERNATIONAL JOURNAL ON ADVANCED SCIENCE, ENGINEERING AND INFORMATION TECHNOLOGY<br />
+                                            <span class="badge rounded-pill  bg-info">Publication In Scopus</span> <span class="badge rounded-pill  bg-success">CO-AUTHOR</span>
+                                        </td>
+                                        <td>2017</td>
+                                    </tr>
+                                    <tr>
+                                        <td>
+
+                                            <a href="/scholar-publication/3J2z/88622">Nimsad Framework To Evaluate The Role-Based Goal Modelling</a>
+
+                                            <br />
+                                                INTERNATIONAL JOURNAL ON ADVANCED SCIENCE, ENGINEERING AND INFORMATION TECHNOLOGY<br />
+                                            <span class="badge rounded-pill  bg-info">Publication In Scopus</span> <span class="badge rounded-pill  bg-success">CO-AUTHOR</span>
+                                        </td>
+                                        <td>2017</td>
+                                    </tr>
+                                    <tr>
+                                        <td>
+
+                                            <a href="/scholar-publication/3J2z/86669">Investigation Of Poverty Indicators For Designing Case Representation To Determine Urban Poverty</a>
+
+                                            <br />
+                                                INTERNATIONAL JOURNAL OF ADVANCES IN SOFT COMPUTING AND ITS APPLICATIONS<br />
+                                            <span class="badge rounded-pill  bg-info">Publication In Scopus</span> <span class="badge rounded-pill  bg-success">UTM FIRST AUTHOR</span>
+                                        </td>
+                                        <td>2017</td>
+                                    </tr>
+                                    <tr>
+                                        <td>
+
+                                            <a href="/scholar-publication/3J2z/87530">A Review Of Computational Approaches To Predict Gene Functions</a>
+
+                                            <br />
+                                                CURRENT BIOINFORMATICS<br />
+                                            <span class="badge rounded-pill  bg-info">Publication In Web Of Science</span> <span class="badge rounded-pill  bg-success">CO-AUTHOR</span>
+                                        </td>
+                                        <td>2017</td>
+                                    </tr>
+                                    <tr>
+                                        <td>
+
+                                            <a href="/scholar-publication/3J2z/88672">A Review On Classification Of The Urban Poverty Using The Artificial Intelligence Method </a>
+
+                                            <br />
+                                                JOURNAL OF ASIAN SCIENTIFIC RESEARCH<br />
+                                            <span class="badge rounded-pill  bg-info">Journal Article Non Citation-Indexed</span> <span class="badge rounded-pill  bg-success">CO-AUTHOR</span>
+                                        </td>
+                                        <td>2017</td>
+                                    </tr>
+                                    <tr>
+                                        <td>
+
+                                            <a href="/scholar-publication/3J2z/90362">Scalability-Aware Scheduling Optimization Algorithm For Multi-Objective Cloud Task Scheduling Problem</a>
+
+                                            <br />
+                                                IEEE<br />
+                                            <span class="badge rounded-pill  bg-info">Journal Article Non Citation-Indexed</span> <span class="badge rounded-pill  bg-success">CO-AUTHOR</span>
+                                        </td>
+                                        <td>2017</td>
+                                    </tr>
+                                    <tr>
+                                        <td>
+
+                                            <a href="/scholar-publication/3J2z/90485">Quality Of Service (Qos) Task Scheduling Algorithm With Taguchi Orthogonal Approach For Cloud Computing Environment </a>
+
+                                            <br />
+                                                RECENT TRENDS IN INFORMATION AND COMMUNICATION TECHNOLOGY<br />
+                                            <span class="badge rounded-pill  bg-info">Journal Article Non Citation-Indexed</span> <span class="badge rounded-pill  bg-success">CO-AUTHOR</span>
+                                        </td>
+                                        <td>2017</td>
+                                    </tr>
+                                    <tr>
+                                        <td>
+
+                                            <a href="/scholar-publication/3J2z/90366">Cloud Scalable Multi-Objective Task Scheduling Algorithm For Cloud Computing Using Cat Swarm Optimization And Simulated Annealing</a>
+
+                                            <br />
+                                                IEEE<br />
+                                            <span class="badge rounded-pill  bg-info">Journal Article Non Citation-Indexed</span> <span class="badge rounded-pill  bg-success">CO-AUTHOR</span>
+                                        </td>
+                                        <td>2017</td>
+                                    </tr>
+                                    <tr>
+                                        <td>
+
+                                            <a href="/scholar-publication/3J2z/77556"></a>
+
+                                            <br />
+                                                PENGATURCARAAN BERSTRUKTUR MENGGUNAKAN C&#x2B;&#x2B; <br />
+                                            <span class="badge rounded-pill  bg-info">Book (Text)</span> <span class="badge rounded-pill  bg-success">CO-AUTHOR</span>
+                                        </td>
+                                        <td>2016</td>
+                                    </tr>
+                                    <tr>
+                                        <td>
+
+                                            <a href="/scholar-publication/3J2z/78560">Investigation Of Poverty Indicators For Designing Case Representation To Determine Urban Poverty</a>
+
+                                            <br />
+                                                THE INTERNATIONAL WORKSHOP ON BIG DATA ANALYTICS 2016 (IWBDA 2016)<br />
+                                            <span class="badge rounded-pill  bg-info">Conference Paper</span> <span class="badge rounded-pill  bg-success">UTM FIRST AUTHOR</span>
+                                        </td>
+                                        <td>2016</td>
+                                    </tr>
+                                    <tr>
+                                        <td>
+
+                                            <a href="/scholar-publication/3J2z/78552">Multi-Objective Task Scheduling Optimization In Cloud Computing: An Appraisal</a>
+
+                                            <br />
+                                                INTERNATIONAL CONFERENCE IN SCIENCE, ENGINEERING AND SOCIAL SCIENCES 2016 (ICSESS2016)&#xD;&#xA;<br />
+                                            <span class="badge rounded-pill  bg-info">Conference Paper</span> <span class="badge rounded-pill  bg-success">CO-AUTHOR</span>
+                                        </td>
+                                        <td>2016</td>
+                                    </tr>
+                                    <tr>
+                                        <td>
+
+                                            <a href="/scholar-publication/3J2z/82990">Solving Task Scheduling Problem In Cloud Computing Environment Using Orthogonal Taguchi-Cat Algorithm</a>
+
+                                            <br />
+                                                INTERNATION CONFERENCE ON ELECTRICAL, ELECTRONIC, COMMUNICATION AND CONTROL ENGINEERING 2016<br />
+                                            <span class="badge rounded-pill  bg-info">Conference Paper</span> <span class="badge rounded-pill  bg-success">CO-AUTHOR</span>
+                                        </td>
+                                        <td>2016</td>
+                                    </tr>
+                                    <tr>
+                                        <td>
+
+                                            <a href="/scholar-publication/3J2z/87479">Extraction Of Non-Functional Requirement In Natural Language Document Using Keyword With Usability Quality Aspect</a>
+
+                                            <br />
+                                                INTERNATIONAL JOURNAL OF SOFTWARE ENGINEERING AND TECHNOLOGY<br />
+                                            <span class="badge rounded-pill  bg-info">Journal Article Non Citation-Indexed</span> <span class="badge rounded-pill  bg-success">CO-AUTHOR</span>
+                                        </td>
+                                        <td>2016</td>
+                                    </tr>
+                                    <tr>
+                                        <td>
+
+                                            <a href="/scholar-publication/3J2z/78548">Task Scheduling Based Makespan Minimization In Cloud Computing Using Cat Swarm Optimization &#xD;&#xA;</a>
+
+                                            <br />
+                                                INTERNATIONAL CONFERENCE IN SCIENCE, ENGINEERING, MANAGEMENT AND SOCIAL SCIENCES 2016 (ICSEMSS2016)<br />
+                                            <span class="badge rounded-pill  bg-info">Conference Paper</span> <span class="badge rounded-pill  bg-success">CO-AUTHOR</span>
+                                        </td>
+                                        <td>2016</td>
+                                    </tr>
+                                    <tr>
+                                        <td>
+
+                                            <a href="/scholar-publication/3J2z/78542"></a>
+
+                                            <br />
+                                                INTRODUCTION TO THEORY OF COMPUTER SCIENCE: DEFINITIONS AND EXAMPLES<br />
+                                            <span class="badge rounded-pill  bg-info">Modules / Manual</span> <span class="badge rounded-pill  bg-success">CORRESPONDING AUTHOR</span>
+                                        </td>
+                                        <td>2016</td>
+                                    </tr>
+                                    <tr>
+                                        <td>
+
+                                            <a href="/scholar-publication/3J2z/67493"></a>
+
+                                            <br />
+                                                PROGRAMMING TECHNIQUE II C&#x2B;&#x2B;<br />
+                                            <span class="badge rounded-pill  bg-info">Modules / Manual</span> <span class="badge rounded-pill  bg-success">CO-AUTHOR</span>
+                                        </td>
+                                        <td>2015</td>
+                                    </tr>
+                                    <tr>
+                                        <td>
+
+                                            <a href="/scholar-publication/3J2z/67935">Minimize The Makespan For Job Shop Scheduling Problem Using Artificial Immune System Approach</a>
+
+                                            <br />
+                                                JOURNAL OF THEORETICAL AND APPLIED INFORMATION TECHNOLOGY <br />
+                                            <span class="badge rounded-pill  bg-info">Publication In Scopus</span> <span class="badge rounded-pill  bg-success">UTM FIRST AUTHOR</span>
+                                        </td>
+                                        <td>2015</td>
+                                    </tr>
+                                    <tr>
+                                        <td>
+
+                                            <a href="/scholar-publication/3J2z/15490">A Review On Bioinformatics Enrichment Analysis Tools Towards Functional Analysis Of High Throughput Gene Set Data</a>
+
+                                            <br />
+                                                CURRENT PROTEOMICS<br />
+                                            <span class="badge rounded-pill  bg-info">Publication In Web Of Science</span> <span class="badge rounded-pill  bg-success">CO-AUTHOR</span>
+                                        </td>
+                                        <td>2015</td>
+                                    </tr>
+                                    <tr>
+                                        <td>
+
+                                            <a href="/scholar-publication/3J2z/67496"></a>
+
+                                            <br />
+                                                PROGRAMMING TECHNIQUE I C&#x2B;&#x2B;<br />
+                                            <span class="badge rounded-pill  bg-info">Modules / Manual</span> <span class="badge rounded-pill  bg-success">CO-AUTHOR</span>
+                                        </td>
+                                        <td>2015</td>
+                                    </tr>
+                                    <tr>
+                                        <td>
+
+                                            <a href="/scholar-publication/3J2z/67938"></a>
+
+                                            <br />
+                                                INTRODUCTION TO THEORY OF COMPUTER SCIENCE:&#xD;&#xA;DEFINITIONS AND EXAMPLES.<br />
+                                            <span class="badge rounded-pill  bg-info">Modules / Manual</span> <span class="badge rounded-pill  bg-success">CORRESPONDING AUTHOR</span>
+                                        </td>
+                                        <td>2015</td>
+                                    </tr>
+                                    <tr>
+                                        <td>
+
+                                            <a href="/scholar-publication/3J2z/69951">A Review Of Cancer Classification Software For Gene Expression Data</a>
+
+                                            <br />
+                                                INTERNATIONAL JOURNAL OF BIO-SCIENCES AND BIOTECHNOLOGY (IJBSBT)<br />
+                                            <span class="badge rounded-pill  bg-info">Publication In Scopus</span> <span class="badge rounded-pill  bg-success">CO-AUTHOR</span>
+                                        </td>
+                                        <td>2015</td>
+                                    </tr>
+                                    <tr>
+                                        <td>
+
+                                            <a href="/scholar-publication/3J2z/3385">A Review On The Computational Approaches For Gene Regulatory Network Construction </a>
+
+                                            <br />
+                                                COMPUTERS IN BIOLOGY AND MEDICINE<br />
+                                            <span class="badge rounded-pill  bg-info">Publication In Web Of Science</span> <span class="badge rounded-pill  bg-success">CO-AUTHOR</span>
+                                        </td>
+                                        <td>2014</td>
+                                    </tr>
+                                    <tr>
+                                        <td>
+
+                                            <a href="/scholar-publication/3J2z/13604">Preliminary Work Towards Development Of A Dynamic Job Shop Scheduling Model</a>
+
+                                            <br />
+                                                ADVANCED MATERIALS RESEARCH<br />
+                                            <span class="badge rounded-pill  bg-info">Publication In Scopus</span> <span class="badge rounded-pill  bg-success">CO-AUTHOR</span>
+                                        </td>
+                                        <td>2014</td>
+                                    </tr>
+                                    <tr>
+                                        <td>
+
+                                            <a href="/scholar-publication/3J2z/12710"></a>
+
+                                            <br />
+                                                DATA STRUCTURES AND ALGORITHMS<br />
+                                            <span class="badge rounded-pill  bg-info">Modules / Manual</span> <span class="badge rounded-pill  bg-success">CO-AUTHOR</span>
+                                        </td>
+                                        <td>2014</td>
+                                    </tr>
+                                    <tr>
+                                        <td>
+
+                                            <a href="/scholar-publication/3J2z/18532">Utilizing Shared Interacting Domain Patterns And Gene Ontology Information To Improve Protein-Protein Interaction Prediction</a>
+
+                                            <br />
+                                                COMPUTERS IN BIOLOGY AND MEDICINE<br />
+                                            <span class="badge rounded-pill  bg-info">Publication In Web Of Science</span> <span class="badge rounded-pill  bg-success">CO-AUTHOR</span>
+                                        </td>
+                                        <td>2010</td>
+                                    </tr>
+                                    <tr>
+                                        <td>
+
+                                            <a href="/scholar-publication/3J2z/18618">Incorporating Multiple Genomic Features With The Utilization Of Interacting Domain Patterns To Improve The Prediction Of Protein-Protein Interactions</a>
+
+                                            <br />
+                                                INFORMATION SCIENCES<br />
+                                            <span class="badge rounded-pill  bg-info">Publication In Web Of Science</span> <span class="badge rounded-pill  bg-success">CO-AUTHOR</span>
+                                        </td>
+                                        <td>2010</td>
+                                    </tr>
+                                    <tr>
+                                        <td>
+
+                                            <a href="/scholar-publication/3J2z/66316">Splitssi-Svm: An Algorithm To Reduce The Misleading And Increase The Strength Of Domain Signal</a>
+
+                                            <br />
+                                                COMPUTERS IN BIOLOGY AND MEDICINE<br />
+                                            <span class="badge rounded-pill  bg-info">Publication In Web Of Science</span> <span class="badge rounded-pill  bg-success">CO-AUTHOR</span>
+                                        </td>
+                                        <td>2009</td>
+                                    </tr>
+                                    <tr>
+                                        <td>
+
+                                            <a href="/scholar-publication/3J2z/36796">Improved Genetic Algorithm For Operation Sequencing</a>
+
+                                            <br />
+                                                Advances in Planning, Scheduling and Timetabling Volume 1<br />
+                                            <span class="badge rounded-pill  bg-info">Book Chapter</span> <span class="badge rounded-pill  bg-success">INDIVIDUAL AUTHOR</span>
+                                        </td>
+                                        <td>2008</td>
+                                    </tr>
+                                    <tr>
+                                        <td>
+
+                                            <a href="/scholar-publication/3J2z/36795">Petri Nets Modeling Of A Real World Manufacturing Processes</a>
+
+                                            <br />
+                                                Advances in Planning, Scheduling and Timetabling Volume 1<br />
+                                            <span class="badge rounded-pill  bg-info">Book Chapter</span> <span class="badge rounded-pill  bg-success">INDIVIDUAL AUTHOR</span>
+                                        </td>
+                                        <td>2008</td>
+                                    </tr>
+                            </tbody>
+                        </table>
+                    </div>
+                    </p>
+                </div>
+                <div class="tab-pane p-3" id="ip_tab" role="tabpanel">
+                    <p class="mb-0">
+                    <p class="text-muted">
+                        Legend :
+                        <span class="badge rounded-pill  bg-info">IP CATEGORY </span>
+                        <span class="badge rounded-pill  bg-warning">IP LEVEL </span>
+
+                    </p>
+                    <div class="table-responsive">
+                        <table id="IPListTablePersonalDatatable" class="table mb-0 dt-responsive nowrap" style="border-collapse: collapse; border-spacing: 0; width: 100%;">
+                            <thead>
+                                <tr>
+                                    <th>Intellectual Property Name</th>
+                                    <th>Grant Register No.</th>
+                                    <th>IP Level</th>
+                                    <th>IP Category</th>
+                                </tr>
+                            </thead>
+                            <tbody>
+                                    <tr>
+                                        <td><a href="/intelectual-property/3J2z/AWQ"> THE DEVELOPMENT OF INTEGRATED PLANNING AND SCHEDULING FRAMEWORK FOR DYNAMIC AND REACTIVE ENVIRONMENT OF COMPLEX MANUFACTURING PROBLEM</a></td>
+                                        <td></td>
+                                        <td><span class="badge rounded-pill  bg-warning">NATIONAL</span></td>
+                                        <td><span class="badge rounded-pill  bg-info">PATENT</span></td>
+                                    </tr>
+                                    <tr>
+                                        <td><a href="/intelectual-property/3J2z/8464"> INTEGRATION OF K-MEANS CLUSTERING AND AVERAGE SILHOUETTE METHOD INTO DIRECTED RANDOM WALK TO INCREASE THE EFFICIENCY OF IDENTIFYING INFORMATIVE GENES IN THE DIRECTED GRAPH</a></td>
+                                        <td>LY2019008966</td>
+                                        <td><span class="badge rounded-pill  bg-warning">NATIONAL</span></td>
+                                        <td><span class="badge rounded-pill  bg-info">COPYRIGHT</span></td>
+                                    </tr>
+                                    <tr>
+                                        <td><a href="/intelectual-property/3J2z/l9Va"> AN ENHANCED DIRECTED RANDOM WALK METHOD TO IDENTIFY INFORMATIVE GENES AND PATHWAYS FROM MULTICLASS CANCER EXPRESSION DATA</a></td>
+                                        <td>LY2019008894</td>
+                                        <td><span class="badge rounded-pill  bg-warning">NATIONAL</span></td>
+                                        <td><span class="badge rounded-pill  bg-info">COPYRIGHT</span></td>
+                                    </tr>
+                                    <tr>
+                                        <td><a href="/intelectual-property/3J2z/bZVQ"> AUTOMATION OF PUBMED TEXT DATA MINING FOR BIOLOGICAL VALIDATION OF GENES AND PATHWAYS</a></td>
+                                        <td>LY2019008999</td>
+                                        <td><span class="badge rounded-pill  bg-warning">NATIONAL</span></td>
+                                        <td><span class="badge rounded-pill  bg-info">COPYRIGHT</span></td>
+                                    </tr>
+                                    <tr>
+                                        <td><a href="/intelectual-property/3J2z/0Glk"> A NON-DOMINATED SORTING DIFFERENTIAL SEARCH ALGORITHM AND FLUX BALANCE ANALYSIS TO INVESTIGATE THE TRADE-OFF RELATIONSHIP BETWEEN MAXIMIZATION OF PRODUCTION RATE AND ITS GROWTH</a></td>
+                                        <td>LY2019008909</td>
+                                        <td><span class="badge rounded-pill  bg-warning">NATIONAL</span></td>
+                                        <td><span class="badge rounded-pill  bg-info">COPYRIGHT</span></td>
+                                    </tr>
+                                    <tr>
+                                        <td><a href="/intelectual-property/3J2z/EVv7"> FEATURE OPTIMIZATION AND FEATURE FUSION IN OPTIMAL PIXEL INTENSITY AND RIDGE LENGTH FEATURES FUSION FRAMEWORK FOR FAKE FINGERPRINT CLASSIFICATION</a></td>
+                                        <td>LY2019008668</td>
+                                        <td><span class="badge rounded-pill  bg-warning">NATIONAL</span></td>
+                                        <td><span class="badge rounded-pill  bg-info">COPYRIGHT</span></td>
+                                    </tr>
+                                    <tr>
+                                        <td><a href="/intelectual-property/3J2z/l9D6"> FEATURE REPRESENTATION IN OPTIMAL PIXEL INTENSITY AND RIDGE LENGTH FEATURES FUSION FRAMEWORK FOR FAKE FINGERPRINT CLASSIFICATION</a></td>
+                                        <td>LY2019007543</td>
+                                        <td><span class="badge rounded-pill  bg-warning">NATIONAL</span></td>
+                                        <td><span class="badge rounded-pill  bg-info">COPYRIGHT</span></td>
+                                    </tr>
+                                    <tr>
+                                        <td><a href="/intelectual-property/3J2z/WzNk"> CLOUD SCALABLE MULTI-OBJECTIVE CAT SWARM OPTIMIZATION-BASED SIMULATED ANNEALING ALGORITHM CSM-CSOSA</a></td>
+                                        <td>LY2018006375</td>
+                                        <td><span class="badge rounded-pill  bg-warning">NATIONAL</span></td>
+                                        <td><span class="badge rounded-pill  bg-info">COPYRIGHT</span></td>
+                                    </tr>
+                                    <tr>
+                                        <td><a href="/intelectual-property/3J2z/vy8b"> ORTHOGONAL TAGUCHI-BASED CAT ALGORITHM OTB-CSO FOR SOLVING TASK SCHEDULING PROBLEM IN CLOUD COMPUTING</a></td>
+                                        <td>LY2018006376</td>
+                                        <td><span class="badge rounded-pill  bg-warning">NATIONAL</span></td>
+                                        <td><span class="badge rounded-pill  bg-info">COPYRIGHT</span></td>
+                                    </tr>
+                                    <tr>
+                                        <td><a href="/intelectual-property/3J2z/rYz7"> DIGITAL CERTIFICATE MANAGEMENT SYSTEM</a></td>
+                                        <td></td>
+                                        <td><span class="badge rounded-pill  bg-warning">NATIONAL</span></td>
+                                        <td><span class="badge rounded-pill  bg-info">COPYRIGHT</span></td>
+                                    </tr>
+                                    <tr>
+                                        <td><a href="/intelectual-property/3J2z/obkj"> IDENTIFICATION OF INFORMATIVE SUBPATHWAYS AND GENES USING IMPROVED DIFFERENTIAL EXPRESSION ANALYSIS FOR PATHWAYS (IDEAP) METHOD</a></td>
+                                        <td>LY2020006201</td>
+                                        <td><span class="badge rounded-pill  bg-warning">NATIONAL</span></td>
+                                        <td><span class="badge rounded-pill  bg-info">COPYRIGHT</span></td>
+                                    </tr>
+                                    <tr>
+                                        <td><a href="/intelectual-property/3J2z/9mn1"> A DASHBOARD DESIGN ON TALENT ANALYTICS RECOMMENDER SYSTEM</a></td>
+                                        <td>LY2020006135</td>
+                                        <td><span class="badge rounded-pill  bg-warning">NATIONAL</span></td>
+                                        <td><span class="badge rounded-pill  bg-info">COPYRIGHT</span></td>
+                                    </tr>
+                            </tbody>
+                        </table>
+                    </div>
+                    </p>
+                </div>
+                <div class="tab-pane p-3" id="supervision_tab" role="tabpanel">
+                    <p class="mb-0">
+                    <p class="text-muted">
+                        Legend :
+                        <span class="badge rounded-pill  bg-info">SESSION </span>
+                        <span class="badge rounded-pill  bg-success">LEVEL OF STUDY</span>
+                        <span class="badge rounded-pill  bg-warning">STATUS </span>
+                        <span class="badge rounded-pill  bg-danger">SUPERVISION LEVEL </span>
+                    </p>
+                    <div class="table-responsive">
+                        <table id="supervisionListTablePersonalDatatable" class="table table-bordered dt-responsive nowrap" style="border-collapse: collapse; border-spacing: 0; width: 100%;">
+                            <thead>
+                                <tr>
+                                    <th>Supervision List</th>
+                                </tr>
+                            </thead>
+                            <tbody>
+                                    <tr>
+                                        <td>
+                                            <strong>AHMAD SHAHRIZAL BIN MUHAMAD</strong><br />
+                                                ARTIFICIAL IMMUNE SYSTEM FOR STATIC AND DYNAMIC PRODUCTION SCHEDULING PROBLEMS<br />
+                                            <span class="badge rounded-pill  bg-success">PHD</span>
+                                            <span class="badge rounded-pill  bg-warning">GRADUATED</span>
+                                            <span class="badge rounded-pill  bg-danger">SUPERVISOR</span>
+                                                <span class="badge rounded-pill bg-info">2017</span>
+                                        </td>
+                                    </tr>
+                                    <tr>
+                                        <td>
+                                            <strong>DANLAMI GABI</strong><br />
+                                                DYNAMIC AND SCALABLE TASK SCHEDULING SCHEMES FOR CLOUD COMPUTING USING ORTHOGONAL TAGUCHI-BASED CAT SWARM OPTIMISATION<br />
+                                            <span class="badge rounded-pill  bg-success">PHD</span>
+                                            <span class="badge rounded-pill  bg-warning">GRADUATED</span>
+                                            <span class="badge rounded-pill  bg-danger">CO-SUPERVISOR</span>
+                                                <span class="badge rounded-pill bg-info">2017</span>
+                                        </td>
+                                    </tr>
+                                    <tr>
+                                        <td>
+                                            <strong>KAUTHAR BINTI MOHD DAUD</strong><br />
+                                                IMPROVED DIFFERENTIAL SEARCH ALGORITHMS FOR METABOLIC NETWORK OPTIMIZATION<br />
+                                            <span class="badge rounded-pill  bg-success">PHD</span>
+                                            <span class="badge rounded-pill  bg-warning">GRADUATED</span>
+                                            <span class="badge rounded-pill  bg-danger">SUPERVISOR</span>
+                                                <span class="badge rounded-pill bg-info">2019</span>
+                                        </td>
+                                    </tr>
+                                    <tr>
+                                        <td>
+                                            <strong>NIES HUI WEN</strong><br />
+                                                IDENTIFICATION OF PATHWAY AND GENE MARKERS USING ENHANCED DIRECTED RANDOM WALK FOR MULTICLASS CANCER EXPRESSION DATA<br />
+                                            <span class="badge rounded-pill  bg-success">PHD</span>
+                                            <span class="badge rounded-pill  bg-warning">GRADUATED</span>
+                                            <span class="badge rounded-pill  bg-danger">SUPERVISOR</span>
+                                                <span class="badge rounded-pill bg-info">2020</span>
+                                        </td>
+                                    </tr>
+                                    <tr>
+                                        <td>
+                                            <strong>ABDULRAHMAN ALMUHAIDIB</strong><br />
+                                                WEAPONISING STATE-OF-THE-ART LARGE LANGUAGE MODULES FOR OFFENSIVE ATTACKS IN CYBER WARFARE<br />
+                                            <span class="badge rounded-pill  bg-success">PHD</span>
+                                            <span class="badge rounded-pill  bg-warning">ON GOING</span>
+                                            <span class="badge rounded-pill  bg-danger">CO-SUPERVISOR</span>
+                                        </td>
+                                    </tr>
+                                    <tr>
+                                        <td>
+                                            <strong>CHENG LIJUN</strong><br />
+                                                <br />
+                                            <span class="badge rounded-pill  bg-success">PHD</span>
+                                            <span class="badge rounded-pill  bg-warning">ON GOING</span>
+                                            <span class="badge rounded-pill  bg-danger">CO-SUPERVISOR</span>
+                                        </td>
+                                    </tr>
+                                    <tr>
+                                        <td>
+                                            <strong>NADIA YOUSAF</strong><br />
+                                                <br />
+                                            <span class="badge rounded-pill  bg-success">PHD</span>
+                                            <span class="badge rounded-pill  bg-warning">ON GOING</span>
+                                            <span class="badge rounded-pill  bg-danger">SUPERVISOR</span>
+                                        </td>
+                                    </tr>
+                                    <tr>
+                                        <td>
+                                            <strong>MIAO LINHAO</strong><br />
+                                                <br />
+                                            <span class="badge rounded-pill  bg-success">PHD</span>
+                                            <span class="badge rounded-pill  bg-warning">ON GOING</span>
+                                            <span class="badge rounded-pill  bg-danger">CO-SUPERVISOR</span>
+                                        </td>
+                                    </tr>
+                                    <tr>
+                                        <td>
+                                            <strong>AZIAH BINTI ABDOLLAH</strong><br />
+                                                ENHANCEMENT OF ELLIPSE-BASED SEGMENTATION FOR IRIS<br />
+                                            <span class="badge rounded-pill  bg-success">MASTER</span>
+                                            <span class="badge rounded-pill  bg-warning">GRADUATED</span>
+                                            <span class="badge rounded-pill  bg-danger">SUPERVISOR</span>
+                                                <span class="badge rounded-pill bg-info">2012</span>
+                                        </td>
+                                    </tr>
+                                    <tr>
+                                        <td>
+                                            <strong>CHEN SHEE JEN</strong><br />
+                                                META-HEURISTIC APPROACHES WITH GUIDE SEARCH STRATEGY FOR UNIVERSITY TIMETABLING PROBLEM<br />
+                                            <span class="badge rounded-pill  bg-success">MASTER</span>
+                                            <span class="badge rounded-pill  bg-warning">GRADUATED</span>
+                                            <span class="badge rounded-pill  bg-danger">SUPERVISOR</span>
+                                                <span class="badge rounded-pill bg-info">2015</span>
+                                        </td>
+                                    </tr>
+                                    <tr>
+                                        <td>
+                                            <strong>SITI SALBIAH BINTI HAMZAH</strong><br />
+                                                USABILITY GUIDELINE FOR HIGH QUALITY MOBILE LEARNING APPLICATION INTERFACE IN MALAYSIA<br />
+                                            <span class="badge rounded-pill  bg-success">MASTER</span>
+                                            <span class="badge rounded-pill  bg-warning">GRADUATED</span>
+                                            <span class="badge rounded-pill  bg-danger">SUPERVISOR</span>
+                                                <span class="badge rounded-pill bg-info">2016</span>
+                                        </td>
+                                    </tr>
+                                    <tr>
+                                        <td>
+                                            <strong>ASRAFUL SYIFAA&#x27; BINTI AHMAD</strong><br />
+                                                ENSEMBLES REGION OF INTEREST USING STATISTICAL FEATURES&amp;NBSP; REPRESENTATION OF FACIAL IMAGES FOR&amp;NBSP; EMOTION DETECTION<br />
+                                            <span class="badge rounded-pill  bg-success">MASTER</span>
+                                            <span class="badge rounded-pill  bg-warning">GRADUATED</span>
+                                            <span class="badge rounded-pill  bg-danger">CO-SUPERVISOR</span>
+                                                <span class="badge rounded-pill bg-info">2019</span>
+                                        </td>
+                                    </tr>
+                                    <tr>
+                                        <td>
+                                            <strong>NURUL ATHIRAH BINTI NASARUDIN</strong><br />
+                                                IDENTIFICATION OF INFORMATIVE SUBPATHWAYS AND GENES USING IMPROVED DIFFERENTIAL EXPRESSION ANALYSIS FOR PATHWAYS METHOD<br />
+                                            <span class="badge rounded-pill  bg-success">MASTER</span>
+                                            <span class="badge rounded-pill  bg-warning">GRADUATED</span>
+                                            <span class="badge rounded-pill  bg-danger">SUPERVISOR</span>
+                                                <span class="badge rounded-pill bg-info">2020</span>
+                                        </td>
+                                    </tr>
+                                    <tr>
+                                        <td>
+                                            <strong>MOHAMAD FAWZAN BIN MD MAHYUDDIN</strong><br />
+                                                <br />
+                                            <span class="badge rounded-pill  bg-success">MASTER</span>
+                                            <span class="badge rounded-pill  bg-warning">ON GOING</span>
+                                            <span class="badge rounded-pill  bg-danger">CO-SUPERVISOR</span>
+                                        </td>
+                                    </tr>
+                                    <tr>
+                                        <td>
+                                            <strong>MUHAMMAD EDZUAN BIN ZAINODIN            </strong><br />
+                                                LEARNING-BASED ENTROPY FOR MALICIOUS FILE DETECTION WITH TEST SUITE GENERATION IN STATIC APPLICATION SECURITY TESTING<br />
+                                            <span class="badge rounded-pill  bg-success">MASTER</span>
+                                            <span class="badge rounded-pill  bg-warning">ON GOING</span>
+                                            <span class="badge rounded-pill  bg-danger">CO-SUPERVISOR</span>
+                                        </td>
+                                    </tr>
+                                    <tr>
+                                        <td>
+                                            <strong>IRFAN MUBIN BIN SHUKRI</strong><br />
+                                                <br />
+                                            <span class="badge rounded-pill  bg-success">MASTER</span>
+                                            <span class="badge rounded-pill  bg-warning">ON GOING</span>
+                                            <span class="badge rounded-pill  bg-danger">SUPERVISOR</span>
+                                        </td>
+                                    </tr>
+                                    <tr>
+                                        <td>
+                                            <strong>MUHAMMAD IDHAM</strong><br />
+                                                ENHANCED&amp;NBSP; CLUSTER-BASED WITH SIMILARITY DISTANCE TEST CASE PRIORITIZATION FOR SOFTWARE PRODUCT LINE<br />
+                                            <span class="badge rounded-pill  bg-success">MASTER</span>
+                                            <span class="badge rounded-pill  bg-warning">ON GOING</span>
+                                            <span class="badge rounded-pill  bg-danger">CO-SUPERVISOR</span>
+                                        </td>
+                                    </tr>
+                            </tbody>
+                        </table>
+                    </div>
+                </div>
+            </div>
+
+        </div>
+    </div>
+</div>
+
+<div class="modal fade" tabindex="-1" role="dialog" id="shareModalBox" aria-labelledby="mySmallModalLabel" aria-hidden="true">
+    <div class="modal-dialog modal-dialog-centered">
+        <div class="modal-content">
+            <div class="modal-header">
+                <h5 class="modal-title mt-0">Share This</h5>
+            </div>
+            <div class="modal-body">
+                <div class="icon-container1 d-flex">
+                    <div class="smd" id="share-tw" data-sharer="twitter" data-title="UTM Scholar : ZALMIYAH BINTI ZAKARIA                  " data-hashtags="UTMNexus" data-url="https://utmscholar.utm.my/Scholar/ScholarInfoDetails/3J2z">
+                        <i class=" img-thumbnail fab fa-twitter fa-2x" style="color:#4c6ef5;background-color: aliceblue"></i>
+                    </div>
+                    <div class="smd" id="share-fb" data-sharer="facebook" data-title="UTM Scholar : ZALMIYAH BINTI ZAKARIA                  " data-hashtag="UTMNexus" data-url="https://utmscholar.utm.my/Scholar/ScholarInfoDetails/3J2z">
+                        <i class="img-thumbnail fab fa-facebook fa-2x" style="color: #3b5998;background-color: #eceff5;"></i>
+                    </div>
+                    <div class="smd" id="share-li" data-sharer="linkedin" data-title="UTM Scholar : ZALMIYAH BINTI ZAKARIA                  " data-url="https://utmscholar.utm.my/Scholar/ScholarInfoDetails/3J2z">
+                        <i class="img-thumbnail fab fa-linkedin fa-2x" style="color: #25D366;background-color: #cef5dc;"></i>
+                    </div>
+                    <div class="smd" id="share-wa" data-sharer="whatsapp" data-title="UTM Scholar : ZALMIYAH BINTI ZAKARIA                  " data-url="https://utmscholar.utm.my/Scholar/ScholarInfoDetails/3J2z">
+                        <i class="img-thumbnail fab fa-whatsapp fa-2x" style="color: #4c6ef5;background-color: aliceblue"></i>
+                    </div>
+                </div>
+            </div>
+            <div class="modal-footer">
+                <div class="field d-flex align-items-center justify-content-between">
+                    <span class="fas fa-link text-center"></span>
+                    <input type="url" class="col-10 ur" value="https://utmscholar.utm.my/Scholar/ScholarInfoDetails/3J2z"> <button><i class="far fa-clone"></i></button>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+
+
+                </div>
+            </div>
+            <footer class="footer">
+            <div class="container-fluid">
+                <div class="row">
+                    <div class="col-sm-12">
+                        © 2022 <span class="d-none d-sm-inline-block"> - Crafted with <i class="mdi mdi-heart text-danger"></i> by UTM NEXUS.</span>
+                    </div>
+                </div>
+            </div>
+        </footer>
+        </div>
+    </div>
+
+    <script src="/assets/libs/jquery/jquery.min.js"></script>
+    <script src="/assets/libs/bootstrap/js/bootstrap.bundle.min.js"></script>
+    <script src="/assets/libs/metismenu/metisMenu.min.js"></script>
+    <script src="/assets/libs/simplebar/simplebar.min.js"></script>
+    <script src="/assets/libs/node-waves/waves.min.js"></script>
+    <script src="/assets/libs/jquery-sparkline/jquery.sparkline.min.js"></script>
+    <script src="/assets/libs/morris.js/morris.min.js"></script>
+    <script src="/assets/libs/raphael/raphael.min.js"></script>
+    <script src="/assets/libs/datatables.net/js/jquery.dataTables.min.js"></script>
+    <script src="/assets/libs/datatables.net-bs4/js/dataTables.bootstrap4.min.js"></script>
+    <script src="/assets/libs/parsleyjs/parsley.min.js"></script>
+    <script src="/assets/libs/sharer.js/sharer.min.js"></script>   
+    <script src="/assets/js/app.js"></script>
+        <script>
+            
+            var names = document.getElementById("keyword").textContent;
+            var nameArr = names.split(/[,;]/);
+            var a = [];
+            nameArr.forEach(function (kword, x) {
+                a.push("<span class='badge rounded-pill bg-warning'>" + kword + "</span>");
+            });
+
+            var b = a.toString();
+            $("#keyword").replaceWith("<p class='text-muted font-small-2' id='keyword'>" + b + "</p>");
+
+            $(document).ready(function () {
+                    $('#more').attr('hidden', false);
+                    $('#more_sect').attr('hidden', false);
+                    $('#less_sect').attr('hidden', true);
+                });
+            
+                $("#more").click(function () {
+                    $('#more').attr('hidden', true);
+                    $('#less').attr('hidden', false);
+                    $('#brief').attr('hidden', false);
+                    $('#more_sect').attr('hidden', true);
+                    $('#less_sect').attr('hidden', false);
+                });
+                $("#less").click(function () {
+                    $('#more').attr('hidden', false);
+                    $('#less').attr('hidden', true);
+                    $('#brief').attr('hidden', true);
+                    $('#more_sect').attr('hidden', false);
+                    $('#less_sect').attr('hidden', true);
+                });
+                $("#less_1").click(function () {
+                    $('#more').attr('hidden', false);
+                    $('#less').attr('hidden', true);
+                    $('#brief').attr('hidden', true);
+                    $('#more_sect').attr('hidden', false);
+                    $('#less_sect').attr('hidden', true);
+                });
+            </script>
+    <!-- Google tag (gtag.js) -->
+    <script async src="https://www.googletagmanager.com/gtag/js?id=G-B5MYS061R0"></script>
+    <script>
+        window.dataLayer = window.dataLayer || [];
+        function gtag() { dataLayer.push(arguments); }
+        gtag('js', new Date());
+
+        gtag('config', 'G-B5MYS061R0');
+    </script>
+    
+    <script>
+        var no_pekerja = '3J2z';
+        var scopus_id = '35758110800';
+        var nama_pekerja = 'ZALMIYAH BINTI ZAKARIA                  ';
+        var no_pkrj = '7903';
+
+
+        $.ajax({
+            type: "POST",
+            url: '/Scholar/GrantScholarPersonalResult?id=' + no_pekerja,
+        }).done(function (data) {
+            var newArrayGrant = [];
+            data.data.forEach(function (elm, i) {
+                $newObject = {
+                    label: data.data[i].TYPE_GRANTS,
+                    value: data.data[i].TOTAL_GRANTS
+                }
+                newArrayGrant.push($newObject);
+            });
+
+            var Grant_Chart = Morris.Donut({
+                element: 'grant_chart_personal',
+                data: newArrayGrant,
+                resize: true,
+                colors: ['#193C77', '#39FF33', '#197754', '#541977', '#1FE874', '#3d90bf', '#bf783d', '#1ab394', '#ed0c0c', '#FF5733', '#FFBD33']
+            });
+
+            Grant_Chart.options.data.forEach(function (label, i) {
+                var legendItem = $('<span></span>').text(label['label']).prepend('<br><span>&nbsp;</span>');
+                legendItem.find('span')
+                    .css('backgroundColor', Grant_Chart.options.colors[i])
+                    .css('width', '50px')
+                    .css('display', 'inline-block')
+                    .css('margin', '5px');
+                $('#legendGrantMorris').append(legendItem)
+            });
+
+            var totalx = 0;
+            for (var i = 0; i < data.data.length; i++) {
+                totalx += data.data[i].TOTAL_GRANTS << 0;
+            }
+            $("#TotalGrantCount").append(totalx);
+
+
+        }).fail(function () { });
+
+        $.ajax({
+            type: "POST",
+            url: '/Scholar/PublicationScholarPersonResult?id=' + no_pekerja,
+        }).done(function (data) {
+            var newArrayPublication = [];
+            data.data.forEach(function (elm, i) {
+                $newObject = {
+                    label: data.data[i].TYPE_PUBLICATION,
+                    value: data.data[i].TOTAL_PUBLICATION
+                }
+
+                newArrayPublication.push($newObject);
+            })
+            var Publication_Chart = Morris.Donut({
+                element: 'publication_chart_personal',
+                data: newArrayPublication,
+                resize: true,
+                colors: ['#3d90bf', '#bf783d', '#1ab394', '#ed0c0c', '#FF5733', '#FFBD33', '#193C77', '#39FF33', '#197754', '#541977', '#1FE874']
+            });
+
+            Publication_Chart.options.data.forEach(function (label, i) {
+                var legendItem = $('<span></span>').text(label['label']).prepend('<br><span>&nbsp;</span>');
+                legendItem.find('span')
+                    .css('backgroundColor', Publication_Chart.options.colors[i])
+                    .css('width', '20px')
+                    .css('display', 'inline-block')
+                    .css('margin', '5px');
+                $('#legendPublicationMorris').append(legendItem)
+            });
+
+            var totaly = 0;
+            for (var i = 0; i < data.data.length; i++) {
+                totaly += data.data[i].TOTAL_PUBLICATION << 0;
+            }
+            $("#TotalPublicationCount").append(totaly);
+
+        }).fail(function () {
+
+        });
+
+        $.ajax({
+            type: "POST",
+            url: '/Scholar/SupervisionScholarPersonResult?id=' + no_pekerja,
+        }).done(function (data) {
+
+            var newArraySupervision = [];
+            data.data.forEach(function (elm, i) {
+                $newObject = {
+                    label: data.data[i].LEVEL_STUDY,
+                    value: data.data[i].TOTAL_STUDENTS
+                }
+
+                newArraySupervision.push($newObject);
+            });
+
+            var Supervision_Chart = Morris.Donut({
+                element: 'supervision_chart_personal',
+                data: newArraySupervision,
+                resize: true,
+                colors: ['#3d90bf', '#bf783d', '#1ab394', '#ed0c0c', '#FF5733', '#FFBD33', '#193C77', '#39FF33', '#197754', '#541977', '#1FE874']
+            });
+
+            Supervision_Chart.options.data.forEach(function (label, i) {
+                var legendItem = $('<span></span>').text(label['label']).prepend('<br><span>&nbsp;</span>');
+                legendItem.find('span')
+                    .css('backgroundColor', Supervision_Chart.options.colors[i])
+                    .css('width', '20px')
+                    .css('display', 'inline-block')
+                    .css('margin', '5px');
+                $('#legendSupervisionMorris').append(legendItem)
+            });
+
+            var totalz = 0;
+            for (var i = 0; i < data.data.length; i++) {
+                totalz += data.data[i].TOTAL_STUDENTS << 0;
+            }
+            $("#TotalSupervisionCount_chart").append(totalz);
+            $("#TotalSupervisionCount").append(totalz);
+
+
+        }).fail(function () {
+
+        });
+        /*---- H Index for Scopus API -----------*/
+        if (scopus_id == "0") {
+            var hIndexVal = "0";
+            var CountIndex = "0";
+
+            $("#hIndexID").append(hIndexVal);
+            $("#CountPublicIndexID").append(CountIndex);
+        }
+        else {
+            $.ajax({
+                type: "POST",
+                url: "/Scholar/GetCitationHIndex?id=" + scopus_id,
+                datatype: "json",
+                success: function (data) {
+                    console.log(data);
+                    var test = jQuery.parseJSON(data.response);
+                    $("#hIndexID").append(test["author-retrieval-response"]["0"]["h-index"]);
+                    $("#CountPublicIndexID").append(test["author-retrieval-response"]["0"]["coredata"]["citation-count"]);
+                },
+                error: function (data) {
+                    console.log('An error occurred.');
+                },
+            });
+        }
+
+        /*---- datatable -----------*/
+
+        $(document).ready(function () {
+            GrantDatatable = $('#grantListTablePersonalDatatable').DataTable({
+                processing: true,
+                searching: true,
+                sorting: false,
+                paging: true,
+                pageLength: 15,
+                lengthChange: false,
+                info: true,
+                responsive: true
+            });
+
+            PublicationDatatable = $('#publicationListTablePersonalDatatable').DataTable({
+                processing: true,
+                searching: true,
+                sorting: false,
+                paging: true,
+                pageLength: 15,
+                lengthChange: false,
+                info: true,
+                responsive: true
+            });
+
+            SupervisionDatatable = $('#supervisionListTablePersonalDatatable').DataTable({
+                processing: true,
+                searching: true,
+                sorting: false,
+                paging: true,
+                pageLength: 15,
+                lengthChange: false,
+                info: true,
+                responsive: true
+            });
+
+            IPDatatable = $('#IPListTablePersonalDatatable').DataTable({
+                processing: true,
+                searching: true,
+                sorting: false,
+                paging: true,
+                pageLength: 15,
+                lengthChange: false,
+                info: true,
+                responsive: true
+            });
+
+
+        });
+
+
+        /*------- Share JS components -----------*/
+        document.addEventListener('DOMContentLoaded', function (e) {
+            let field = document.querySelector('.field');
+            let input = document.querySelector('input');
+            let copyBtn = document.querySelector('.field button');
+
+            copyBtn.onclick = () => {
+                input.select();
+                if (document.execCommand("copy")) {
+                    field.classList.add('active');
+                    copyBtn.innerText = 'Copied';
+                    setTimeout(() => {
+                        field.classList.remove('active');
+                        copyBtn.innerText = 'Copy';
+                    }, 3500)
+                }
+            }
+        });
+
+    </script>
+
+
+</body>
+
+</html>

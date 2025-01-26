@@ -227,7 +227,7 @@ const puppeteer = require("puppeteer");
 const mongoose = require("mongoose");
 const Scholar = require("./Model/ipModel"); // Import the MongoDB model
 
-async function scrapeUTMScholar() {
+async function IPscrapeUTMScholar() {
   // Connect to MongoDB
   await mongoose.connect("mongodb://127.0.0.1:27017/scholars_updated");
   console.log("Connected to MongoDB");
@@ -245,7 +245,7 @@ async function scrapeUTMScholar() {
   const timeout = setTimeout(() => {
     timeoutReached = true;
     console.log("Timeout reached: Stopping the scraping process.");
-  }, 5 * 60 * 1000); // 4 minutes in milliseconds
+  }, 10 * 60 * 1000); // 4 minutes in milliseconds
 
   console.log("Navigating to the faculty page...");
   await page.goto("https://utmscholar.utm.my/faculties/28", {
@@ -334,7 +334,7 @@ async function scrapeUTMScholar() {
         try {
           await page.goto(link, {
             waitUntil: ["networkidle0", "domcontentloaded"],
-            timeout: 20000, // Reduced timeout
+            timeout: 40000, // Reduced timeout
           });
 
           if (timeoutReached) break;
@@ -376,7 +376,7 @@ async function scrapeUTMScholar() {
 
           // Wait for the Intellectual Property tab to load
           await page.waitForSelector("#ip_tab #IPListTablePersonalDatatable", {
-            timeout: 20000, // Reduced timeout
+            timeout: 40000, // Reduced timeout
           });
 
           // Step 2.4: Extract Intellectual Property Data
@@ -452,4 +452,4 @@ async function autoScroll(page) {
   });
 }
 
-scrapeUTMScholar().catch(console.error);
+IPscrapeUTMScholar().catch(console.error);

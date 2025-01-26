@@ -153,6 +153,22 @@ const Sidebar2 = () => {
               setSelected={setSelected}
             />
           </Box>
+          <Box paddingLeft={isCollapsed ? undefined : "10%"}>
+            <Typography
+              variant="h6"
+              color={colors.grey[300]}
+              sx={{ m: "15px 0 5px 20px" }}
+            >
+              Scraping
+            </Typography>
+            <Item
+              title="Start Scraping"
+              to="/scraper"
+              icon={<PeopleOutlinedIcon />}
+              selected={selected}
+              setSelected={setSelected}
+            />
+          </Box>
         </Menu>
       </ProSidebar>
     </Box>

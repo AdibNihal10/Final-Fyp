@@ -1,173 +1,3 @@
-// // server.js
-// const express = require("express");
-// const mongoose = require("mongoose");
-// const Scholar = require("../Model/scholarsModel");
-
-// const app = express();
-// const PORT = 5000;
-// const cors = require("cors");
-// app.use(cors());
-// mongoose.connect("mongodb://127.0.0.1:27017/utm_scholars", {
-//   useNewUrlParser: true,
-//   useUnifiedTopology: true,
-// });
-
-// app.get("/api/grants", async (req, res) => {
-//   try {
-//     // Debug: Log raw data before the aggregation
-//     const rawData = await Scholar.find(
-//       {},
-//       { NATIONAL_GRANTS: 1, INTERNATIONAL_GRANTS: 1, INDUSTRY_GRANTS: 1 }
-//     ).lean();
-//     console.log("Raw data:", rawData);
-
-//     const grantsData = await Scholar.aggregate([
-//       {
-//         $addFields: {
-//           NATIONAL_GRANTS_INT: { $toInt: "$NATIONAL_GRANTS" },
-//           INTERNATIONAL_GRANTS_INT: { $toInt: "$INTERNATIONAL_GRANTS" },
-//           INDUSTRY_GRANTS_INT: { $toInt: "$INDUSTRY_GRANTS" },
-//         },
-//       },
-//       {
-//         $group: {
-//           _id: null,
-//           totalNationalGrants: { $sum: "$NATIONAL_GRANTS_INT" },
-//           totalInternationalGrants: { $sum: "$INTERNATIONAL_GRANTS_INT" },
-//           totalIndustryGrants: { $sum: "$INDUSTRY_GRANTS_INT" },
-//         },
-//       },
-//     ]);
-
-//     console.log("Aggregated data:", grantsData);
-
-//     const {
-//       totalNationalGrants,
-//       totalInternationalGrants,
-//       totalIndustryGrants,
-//     } = grantsData[0] || {
-//       totalNationalGrants: 0,
-//       totalInternationalGrants: 0,
-//       totalIndustryGrants: 0,
-//     };
-
-//     res.json({
-//       nationalGrants: totalNationalGrants,
-//       internationalGrants: totalInternationalGrants,
-//       industryGrants: totalIndustryGrants,
-//     });
-//   } catch (err) {
-//     console.error(err);
-//     res.status(500).send("Error fetching grants data");
-//   }
-// });
-
-// app.get("/api/publications", async (req, res) => {
-//   try {
-//     // Debug: Log raw data before the aggregation
-//     const rawData = await Scholar.find(
-//       {},
-//       {
-//         INDEXED_PUBLICATION: 1,
-//         NON_INDEXED_PUBLICATION: 1,
-//         OTHERS_PUBLICATION: 1,
-//       }
-//     ).lean();
-//     console.log("Raw data:", rawData);
-
-//     // Aggregate indexed, non-indexed, and other publications
-//     const publicationData = await Scholar.aggregate([
-//       {
-//         $addFields: {
-//           INDEXED_PUBLICATION_INT: { $toInt: "$INDEXED_PUBLICATION" },
-//           NON_INDEXED_PUBLICATION_INT: { $toInt: "$NON_INDEXED_PUBLICATION" },
-//           OTHERS_PUBLICATION_INT: { $toInt: "$OTHERS_PUBLICATION" },
-//         },
-//       },
-//       {
-//         $group: {
-//           _id: null,
-//           totalIndexedPublications: { $sum: "$INDEXED_PUBLICATION_INT" },
-//           totalNonIndexedPublications: { $sum: "$NON_INDEXED_PUBLICATION_INT" },
-//           totalOtherPublications: { $sum: "$OTHERS_PUBLICATION_INT" },
-//         },
-//       },
-//     ]);
-
-//     console.log("Aggregated data:", publicationData);
-
-//     const {
-//       totalIndexedPublications,
-//       totalNonIndexedPublications,
-//       totalOtherPublications,
-//     } = publicationData[0] || {
-//       totalIndexedPublications: 0,
-//       totalNonIndexedPublications: 0,
-//       totalOtherPublications: 0,
-//     };
-
-//     res.json({
-//       indexedPublications: totalIndexedPublications,
-//       nonIndexedPublications: totalNonIndexedPublications,
-//       otherPublications: totalOtherPublications,
-//     });
-//   } catch (err) {
-//     console.error(err);
-//     res.status(500).send("Error fetching publication data");
-//   }
-// });
-// app.get("/api/scopusData", async (req, res) => {
-//   try {
-//     // Debug: Log raw data before the aggregation
-//     const rawData = await Scholar.find(
-//       {},
-//       { H_INDEXED_SCOPUS: 1, CITATIONS_SCOPUS: 1, PUBLICATIONS: 1 }
-//     ).lean();
-//     console.log("Raw data:", rawData);
-
-//     // Aggregate H-Index Scopus, Citations Scopus, and Publications
-//     const scopusData = await Scholar.aggregate([
-//       {
-//         $addFields: {
-//           H_INDEXED_SCOPUS_INT: { $toInt: "$H_INDEXED_SCOPUS" },
-//           CITATIONS_SCOPUS_INT: { $toInt: "$CITATIONS_SCOPUS" },
-//           PUBLICATIONS_INT: { $toInt: "$PUBLICATIONS" },
-//         },
-//       },
-//       {
-//         $group: {
-//           _id: null,
-//           totalHIndexedScopus: { $sum: "$H_INDEXED_SCOPUS_INT" },
-//           totalCitationsScopus: { $sum: "$CITATIONS_SCOPUS_INT" },
-//           totalPublications: { $sum: "$PUBLICATIONS_INT" },
-//         },
-//       },
-//     ]);
-
-//     console.log("Aggregated data:", scopusData);
-
-//     const { totalHIndexedScopus, totalCitationsScopus, totalPublications } =
-//       scopusData[0] || {
-//         totalHIndexedScopus: 0,
-//         totalCitationsScopus: 0,
-//         totalPublications: 0,
-//       };
-
-//     res.json({
-//       hIndexedScopus: totalHIndexedScopus,
-//       citationsScopus: totalCitationsScopus,
-//       publications: totalPublications,
-//     });
-//   } catch (err) {
-//     console.error(err);
-//     res.status(500).send("Error fetching Scopus data");
-//   }
-// });
-
-// app.listen(PORT, () =>
-//   console.log(`Server running on http://localhost:${PORT}`)
-// );
-
 // server.js
 const express = require("express");
 const mongoose = require("mongoose");
@@ -180,6 +10,10 @@ const RG = require("../Model/researchGroup");
 const iPFile = require("../Model/ipModel");
 const grants = require("../Model/grantModel");
 const pub = require("../Model/pubModel");
+const scrapeUTMScholar = require("../grantScript");
+const IPscrapeUTMScholar = require("../ips2");
+const RGscrapeUTMScholar = require("../rgGroup");
+const PubscrapeUTMScholar = require("../pubs2");
 const app = express();
 const PORT = 5000;
 const { login } = require("../Controller/loginControl");
@@ -190,11 +24,11 @@ app.use(express.json());
 
 // MongoDB Connection
 mongoose
-  .connect("mongodb://127.0.0.1:27017/utm_scholars", {
+  .connect("mongodb://127.0.0.1:27017/Check_database", {
     useNewUrlParser: true,
     useUnifiedTopology: true,
   })
-  .then(() => console.log("Connected to MongoDB: utm_scholars"))
+  .then(() => console.log("Connected to MongoDB: Check_database"))
   .catch((err) => console.error("MongoDB connection error:", err));
 
 // Endpoints
@@ -440,6 +274,14 @@ app.get("/api/citationsScopusByResearchGroup", async (req, res) => {
               $toInt: "$CITATIONS_SCOPUS", // Sum up the CITATIONS_SCOPUS values
             },
           },
+          scholars: {
+            $push: {
+              name: "$name", // Push scholar's name
+              citationsScopus: {
+                $toInt: "$CITATIONS_SCOPUS", // Include their total citations
+              },
+            },
+          },
         },
       },
       {
@@ -447,10 +289,19 @@ app.get("/api/citationsScopusByResearchGroup", async (req, res) => {
           _id: 0, // Exclude default _id field
           researchGroup: "$_id", // Rename _id field to researchGroup
           citationsScopus: "$totalCitationsScopus", // Rename to citationsScopus
+          scholars: {
+            $filter: {
+              input: "$scholars", // Filter scholars to exclude invalid data
+              as: "scholar",
+              cond: {
+                $gt: ["$$scholar.citationsScopus", 0], // Include only scholars with citations > 0
+              },
+            },
+          },
         },
       },
       {
-        $sort: { citationsScopus: -1 }, // Sort by citations in descending order
+        $sort: { citationsScopus: -1 }, // Sort by total citations in descending order
       },
     ]);
 
@@ -460,6 +311,176 @@ app.get("/api/citationsScopusByResearchGroup", async (req, res) => {
     res.status(500).json({ error: "An error occurred while fetching data." });
   }
 });
+
+// app.get("/api/citationsScopusByResearchGroup", async (req, res) => {
+//   try {
+//     // Aggregate data by researchGroup
+//     const aggregatedData = await RG.aggregate([
+//       {
+//         $match: {
+//           CITATIONS_SCOPUS: { $ne: null }, // Ensure valid CITATIONS_SCOPUS values
+//           researchGroup: { $ne: "N/A" }, // Exclude invalid research groups
+//         },
+//       },
+//       {
+//         $group: {
+//           _id: "$researchGroup", // Group by researchGroup
+//           totalCitationsScopus: {
+//             $sum: {
+//               $toInt: "$CITATIONS_SCOPUS", // Sum up the CITATIONS_SCOPUS values
+//             },
+//           },
+//         },
+//       },
+//       {
+//         $project: {
+//           _id: 0, // Exclude default _id field
+//           researchGroup: "$_id", // Rename _id field to researchGroup
+//           citationsScopus: "$totalCitationsScopus", // Rename to citationsScopus
+//         },
+//       },
+//       {
+//         $sort: { citationsScopus: -1 }, // Sort by citations in descending order
+//       },
+//     ]);
+
+//     res.status(200).json(aggregatedData); // Send the aggregated data as JSON response
+//   } catch (error) {
+//     console.error("Error fetching Citations Scopus data:", error);
+//     res.status(500).json({ error: "An error occurred while fetching data." });
+//   }
+// });
+//scraping code
+app.post("/api/start-scraping", async (req, res) => {
+  try {
+    console.log("Scraping process triggered...");
+
+    // Trigger the scraping process asynchronously
+    scrapeUTMScholar()
+      .then(() => {
+        console.log("Scraping process completed successfully.");
+      })
+      .catch((error) => {
+        console.error("Error during scraping process:", error);
+      });
+
+    // Send an immediate response to the frontend
+    res.status(200).json({
+      message: "Scraping process started. Check the logs for progress.",
+    });
+  } catch (error) {
+    console.error("Error while running scraper:", error);
+    res
+      .status(500)
+      .json({ message: "An error occurred while starting the scraper." });
+  }
+});
+
+app.post("/api/start-scraping-ip", async (req, res) => {
+  try {
+    console.log("Scraping process triggered...");
+
+    // Optional: Check if any previous scraping process was interrupted and handle accordingly
+    const inProgressCount = await Scholar.countDocuments({
+      status: "in-progress",
+    });
+    if (inProgressCount > 0) {
+      console.log(
+        "Warning: Found incomplete records from a previous scraping run. Cleaning up..."
+      );
+      await Scholar.deleteMany({ status: "in-progress" }); // Remove any leftover in-progress records
+    }
+
+    // Trigger the scraping function
+    await IPscrapeUTMScholar();
+
+    res.status(200).json({
+      message:
+        "Scraping started successfully. Check the terminal for progress.",
+    });
+  } catch (error) {
+    console.error("Error while running scraper:", error);
+    res
+      .status(500)
+      .json({ message: "An error occurred while running the scraper." });
+  }
+});
+
+app.post("/api/start-scraping-rg", async (req, res) => {
+  try {
+    console.log("Scraping process triggered...");
+
+    // Call the scraping function and wait for it to complete
+    await RGscrapeUTMScholar();
+
+    // Respond to the client after scraping completes successfully
+    res.status(200).json({
+      message:
+        "Scraping completed successfully. Check the database for results.",
+    });
+  } catch (error) {
+    // Log error to the server console
+    console.error("Error while running scraper:", error);
+
+    // Respond with a meaningful error message
+    res.status(500).json({
+      message:
+        "An error occurred while running the scraper. Please check the logs.",
+      error: error.message,
+    });
+  }
+});
+
+app.post("/api/start-scraping-pub", async (req, res) => {
+  try {
+    console.log("Scraping process triggered...");
+    await PubscrapeUTMScholar(); // Call the scraping function
+    res.status(200).json({
+      message:
+        "Scraping started successfully. Check the terminal for progress.",
+    });
+  } catch (error) {
+    console.error("Error while running scraper:", error);
+    res.status(500).json({
+      message: "An error occurred while running the scraper.",
+      error: error.message,
+    });
+  }
+});
+
+// app.get("/api/hIndexScopusByResearchGroup", async (req, res) => {
+//   try {
+//     // Fetch all data from the database
+//     const groups = await RG.find({});
+
+//     // Aggregate data by research group
+//     const groupedData = groups.reduce((acc, group) => {
+//       const researchGroup = group.researchGroup || "Unknown";
+//       const hIndexedScopus = parseInt(group.H_INDEXED_SCOPUS || 0);
+
+//       if (!acc[researchGroup]) {
+//         acc[researchGroup] = {
+//           researchGroup,
+//           hIndexScopus: 0,
+//         };
+//       }
+
+//       acc[researchGroup].hIndexScopus += hIndexedScopus;
+//       return acc;
+//     }, {});
+
+//     // Convert grouped data into an array
+//     const result = Object.values(groupedData);
+
+//     // Respond with aggregated data
+//     res.status(200).json(result);
+//   } catch (error) {
+//     console.error("Error fetching H-index Scopus data:", error);
+//     res.status(500).json({ error: "An error occurred while fetching data." });
+//   }
+// });
+
+//Hindex update
 app.get("/api/hIndexScopusByResearchGroup", async (req, res) => {
   try {
     // Fetch all data from the database
@@ -469,14 +490,23 @@ app.get("/api/hIndexScopusByResearchGroup", async (req, res) => {
     const groupedData = groups.reduce((acc, group) => {
       const researchGroup = group.researchGroup || "Unknown";
       const hIndexedScopus = parseInt(group.H_INDEXED_SCOPUS || 0);
+      const scholarName = group.name || "Unnamed Scholar";
 
       if (!acc[researchGroup]) {
         acc[researchGroup] = {
           researchGroup,
           hIndexScopus: 0,
+          scholars: [], // Array to hold scholar details
         };
       }
 
+      // Add scholar details to the group
+      acc[researchGroup].scholars.push({
+        name: scholarName,
+        hIndexScopus: hIndexedScopus,
+      });
+
+      // Aggregate total H-index for the research group
       acc[researchGroup].hIndexScopus += hIndexedScopus;
       return acc;
     }, {});

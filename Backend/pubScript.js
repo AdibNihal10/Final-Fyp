@@ -20,7 +20,7 @@ async function scrapeUTMScholar() {
   const timeout = setTimeout(() => {
     timeoutReached = true;
     console.log("Timeout reached: Stopping the scraping process.");
-  }, 5 * 60 * 1000); // 4 minutes in milliseconds
+  }, 10 * 60 * 1000); // 4 minutes in milliseconds
 
   console.log("Navigating to the faculty page...");
   await page.goto("https://utmscholar.utm.my/faculties/28", {
@@ -109,13 +109,13 @@ async function scrapeUTMScholar() {
         try {
           await page.goto(link, {
             waitUntil: ["networkidle0", "domcontentloaded"],
-            timeout: 20000, // Reduced timeout
+            timeout: 40000, // Reduced timeout
           });
 
           if (timeoutReached) break;
 
           // Wait for the page to load
-          await page.waitForSelector(".page-title-box h4", { timeout: 20000 });
+          await page.waitForSelector(".page-title-box h4", { timeout: 40000 });
 
           // Step 2.1: Extract Scholar Name
           const scholarName = await page.evaluate(() => {
@@ -154,7 +154,7 @@ async function scrapeUTMScholar() {
           await page.waitForSelector(
             "#publication_tab #publicationListTablePersonalDatatable_wrapper",
             {
-              timeout: 20000,
+              timeout: 40000,
             }
           );
 

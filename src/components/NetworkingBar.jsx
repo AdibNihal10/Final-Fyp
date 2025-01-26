@@ -221,7 +221,7 @@ const NetworkingBarChart = () => {
             <thead>
               <tr>
                 <th style={{ border: "1px solid #ddd", padding: "8px" }}>#</th>
-                <th style={{ border: "1px solid #ddd", padding: "8px" }}>No</th>
+                {/* <th style={{ border: "1px solid #ddd", padding: "8px" }}>No</th> */}
                 <th style={{ border: "1px solid #ddd", padding: "8px" }}>
                   Description
                 </th>
@@ -242,9 +242,9 @@ const NetworkingBarChart = () => {
                   <td style={{ border: "1px solid #ddd", padding: "8px" }}>
                     {index + 1} {/* Serial Number */}
                   </td>
-                  <td style={{ border: "1px solid #ddd", padding: "8px" }}>
+                  {/* <td style={{ border: "1px solid #ddd", padding: "8px" }}>
                     {agreement.No}
-                  </td>
+                  </td> */}
                   <td style={{ border: "1px solid #ddd", padding: "8px" }}>
                     {agreement.Description}
                   </td>

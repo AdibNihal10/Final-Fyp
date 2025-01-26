@@ -5,7 +5,7 @@ import BarTraining from "../../components/BarTraining";
 const TrainingBar = () => {
   return (
     <Box m="20px">
-      <Header title="Bar Chart" subtitle="Simple Bar Chart" />
+      <Header title="" subtitle="" />
       <Box height="75vh">
         <BarTraining />
       </Box>
